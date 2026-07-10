@@ -1,0 +1,115 @@
+{
+  "sunscreen-stick": {
+    "usecase.jpg": "Split-screen ad: left side showing a hand placing the sunscreen stick on a bicycle frame; right side showing a bright magenta background with bold white text.",
+    "infographic.jpg": "Ad graphic: left side has a yellow background with blue text; right side shows the sunscreen stick in orange and blue blister card packaging."
+  },
+  "facial-mist": {
+    "usecase.jpg": "Cosmetic ad with pink background. Left: close-up of a woman holding the mist bottle near her face. Right: orange text statistic boxes.",
+    "infographic.jpg": "White infographic with header 'AVENE'. The mist bottle is on the left with pointer lines to orange text sections on the right."
+  },
+  "wire-stripper": {
+    "usecase.jpg": "Hands using the wire stripper on a green wire over a wooden workbench cluttered with tools and gloves.",
+    "infographic.jpg": "Product infographic on a white background. The wire stripper is centered with grey pointer lines to descriptive feature labels."
+  },
+  "backpack": {
+    "usecase.jpg": "Studio photo of a woman in a green jacket standing against an off-white background, carrying the black backpack on her back.",
+    "infographic.jpg": "Dimension infographic on a grey-white background. The backpack is centered with lines and text showing height, width, and depth measurements."
+  },
+  "laundry-detergent": {
+    "usecase.jpg": "Ad photo on a beach. A woman in a knit cardigan holds the detergent bottle. Circular stamp at top right and text at bottom.",
+    "usecase2.jpg": "Ad photo of a hand pouring detergent into a white porcelain sink with running water. A pink knit sweater sits on the counter.",
+    "usecase3.jpg": "Detergent bottle lying horizontally on a wet reflective surface with water droplets. A beige knit blanket is in the soft-focus background.",
+    "infographic.jpg": "Product infographic on a light background. The detergent bottle stands next to a folded blue sweater, citrus fruit, and product feature text."
+  },
+  "perfume2": {
+    "placement.jpg": "Pink triangular perfume bottle lying flat on green moss, surrounded by white flowers and amber crystals on a light green background.",
+    "usecase.jpg": "Product photo of the triangular perfume bottle tucked inside a black leather shoulder bag on a mint green background.",
+    "infographic.jpg": "Product display photo on a white background, showcasing the triangular perfume bottle standing next to its pink rectangular packaging box."
+  },
+  "facial-cleanser": {
+    "usecase_DEFECT.jpg": "Split-layout cosmetic ad. Left side has vertical text; right side shows the cleanser bottle covered in white soap bubbles and foam.",
+    "infographic.jpg": "Cosmetic display on a white background. The cleanser bottle stands on a smear of yellow gel, with text on the left."
+  },
+  "northface-backpack": {
+    "usecase.jpg": "Studio photo of a man seen from behind wearing a white shirt and carrying the black backpack."
+  },
+  "hammer": {
+    "usecase.jpg": "Close-up of hands using the stubby hammer to drive a nail into a wooden block.",
+    "infographic.jpg": "Dimension infographic on a white background. The hammer is upright with orange labels showing measurements and dimension lines."
+  },
+  "rice-cooker": {
+    "usecase.jpg": "Kitchen photo of the rice cooker on a marble countertop next to a bowl of rice and a jar of uncooked rice.",
+    "close-up.jpg": "Ad graphic focusing on the rice cooker's control panel, with four circular inset food images and labels below.",
+    "infographic.jpg": "Size infographic on white. The rice cooker is centered with dimension arrows and a blue side panel showing included accessories."
+  },
+  "lawn-mower": {
+    "usecase.jpg": "Ad photo of a person pushing the lawn mower on green grass, with a black text banner at the bottom.",
+    "usecase2.jpg": "Smiling man pushing the lawn mower on a green grassy hill under sunny sky, with a black banner at bottom.",
+    "infographic.jpg": "Feature callout infographic on white background. The lawn mower is centered with orange lines pointing to key features, and text at top."
+  },
+  "SSD": {
+    "usecase.jpg": "Close-up of a hand installing the M.2 SSD card into a motherboard PCIe slot with pink and blue lighting.",
+    "infographic.jpg": "Promotional banner: the M.2 SSD card floats in a dark futuristic server room with neon blue lights and text below."
+  },
+  "running-shoes": {
+    "usecase.jpg": "Catalog photo of a pair of black running shoes sitting on a grey concrete floor, soft shadows.",
+    "usecase2.jpg": "Black running shoes sitting on their white box, placed on a grey upholstered sofa."
+  },
+  "eye-serum": {
+    "close-up.jpg": "Close-up ad showing the eye serum tube nozzle dispensing yellow cream gel, on a pastel pink background with text labels.",
+    "usecase-DEFECT.jpg": "Ad with pink background showing hands dispensing a dot of yellow eye serum gel onto a finger, with instructions on left.",
+    "infographic.jpg": "Promotional poster with the eye serum tube resting diagonally on pink geometric shelves, with text benefits on the top left."
+  },
+  "small-wallet": {
+    "placement.jpg": "Product photo of two bowknot wallets, one purple and one cream, on a split pink and white background.",
+    "usecase.jpg": "A woman in a pink blazer holds the cream bowknot wallet in front of her face, with golden bokeh lights.",
+    "infographic.jpg": "White infographic showing two wallet styles side-by-side labeled 'style 1' and 'style 2', with 'OR' in the middle."
+  },
+  "bifold-wallet": {
+    "usecase.jpg": "Close-up photo of a man putting the dark brown bifold wallet into the back pocket of his jeans.",
+    "infographic.jpg": "Dimension infographic on light grey background. The bifold wallet is centered with lines showing height, width, and thickness."
+  },
+  "tape-measure": {
+    "usecase.jpg": "Close-up of hands pulling out the yellow blade of the tape measure over a dark workstation.",
+    "close-up.jpg": "Macro close-up shot of the tape measure highlighting the rubberized casing and the metal blade slot.",
+    "infographic.jpg": "Feature infographic. The tape measure is centered with pointers to feature labels and a yellow banner at the top."
+  },
+  "cleaning-paste": {
+    "usecase.jpg": "Split-layout cleaning ad. Left side has pink graphics; right side shows hands in pink gloves holding the cleaning paste tub.",
+    "infographic.jpg": "Commercial graphic with the cleaning paste tub centered against a pink patterned header and white bottom."
+  },
+  "massage-lotion": {
+    "usecase.jpg": "Product graphic on white background. A hand holds the lotion bottle upright, with a circular seal on the left.",
+    "infographic.jpg": "Instructional infographic with orange frame. The lotion bottle is on the right, with a 'HOW TO USE' header on the left."
+  },
+  "knife": {
+    "usecase.jpg": "Close-up of a person in a denim apron using the kitchen knife to slice red cabbage on a wooden board.",
+    "infographic.jpg": "Feature infographic on dark background. The kitchen knife is shown vertically with a layered blade diagram and text callouts."
+  },
+  "pepper-mill": {
+    "usecase.jpg": "Ad photo showing hands grinding pepper from the mill into a bowl of eggs, with a black banner at bottom.",
+    "close-up.jpg": "Close-up shot of the white top grinding mechanism of the pepper mill, with text descriptions above.",
+    "infographic.jpg": "Sizing infographic on white background. The pepper mill stands centered with dimension lines and height/width measurements."
+  },
+  "headphones": {
+    "usecase_DEFECT.jpg": "Ad photo of a girl lying on grass wearing the headphones. Text at top and four circular inset images at bottom.",
+    "infographic_DEFECT.jpg": "Infographic on light blue background with floating leaves. The headphones are centered, with 'Kids Friendly' text and a 'BPA FREE' badge."
+  },
+  "guitar-pedal": {
+    "usecase.jpg": "Ad photo showing the yellow guitar pedal on a rug in front of a guitar amplifier, with text in the upper-left.",
+    "infographic.jpg": "Promotional banner showing the yellow guitar pedal centered against a glowing orange accretion disk background, with text at the top."
+  },
+  "perfume": {
+    "usecase.jpg": "Ad photo of the pink perfume bottle on white surface, surrounded by dragon fruit slices and tropical flowers, with text on left.",
+    "usecase2.jpg": "Ad photo showing the pink perfume bottle lying amidst green tropical leaves, plumeria, and a red anthurium flower.",
+    "infographic.jpg": "Ad photo of two pink perfume bottles standing next to each other against a pink and yellow wall with leaf shadows."
+  },
+  "CD-player": {
+    "usecase.jpg": "Ad graphic with a senior man on a sofa next to the blue boombox, with text at the top and circular feature insets.",
+    "infographic.jpg": "Infographic on light grey background. The boombox is centered with speakers visually popping out, with a smartphone in the foreground."
+  },
+  "keyboard": {
+    "usecase.jpg": "Ad graphic of the keyboard on a blue desk with purple underglow, with text at top and a function banner at bottom.",
+    "infographic.jpg": "Comparative infographic on blue. Top headers show product comparisons with side-by-side column tables, and the keyboard is shown at the bottom."
+  }
+}

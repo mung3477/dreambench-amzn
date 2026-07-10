@@ -1,0 +1,150 @@
+[
+    {
+        "asin": "B01NAH5I30",
+        "title": "UpShift Rideshare Dash BETA",
+        "reference_file": "B01NAH5I30/reference.jpg",
+        "categorical_name": "mobile app",
+        "variation_files": [
+            {
+                "file": "B01NAH5I30/variation_1.jpg",
+                "prompt": "A split-screen layout featuring a smartphone displaying the mobile app interface on the left side, set against a blurred background of a car interior with a steering wheel visible on the left and warm, out-of-focus bokeh lights suggesting a sunset or dusk scene. The phone screen shows a dark-themed app with a top status bar, a header with a settings icon and a gear symbol, a central timer labeled \"Shift Timer\" with a \"STOP\" button, and a vertical sidebar on the right with colorful square icons. The background behind the phone is a soft, gradient blend of warm orange, pink, and purple hues, creating a serene, driving-at-dusk ambiance. The overall lighting is soft and ambient, with a focus on the phone screen, which"
+            }
+        ]
+    },
+    {
+        "asin": "B074TXS1DX",
+        "title": "Nolo Quicken WillMaker Plus 2018 & Living Trust",
+        "reference_file": "B074TXS1DX/reference.jpg",
+        "categorical_name": "estate planning software",
+        "variation_files": [
+            {
+                "file": "B074TXS1DX/variation_1.jpg",
+                "prompt": "A split-screen layout with a solid orange background panel on the top half and a warm, softly lit living room scene on the bottom half. In the lower section, a person is seated comfortably on a couch, using a laptop placed on their lap, with a dog sitting beside them, looking toward the camera. The laptop screen displays a clean, minimalist interface of the estate planning software, shown as a simple, unbranded application window with a large letter \"W\" and a few lines of placeholder text. The lighting is warm and natural, suggesting a relaxed, home environment. The overall composition conveys a sense of calm, personal responsibility, and ease of use, with the focus on the interaction between the person and the software in a familiar domestic"
+            },
+            {
+                "file": "B074TXS1DX/variation_2.jpg",
+                "prompt": "A vibrant blue background dominates the image, divided into three horizontal sections. The top section features a solid blue panel with no text or graphics. Below it, a central blue panel contains a row of three square photographs arranged side by side: the left photo shows two children playing in a swimming pool with floaties, the middle photo depicts a family of three walking away into a field at sunset, and the right photo shows the lower bodies of a couple in wedding attire standing on a wooden deck. The bottom section is another solid blue panel with a second row of three square photographs: the left photo shows a person holding a small black-and-white puppy, the middle photo shows two people sitting on a log with colorful knitted blankets, and the right photo shows"
+            }
+        ]
+    },
+    {
+        "asin": "B01KCTR94S",
+        "title": "Social Hub",
+        "reference_file": "B01KCTR94S/reference.jpg",
+        "categorical_name": "social media app",
+        "variation_files": [
+            {
+                "file": "B01KCTR94S/variation_1.jpg",
+                "prompt": "A hand holds a smartphone displaying the social media app\u2019s interface, which features a grid of colorful circular icons arranged in rows against a solid blue background panel. To the left of the phone, a large white sphere floats, covered in various social media and digital communication symbols such as speech bubbles, hearts, Wi-Fi signals, clouds, and camera icons, all rendered in bright, flat colors. The sphere has a prominent, bold, stylized text area in the center, but the text is ignored. The entire composition is set against a plain white background, with soft, even lighting that highlights the phone and the sphere. The phone is angled slightly toward the viewer, showing its screen clearly, while the hand grips it naturally from below. The overall style"
+            }
+        ]
+    },
+    {
+        "asin": "B07PPTGCKN",
+        "title": "Kali Linux 2019.1 32-bit Live/Install DVD",
+        "reference_file": "B07PPTGCKN/reference.jpg",
+        "categorical_name": "live dvd",
+        "variation_files": [
+            {
+                "file": "B07PPTGCKN/variation_1.jpg",
+                "prompt": "A desktop screen interface with a vibrant blue gradient background, featuring a large, stylized white dragon logo centered on the right side, its form sleek and flowing with sharp, curved lines extending outward. On the left side, a vertical application dock is positioned along the edge, containing a series of colorful, square-shaped icons arranged in a column, each representing different software tools. The top of the screen displays a dark horizontal panel with menu labels and system indicators, including the day and time, while the bottom edge remains unobstructed. The overall composition is clean and modern, with a focus on the central graphic and the functional sidebar."
+            },
+            {
+                "file": "B07PPTGCKN/variation_2.jpg",
+                "prompt": "A split-screen layout featuring a dark, semi-transparent application menu panel on the left side, positioned over a vibrant blue gradient background with a stylized white dragon silhouette. The menu panel displays a vertical list of categories with small icons aligned to the right, arranged in a clean, modern interface style. The right side of the screen shows the desktop background, which includes the same white dragon design flowing across the blue gradient. The overall lighting is soft and even, with subtle highlights on the dragon's form, creating a sleek, digital aesthetic. The composition is balanced, with the menu panel slightly overlapping the background, suggesting a live operating system environment."
+            },
+            {
+                "file": "B07PPTGCKN/variation_3.jpg",
+                "prompt": "A desktop interface with a vibrant blue gradient background featuring a large, stylized white dragon silhouette in the center-right, curving dynamically across the screen. On the left side, a vertical dock contains a series of colorful application icons arranged in a column. A dark, semi-transparent menu panel is open from the top-left corner, displaying a list of navigation options with icons, including Home, Desktop, Documents, Downloads, Music, Pictures, Videos, Computer, and Browse Network, each with a small symbolic icon to the left. The top bar spans the width of the screen, showing system indicators and the time in the upper-right corner. The overall lighting is soft and even, with a clean, modern aesthetic and a focus on the central dragon graphic and"
+            }
+        ]
+    },
+    {
+        "asin": "B01N0M2LPL",
+        "title": "MarocStream",
+        "reference_file": "B01N0M2LPL/reference.jpg",
+        "categorical_name": "online tv service",
+        "variation_files": [
+            {
+                "file": "B01N0M2LPL/variation_1.jpg",
+                "prompt": "A digital interface layout displaying a row of rounded square app icons against a solid dark gray background. The icons are arranged horizontally, each featuring a stylized star symbol in different colors\u2014orange, gray, gold, and blue\u2014centered within the white or light gray icon frames. The selected icon is highlighted with a white border and a subtle shadow, positioned under a dark gray dropdown menu labeled \"Moroccan TV\" with a downward arrow. In the top right corner, a small logo with a green star and red text is visible. The overall scene is clean, modern, and minimalistic, with soft lighting and a focus on the grid of icons."
+            },
+            {
+                "file": "B01N0M2LPL/variation_2.jpg",
+                "prompt": "A user interface screen for an online TV service, featuring a dark gray gradient background. At the top left, there is a dark gray rectangular header with a dropdown arrow, labeled generically as a category selector. Below it, a horizontal row of rounded square app icons is displayed, each with a glossy white or light gray circular design in the center and a solid-colored curved accent inside \u2014 one with a white swirl, one with a blue wave, one with a purple wave, and one with a red wave. The icons are arranged in a clean, grid-like layout with subtle shadows giving a slight 3D effect. The overall design is modern, minimal, and digital, with soft lighting and a focus on the app icons as the primary visual elements"
+            },
+            {
+                "file": "B01N0M2LPL/variation_3.jpg",
+                "prompt": "A digital interface layout for an online TV service, featuring a dark gray gradient background. At the top left, there is a dark gray rectangular header bar with a dropdown arrow. Below the header, a horizontal row of rounded square app icons is displayed, each with a distinct graphic design and color scheme, arranged side by side. The central focus is on one highlighted icon, slightly larger and more prominent than the others, positioned in the foreground. The surrounding icons are slightly blurred and recede into the background, creating a sense of depth. The overall lighting is soft and evenly distributed, with subtle highlights on the icons giving them a glossy, three-dimensional appearance. The composition is clean and modern, emphasizing the user interface of a live streaming platform."
+            }
+        ]
+    },
+    {
+        "asin": "B07CWLFD66",
+        "title": "Kubuntu Linux 18.04 DVD - Gorgeous Desktop Live DVD - Official 64-bit Release",
+        "reference_file": "B07CWLFD66/reference.jpg",
+        "categorical_name": "live dvd",
+        "variation_files": [
+            {
+                "file": "B07CWLFD66/variation_1.jpg",
+                "prompt": "A desktop screen layout featuring a dark-themed application menu docked on the left side, with a grid of icons arranged vertically against a solid dark gray background. The main screen area displays a system information window with a light gray title bar and a white content panel, positioned centrally. The window contains a circular blue icon with a gear symbol on the left, and a plain white space to the right for system details. The background behind the window is a geometric, abstract pattern with a gradient of deep purple and blue tones, featuring angular, faceted shapes. The overall lighting is soft and evenly distributed, with subtle highlights on the window borders and menu icons. The bottom of the screen shows a taskbar with a solid dark gray background and a row of small"
+            },
+            {
+                "file": "B07CWLFD66/variation_2.jpg",
+                "prompt": "A desktop interface layout featuring a system settings window titled \"Desktop Theme \u2014 System Settings\" centered on the screen. The window has a dark gray title bar with standard window controls on the right. On the left side is a vertical navigation pane with a list of menu items, including \"Appearance,\" \"Workspace Theme,\" \"Colors,\" \"Fonts,\" \"Icons,\" and \"Application Style,\" with \"Workspace Theme\" currently selected and highlighted. The main content area displays a grid of five theme preview tiles, each showing a desktop icon set and clock widget, with one tile selected and outlined in blue. Below the grid are several buttons: \"Get new Theme,\" \"Install from File,\" \"Remove Theme,\" \"Help,\" \"Defaults,\" \"Reset,\" and an"
+            }
+        ]
+    },
+    {
+        "asin": "B07NTRX6VD",
+        "title": "Paris Wallpapers",
+        "reference_file": "B07NTRX6VD/reference.jpg",
+        "categorical_name": "wallpaper",
+        "variation_files": [
+            {
+                "file": "B07NTRX6VD/variation_1.jpg",
+                "prompt": "A vertical rectangular image of the wallpaper centered against a softly blurred, dreamy background. The wallpaper displays a nighttime cityscape with the Eiffel Tower illuminated in golden light at the center, surrounded by glowing city lights and a dark purple sky. The entire scene is overlaid with a gentle bokeh effect, featuring scattered white circular light flares that simulate falling snow or soft particles, creating a magical, festive atmosphere. The background behind the wallpaper is a smooth gradient of deep purple to warm amber, with out-of-focus light spots that blend seamlessly with the wallpaper\u2019s glow, enhancing the sense of depth and luminosity. The composition is symmetrical, with the wallpaper as the clear focal point, framed by the atmospheric, softly glowing environment."
+            },
+            {
+                "file": "B07NTRX6VD/variation_2.jpg",
+                "prompt": "A vertical split-screen composition featuring a glowing, illuminated Eiffel Tower against a starry night sky on the right panel, with a solid dark blue background. In the foreground, a woman with long hair, seen from behind, wears a flowing pink tulle dress and holds a cluster of transparent, sparkling balloons. The left panel shows a continuation of the Eiffel Tower\u2019s lit structure, blending into the night scene. The overall lighting is warm and magical, with golden highlights on the tower and soft glimmers from the balloons and city lights below. The product is positioned as a central, vertical element, seamlessly integrated into the scene, appearing as a framed or mounted artwork within the environment."
+            }
+        ]
+    },
+    {
+        "asin": "B00LMEW0PQ",
+        "title": "Xara Photo and Graphic Designer 9",
+        "reference_file": "B00LMEW0PQ/reference.jpg",
+        "categorical_name": "photo and graphic design software",
+        "variation_files": [
+            {
+                "file": "B00LMEW0PQ/variation_1.jpg",
+                "prompt": "A split-screen layout featuring a central, diagonally oriented rectangular panel displaying a close-up portrait of a woman with long hair, blue eyes, and purple nail polish, her hand gently touching her face. This central panel is overlaid on a grid-patterned background that extends across the entire canvas. To the left of the central panel is a solid light-blue background panel showing a field of white daisies under a bright sky. To the right is a solid light-blue background panel depicting a tropical beach scene with palm fronds, turquoise water, white sand, and rocks. The overall composition is framed by a dark gray interface border with toolbars at the top and left edges, suggesting a digital workspace environment. The lighting is bright and even, highlighting"
+            }
+        ]
+    },
+    {
+        "asin": "B00LAMP4GW",
+        "title": "Don't Step on the USA Flag",
+        "reference_file": "B00LAMP4GW/reference.jpg",
+        "categorical_name": "tote bag",
+        "variation_files": [
+            {
+                "file": "B00LAMP4GW/variation_1.jpg",
+                "prompt": "A grid layout composed of square panels, each displaying a full American flag design with red and white stripes and a blue field with white stars, arranged in a maze-like pattern. Some panels are solid black, creating empty spaces within the grid. The background is a dark, uniform color. In the lower-right corner, two white shoe prints are visible on a black panel, positioned as if stepping through the grid. A horizontal dark gray bar is positioned near the top, containing a speaker icon and a blue slider knob, suggesting a volume control interface. The overall composition is flat and digital, with a clear focus on the repeating flag motif and the contrasting black spaces."
+            }
+        ]
+    },
+    {
+        "asin": "B0131GFUFY",
+        "title": "Angels of Atlantis Oracle Cards",
+        "reference_file": "B0131GFUFY/reference.jpg",
+        "categorical_name": "oracle cards",
+        "variation_files": [
+            {
+                "file": "B0131GFUFY/variation_1.jpg",
+                "prompt": "A fan-shaped arrangement of five oracle cards, each with a glossy, dark border, fanned out from center to left and right against a deep cosmic background filled with sparkling stars and glowing starbursts. The cards are slightly tilted and layered, creating depth, with the central card most prominent. Each card features a large, luminous orb in a different vibrant color\u2014purple, red, green, blue, and pink\u2014hovering above a mystical landscape scene. The background is a rich, dark blue night sky with scattered twinkling stars of varying sizes and brightness, some with sharp, radiant starburst effects. The overall lighting is ethereal and magical, with soft glows emanating from the orbs and highlights reflecting off the card surfaces. The"
+            }
+        ]
+    }
+]

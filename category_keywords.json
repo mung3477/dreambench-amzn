@@ -1,0 +1,903 @@
+{
+    "raw_meta_Amazon_Fashion": {
+        "text-label": [
+            "graphic tee",
+            "slogan",
+            "lettering",
+            "typography",
+            "printed shirt",
+            "text print",
+            "label",
+            "tag"
+        ],
+        "logo": [
+            "monogram",
+            "patch",
+            "badge",
+            "embroidered",
+            "trademark",
+            "logo",
+            "brand",
+            "emblem",
+            "sneaker",
+            "shoe",
+            "shirt",
+            "backpack",
+            "cap"
+        ],
+        "intricate-geometry": [
+            "lace",
+            "mesh",
+            "buckle",
+            "zipper",
+            "chain",
+            "pendant",
+            "jewelry",
+            "chronograph",
+            "woven",
+            "knit",
+            "watch"
+        ]
+    },
+    "raw_meta_Clothing_Shoes_and_Jewelry": {
+        "text-label": [
+            "graphic tee",
+            "slogan",
+            "lettering",
+            "typography",
+            "printed shirt",
+            "text print",
+            "label",
+            "tag"
+        ],
+        "logo": [
+            "monogram",
+            "patch",
+            "badge",
+            "embroidered",
+            "trademark",
+            "logo",
+            "brand",
+            "emblem",
+            "sneaker",
+            "shoe",
+            "shirt",
+            "backpack",
+            "cap"
+        ],
+        "intricate-geometry": [
+            "lace",
+            "mesh",
+            "buckle",
+            "zipper",
+            "chain",
+            "pendant",
+            "jewelry",
+            "chronograph",
+            "woven",
+            "knit",
+            "watch"
+        ]
+    },
+    "raw_meta_All_Beauty": {
+        "text-label": [
+            "bottle",
+            "packaging",
+            "box",
+            "tube",
+            "can",
+            "vitamin",
+            "supplement",
+            "label",
+            "text",
+            "print",
+            "ingredients",
+            "instructions"
+        ],
+        "logo": [
+            "brand logo",
+            "signature",
+            "emblem",
+            "trademark",
+            "makeup palette",
+            "cosmetic brand"
+        ],
+        "intricate-geometry": [
+            "trimmer",
+            "clipper",
+            "shaver",
+            "brush bristles",
+            "pump mechanism",
+            "spray nozzle",
+            "compact case"
+        ]
+    },
+    "raw_meta_Beauty_and_Personal_Care": {
+        "text-label": [
+            "bottle",
+            "packaging",
+            "box",
+            "tube",
+            "can",
+            "vitamin",
+            "supplement",
+            "label",
+            "text",
+            "print",
+            "ingredients",
+            "instructions"
+        ],
+        "logo": [
+            "brand logo",
+            "signature",
+            "emblem",
+            "trademark",
+            "makeup palette",
+            "cosmetic brand"
+        ],
+        "intricate-geometry": [
+            "trimmer",
+            "clipper",
+            "shaver",
+            "brush bristles",
+            "pump mechanism",
+            "spray nozzle",
+            "compact case"
+        ]
+    },
+    "raw_meta_Health_and_Household": {
+        "text-label": [
+            "bottle",
+            "packaging",
+            "box",
+            "tube",
+            "can",
+            "vitamin",
+            "supplement",
+            "label",
+            "text",
+            "print",
+            "ingredients",
+            "instructions"
+        ],
+        "logo": [
+            "brand logo",
+            "signature",
+            "emblem",
+            "trademark",
+            "makeup palette",
+            "cosmetic brand"
+        ],
+        "intricate-geometry": [
+            "trimmer",
+            "clipper",
+            "shaver",
+            "brush bristles",
+            "pump mechanism",
+            "spray nozzle",
+            "compact case"
+        ]
+    },
+    "raw_meta_Health_and_Personal_Care": {
+        "text-label": [
+            "bottle",
+            "packaging",
+            "box",
+            "tube",
+            "can",
+            "vitamin",
+            "supplement",
+            "label",
+            "text",
+            "print",
+            "ingredients",
+            "instructions"
+        ],
+        "logo": [
+            "brand logo",
+            "signature",
+            "emblem",
+            "trademark",
+            "makeup palette",
+            "cosmetic brand"
+        ],
+        "intricate-geometry": [
+            "trimmer",
+            "clipper",
+            "shaver",
+            "brush bristles",
+            "pump mechanism",
+            "spray nozzle",
+            "compact case"
+        ]
+    },
+    "raw_meta_Appliances": {
+        "text-label": [
+            "control panel",
+            "instruction label",
+            "warning label",
+            "brand name",
+            "digital display",
+            "packaging"
+        ],
+        "logo": [
+            "appliance brand",
+            "maker mark",
+            "trademark",
+            "logo",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "machine",
+            "engine",
+            "tool",
+            "gears",
+            "blades",
+            "motor",
+            "pump",
+            "grill",
+            "ventilation",
+            "circuit"
+        ]
+    },
+    "raw_meta_Home_and_Kitchen": {
+        "text-label": [
+            "control panel",
+            "instruction label",
+            "warning label",
+            "brand name",
+            "digital display",
+            "packaging"
+        ],
+        "logo": [
+            "appliance brand",
+            "maker mark",
+            "trademark",
+            "logo",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "machine",
+            "engine",
+            "tool",
+            "gears",
+            "blades",
+            "motor",
+            "pump",
+            "grill",
+            "ventilation",
+            "circuit"
+        ]
+    },
+    "raw_meta_Patio_Lawn_and_Garden": {
+        "text-label": [
+            "control panel",
+            "instruction label",
+            "warning label",
+            "brand name",
+            "digital display",
+            "packaging"
+        ],
+        "logo": [
+            "appliance brand",
+            "maker mark",
+            "trademark",
+            "logo",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "machine",
+            "engine",
+            "tool",
+            "gears",
+            "blades",
+            "motor",
+            "pump",
+            "grill",
+            "ventilation",
+            "circuit"
+        ]
+    },
+    "raw_meta_Tools_and_Home_Improvement": {
+        "text-label": [
+            "control panel",
+            "instruction label",
+            "warning label",
+            "brand name",
+            "digital display",
+            "packaging"
+        ],
+        "logo": [
+            "appliance brand",
+            "maker mark",
+            "trademark",
+            "logo",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "machine",
+            "engine",
+            "tool",
+            "gears",
+            "blades",
+            "motor",
+            "pump",
+            "grill",
+            "ventilation",
+            "circuit"
+        ]
+    },
+    "raw_meta_Cell_Phones_and_Accessories": {
+        "text-label": [
+            "keyboard",
+            "keypad",
+            "screen text",
+            "digital interface",
+            "packaging",
+            "box art",
+            "game cover"
+        ],
+        "logo": [
+            "tech brand",
+            "manufacturer logo",
+            "trademark",
+            "console logo",
+            "software logo",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "motherboard",
+            "circuit",
+            "chip",
+            "controller",
+            "joystick",
+            "ports",
+            "wiring",
+            "lens",
+            "camera module",
+            "cooling fan"
+        ]
+    },
+    "raw_meta_Electronics": {
+        "text-label": [
+            "keyboard",
+            "keypad",
+            "screen text",
+            "digital interface",
+            "packaging",
+            "box art",
+            "game cover"
+        ],
+        "logo": [
+            "tech brand",
+            "manufacturer logo",
+            "trademark",
+            "console logo",
+            "software logo",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "motherboard",
+            "circuit",
+            "chip",
+            "controller",
+            "joystick",
+            "ports",
+            "wiring",
+            "lens",
+            "camera module",
+            "cooling fan"
+        ]
+    },
+    "raw_meta_Software": {
+        "text-label": [
+            "keyboard",
+            "keypad",
+            "screen text",
+            "digital interface",
+            "packaging",
+            "box art",
+            "game cover"
+        ],
+        "logo": [
+            "tech brand",
+            "manufacturer logo",
+            "trademark",
+            "console logo",
+            "software logo",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "motherboard",
+            "circuit",
+            "chip",
+            "controller",
+            "joystick",
+            "ports",
+            "wiring",
+            "lens",
+            "camera module",
+            "cooling fan"
+        ]
+    },
+    "raw_meta_Video_Games": {
+        "text-label": [
+            "keyboard",
+            "keypad",
+            "screen text",
+            "digital interface",
+            "packaging",
+            "box art",
+            "game cover"
+        ],
+        "logo": [
+            "tech brand",
+            "manufacturer logo",
+            "trademark",
+            "console logo",
+            "software logo",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "motherboard",
+            "circuit",
+            "chip",
+            "controller",
+            "joystick",
+            "ports",
+            "wiring",
+            "lens",
+            "camera module",
+            "cooling fan"
+        ]
+    },
+    "raw_meta_Books": {
+        "text-label": [
+            "book cover",
+            "title",
+            "author",
+            "typography",
+            "magazine cover",
+            "album art",
+            "tracklist",
+            "spine"
+        ],
+        "logo": [
+            "publisher logo",
+            "record label",
+            "movie studio",
+            "trademark"
+        ],
+        "intricate-geometry": [
+            "vinyl grooves",
+            "cd surface",
+            "intricate cover art",
+            "disc packaging",
+            "film reel"
+        ]
+    },
+    "raw_meta_CDs_and_Vinyl": {
+        "text-label": [
+            "book cover",
+            "title",
+            "author",
+            "typography",
+            "magazine cover",
+            "album art",
+            "tracklist",
+            "spine"
+        ],
+        "logo": [
+            "publisher logo",
+            "record label",
+            "movie studio",
+            "trademark"
+        ],
+        "intricate-geometry": [
+            "vinyl grooves",
+            "cd surface",
+            "intricate cover art",
+            "disc packaging",
+            "film reel"
+        ]
+    },
+    "raw_meta_Digital_Music": {
+        "text-label": [
+            "book cover",
+            "title",
+            "author",
+            "typography",
+            "magazine cover",
+            "album art",
+            "tracklist",
+            "spine"
+        ],
+        "logo": [
+            "publisher logo",
+            "record label",
+            "movie studio",
+            "trademark"
+        ],
+        "intricate-geometry": [
+            "vinyl grooves",
+            "cd surface",
+            "intricate cover art",
+            "disc packaging",
+            "film reel"
+        ]
+    },
+    "raw_meta_Kindle_Store": {
+        "text-label": [
+            "book cover",
+            "title",
+            "author",
+            "typography",
+            "magazine cover",
+            "album art",
+            "tracklist",
+            "spine"
+        ],
+        "logo": [
+            "publisher logo",
+            "record label",
+            "movie studio",
+            "trademark"
+        ],
+        "intricate-geometry": [
+            "vinyl grooves",
+            "cd surface",
+            "intricate cover art",
+            "disc packaging",
+            "film reel"
+        ]
+    },
+    "raw_meta_Magazine_Subscriptions": {
+        "text-label": [
+            "book cover",
+            "title",
+            "author",
+            "typography",
+            "magazine cover",
+            "album art",
+            "tracklist",
+            "spine"
+        ],
+        "logo": [
+            "publisher logo",
+            "record label",
+            "movie studio",
+            "trademark"
+        ],
+        "intricate-geometry": [
+            "vinyl grooves",
+            "cd surface",
+            "intricate cover art",
+            "disc packaging",
+            "film reel"
+        ]
+    },
+    "raw_meta_Movies_and_TV": {
+        "text-label": [
+            "book cover",
+            "title",
+            "author",
+            "typography",
+            "magazine cover",
+            "album art",
+            "tracklist",
+            "spine"
+        ],
+        "logo": [
+            "publisher logo",
+            "record label",
+            "movie studio",
+            "trademark"
+        ],
+        "intricate-geometry": [
+            "vinyl grooves",
+            "cd surface",
+            "intricate cover art",
+            "disc packaging",
+            "film reel"
+        ]
+    },
+    "raw_meta_Arts_Crafts_and_Sewing": {
+        "text-label": [
+            "game board",
+            "cards",
+            "instructions",
+            "packaging",
+            "box",
+            "coin engraving",
+            "sheet music"
+        ],
+        "logo": [
+            "toy brand",
+            "maker mark",
+            "trademark",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "action figure",
+            "building blocks",
+            "model kit",
+            "puzzle",
+            "musical instrument",
+            "strings",
+            "keys",
+            "coin relief",
+            "sewing machine",
+            "craft tool"
+        ]
+    },
+    "raw_meta_Musical_Instruments": {
+        "text-label": [
+            "game board",
+            "cards",
+            "instructions",
+            "packaging",
+            "box",
+            "coin engraving",
+            "sheet music"
+        ],
+        "logo": [
+            "toy brand",
+            "maker mark",
+            "trademark",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "action figure",
+            "building blocks",
+            "model kit",
+            "puzzle",
+            "musical instrument",
+            "strings",
+            "keys",
+            "coin relief",
+            "sewing machine",
+            "craft tool"
+        ]
+    },
+    "raw_meta_Toys_and_Games": {
+        "text-label": [
+            "game board",
+            "cards",
+            "instructions",
+            "packaging",
+            "box",
+            "coin engraving",
+            "sheet music"
+        ],
+        "logo": [
+            "toy brand",
+            "maker mark",
+            "trademark",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "action figure",
+            "building blocks",
+            "model kit",
+            "puzzle",
+            "musical instrument",
+            "strings",
+            "keys",
+            "coin relief",
+            "sewing machine",
+            "craft tool"
+        ]
+    },
+    "raw_meta_Automotive": {
+        "text-label": [
+            "warning label",
+            "specifications",
+            "part number",
+            "gauge reading",
+            "packaging",
+            "instruction panel"
+        ],
+        "logo": [
+            "car make",
+            "brand emblem",
+            "manufacturer logo",
+            "trademark"
+        ],
+        "intricate-geometry": [
+            "engine part",
+            "gears",
+            "suspension",
+            "circuit board",
+            "microscope",
+            "caliper",
+            "machinery",
+            "tread",
+            "grille"
+        ]
+    },
+    "raw_meta_Industrial_and_Scientific": {
+        "text-label": [
+            "warning label",
+            "specifications",
+            "part number",
+            "gauge reading",
+            "packaging",
+            "instruction panel"
+        ],
+        "logo": [
+            "car make",
+            "brand emblem",
+            "manufacturer logo",
+            "trademark"
+        ],
+        "intricate-geometry": [
+            "engine part",
+            "gears",
+            "suspension",
+            "circuit board",
+            "microscope",
+            "caliper",
+            "machinery",
+            "tread",
+            "grille"
+        ]
+    },
+    "raw_meta_Grocery_and_Gourmet_Food": {
+        "text-label": [
+            "nutrition facts",
+            "ingredients",
+            "food packaging",
+            "bag",
+            "can",
+            "box",
+            "wrapper",
+            "pet food label"
+        ],
+        "logo": [
+            "food brand",
+            "trademark",
+            "logo",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "kibble shape",
+            "pet toy structure",
+            "aquarium filter",
+            "intricate food mold",
+            "cage mesh"
+        ]
+    },
+    "raw_meta_Pet_Supplies": {
+        "text-label": [
+            "nutrition facts",
+            "ingredients",
+            "food packaging",
+            "bag",
+            "can",
+            "box",
+            "wrapper",
+            "pet food label"
+        ],
+        "logo": [
+            "food brand",
+            "trademark",
+            "logo",
+            "emblem"
+        ],
+        "intricate-geometry": [
+            "kibble shape",
+            "pet toy structure",
+            "aquarium filter",
+            "intricate food mold",
+            "cage mesh"
+        ]
+    },
+    "raw_meta_Baby_Products": {
+        "text-label": [
+            "gift card text",
+            "personalized",
+            "engraved",
+            "baby monitor text",
+            "sign",
+            "calligraphy",
+            "custom text"
+        ],
+        "logo": [
+            "brand tag",
+            "artisan stamp",
+            "maker mark",
+            "trademark",
+            "logo"
+        ],
+        "intricate-geometry": [
+            "stroller mechanism",
+            "car seat buckle",
+            "filigree",
+            "macrame",
+            "bicycle gear",
+            "fishing reel",
+            "tent structure"
+        ]
+    },
+    "raw_meta_Gift_Cards": {
+        "text-label": [
+            "gift card text",
+            "personalized",
+            "engraved",
+            "baby monitor text",
+            "sign",
+            "calligraphy",
+            "custom text"
+        ],
+        "logo": [
+            "brand tag",
+            "artisan stamp",
+            "maker mark",
+            "trademark",
+            "logo"
+        ],
+        "intricate-geometry": [
+            "stroller mechanism",
+            "car seat buckle",
+            "filigree",
+            "macrame",
+            "bicycle gear",
+            "fishing reel",
+            "tent structure"
+        ]
+    },
+    "raw_meta_Handmade_Products": {
+        "text-label": [
+            "gift card text",
+            "personalized",
+            "engraved",
+            "baby monitor text",
+            "sign",
+            "calligraphy",
+            "custom text"
+        ],
+        "logo": [
+            "brand tag",
+            "artisan stamp",
+            "maker mark",
+            "trademark",
+            "logo"
+        ],
+        "intricate-geometry": [
+            "stroller mechanism",
+            "car seat buckle",
+            "filigree",
+            "macrame",
+            "bicycle gear",
+            "fishing reel",
+            "tent structure"
+        ]
+    },
+    "raw_meta_Sports_and_Outdoors": {
+        "text-label": [
+            "gift card text",
+            "personalized",
+            "engraved",
+            "baby monitor text",
+            "sign",
+            "calligraphy",
+            "custom text"
+        ],
+        "logo": [
+            "brand tag",
+            "artisan stamp",
+            "maker mark",
+            "trademark",
+            "logo"
+        ],
+        "intricate-geometry": [
+            "stroller mechanism",
+            "car seat buckle",
+            "filigree",
+            "macrame",
+            "bicycle gear",
+            "fishing reel",
+            "tent structure"
+        ]
+    }
+}

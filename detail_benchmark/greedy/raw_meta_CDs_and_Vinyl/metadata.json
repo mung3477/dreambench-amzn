@@ -1,0 +1,38 @@
+[
+    {
+        "asin": "B000WB3C6Q",
+        "title": "Johnson & Jonson",
+        "reference_file": "B000WB3C6Q/reference.jpg",
+        "categorical_name": "baby doll",
+        "variation_files": [
+            {
+                "file": "B000WB3C6Q/variation_1.jpg",
+                "prompt": "A split-screen layout featuring the baby doll on the right side, shown in a dynamic, crawling pose with its body angled forward and limbs extended, set against a solid dark background. The left side of the image contains a plain, solid dark panel with no text or graphics. The lighting is dramatic, highlighting the glossy surface of the baby doll with strong reflections and deep shadows, creating a high-contrast, moody atmosphere. The composition emphasizes the figure\u2019s form and movement, with the doll positioned as the sole focal point on its side of the frame."
+            }
+        ]
+    },
+    {
+        "asin": "B000PHE2XE",
+        "title": "While We're Still Young [LP VINYL]",
+        "reference_file": "B000PHE2XE/reference.jpg",
+        "categorical_name": "vinyl record",
+        "variation_files": [
+            {
+                "file": "B000PHE2XE/variation_1.jpg",
+                "prompt": "A full-bleed photograph of the vinyl record's back cover, featuring a wide outdoor scene with a gravel path leading toward a white wooden fence and a small stable structure in the background. The sky is overcast with soft, diffused lighting. In the foreground, a person stands to the right, dressed in a light-colored button-up shirt and flared pants, holding the reins of a black horse that walks beside them. The horse has a white blaze on its face and white socks on its front legs. The image is framed with a solid white border, and the lower left and lower right corners contain small, circular logos. The overall composition is natural and candid, with a rustic, countryside atmosphere."
+            }
+        ]
+    },
+    {
+        "asin": "B000UZY7QS",
+        "title": "Smothers Brothers Comedy Hour(Vinyl/Record Album)",
+        "reference_file": "B000UZY7QS/reference.jpg",
+        "categorical_name": "vinyl record",
+        "variation_files": [
+            {
+                "file": "B000UZY7QS/variation_1.jpg",
+                "prompt": "A split-screen layout featuring the vinyl record framed within an ornate, stained-glass-style border with a rounded top arch and decorative floral motifs in warm amber, gold, and pink tones. The top section displays a curved, arched panel with intricate tile patterns and symmetrical embellishments, while the bottom section shows the product placed within a stage-like setting. The lower half depicts a live performance scene with two figures in matching red jackets standing on a circular, patterned stage floor, one holding a large upright bass. The stage is illuminated by overhead spotlights, and an audience is visible in the background seated in rows, creating a theater ambiance. The entire composition is enclosed by a thick, rounded border with a tiled texture in warm orange and gold"
+            }
+        ]
+    }
+]

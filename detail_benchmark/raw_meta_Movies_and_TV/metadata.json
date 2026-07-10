@@ -1,0 +1,22 @@
+[
+    {
+        "asin": "B07JNNFCNL",
+        "title": "Keys to my heart (Korean Movie, English Sub)",
+        "reference_file": "B07JNNFCNL/reference.jpg",
+        "categorical_name": "sneaker",
+        "variation_files": [
+            {
+                "file": "B07JNNFCNL/variation_1.jpg",
+                "prompt": "A low-angle, close-up shot of a person’s feet wearing the sneaker, standing on a smooth, light-gray concrete floor. The person is wearing cuffed blue jeans with frayed hems, and a sparkling silver anklet adorns the right ankle. The sneaker is positioned naturally, with the left foot slightly forward and the right foot slightly back, showcasing the side profile and top view. The background is a plain, solid white wall, creating a clean and minimalist setting. The lighting is soft and even, highlighting the texture of the sneaker and the fabric of the jeans without harsh shadows. The overall composition focuses on the casual, everyday wearability of the sneaker in a relaxed, urban-style context."
+            },
+            {
+                "file": "B07JNNFCNL/variation_2.jpg",
+                "prompt": "A split-screen composition featuring two views of the sneaker worn on feet, positioned side by side against a plain white background. The left view shows a front-three-quarter angle of the sneaker, highlighting the lacing and upper design, while the right view presents a direct front-facing angle. The wearer is dressed in cuffed blue denim jeans with frayed hems, and a sparkling ankle chain is visible on the left ankle. The lighting is bright and even, emphasizing the texture of the fabric and the clean lines of the footwear. The overall presentation is clean, minimal, and focused on the product in a natural, lifestyle context."
+            },
+            {
+                "file": "B07JNNFCNL/variation_3.jpg",
+                "prompt": "A close-up shot of a person's lower legs and feet wearing the sneaker, standing on a smooth, gray tiled floor. The person is wearing cuffed blue denim jeans with frayed hems, and a delicate silver anklet adorns the right ankle. The sneaker is positioned at a slight angle, showcasing the side profile with the heel slightly raised. The background is a plain, light gray wall, creating a clean and minimalistic setting. The lighting is soft and even, highlighting the texture of the jeans and the sleek design of the sneaker. The overall composition focuses on the casual, everyday wearability of the product."
+            }
+        ]
+    }
+]

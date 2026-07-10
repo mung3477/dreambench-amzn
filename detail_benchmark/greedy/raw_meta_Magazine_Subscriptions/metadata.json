@@ -1,0 +1,62 @@
+[
+    {
+        "asin": "B000060MJD",
+        "title": "Men of Integrity    Print Magazine",
+        "reference_file": "B000060MJD/reference.jpg",
+        "categorical_name": "print magazine",
+        "variation_files": [
+            {
+                "file": "B000060MJD/variation_1.jpg",
+                "prompt": "A split-screen layout featuring a stylized illustration. The upper portion shows a light blue sky with soft white clouds, and a figure wearing a light-colored coat and hat standing atop a large, white, cloud-like platform. The lower portion depicts a dark, rainy scene with diagonal rain streaks and silhouetted figures walking under black umbrellas. A central figure stands on tall stilts, extending from the lower rainy scene up into the cloud platform, with their legs and feet visible in the rain below and their upper body on the cloud. The overall color scheme transitions from light blue at the top to deep navy blue at the bottom, with the rain and umbrellas creating a moody, atmospheric effect. The composition emphasizes contrast between the elevated,"
+            }
+        ]
+    },
+    {
+        "asin": "B002PXVZ68",
+        "title": "D Magazine",
+        "reference_file": "B002PXVZ68/reference.jpg",
+        "categorical_name": "magazine",
+        "variation_files": [
+            {
+                "file": "B002PXVZ68/variation_1.jpg",
+                "prompt": "A split-screen magazine cover layout featuring a large central photograph of a modern, A-frame outdoor patio structure at dusk, with warm interior lighting visible through glass walls and a covered seating area. The patio is furnished with wooden tables and chairs, and several people are seated, socializing. The structure has a dark roof with exposed beams and a central support column. The background behind the structure shows a twilight sky with silhouetted trees and a faintly visible building to the left. The top of the image features a large, bold red rectangular panel with a white letter 'D' centered, and a smaller blue and white graphic element beneath it. The left and right sides of the cover are divided into solid-colored vertical panels: the left is a deep"
+            }
+        ]
+    },
+    {
+        "asin": "B00006KAZW",
+        "title": "D Magazine",
+        "reference_file": "B00006KAZW/reference.jpg",
+        "categorical_name": "magazine",
+        "variation_files": [
+            {
+                "file": "B00006KAZW/variation_1.jpg",
+                "prompt": "A magazine cover featuring a large, bold red square logo with a white letter \"D\" at the top center, set against a solid purple background. Below the logo, a photograph shows a modern, A-frame outdoor patio structure with a triangular roof, illuminated from within, and surrounded by wooden tables and chairs. Several people are seated at the tables, engaged in conversation, under a twilight sky with soft pink and purple hues. The patio is set on a paved surface with trees visible in the background. The overall layout includes solid-colored side panels flanking the central image: a dark blue panel on the left and a lighter blue panel on the right, both plain and unadorned. The central photograph is framed by these panels and the top logo"
+            }
+        ]
+    },
+    {
+        "asin": "B000695M6W",
+        "title": "Florida Review",
+        "reference_file": "B000695M6W/reference.jpg",
+        "categorical_name": "literary magazine",
+        "variation_files": [
+            {
+                "file": "B000695M6W/variation_1.jpg",
+                "prompt": "A vertically oriented magazine cover with a solid black background. Centered on the cover is a rectangular illustration panel with a solid peach-pink background. Within this panel, a small child stands on a dark green, rounded ground plane. The child is depicted in a simple, stylized manner, facing slightly to the right. Around the child, small flames rise from three objects: a house, a stack of books, and a keyboard-like device. Above the child, several white, cloud-like shapes float, with one containing a red, blocky, three-dimensional letterform. The illustration has a hand-drawn, painterly quality with soft edges and muted, warm tones. The overall composition is centered and balanced, with the illustration panel framed by the"
+            }
+        ]
+    },
+    {
+        "asin": "B0000CCY7X",
+        "title": "Alabama Gardener    Print Magazine",
+        "reference_file": "B0000CCY7X/reference.jpg",
+        "categorical_name": "print magazine",
+        "variation_files": [
+            {
+                "file": "B0000CCY7X/variation_1.jpg",
+                "prompt": "A full-bleed cover layout of the print magazine featuring a bright, sunlit photograph of a welcoming front porch with white railings and columns, flanked by lush greenery and blooming flowers in planters and beds. The central image shows a well-maintained garden entrance with a stone pathway leading to the porch steps, surrounded by vibrant foliage and flowering shrubs. The top portion of the cover displays the magazine title in large, bold lettering with a small leaf icon, set against a clean white background. A circular green and gold anniversary badge is positioned in the upper right corner, overlapping slightly with the image. The bottom section includes a barcode and a thin horizontal strip of plain white space beneath the main photograph. The overall lighting is"
+            }
+        ]
+    }
+]

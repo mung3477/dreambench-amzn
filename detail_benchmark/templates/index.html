@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dataset Curator & Visualizer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0b0f19;
+            --bg-secondary: #161f30;
+            --bg-card: rgba(22, 31, 48, 0.7);
+            --border-color: rgba(255, 255, 255, 0.08);
+            --text-primary: #f3f4f6;
+            --text-secondary: #9ca3af;
+            --accent-blue: #3b82f6;
+            --accent-green: #10b981;
+            --accent-yellow: #f59e0b;
+            --accent-red: #ef4444;
+            --gradient-keep: linear-gradient(135deg, #2563eb, #3b82f6);
+            --gradient-del-var: linear-gradient(135deg, #d97706, #f59e0b);
+            --gradient-del-ref: linear-gradient(135deg, #dc2626, #ef4444);
+            --sidebar-width: 280px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        /* Sidebar styling */
+        .sidebar {
+            width: var(--sidebar-width);
+            background-color: var(--bg-secondary);
+            border-right: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .sidebar-header {
+            padding: 24px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .sidebar-header h1 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            letter-spacing: -0.025em;
+            background: linear-gradient(to right, #60a5fa, #3b82f6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .sidebar-header p {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+
+        .category-list {
+            flex: 1;
+            overflow-y: auto;
+            padding: 16px 12px;
+            list-style: none;
+        }
+
+        .category-item {
+            padding: 12px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-bottom: 8px;
+            transition: all 0.2s ease;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border: 1px solid transparent;
+        }
+
+        .category-item:hover {
+            background-color: rgba(255, 255, 255, 0.03);
+            border-color: var(--border-color);
+        }
+
+        .category-item.active {
+            background-color: rgba(59, 130, 246, 0.15);
+            border-color: rgba(59, 130, 246, 0.3);
+            color: #60a5fa;
+        }
+
+        .category-name {
+            font-size: 0.875rem;
+            font-weight: 500;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 180px;
+        }
+
+        .category-count {
+            font-size: 0.75rem;
+            background-color: rgba(255, 255, 255, 0.08);
+            padding: 2px 8px;
+            border-radius: 12px;
+            color: var(--text-secondary);
+        }
+
+        .category-item.active .category-count {
+            background-color: var(--accent-blue);
+            color: white;
+        }
+
+        /* Main Content Styling */
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        header {
+            padding: 20px 32px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: rgba(11, 15, 25, 0.6);
+            backdrop-filter: blur(10px);
+        }
+
+        .header-info h2 {
+            font-size: 1.125rem;
+            font-weight: 600;
+        }
+
+        .header-info p {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+
+        .keyboard-hint {
+            display: flex;
+            gap: 12px;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+        }
+
+        .key-badge {
+            background-color: rgba(255, 255, 255, 0.08);
+            border: 1px solid var(--border-color);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: monospace;
+            color: var(--text-primary);
+        }
+
+        /* Viewer Layout */
+        .viewer-container {
+            flex: 1;
+            padding: 24px 32px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            overflow-y: auto;
+        }
+
+        .empty-state {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-secondary);
+            gap: 16px;
+        }
+
+        .empty-state svg {
+            width: 64px;
+            height: 64px;
+            stroke: var(--text-secondary);
+            opacity: 0.5;
+        }
+
+        .images-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+            min-height: 400px;
+        }
+
+        .image-card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            position: relative;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s ease, border-color 0.2s ease;
+        }
+
+        .image-card:hover {
+            border-color: rgba(255, 255, 255, 0.15);
+        }
+
+        .image-card-title {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .image-card-title span {
+            background-color: rgba(255, 255, 255, 0.05);
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-family: monospace;
+        }
+
+        .image-wrapper {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #05070a;
+            border-radius: 8px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            min-height: 350px;
+            position: relative;
+        }
+
+        .image-wrapper img {
+            max-width: 100%;
+            max-height: 450px;
+            object-fit: contain;
+            transition: transform 0.3s ease;
+        }
+
+        .image-wrapper:hover img {
+            transform: scale(1.02);
+        }
+
+        /* Detail/Prompt Panel */
+        .details-panel {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .details-title {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+        }
+
+        .prompt-text {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background-color: rgba(0, 0, 0, 0.2);
+            padding: 16px;
+            border-radius: 8px;
+            border: 1px solid rgba(255, 255, 255, 0.03);
+        }
+
+        /* Control Panel */
+        .controls-panel {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 16px 32px 32px 32px;
+            background-color: var(--bg-primary);
+        }
+
+        .stats-badge {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }
+
+        .button-group {
+            display: flex;
+            gap: 16px;
+        }
+
+        .btn {
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.95rem;
+            font-weight: 600;
+            padding: 12px 24px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            color: white;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .btn:active {
+            transform: scale(0.97);
+        }
+
+        .btn-keep {
+            background: var(--gradient-keep);
+        }
+        .btn-keep:hover {
+            box-shadow: 0 0 15px rgba(59, 130, 246, 0.4);
+            filter: brightness(1.1);
+        }
+
+        .btn-delete-var {
+            background: var(--gradient-del-var);
+        }
+        .btn-delete-var:hover {
+            box-shadow: 0 0 15px rgba(245, 158, 11, 0.4);
+            filter: brightness(1.1);
+        }
+
+        .btn-delete-ref {
+            background: var(--gradient-del-ref);
+        }
+        .btn-delete-ref:hover {
+            box-shadow: 0 0 15px rgba(239, 68, 68, 0.4);
+            filter: brightness(1.1);
+        }
+
+        /* Modal Overlay & Card */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.75);
+            backdrop-filter: blur(4px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 100;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.2s ease;
+        }
+
+        .modal-overlay.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modal {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            width: 480px;
+            max-width: 90%;
+            padding: 24px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            transform: scale(0.95);
+            transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+
+        .modal-overlay.active .modal {
+            transform: scale(1);
+        }
+
+        .modal-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .modal-title.warning {
+            color: var(--accent-yellow);
+        }
+
+        .modal-title.danger {
+            color: var(--accent-red);
+        }
+
+        .modal-desc {
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            margin-bottom: 24px;
+        }
+
+        .modal-buttons {
+            display: flex;
+            justify-content: flex-end;
+            gap: 12px;
+        }
+
+        .btn-secondary {
+            background-color: rgba(255, 255, 255, 0.08);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+        }
+
+        .btn-secondary:hover {
+            background-color: rgba(255, 255, 255, 0.12);
+        }
+
+        /* Loading spinner */
+        .spinner {
+            border: 3px solid rgba(255, 255, 255, 0.1);
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            border-left-color: var(--accent-blue);
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .notification {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            background-color: #10b981;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-weight: 500;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            transform: translateY(100px);
+            opacity: 0;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            z-index: 1000;
+        }
+
+        .notification.show {
+            transform: translateY(0);
+            opacity: 1;
+        }
+
+        .notification.error {
+            background-color: #ef4444;
+        }
+    </style>
+</head>
+<body>
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <h1>Dataset Curator</h1>
+            <p>VLM Human-Filtering Portal</p>
+        </div>
+        <ul class="category-list" id="categoryList">
+            <!-- Dynamically populated -->
+            <div style="display: flex; justify-content: center; padding-top: 40px;">
+                <div class="spinner"></div>
+            </div>
+        </ul>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <header>
+            <div class="header-info">
+                <h2 id="currentCategoryTitle">Select a category</h2>
+                <p id="currentProductInfo">Select a category from the sidebar to start filtering</p>
+            </div>
+            <div class="keyboard-hint">
+                <div><span class="key-badge">→</span> / <span class="key-badge">Space</span> Next</div>
+                <div><span class="key-badge">V</span> / <span class="key-badge">D</span> Delete Variant</div>
+                <div><span class="key-badge">R</span> / <span class="key-badge">Del</span> Delete Ref Set</div>
+            </div>
+        </header>
+
+        <div class="viewer-container" id="viewerContainer">
+            <div class="empty-state">
+                <svg viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+                    <circle cx="8.5" cy="8.5" r="1.5"/>
+                    <polyline points="21 15 16 10 5 21"/>
+                </svg>
+                <h3>No category loaded</h3>
+                <p>Choose a category from the left panel to begin human validation.</p>
+            </div>
+        </div>
+
+        <div class="controls-panel" id="controlsPanel" style="display: none;">
+            <div class="stats-badge" id="statsBadge">
+                Pair 0 of 0
+            </div>
+            <div class="button-group">
+                <button class="btn btn-delete-ref" id="btnDeleteRef">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line></svg>
+                    Delete Ref Set
+                </button>
+                <button class="btn btn-delete-var" id="btnDeleteVar">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                    Delete Variant
+                </button>
+                <button class="btn btn-keep" id="btnKeep">
+                    Next (Keep)
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modals -->
+    <div class="modal-overlay" id="confirmModal">
+        <div class="modal">
+            <h3 class="modal-title warning" id="modalTitle">Confirm Action</h3>
+            <p class="modal-desc" id="modalDesc">Are you sure you want to proceed?</p>
+            <div class="modal-buttons">
+                <button class="btn btn-secondary" id="modalCancel">Cancel</button>
+                <button class="btn" id="modalConfirm">Confirm</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Notification toast -->
+    <div class="notification" id="notificationToast">Action completed successfully</div>
+
+    <script>
+        // Helper to highlight category name inside prompt
+        function highlightCategoricalName(prompt, categoricalName) {
+            if (!prompt) return 'No prompt found.';
+            if (!categoricalName) return prompt;
+            
+            const escaped = categoricalName.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+            const regex = new RegExp(`(${escaped})`, 'gi');
+            return prompt.replace(regex, `<span style="background-color: rgba(59, 130, 246, 0.25); color: #60a5fa; padding: 2px 6px; border-radius: 4px; font-weight: 600; border: 1px solid rgba(59, 130, 246, 0.4);">$1</span>`);
+        }
+
+        // State
+        let categories = [];
+        let activeCategory = null;
+        let currentPairs = [];
+        let currentIndex = 0;
+        let pendingAction = null;
+
+        // Elements
+        const categoryList = document.getElementById('categoryList');
+        const currentCategoryTitle = document.getElementById('currentCategoryTitle');
+        const currentProductInfo = document.getElementById('currentProductInfo');
+        const viewerContainer = document.getElementById('viewerContainer');
+        const controlsPanel = document.getElementById('controlsPanel');
+        const statsBadge = document.getElementById('statsBadge');
+        
+        const btnKeep = document.getElementById('btnKeep');
+        const btnDeleteVar = document.getElementById('btnDeleteVar');
+        const btnDeleteRef = document.getElementById('btnDeleteRef');
+
+        const confirmModal = document.getElementById('confirmModal');
+        const modalTitle = document.getElementById('modalTitle');
+        const modalDesc = document.getElementById('modalDesc');
+        const modalConfirm = document.getElementById('modalConfirm');
+        const modalCancel = document.getElementById('modalCancel');
+        
+        const notificationToast = document.getElementById('notificationToast');
+
+        // Initial Load
+        async function fetchCategories() {
+            try {
+                const response = await fetch('/api/categories');
+                categories = await response.json();
+                renderCategoryList();
+                
+                // Auto load first category if available
+                if (categories.length > 0) {
+                    loadCategory(categories[0].id);
+                }
+            } catch (err) {
+                console.error("Error loading categories:", err);
+                showToast("Failed to load categories.", true);
+            }
+        }
+
+        function renderCategoryList() {
+            categoryList.innerHTML = '';
+            categories.forEach(cat => {
+                const li = document.createElement('li');
+                li.className = `category-item ${activeCategory === cat.id ? 'active' : ''}`;
+                li.onclick = () => loadCategory(cat.id);
+
+                const nameSpan = document.createElement('span');
+                nameSpan.className = 'category-name';
+                nameSpan.innerText = cat.name;
+                nameSpan.title = cat.name;
+
+                const countSpan = document.createElement('span');
+                countSpan.className = 'category-count';
+                countSpan.innerText = cat.count;
+
+                li.appendChild(nameSpan);
+                li.appendChild(countSpan);
+                categoryList.appendChild(li);
+            });
+        }
+
+        async function loadCategory(catId) {
+            activeCategory = catId;
+            renderCategoryList();
+            
+            viewerContainer.innerHTML = `
+                <div class="empty-state">
+                    <div class="spinner"></div>
+                    <h3>Loading pairs...</h3>
+                </div>
+            `;
+            controlsPanel.style.display = 'none';
+
+            try {
+                const response = await fetch(`/api/category/${catId}`);
+                const data = await response.json();
+                currentPairs = data.pairs;
+                currentIndex = 0;
+                
+                const catObj = categories.find(c => c.id === catId);
+                currentCategoryTitle.innerText = catObj ? catObj.name : catId;
+
+                renderCurrentPair();
+            } catch (err) {
+                console.error(err);
+                showToast("Failed to load pairs.", true);
+            }
+        }
+
+        function renderCurrentPair() {
+            if (!currentPairs || currentPairs.length === 0) {
+                viewerContainer.innerHTML = `
+                    <div class="empty-state">
+                        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="10"/>
+                            <line x1="12" y1="8" x2="12" y2="12"/>
+                            <line x1="12" y1="16" x2="12.01" y2="16"/>
+                        </svg>
+                        <h3>All filtered!</h3>
+                        <p>No pairs left to filter in this category.</p>
+                    </div>
+                `;
+                currentProductInfo.innerText = "Done filtering this category.";
+                controlsPanel.style.display = 'none';
+                return;
+            }
+
+            const pair = currentPairs[currentIndex];
+            currentProductInfo.innerText = `[ASIN: ${pair.asin}] ${pair.title}`;
+            controlsPanel.style.display = 'flex';
+            statsBadge.innerText = `Pair ${currentIndex + 1} of ${currentPairs.length}`;
+
+            // Build dynamic UI
+            viewerContainer.innerHTML = `
+                <div class="images-row">
+                    <div class="image-card">
+                        <div class="image-card-title">
+                            Reference Image <span>${pair.reference_file.split('/').pop()}</span>
+                        </div>
+                        <div class="image-wrapper">
+                            <img src="/images/${activeCategory}/${pair.reference_file}" alt="Reference Image" onerror="this.src='https://placehold.co/400x400?text=Image+Not+Found'">
+                        </div>
+                    </div>
+                    <div class="image-card">
+                        <div class="image-card-title">
+                            Variant Image <span>${pair.variation_file.split('/').pop()}</span>
+                        </div>
+                        <div class="image-wrapper">
+                            <img src="/images/${activeCategory}/${pair.variation_file}" alt="Variant Image" onerror="this.src='https://placehold.co/400x400?text=Image+Not+Found'">
+                        </div>
+                    </div>
+                </div>
+                <div class="details-panel">
+                    <div class="details-title" style="display: flex; justify-content: space-between; align-items: center;">
+                        <span>Subject Driven Prompt</span>
+                        <span style="font-weight: 500; font-size: 0.8rem; background-color: rgba(59, 130, 246, 0.15); color: #60a5fa; padding: 4px 10px; border-radius: 6px; border: 1px solid rgba(59, 130, 246, 0.3);">Category: ${pair.categorical_name || 'N/A'}</span>
+                    </div>
+                    <div class="prompt-text">${highlightCategoricalName(pair.prompt, pair.categorical_name)}</div>
+                </div>
+            `;
+        }
+
+        // Actions
+        function nextPair() {
+            if (currentIndex < currentPairs.length - 1) {
+                currentIndex++;
+                renderCurrentPair();
+            } else {
+                showToast("Reached the end of this category.");
+            }
+        }
+
+        function prevPair() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                renderCurrentPair();
+            }
+        }
+
+        function openModal(title, desc, confirmBtnClass, confirmText, actionFn) {
+            modalTitle.innerText = title;
+            modalTitle.className = `modal-title ${confirmBtnClass === 'btn-delete-ref' ? 'danger' : 'warning'}`;
+            modalDesc.innerText = desc;
+            
+            modalConfirm.innerText = confirmText;
+            modalConfirm.className = `btn ${confirmBtnClass}`;
+            
+            confirmModal.classList.add('active');
+            pendingAction = actionFn;
+        }
+
+        function closeModal() {
+            confirmModal.classList.remove('active');
+            pendingAction = null;
+        }
+
+        async function executeDeleteVariant() {
+            const pair = currentPairs[currentIndex];
+            try {
+                const response = await fetch('/api/delete-variant', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        category: activeCategory,
+                        asin: pair.asin,
+                        variation_file: pair.variation_file
+                    })
+                });
+                const res = await response.json();
+                if (res.success) {
+                    showToast("Variant deleted successfully.");
+                    // Remove from local list
+                    currentPairs.splice(currentIndex, 1);
+                    // Adjust index if we deleted the last element
+                    if (currentIndex >= currentPairs.length && currentIndex > 0) {
+                        currentIndex--;
+                    }
+                    // Update category counts locally
+                    const cat = categories.find(c => c.id === activeCategory);
+                    if (cat) cat.count--;
+                    renderCategoryList();
+                    renderCurrentPair();
+                } else {
+                    showToast(res.error || "Failed to delete variant", true);
+                }
+            } catch (err) {
+                console.error(err);
+                showToast("Error deleting variant", true);
+            }
+            closeModal();
+        }
+
+        async function executeDeleteReferenceSet() {
+            const pair = currentPairs[currentIndex];
+            try {
+                const response = await fetch('/api/delete-ref-set', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        category: activeCategory,
+                        asin: pair.asin
+                    })
+                });
+                const res = await response.json();
+                if (res.success) {
+                    showToast("Reference set and all variants deleted.");
+                    
+                    // Remove all pairs that have the same ASIN from the local list
+                    const deletedAsin = pair.asin;
+                    let removedCount = 0;
+                    currentPairs = currentPairs.filter(p => {
+                        if (p.asin === deletedAsin) {
+                            removedCount++;
+                            return false;
+                        }
+                        return true;
+                    });
+                    
+                    if (currentIndex >= currentPairs.length) {
+                        currentIndex = Math.max(0, currentPairs.length - 1);
+                    }
+                    
+                    // Update category counts locally
+                    const cat = categories.find(c => c.id === activeCategory);
+                    if (cat) cat.count = Math.max(0, cat.count - removedCount);
+                    renderCategoryList();
+                    renderCurrentPair();
+                } else {
+                    showToast(res.error || "Failed to delete reference set", true);
+                }
+            } catch (err) {
+                console.error(err);
+                showToast("Error deleting reference set", true);
+            }
+            closeModal();
+        }
+
+        function showToast(message, isError = false) {
+            notificationToast.innerText = message;
+            if (isError) {
+                notificationToast.classList.add('error');
+            } else {
+                notificationToast.classList.remove('error');
+            }
+            notificationToast.classList.add('show');
+            setTimeout(() => {
+                notificationToast.classList.remove('show');
+            }, 3000);
+        }
+
+        // Bind events
+        btnKeep.onclick = nextPair;
+        
+        btnDeleteVar.onclick = () => {
+            if (!currentPairs || currentPairs.length === 0) return;
+            const pair = currentPairs[currentIndex];
+            const filename = pair.variation_file.split('/').pop();
+            openModal(
+                "Delete Variant Image", 
+                `Are you sure you want to delete the variant image "${filename}" and its corresponding metadata? This action cannot be undone.`,
+                "btn-delete-var",
+                "Delete Variant",
+                executeDeleteVariant
+            );
+        };
+
+        btnDeleteRef.onclick = () => {
+            if (!currentPairs || currentPairs.length === 0) return;
+            const pair = currentPairs[currentIndex];
+            openModal(
+                "Delete Reference Set", 
+                `Are you sure you want to delete the reference set for ASIN "${pair.asin}"? This will delete the reference image, all corresponding variant images, and remove the product metadata entry completely.`,
+                "btn-delete-ref",
+                "Delete Reference Set",
+                executeDeleteReferenceSet
+            );
+        };
+
+        modalCancel.onclick = closeModal;
+        modalConfirm.onclick = () => {
+            if (pendingAction) pendingAction();
+        };
+
+        // Keyboard Shortcuts
+        document.addEventListener('keydown', (e) => {
+            // If modals are open, handle enter/escape
+            if (confirmModal.classList.contains('active')) {
+                if (e.key === 'Escape') {
+                    closeModal();
+                } else if (e.key === 'Enter') {
+                    if (pendingAction) pendingAction();
+                }
+                return;
+            }
+
+            if (!currentPairs || currentPairs.length === 0) return;
+
+            if (e.key === 'ArrowRight' || e.key === ' ') {
+                e.preventDefault();
+                nextPair();
+            } else if (e.key === 'ArrowLeft') {
+                e.preventDefault();
+                prevPair();
+            } else if (e.key.toLowerCase() === 'v' || e.key.toLowerCase() === 'd') {
+                btnDeleteVar.click();
+            } else if (e.key.toLowerCase() === 'r' || e.key === 'Delete') {
+                btnDeleteRef.click();
+            }
+        });
+
+        // Initialize
+        fetchCategories();
+    </script>
+</body>
+</html>

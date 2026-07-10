@@ -1,0 +1,138 @@
+[
+    {
+        "asin": "B017T6CUS2",
+        "title": "Amazon.com Gift Cards - As a Bookmark",
+        "reference_file": "B017T6CUS2/reference.jpg",
+        "categorical_name": "bookmark",
+        "variation_files": [
+            {
+                "file": "B017T6CUS2/variation_1.jpg",
+                "prompt": "A close-up, slightly angled shot of a hand gently holding open a hardcover book on a warm-toned wooden surface, with the bookmark placed between the pages. The bookmark is positioned diagonally across the open pages, partially covering the text, with its string extending toward the top left. The book lies flat, with visible page edges and printed text, suggesting active reading. In the background, a stack of other books is arranged casually, including some with visible spines and others lying flat, creating a layered, cozy reading environment. Natural light appears to be coming from the right, casting soft shadows and highlighting the texture of the paper and the hand. The overall composition conveys a quiet, intimate moment of reading, with the bookmark as the central"
+            },
+            {
+                "file": "B017T6CUS2/variation_2.jpg",
+                "prompt": "A tall, rectangular bookmark is positioned diagonally across a stack of thick, hardcover books, leaning slightly forward. The stack consists of several books with varying spine colors and textures, including dark blue, red, and beige, arranged in a slightly uneven pile on a textured brown surface, likely a wooden table or desk. In the background, a warm-toned wooden bookshelf is visible, filled with numerous books standing upright, creating a cozy, well-read atmosphere. The lighting is soft and natural, casting gentle shadows and highlighting the edges of the books and the bookmark. The bookmark is attached to the top book by a thin white string threaded through a hole at its top edge. The scene is composed to suggest a quiet, intellectual environment, with the"
+            },
+            {
+                "file": "B017T6CUS2/variation_3.jpg",
+                "prompt": "A collection of four bookmarks arranged diagonally on a textured beige fabric surface, overlapping slightly with their white ribbons fanned out at the top. The bookmarks vary in color and design, with one featuring a dark blue night sky with a white moon and green trees, another showing a red brick chimney with a Santa hat, a third with a teal background and abstract leaf patterns, and the fourth in orange with a subtle pattern of small icons. In the softly blurred background, a wooden bookshelf filled with books is visible, suggesting a cozy, indoor reading environment. The lighting is warm and natural, highlighting the bookmarks as the focal point."
+            }
+        ]
+    },
+    {
+        "asin": "1619923009",
+        "title": "Cavallini Papers Glitter Gift Tags Christmas Cats and Dogs Assorted Gift Tags Packaged in a Tin, Set of 36",
+        "reference_file": "1619923009/reference.jpg",
+        "categorical_name": "gift tags",
+        "variation_files": [
+            {
+                "file": "1619923009/variation_1.jpg",
+                "prompt": "A horizontal arrangement of six distinct gift tags, each suspended by a red-and-white striped string threaded through a small hole at the top. The tags are displayed against a plain white background, evenly spaced and slightly overlapping to create a collage-like composition. The tags vary in shape: two are oval, two are circular, one is rectangular with a scalloped top edge, and one is a simple rectangle. Each tag features a central illustration of cats and dogs in festive Christmas scenes, rendered in a vintage, illustrative style with soft, warm tones. The illustrations include a tabby cat with a red bow, kittens playing with holly, a row of puppies, and cats in a sleigh. The background of each tag is a solid, light"
+            },
+            {
+                "file": "1619923009/variation_2.jpg",
+                "prompt": "A flat lay composition featuring six distinct gift tags arranged in two rows on a plain white background. The top row displays three tags: an oval-shaped tag on the left, a scalloped-edge tag in the center, and a circular tag on the right. The bottom row shows three more tags: a rectangular tag on the left, a circular tag in the center, and an oval-shaped tag on the right. Each tag has a small hole at the top with a white string threaded through it for hanging. The tags are evenly spaced and presented against a clean, uncluttered background with soft, even lighting that highlights their shapes and edges without casting harsh shadows. The overall layout is balanced and symmetrical, emphasizing the variety of shapes and the"
+            }
+        ]
+    },
+    {
+        "asin": "B06ZY3Y9BZ",
+        "title": "Amazon.com Gift Card in Gift Tag (Various Designs)",
+        "reference_file": "B06ZY3Y9BZ/reference.jpg",
+        "categorical_name": "gift tag",
+        "variation_files": [
+            {
+                "file": "B06ZY3Y9BZ/variation_1.jpg",
+                "prompt": "A split-screen composition featuring two distinct items placed side by side on a plain white background. On the left, a rectangular, smooth-surfaced card with rounded corners, presented at a slight angle, lies flat. On the right, the gift tag stands upright, attached by a twisted purple string threaded through a small metallic grommet at its top. The gift tag has a tapered top and a solid yellow background panel, decorated with a pattern of small purple stars near the top edge and larger, colorful circular shapes resembling balloons scattered across the lower portion. The balloons are rendered in solid, vibrant hues and are connected by thin white lines suggesting strings. The overall lighting is bright and even, highlighting the clean, flat surfaces and crisp edges of both items"
+            }
+        ]
+    },
+    {
+        "asin": "B06ZYDKCS7",
+        "title": "Amazon.com Gift Card in Gift Tag (Various Designs)",
+        "reference_file": "B06ZYDKCS7/reference.jpg",
+        "categorical_name": "gift tag",
+        "variation_files": [
+            {
+                "file": "B06ZYDKCS7/variation_1.jpg",
+                "prompt": "A split-screen composition featuring two distinct items placed side by side against a plain white background. On the left, a rectangular, flat, white card with rounded corners is angled slightly, displaying a simple, clean surface with no visible text or branding. On the right, the gift tag is shown upright, with a tapered top and a small metallic grommet through which a twisted purple string is threaded and tied into a loose knot. The tag has a solid yellow background panel with a pattern of small purple stars near the top edge. The lower portion of the tag features a cluster of large, colorful, circular shapes resembling balloons in various hues, arranged in a festive, overlapping layout. The overall lighting is bright and even, with soft shadows beneath each item"
+            }
+        ]
+    },
+    {
+        "asin": "B08LZLTDP8",
+        "title": "Nordstrom Gift Card",
+        "reference_file": "B08LZLTDP8/reference.jpg",
+        "categorical_name": "gift card",
+        "variation_files": [
+            {
+                "file": "B08LZLTDP8/variation_1.jpg",
+                "prompt": "A vertically oriented gift card is centered on a tall, narrow background featuring a stylized, abstract Christmas tree design. The tree is composed of layered, curved beige and off-white stripes that radiate outward from the center, creating a geometric, festive pattern. Small, evenly spaced circular dots line the edges of the tree\u2019s branches, adding subtle texture. The gift card is positioned horizontally in the middle of the composition, slightly above the vertical center. It is presented as a flat, rectangular object with a clean, crisp edge, resting directly on the patterned surface. The background behind the card is plain and uniform, with no text, logos, or additional graphic elements visible. The overall lighting is soft and even, highlighting the card and the subtle texture"
+            },
+            {
+                "file": "B08LZLTDP8/variation_2.jpg",
+                "prompt": "A diagonally angled shot of the gift card resting partially open on a folded paper envelope. The envelope features a textured, natural-toned surface with a repeating abstract pattern of curved beige and cream shapes, including dotted arcs and flowing lines. The gift card itself is positioned at an angle, with its top left corner tucked inside the envelope\u2019s fold, revealing a portion of its surface. The card is set against a clean, bright white background, with soft, even lighting that highlights the texture of the paper and creates subtle shadows along the edges of the card and envelope. The overall composition is minimalist and elegant, emphasizing the tactile quality of the materials and the clean geometry of the layout."
+            }
+        ]
+    },
+    {
+        "asin": "B01FERRBBE",
+        "title": "Amazon.com Gift Card with a Holiday Teddy Bear - Limited Edition",
+        "reference_file": "B01FERRBBE/reference.jpg",
+        "categorical_name": "gift card holder",
+        "variation_files": [
+            {
+                "file": "B01FERRBBE/variation_1.jpg",
+                "prompt": "A white, fluffy teddy bear wearing a red Santa hat with white pom-poms and red mittens with white snowflake patterns sits on a dark wooden surface. The bear holds a green gift-shaped card with a red ribbon and a small white tag attached, positioned in front of its chest. To the right of the bear are two wrapped gifts: one large, wrapped in red paper with a white ribbon, and one smaller, wrapped in brown kraft paper with a white ribbon. To the left of the bear is a pinecone tied with a small red ribbon. In the background, a softly blurred Christmas tree is decorated with warm yellow lights and red ornaments, creating a bokeh effect. The scene is warmly lit, evoking a cozy holiday"
+            }
+        ]
+    },
+    {
+        "asin": "B09H3XJBB2",
+        "title": "Amazon.com Gift Card for any Amount in a Lunar New Year Premium Paper Certificate",
+        "reference_file": "B09H3XJBB2/reference.jpg",
+        "categorical_name": "gift card",
+        "variation_files": [
+            {
+                "file": "B09H3XJBB2/variation_1.jpg",
+                "prompt": "A red envelope is shown open, angled slightly to the right, with a portion of the gift card partially inserted into its top opening. The gift card features a solid yellow background panel with a decorative border and floral patterns in white, visible at the top edge. The envelope itself is plain red with a smooth texture, and the interior flap is folded back, revealing a clean, unmarked surface. The composition is set against a plain white background, with soft, even lighting that highlights the texture of the envelope and the crisp edges of the gift card. The overall layout is minimal and focused, emphasizing the simple act of presenting the gift card within the envelope."
+            }
+        ]
+    },
+    {
+        "asin": "B06ZYYZDZD",
+        "title": "Amazon.com Gift Card in Gift Tag (Various Designs)",
+        "reference_file": "B06ZYYZDZD/reference.jpg",
+        "categorical_name": "gift tag",
+        "variation_files": [
+            {
+                "file": "B06ZYYZDZD/variation_1.jpg",
+                "prompt": "A split-screen composition featuring two distinct items side by side against a plain white background. On the left, a rectangular white card with rounded corners is angled slightly, displaying a solid orange curved arrow graphic and a small black numerical value in the top-left corner. On the right, the gift tag is shown vertically, with a yellow top section adorned with small purple star patterns and a purple twisted string threaded through a metal grommet at the top. The main body of the gift tag has a solid yellow background with large, overlapping circular shapes in purple, green, and orange, arranged to resemble balloons with thin white lines extending downward. The tag is positioned upright, with the string extending diagonally upward and to the right. The overall lighting is bright and"
+            }
+        ]
+    },
+    {
+        "asin": "B00BXOFI1I",
+        "title": "Vintage Plumes Gift Card Holder & Wallet",
+        "reference_file": "B00BXOFI1I/reference.jpg",
+        "categorical_name": "card holder",
+        "variation_files": [
+            {
+                "file": "B00BXOFI1I/variation_1.jpg",
+                "prompt": "A hand holding the card holder from the side, fingers gently gripping the edge, thumb resting on the front surface. The card holder is shown at a slight angle, revealing its slim profile and rounded corners. The background is plain white, with soft, even lighting that highlights the object\u2019s form and the natural texture of the hand. The hand appears relaxed and steady, suggesting a casual, everyday use scenario. The focus is on the interaction between the hand and the product, emphasizing portability and ease of handling."
+            }
+        ]
+    },
+    {
+        "asin": "B01FERR9FW",
+        "title": "Amazon.com Gift Card with a Holiday Teddy Bear - Limited Edition",
+        "reference_file": "B01FERR9FW/reference.jpg",
+        "categorical_name": "gift card holder",
+        "variation_files": [
+            {
+                "file": "B01FERR9FW/variation_1.jpg",
+                "prompt": "A fluffy white teddy bear wearing a red Santa hat with white pom-poms and red mittens with white snowflake patterns sits on a wooden surface in a cozy holiday setting. Behind it, a softly blurred Christmas tree is adorned with warm glowing lights and red ornaments, creating a bokeh effect. To the right of the bear are two wrapped gifts: a larger red box and a smaller brown kraft paper box, both tied with white ribbons and bows. A pinecone with a small red ribbon lies to the left of the bear. The scene is warmly lit, evoking a festive and inviting atmosphere, with a light dusting of faux snow visible on the surface near the gifts. The gift card holder is positioned centrally, holding a green"
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+You are analyzing a product image to determine if it features a cleanly isolated product subject suitable for a dataset.
+
+Analyze the image carefully. Does it satisfy the following criteria?
+
+Criteria to Prefer (Answer 'Yes'):
+- The image features exactly ONE primary product subject clearly separated from the background.
+- The background is plain, clean, or neutral (such as solid white, grey, or a simple uncluttered studio backdrop).
+- The product is cleanly isolated and centered.
+
+Criteria to Avoid (Answer 'No'):
+- The image is a collage, grid, or split-screen showing multiple different panels, views, or layouts.
+- There are multiple different accessories, packaging boxes, hands, or unrelated objects cluttering the scene.
+- The subject is occluded, cut off, or extremely blurry.
+- The image features text/graphics overlays or banners that dominate the visual content.
+
+Answer with 'Yes' if the image features exactly ONE cleanly isolated primary product subject. Otherwise, answer 'No'.
+Response format: Respond with ONLY 'Yes' or 'No'.

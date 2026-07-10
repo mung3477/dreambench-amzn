@@ -1,0 +1,18 @@
+Given a reference image of a product (first image) and a candidate variation image (second image), decide if a Subject-Driven Image Generation model (which generates realistic 3D perspective images of the subject in different poses/scenes) is able and expected to generate the variation image.
+
+Prefer:
+- Realistic 3D perspective photos of the product (showing multiple faces in perspective), either on a plain background or in a natural, real-world scene/environment.
+
+Do NOT select (respond with 'No' if):
+- The variation is a flat 2D orthographic projection (e.g. a perfectly straight-on front, back, top, or side view with no depth or perspective).
+- The variation is a technical drawing, blueprint, illustration, or infographic with textual overlays, dimension lines, or graphic annotations.
+- The variation is a macro close-up crop showing only a single port, button, label, or small detail of the product.
+- The variation shows parts, sides, or features of the product (e.g., rear ports, connectors, hidden panels, unseen text/logos) that are completely hidden or not visible in the reference image. Think about the prompt needed to generate this variation: if the prompt would require describing attributes or features that were not present or visible in the original reference image, reject it.
+- The variation only shows a minor camera rotation, viewpoint change, or perspective shift of the product on the same clean/plain background. Avoid "easy" variations where the only difference is a slight camera angle change. There must be other significant visual changes, such as placing the product in a different real-world environment, a new context (e.g. inside a room, on a desk, outdoors), or showing it being held or used.
+- The variation alters the product's structure, components, or attachments (for example, a chain, strap, clip, mount, stand, or accessory is present in the reference image but missing in the variation, or vice-versa). The product must have the exact same components and attachments in both images.
+- The variation shows the product on a simple mannequin, stand, product hanger, or display torso against a plain studio background. This does not count as a different real-world environment or context.
+
+
+Analyze both images and all the criteria carefully. Does the second image meet the requirements and qualify as a valid variation? Answer 'Yes' only if it matches the 'Prefer' criteria and does NOT trigger any of the 'Do NOT select' exclusions. Otherwise, answer 'No'.
+
+Response format: Respond with ONLY 'Yes' or 'No'.

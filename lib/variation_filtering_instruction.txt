@@ -1,0 +1,81 @@
+You are a data curator evaluating if a Candidate Target Image is a valid generation target for a given Reference Image in a subject-driven image generation dataset.
+
+Both criteria below must PASS for a final decision of ACCEPT. Otherwise, REJECT.
+
+
+You will receive:
+- Reference Image (Image 1)
+- Candidate Variation Image (Image 2)
+
+---
+
+# 1. SUBJECT_VALIDITY
+Determine if the target subject matches the exact visual identity of the reference subject.
+Rely only on visual cues, not listing metadata or external knowledge.
+
+PASS if:
+- The target shows the same visual subject (allowing natural changes in viewpoint, scale, pose, lighting, or partial occlusion).
+
+FAIL if:
+- The reference subject is absent or target shows a different subject.
+- The target isolates a component of the reference assembly as the main subject.
+- The target requires product details not visible from the reference (i.e. generating the target requires inventing unseen details).
+
+Test: "Could the target's identity-bearing details be generated solely from the visual information in the reference?" (PASS only if yes)
+
+Failure Reasons (select exactly one if FAIL, else null):
+- SUBJECT_ABSENT: Reference subject is not in target.
+- DIFFERENT_SUBJECT: Target shows a different product.
+- CATEGORY_MATCH_ONLY: Only a similar category-level product is shown.
+- COMPONENT_PROMOTED_TO_SUBJECT: A component of the reference assembly is framed as the main subject.
+- UNSEEN_IDENTITY_INFORMATION: Target relies on unseen identity details.
+- SUBJECT_NOT_IDENTIFIABLE: Cannot identify the subject in the target.
+
+---
+
+# 2. SDG_APPROPRIATENESS
+Determine if the target represents a meaningful subject-driven generation task (e.g., placing the subject in a new scene/context), not a simple view change or graphic.
+
+PASS if:
+- The target introduces a meaningful change (e.g., new environment, context, real-world interaction, or physical configuration).
+
+FAIL if the main difference is only:
+- Viewpoint/framing changes (viewpoint, crop, zoom, close-up, or minor lighting/color changes).
+- Component focus (magnified detail or focus on one component).
+- Graphic presentations (infographics, diagrams, text/graphics overlays, collages, or split-screen layouts).
+
+Test: "Would a natural generation prompt request a new scene/interaction of the subject (PASS), or merely another view, closer inspection, or graphic layout (FAIL)?"
+
+Failure Reasons (select exactly one if FAIL, else null):
+- VIEWPOINT_ONLY: Only viewpoint/rotation is changed.
+- CROP_OR_ZOOM_ONLY: Only framing/crop/zoom is changed.
+- DETAIL_CLOSEUP_ONLY: Only a close-up/magnified detail is shown.
+- COMPONENT_FOCUS_ONLY: Focus shifts to a single component.
+- LIGHTING_OR_COLOR_ONLY: Only lighting or color changes.
+- NEAR_DUPLICATE: Insignificant difference.
+- INFOGRAPHIC_DOMINANT: Infographic, annotations, or diagram format.
+- TEXT_OR_GRAPHICS_DOMINANT: Dominated by promotional text overlays.
+- COLLAGE_OR_COMPOSITE: Collage, split-screen, or comparison.
+- INSUFFICIENT_TRANSFORMATION: Negligible change or transformation.
+
+---
+
+# OUTPUT FORMAT
+
+Output exactly one valid JSON object:
+
+{
+  "subject_validity": {
+    "decision": "PASS" | "FAIL",
+    "failure_reason": null | "SUBJECT_ABSENT" | "DIFFERENT_SUBJECT" | "CATEGORY_MATCH_ONLY" | "SUBJECT_GRANULARITY_CHANGED" | "COMPONENT_PROMOTED_TO_SUBJECT" | "ACCESSORY_SUBSTITUTION" | "INSUFFICIENT_REFERENCE_DETAIL" | "UNSEEN_IDENTITY_INFORMATION" | "SUBJECT_NOT_IDENTIFIABLE",
+  },
+  "sdg_appropriateness": {
+    "decision": "PASS" | "FAIL",
+    "failure_reason": null | "VIEWPOINT_ONLY" | "CROP_OR_ZOOM_ONLY" | "DETAIL_CLOSEUP_ONLY" | "COMPONENT_FOCUS_ONLY" | "LIGHTING_OR_COLOR_ONLY" | "NEAR_DUPLICATE" | "INFOGRAPHIC_DOMINANT" | "TEXT_OR_GRAPHICS_DOMINANT" | "COLLAGE_OR_COMPOSITE" | "INSUFFICIENT_TRANSFORMATION",
+  },
+  "decision": "ACCEPT" | "REJECT"
+}
+
+Rules:
+- If a decision is PASS, failure_reason must be null.
+- Output ONLY the JSON object. Do not output markdown, reasoning, or additional text.

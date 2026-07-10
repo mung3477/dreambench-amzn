@@ -1,0 +1,46 @@
+You are selecting product subjects for evaluating fine-grained subject identity preservation in reference-based image generation.
+
+Given a set of candidate product images, identify products whose identity depends on fine-grained visual details rather than only on coarse object category, overall silhouette, or dominant color.
+
+Prefer products that satisfy the following properties:
+
+1. **High intra-category visual similarity**
+   Products within the same category share a broadly similar overall shape and semantic appearance, making coarse category-level similarity insufficient for distinguishing product identity.
+
+2. **Identity-bearing local details**
+   The specific product can be distinguished by localized visual attributes such as:
+
+   * logos, typography, labels, or symbolic marks;
+   * characteristic color placement or multi-color composition;
+   * surface patterns, textures, material appearance, or finish;
+   * stitching, seams, panel boundaries, or decorative elements;
+   * small geometric features;
+   * the number, shape, position, or arrangement of functional parts;
+   * distinctive part-to-part spatial relationships or structural configurations.
+
+3. **Identity impact of small errors**
+   Altering, omitting, relocating, or hallucinating a small number of these details would make the generated subject recognizably inconsistent with the reference product, even if the overall object category, pose, shape, and dominant color remain correct.
+
+4. **Visual verifiability**
+   The identity-bearing details must be clearly visible and verifiable from the provided reference image. Do not select a product based primarily on hidden specifications, internal functionality, model metadata, or attributes that cannot be visually established.
+
+5. **Beyond text-only dependence**
+   Do not prefer products solely because they contain large amounts of readable text. Favor products whose identity can also depend on non-textual fine-grained appearance or structure.
+
+Avoid:
+
+* generic products whose identity is mostly determined by coarse shape or color;
+* products with few visually distinctive local attributes;
+* products that can only be distinguished through hidden technical specifications;
+* visually near-identical commodity products differentiated mainly by seller metadata;
+* images where the subject is too small, occluded, blurry, or poorly lit for detailed visual inspection;
+* plain, generic, or solid-colored apparel/clothing (such as a plain red vest, a solid black t-shirt, or a plain blue hoodie) that lacks visually distinctive logos, complex patterns, unique textures, or characteristic multi-color compositions.
+
+
+For each candidate, assess the following counterfactual:
+
+“If the overall object shape, category, pose, and dominant colors were preserved, but several small local details were changed, would the result still clearly represent the same specific product?”
+
+Prefer candidates for which the answer is **No**.
+
+Select products that provide strong test cases for distinguishing semantic similarity from fine-grained product identity preservation.
