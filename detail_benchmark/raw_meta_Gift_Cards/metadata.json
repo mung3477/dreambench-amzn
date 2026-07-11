@@ -36,18 +36,6 @@
         ]
     },
     {
-        "asin": "B01FERRBBE",
-        "title": "Amazon.com Gift Card with a Holiday Teddy Bear - Limited Edition",
-        "reference_file": "B01FERRBBE/reference.jpg",
-        "categorical_name": "gift card plush toy",
-        "variation_files": [
-            {
-                "file": "B01FERRBBE/variation_1.jpg",
-                "prompt": "A festive holiday scene featuring the gift card plush toy sitting on a wooden surface in front of a softly blurred Christmas tree adorned with warm golden lights and red ornaments. The plush toy is positioned slightly to the left, with two wrapped gifts placed to its right — one in red paper with a white ribbon, the other in brown kraft paper with a white ribbon. A small pinecone with a red ribbon lies to the left of the plush toy. The background is softly out of focus, creating a bokeh effect that emphasizes the warm, cozy, and celebratory atmosphere. The lighting is warm and ambient, highlighting the plush toy and the gifts, with a gentle glow emanating from the tree lights. The overall composition is balanced and inviting, evoking"
-            }
-        ]
-    },
-    {
         "asin": "B00BXOFI1I",
         "title": "Vintage Plumes Gift Card Holder & Wallet",
         "reference_file": "B00BXOFI1I/reference.jpg",
@@ -56,18 +44,6 @@
             {
                 "file": "B00BXOFI1I/variation_1.jpg",
                 "prompt": "A hand holds the gift card holder against a plain white background. The hand is positioned on the right side of the frame, with the thumb and fingers gripping the right edge of the product, displaying its front surface. The product is shown in a slightly angled, upright orientation, allowing a clear view of its design. The lighting is bright and even, creating a clean, studio-like appearance with soft shadows under the hand and product. The background is completely uniform and featureless, emphasizing the product and hand as the sole focal points. The hand appears natural, with visible skin texture and realistic proportions, suggesting a real-life demonstration of the product's size and portability."
-            }
-        ]
-    },
-    {
-        "asin": "B01FERR9FW",
-        "title": "Amazon.com Gift Card with a Holiday Teddy Bear - Limited Edition",
-        "reference_file": "B01FERR9FW/reference.jpg",
-        "categorical_name": "gift card plush toy",
-        "variation_files": [
-            {
-                "file": "B01FERR9FW/variation_1.jpg",
-                "prompt": "A cozy holiday scene featuring the gift card plush toy sitting on a dark wooden surface, positioned slightly to the left of center. The plush toy is surrounded by festive elements: to its right, two wrapped gift boxes — one large in red paper with a white ribbon, and one smaller in brown kraft paper with a white ribbon — are placed side by side. To the left of the plush toy, a pinecone tied with a small red ribbon rests on the surface. In the background, a softly blurred Christmas tree is adorned with warm, glowing lights and red ornaments, creating a bokeh effect that adds depth and holiday ambiance. The lighting is warm and inviting, with soft highlights on the plush toy and gifts, enhancing the festive mood. The overall"
             }
         ]
     }

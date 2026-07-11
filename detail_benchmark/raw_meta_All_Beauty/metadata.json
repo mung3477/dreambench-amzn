@@ -6,24 +6,8 @@
         "categorical_name": "electric shaver",
         "variation_files": [
             {
-                "file": "B000BBPSFA/variation_1.jpg",
-                "prompt": "A close-up product shot of the electric shaver being rinsed under a stream of running water from a modern chrome faucet. The shaver is angled diagonally, with its shaving head submerged and water splashing dynamically around it, capturing motion and droplets mid-air. The background is plain white, emphasizing the product and the action. The lighting is bright and clean, highlighting the reflective surfaces of the faucet and the water\u2019s clarity. The composition focuses on the interaction between the shaver and the water, conveying ease of cleaning and a hygienic, refreshing experience."
-            },
-            {
                 "file": "B000BBPSFA/variation_2.jpg",
-                "prompt": "A clean product shot featuring the electric shaver positioned on the right side of the frame, angled slightly toward the viewer, with its three circular shaving heads clearly visible at the top. To the left of the shaver, a soft, fabric travel pouch is placed, matching the shaver\u2019s overall color scheme and material tone. The pouch has a rounded, flap-top design with visible stitching along the edges and a small, rectangular brand plaque centered on the flap. The entire composition is set against a plain white background, with soft, even lighting that highlights the product and pouch without casting harsh shadows. The layout is balanced, with the shaver and pouch arranged diagonally to create visual interest while maintaining a minimalist and professional aesthetic."
-            }
-        ]
-    },
-    {
-        "asin": "B09B9NFFSM",
-        "title": "WISLIBE Kids Electric Toothbrush Rechargeable, Soft Bristles, 3 Clean Modes, Easy-Press Power Button for 2-6 Years Children and Toddlers(Rabbit)",
-        "reference_file": "B09B9NFFSM/reference.jpg",
-        "categorical_name": "electric toothbrush",
-        "variation_files": [
-            {
-                "file": "B09B9NFFSM/variation_1.jpg",
-                "prompt": "A young girl with light brown hair styled in two braids is sitting at the edge of a white bathtub, smiling at the camera while holding the electric toothbrush in her right hand and brushing her teeth. She is wearing a light pink short-sleeved shirt with ruffled sleeves and a subtle star pattern. The setting is a bright, naturally lit bathroom with soft, warm lighting. To her left, on a wooden countertop, there is a yellow sunflower and a folded beige towel with a small yellow rubber duck resting on top. Behind her, a wooden ladder-style shelf is visible, holding a few neutral-toned decorative items, including a white ceramic bottle and a beige box with a light blue and orange design. The background wall is plain"
+                "prompt": "A clean product shot featuring the electric shaver positioned on the right side of the frame, angled slightly toward the viewer, with its three circular shaving heads clearly visible at the top. To the left of the shaver, a soft, fabric travel pouch is placed, matching the shaver’s overall color scheme and material tone. The pouch has a rounded, flap-top design with visible stitching along the edges and a small, rectangular brand plaque centered on the flap. The entire composition is set against a plain white background, with soft, even lighting that highlights the product and pouch without casting harsh shadows. The layout is balanced, with the shaver and pouch arranged diagonally to create visual interest while maintaining a minimalist and professional aesthetic."
             }
         ]
     },
@@ -56,12 +40,7 @@
         "title": "Philips Norelco T970 Accu-Vac Beard and Moustache Trimmer",
         "reference_file": "B0001HYJW2/reference.jpg",
         "categorical_name": "beard trimmer",
-        "variation_files": [
-            {
-                "file": "B0001HYJW2/variation_1.jpg",
-                "prompt": "A close-up shot of a man\u2019s face from the side, focusing on his jawline and beard area, with the beard trimmer actively trimming his beard. The trimmer is positioned at a slight angle, with its head in contact with the skin near the chin and neck. The man\u2019s skin appears smooth and well-lit, with natural facial hair texture visible. The background is a solid, vibrant blue, providing a clean and contrasting backdrop. The lighting is bright and even, highlighting the trimmer\u2019s motion and the precision of the grooming process. The composition emphasizes the product\u2019s use in real-life grooming, with a clear focus on the interaction between the trimmer and the beard. The overall image has a clean, professional, and dynamic feel"
-            }
-        ]
+        "variation_files": []
     },
     {
         "asin": "B01LFUCWKO",
@@ -76,34 +55,14 @@
         ]
     },
     {
-        "asin": "B07Y9JG82G",
-        "title": "NUOBESTY Crab Headband Crab Costume Accessories Lobster Hair Hoops Plush Animal Hair Band Headwear for Halloween Dress Up Christmas Party",
-        "reference_file": "B07Y9JG82G/reference.jpg",
-        "categorical_name": "headband",
-        "variation_files": [
-            {
-                "file": "B07Y9JG82G/variation_1.jpg",
-                "prompt": "A young woman with long, dark hair is smiling warmly at the camera while wearing the headband on her head. She is seated indoors in a bright, cozy room with soft, natural lighting. Her right hand is gently touching her cheek, and she is wearing a plain white short-sleeved t-shirt. Behind her, to the left, is a white wall decorated with a collection of small, colorful picture frames arranged in a grid, some with solid-colored borders and others with light patterns. To the right, a white shelving unit holds several books, a few decorative bottles, and a framed photograph with a soft pink border. A small potted plant and a vase with colorful flowers are visible on the lower shelf. The overall background is softly"
-            },
-            {
-                "file": "B07Y9JG82G/variation_2.jpg",
-                "prompt": "A young woman with shoulder-length brown hair is wearing the headband, positioned on her forehead with the crab-like features facing forward. She is seated indoors, looking directly at the camera with a playful, slightly pensive expression, her hands gently resting near her chin with fingers lightly touching her cheeks. She wears a plain white short-sleeved t-shirt with a small brown rectangular patch on the chest. The background is a bright, softly lit room with a modern, cozy aesthetic: a white bookshelf to the right holds books and decorative items, with a small bouquet of colorful flowers on the lower shelf. Behind her, a wall is adorned with a collection of small, colorful picture frames in various pastel hues\u2014pink, yellow, blue\u2014arr"
-            },
-            {
-                "file": "B07Y9JG82G/variation_3.jpg",
-                "prompt": "A young woman with long, light brown hair is smiling warmly at the camera while wearing the headband on her head. She is positioned slightly off-center, looking toward the viewer with a playful, cheerful expression, her right hand gently touching the side of the headband. She wears a plain white short-sleeved t-shirt with a small, rectangular, two-tone patch on the chest \u2014 one half white, the other a solid brown \u2014 but no text or logos are visible on the shirt.\n\nThe background is a bright, softly lit indoor setting with a warm, inviting atmosphere. To the left, a yellow easel stands near a wall decorated with several framed pictures arranged in a grid; the frames are in pastel tones like pink, orange,"
-            }
-        ]
-    },
-    {
         "asin": "B097VJFK2L",
-        "title": "Gelish Soak-Off Gel Polish Uncharted Territory - Garnet Cr\u00e8me - 15 mL | .5 fl. Oz.",
+        "title": "Gelish Soak-Off Gel Polish Uncharted Territory - Garnet Crème - 15 mL | .5 fl. Oz.",
         "reference_file": "B097VJFK2L/reference.jpg",
         "categorical_name": "gel polish",
         "variation_files": [
             {
                 "file": "B097VJFK2L/variation_1.jpg",
-                "prompt": "A close-up, overhead lifestyle shot of a person\u2019s hands resting on a warm-toned wooden surface, with one hand gently touching a vintage-style camera and the other hand placed near a small bottle of the gel polish. The person is wearing a maroon jacket with white ruffled cuffs, a gold cuff bracelet on one wrist, and delicate rings on the fingers. The nails are painted with a rich, deep red polish. The surface is adorned with a soft, fluffy white fur-like fabric, a plaid-patterned blanket in warm orange and brown tones, and a stack of plain notebooks or journals \u2014 one with a solid peach-pink cover and another with a white cover. The lighting is soft and golden, suggesting natural sunlight, creating a cozy"
+                "prompt": "A close-up, overhead lifestyle shot of a person’s hands resting on a warm-toned wooden surface, with one hand gently touching a vintage-style camera and the other hand placed near a small bottle of the gel polish. The person is wearing a maroon jacket with white ruffled cuffs, a gold cuff bracelet on one wrist, and delicate rings on the fingers. The nails are painted with a rich, deep red polish. The surface is adorned with a soft, fluffy white fur-like fabric, a plaid-patterned blanket in warm orange and brown tones, and a stack of plain notebooks or journals — one with a solid peach-pink cover and another with a white cover. The lighting is soft and golden, suggesting natural sunlight, creating a cozy"
             }
         ]
     },
@@ -120,34 +79,6 @@
             {
                 "file": "B08BV6F6BC/variation_2.jpg",
                 "prompt": "A product shot featuring the bar soap in its packaging, placed on a white marble surface. The packaging is a vibrant teal box with illustrated green leaves and yellow coral-like patterns. Behind the box, two bars of soap are visible in soft focus: one with a marbled lavender and cream design, and the other with a marbled pink and cream design. The background consists of a light gray tiled wall with a subtle grid pattern. In the upper right corner, a translucent teal vase holds dried yellow stems. To the left, a soft white towel is partially visible. The lighting is bright and even, creating a clean, natural, and spa-like atmosphere. The overall composition is centered, with the product box in the foreground and the soaps arranged diagon"
-            },
-            {
-                "file": "B08BV6F6BC/variation_3.jpg",
-                "prompt": "A split-screen composition featuring a close-up of a smiling woman with radiant, glowing skin on the right side, her hands gently cradling her face, hair styled in a high bun, and natural lighting highlighting her smooth complexion. On the left side, two bars of soap are displayed at an angle, one with a marbled pink and cream pattern, the other with a marbled purple and cream pattern, both resting on a plain white surface. The background is a solid, clean white, creating a bright and minimalist aesthetic. The overall lighting is soft and even, emphasizing natural beauty and freshness."
-            }
-        ]
-    },
-    {
-        "asin": "B0177RLJ1W",
-        "title": "reskin TS Propolis Serum Even Skin-tone Moisture Care",
-        "reference_file": "B0177RLJ1W/reference.jpg",
-        "categorical_name": "serum",
-        "variation_files": [
-            {
-                "file": "B0177RLJ1W/variation_1.jpg",
-                "prompt": "A close-up shot of a human hand, palm facing up, with the fingers slightly curled into a relaxed fist. A single, smooth, glossy droplet of the serum rests on the center of the palm, glistening under soft, even lighting. The skin appears natural and unedited, with visible texture and subtle undertones. The background is a plain, solid white, creating a clean, minimalist aesthetic that emphasizes the product droplet and the hand. The lighting is bright and diffused, highlighting the sheen of the serum without harsh shadows. The composition is centered, focusing entirely on the hand and the droplet, with no additional objects, text, or graphic elements present."
-            }
-        ]
-    },
-    {
-        "asin": "B07X5V6QLB",
-        "title": "EVER FAITH Crystal Eleagnt Bridal Flower Cluster Headpiece Wedding Accessory Hair Barrette for Women Clear Silver-Tone",
-        "reference_file": "B07X5V6QLB/reference.jpg",
-        "categorical_name": "hair barrette",
-        "variation_files": [
-            {
-                "file": "B07X5V6QLB/variation_1.jpg",
-                "prompt": "A close-up product shot of the hair barrette resting diagonally on a smooth, white oval ceramic dish. The dish is placed on a soft, matte peach-pink surface. The background features a shallow depth of field with softly blurred decorative elements: a bouquet of artificial flowers in muted tones of deep pink, white, and purple, accompanied by scattered pearls and a flowing peach-pink ribbon. The lighting is soft and diffused, creating gentle highlights on the barrette and a warm, elegant ambiance. The composition emphasizes the product as the focal point, with the background elements arranged to suggest a romantic, bridal, or luxury aesthetic."
             }
         ]
     },
@@ -167,7 +98,7 @@
             },
             {
                 "file": "B08WHBSK6R/variation_3.jpg",
-                "prompt": "A foaming body wash bottle lies horizontally on a soft, folded white towel with bold blue wavy stripes. The towel is arranged in layers, with one section neatly rolled and placed behind the bottle, creating a gentle, textured backdrop. The setting is bright and clean, with soft natural light coming from the left, casting subtle shadows and highlighting the towel\u2019s fluffy texture. The background is a smooth, light gray surface with a slightly blurred, airy window or glass wall in the distance, giving a fresh, minimalist bathroom or spa-like ambiance. The overall composition is calm and inviting, emphasizing cleanliness and freshness."
+                "prompt": "A foaming body wash bottle lies horizontally on a soft, folded white towel with bold blue wavy stripes. The towel is arranged in layers, with one section neatly rolled and placed behind the bottle, creating a gentle, textured backdrop. The setting is bright and clean, with soft natural light coming from the left, casting subtle shadows and highlighting the towel’s fluffy texture. The background is a smooth, light gray surface with a slightly blurred, airy window or glass wall in the distance, giving a fresh, minimalist bathroom or spa-like ambiance. The overall composition is calm and inviting, emphasizing cleanliness and freshness."
             }
         ]
     },
@@ -179,15 +110,11 @@
         "variation_files": [
             {
                 "file": "B017A0PAFW/variation_1.jpg",
-                "prompt": "A close-up shot of a person\u2019s forearm, showing the temporary tattoo applied to the skin. The arm is extended horizontally across the frame, with the elbow slightly bent and the hand out of view. The tattoo is centered on the forearm, spanning from near the elbow to the wrist. The person is wearing a plain gray short-sleeved shirt, with the sleeve pushed up to reveal the tattoo. The background is a soft, out-of-focus white or light gray, creating a clean and neutral setting. The lighting is even and natural, highlighting the texture of the skin and the details of the tattoo. The composition focuses entirely on the tattooed arm, with no additional text, graphics, or branding elements visible."
+                "prompt": "A close-up shot of a person’s forearm, showing the temporary tattoo applied to the skin. The arm is extended horizontally across the frame, with the elbow slightly bent and the hand out of view. The tattoo is centered on the forearm, spanning from near the elbow to the wrist. The person is wearing a plain gray short-sleeved shirt, with the sleeve pushed up to reveal the tattoo. The background is a soft, out-of-focus white or light gray, creating a clean and neutral setting. The lighting is even and natural, highlighting the texture of the skin and the details of the tattoo. The composition focuses entirely on the tattooed arm, with no additional text, graphics, or branding elements visible."
             },
             {
                 "file": "B017A0PAFW/variation_2.jpg",
                 "prompt": "A close-up shot of a person's forearm, flexed and extended across the chest, showcasing the temporary tattoo applied along the length of the inner arm. The person is wearing a plain gray t-shirt and has short, dark hair. The background is a clean, neutral, solid white, creating a bright and minimalistic studio environment. The lighting is soft and even, highlighting the skin texture and the tattoo's details without harsh shadows. The composition focuses tightly on the arm and tattoo, with the person's face obscured by their arm, emphasizing the product's appearance on the skin."
-            },
-            {
-                "file": "B017A0PAFW/variation_3.jpg",
-                "prompt": "A high-angle, top-down photograph of the temporary tattoo placed centrally on a clean, white rectangular sheet of paper. The paper rests on a warm-toned wooden surface with visible natural grain, knots, and subtle texture, suggesting a rustic or craft-style tabletop. The lighting is soft and even, casting minimal shadows, highlighting the crisp black ink of the tattoo design against the bright white paper. The composition is simple and uncluttered, focusing entirely on the product\u2019s ornate, calligraphic style with flowing swirls and flourishes, presented in a flat, isolated manner with no additional text, graphics, or branding elements."
             }
         ]
     },
@@ -196,12 +123,7 @@
         "title": "White Tube, Eau de Toilette Spray for Men, Wonderful Gift, Classic Fragrance, Daytime and Casual Use, for all Skin Types, a Classic Bottle, 1.15 Fluid Ounce (Pack of 2)",
         "reference_file": "B087CK2GB4/reference.jpg",
         "categorical_name": "perfume bottle",
-        "variation_files": [
-            {
-                "file": "B087CK2GB4/variation_1.jpg",
-                "prompt": "A product shot featuring the perfume bottle placed on a soft, wrinkled white fabric surface, positioned to the left of its packaging box. The box is rectangular, standing upright, and wrapped in clear plastic. It has a silver top panel and a predominantly white front face with horizontal light blue stripes running across the upper and lower sections. The central area of the box is plain white, displaying a simple silhouette graphic of the perfume bottle in a solid dark blue tone, centered vertically. The entire composition is evenly lit with soft, diffused lighting, creating subtle shadows beneath the bottle and box, giving a clean, minimalistic, and slightly vintage aesthetic."
-            }
-        ]
+        "variation_files": []
     },
     {
         "asin": "B017J17QQ8",
@@ -211,63 +133,7 @@
         "variation_files": [
             {
                 "file": "B017J17QQ8/variation_1.jpg",
-                "prompt": "A close-up action shot of a hand holding the body wash bottle, tilted to pour its contents into the palm of another hand below. The bottle is shown from a dynamic, slightly angled perspective, emphasizing the flow of the product. The liquid is depicted as a smooth, thick, creamy white stream falling from the bottle\u2019s opening into the open palm, forming a small, glossy pool. The hands are positioned against a clean, plain white background, with soft, even lighting that highlights the texture of the liquid and the natural skin tones of the hands. The bottle is held firmly by the upper hand, with fingers wrapped around its body, while the lower hand is cupped to receive the product. The overall composition focuses on the interaction between the bottle and"
-            },
-            {
-                "file": "B017J17QQ8/variation_2.jpg",
-                "prompt": "A close-up action shot of a hand holding the body wash bottle, tilted to pour a thick, creamy white liquid into the palm of another hand below. The bottle is positioned diagonally, with the cap facing downward, and the product flows in a smooth, continuous stream. The hands are centered in the frame, with the pouring hand above and the receiving hand below, both clearly visible and well-lit. The background is a clean, solid white, creating a minimalist and focused composition. The lighting is bright and even, highlighting the texture of the liquid and the natural skin tones of the hands. The overall scene emphasizes the product\u2019s luxurious consistency and ease of use, with no text, labels, or branding elements present."
-            }
-        ]
-    },
-    {
-        "asin": "B07WXPMB38",
-        "title": "LaaVoo 14\" Straight Tape in Hair Extensions 100% Real Human Hair Balayage Ombre Color Ash Brown Fading Ash Blonde to Platinum Blonde Seamless Skin Weft Glue in Hair 20pcs/50g",
-        "reference_file": "B07WXPMB38/reference.jpg",
-        "categorical_name": "hair extensions",
-        "variation_files": [
-            {
-                "file": "B07WXPMB38/variation_1.jpg",
-                "prompt": "A close-up shot of the hair extensions being held gently by two hands, forming a rounded, full bun-like shape. The hands are positioned on either side, cradling the extensions to showcase their volume and natural flow. The background is plain white, providing a clean, minimalistic look that emphasizes the texture and fullness of the product. The lighting is soft and even, highlighting the smoothness and shine of the hair without creating harsh shadows. The overall composition focuses on the tactile quality and realistic appearance of the hair extensions, presented in a natural, lifelike manner."
-            }
-        ]
-    },
-    {
-        "asin": "B010X7D7X6",
-        "title": "DFX Hair (TM) 8~30 inches Brazilian Virgin Human Hair Extension Body Wave, Natural Color (14)",
-        "reference_file": "B010X7D7X6/reference.jpg",
-        "categorical_name": "hair extension",
-        "variation_files": [
-            {
-                "file": "B010X7D7X6/variation_1.jpg",
-                "prompt": "A pair of hands holding the hair extension against a plain white background, with the left hand gripping the base near the pink cylindrical band and the right hand gently supporting the mid-length of the wavy hair, showcasing its volume and natural body in a horizontal S-curve formation. The lighting is bright and even, highlighting the smooth texture and flow of the hair without casting harsh shadows. The composition is centered and clean, with no additional elements or distractions, emphasizing the product's form and movement."
-            }
-        ]
-    },
-    {
-        "asin": "B082WYQWGF",
-        "title": "Vasaana Natural Beeswax Coconut Oil and Shea Body Butter for Skin",
-        "reference_file": "B082WYQWGF/reference.jpg",
-        "categorical_name": "body butter",
-        "variation_files": [
-            {
-                "file": "B082WYQWGF/variation_1.jpg",
-                "prompt": "A pair of hands gently cradling the body butter, with the open tin revealing its creamy texture in one palm and the closed lid resting in the other. The setting is outdoors, with lush green tropical foliage and long palm fronds in the background, creating a natural, serene atmosphere. The hands are positioned over a weathered wooden surface, adding a rustic, organic feel. Natural daylight illuminates the scene, casting soft shadows and highlighting the smooth, reflective surface of the tin. The composition is centered and intimate, emphasizing the product\u2019s natural ingredients and gentle use in a tranquil, garden-like environment."
-            }
-        ]
-    },
-    {
-        "asin": "B078JJW9GV",
-        "title": "COSRX Low pH PHA Barrier Mist, 75ml",
-        "reference_file": "B078JJW9GV/reference.jpg",
-        "categorical_name": "face mist",
-        "variation_files": [
-            {
-                "file": "B078JJW9GV/variation_1.jpg",
-                "prompt": "A hand holds the face mist at an angle, spraying a fine, misty cloud of vapor into the air. The spray forms a soft, diffuse plume that spreads out to the left, creating a gentle, ethereal effect against a solid dark gray background. The hand is positioned on the right side of the frame, with fingers gripping the bottle and the thumb pressing the pump nozzle. The bottle is oriented diagonally, with the nozzle pointing upward and slightly toward the left. The lighting is soft and even, highlighting the texture of the mist and the contours of the hand, while the background remains plain and uncluttered, drawing focus to the action of spraying."
-            },
-            {
-                "file": "B078JJW9GV/variation_2.jpg",
-                "prompt": "A woman with dark hair tied back, wearing a soft pink headband with bunny ears and a white bathrobe, is shown in a close-up portrait against a plain light gray background. She is holding the face mist in her right hand, spraying it gently toward her face, with a fine mist visible in the air around her cheeks. Her eyes are closed, and she has a serene, content expression with a slight smile. The lighting is soft and even, highlighting her smooth, glowing skin. The overall composition is clean and minimal, focusing on the natural, refreshing moment of skincare application."
+                "prompt": "A close-up action shot of a hand holding the body wash bottle, tilted to pour its contents into the palm of another hand below. The bottle is shown from a dynamic, slightly angled perspective, emphasizing the flow of the product. The liquid is depicted as a smooth, thick, creamy white stream falling from the bottle’s opening into the open palm, forming a small, glossy pool. The hands are positioned against a clean, plain white background, with soft, even lighting that highlights the texture of the liquid and the natural skin tones of the hands. The bottle is held firmly by the upper hand, with fingers wrapped around its body, while the lower hand is cupped to receive the product. The overall composition focuses on the interaction between the bottle and"
             }
         ]
     },
@@ -288,94 +154,18 @@
         ]
     },
     {
-        "asin": "B01KH0HQLS",
-        "title": "Belle Nail Drill White Electric Manicure Pedicure File Machine Upgraded with Anti-scald Handpiece for Salon Use Acylic Nail Tool Kit",
-        "reference_file": "B01KH0HQLS/reference.jpg",
-        "categorical_name": "nail drill",
-        "variation_files": [
-            {
-                "file": "B01KH0HQLS/variation_1.jpg",
-                "prompt": "A clean, bright studio composition featuring a close-up of a hand with glossy pink nail polish receiving a manicure treatment. The hand is positioned in the lower right foreground, with fingers slightly spread, while a second hand holds the nail drill, actively working on one of the nails. The drill is shown in use, with its tip in contact with the nail surface. In the upper left background, the base unit of the nail drill is displayed at a slight angle, resting on a plain white surface. The base unit is positioned to show its side profile, with the drill handpiece connected and resting in its cradle. The overall lighting is soft and even, creating a professional and clean aesthetic with minimal shadows. The background is entirely plain white, emphasizing"
-            },
-            {
-                "file": "B01KH0HQLS/variation_2.jpg",
-                "prompt": "A white, rounded base unit with a mounted handpiece rests on a soft, textured white surface. The base features a central rotary dial, a small circular indicator light, and three black control switches labeled with their functions. The handpiece, detached and lying horizontally in front of the base, has a metallic barrel and a white grip with a fine tip. The background consists of a solid, bright lime-green wall. To the left, a small white ceramic cup holds a green succulent plant with pebbles, accompanied by two red cherries and a small card with a floral illustration. To the right, a plain white card with a faint pink banner and a small decorative element is partially visible. The scene is softly lit with natural, diffused"
-            }
-        ]
-    },
-    {
-        "asin": "B01G83S1F8",
-        "title": "FUMUD Bridal Crystal Rhinestone Tiara Crowns Princess kings crown Pageant Prom Rhinestone Headband Wedding Hair Accessory\uff084.5'')",
-        "reference_file": "B01G83S1F8/reference.jpg",
-        "categorical_name": "tiara",
-        "variation_files": [
-            {
-                "file": "B01G83S1F8/variation_1.jpg",
-                "prompt": "A close-up, top-down view of the tiara, showcasing its intricate, symmetrical design from above. The tiara is positioned centrally against a solid black background, creating high contrast that emphasizes its metallic structure and embellishments. The lighting is soft and diffused, highlighting the reflective surfaces and the delicate details of the openwork framework. The tiara's design features multiple arched, radiating elements that converge toward the center, with a circular outer rim adorned with small beads. The inner structure displays a starburst pattern of ornate, textured arms, each decorated with clusters of pearls and small, sparkling stones. The overall composition is clean and focused, with no additional elements or distractions, allowing the tiara\u2019s craftsmanship and elegant silhouette to be"
-            }
-        ]
-    },
-    {
-        "asin": "B07SYY1162",
-        "title": "Hair Straightening Brush 3.0, Buture Mini Hair Straightener Brush Negative ion Ceramic Iron Hair Brush Fast Heat Hot Brush Travel Size Anti-scald MCH 110-240V Auto Off Temperature Lock (Black)",
-        "reference_file": "B07SYY1162/reference.jpg",
-        "categorical_name": "hair straightener brush",
-        "variation_files": [
-            {
-                "file": "B07SYY1162/variation_1.jpg",
-                "prompt": "A top-down view of a light pink handbag with gold hardware, open to reveal its interior. Inside the bag, the hair straightener brush is placed horizontally, resting on the lined fabric with its cord neatly coiled beside it. The bag\u2019s interior lining features a subtle repeating pattern. The entire scene is set against a plain white background, with soft, even lighting that highlights the product and bag without casting harsh shadows. The composition emphasizes portability and compactness, with the product fitting snugly within the bag\u2019s main compartment."
-            }
-        ]
-    },
-    {
         "asin": "B075H2WPXN",
-        "title": "MARLOWE. No. 021 Body Souffl\u00e9 8 oz | Soft, Creamy, Light Whipped Lotion | Hydrating Dry Skin Cream | Clean, Natural Scent",
+        "title": "MARLOWE. No. 021 Body Soufflé 8 oz | Soft, Creamy, Light Whipped Lotion | Hydrating Dry Skin Cream | Clean, Natural Scent",
         "reference_file": "B075H2WPXN/reference.jpg",
         "categorical_name": "body lotion",
         "variation_files": [
             {
                 "file": "B075H2WPXN/variation_1.jpg",
-                "prompt": "A white cylindrical jar of the body lotion is shown open, with its black lid placed beside it on a smooth, polished marble surface featuring natural gray veining. The product inside is a thick, creamy, whipped texture with soft peaks, visible at the top of the jar. The jar is positioned slightly off-center, angled to show both the open top and the side label. The lighting is soft and diffused, creating gentle highlights on the cream and the glossy lid, with subtle shadows enhancing the three-dimensional form. The background is a continuous, clean marble countertop, providing a minimalist and elegant setting. The overall composition is clean, natural, and focused on the product\u2019s texture and presentation."
+                "prompt": "A white cylindrical jar of the body lotion is shown open, with its black lid placed beside it on a smooth, polished marble surface featuring natural gray veining. The product inside is a thick, creamy, whipped texture with soft peaks, visible at the top of the jar. The jar is positioned slightly off-center, angled to show both the open top and the side label. The lighting is soft and diffused, creating gentle highlights on the cream and the glossy lid, with subtle shadows enhancing the three-dimensional form. The background is a continuous, clean marble countertop, providing a minimalist and elegant setting. The overall composition is clean, natural, and focused on the product’s texture and presentation."
             },
             {
                 "file": "B075H2WPXN/variation_2.jpg",
-                "prompt": "A close-up shot of a person\u2019s hands interacting with the body lotion, which is placed on a polished white marble surface with natural gray veining. The container is open, revealing a fluffy, whipped texture of the product being scooped out with a small white spatula held by the person\u2019s right hand. The person has dark, glossy nail polish and wears multiple delicate gold rings on their fingers. Their left hand rests gently on the marble surface beside the jar. The person is wearing a light blue and white striped top, visible in the upper portion of the frame. The lighting is soft, natural, and diffused, creating subtle reflections on the marble and highlighting the texture of the product and the skin. The background is a clean, neutral off"
-            },
-            {
-                "file": "B075H2WPXN/variation_3.jpg",
-                "prompt": "A still-life composition featuring two skincare products arranged on a smooth, reflective light-gray surface. On the left, a round white jar with a black lid is positioned slightly in front of a taller, white pump bottle with a black pump top. Both containers have clean, minimalist labels with black text and green numerical identifiers, though the specific text and branding are not described. To the right of the products, a matte black cylindrical candle with a silver metallic base sits beside a tall, ribbed gold vase holding thin wooden reed diffuser sticks. In the background, a large, textured beige ceramic vase with earthy brown streaks adds depth and warmth to the scene. The setting is softly lit with natural, diffused light, creating subtle reflections on the"
-            }
-        ]
-    },
-    {
-        "asin": "B08J2LY93D",
-        "title": "Floral Crown Green Headpiece Bridal Accessories Wedding Crown (Head-comb) (Purple)",
-        "reference_file": "B08J2LY93D/reference.jpg",
-        "categorical_name": "floral crown",
-        "variation_files": [
-            {
-                "file": "B08J2LY93D/variation_1.jpg",
-                "prompt": "A close-up product shot of the floral crown resting on a soft, textured white lace fabric. The crown is positioned diagonally across the frame, with its golden hair comb base partially visible beneath the floral arrangement. The background features a bright, softly lit indoor setting with natural light filtering through sheer white curtains, creating a gentle, airy ambiance. To the right, a rolled-up magazine or book lies casually, its cover blurred and indistinct, adding a touch of lifestyle context without drawing focus. The overall composition is clean and minimal, emphasizing the delicate details of the floral crown against the soft, neutral textures of the fabric and background."
-            },
-            {
-                "file": "B08J2LY93D/variation_2.jpg",
-                "prompt": "A close-up shot of the floral crown being held gently by a hand, showcasing its intricate details from a slightly angled perspective. The background is softly blurred, featuring a bright, airy indoor setting with natural light filtering through sheer white curtains. In the lower right corner, a partially visible open book or magazine lies on a light surface, adding a subtle, lifestyle context. The overall lighting is soft and diffused, creating a gentle, ethereal glow that highlights the textures and layers of the floral crown. The composition is clean and focused, with the hand positioned to draw attention to the crown\u2019s craftsmanship, while the background remains neutral and unobtrusive."
-            },
-            {
-                "file": "B08J2LY93D/variation_3.jpg",
-                "prompt": "A close-up, slightly angled overhead shot of the floral crown resting on a soft, textured white lace fabric. The background includes a smooth, light-colored marble surface with subtle veining, partially visible behind the lace. The lighting is soft and diffused, creating gentle shadows and highlighting the delicate textures of the fabric and the crown's embellishments. The composition is clean and elegant, with the floral crown positioned slightly off-center to the left, allowing the lace and marble to frame the subject naturally. The overall mood is serene and ethereal, with a focus on natural beauty and fine details."
-            }
-        ]
-    },
-    {
-        "asin": "B004MSZM7M",
-        "title": "Shampoo Bowl Head Rest",
-        "reference_file": "B004MSZM7M/reference.jpg",
-        "categorical_name": "shampoo bowl headrest",
-        "variation_files": [
-            {
-                "file": "B004MSZM7M/variation_1.jpg",
-                "prompt": "A close-up shot of the shampoo bowl headrest positioned on a glossy, reflective surface with a warm, metallic sheen. The background features a smooth, curved, and highly reflective surface with a mottled pattern of beige, brown, and dark tones, resembling a polished ceramic or metallic bowl. The lighting is soft and diffused, creating gentle highlights on the curved edges of the headrest and the surrounding surface, emphasizing the texture and form. The composition is tightly framed, focusing on the headrest and its immediate surroundings, with no text, logos, or additional elements visible. The overall mood is clean, modern, and subtly luxurious."
+                "prompt": "A close-up shot of a person’s hands interacting with the body lotion, which is placed on a polished white marble surface with natural gray veining. The container is open, revealing a fluffy, whipped texture of the product being scooped out with a small white spatula held by the person’s right hand. The person has dark, glossy nail polish and wears multiple delicate gold rings on their fingers. Their left hand rests gently on the marble surface beside the jar. The person is wearing a light blue and white striped top, visible in the upper portion of the frame. The lighting is soft, natural, and diffused, creating subtle reflections on the marble and highlighting the texture of the product and the skin. The background is a clean, neutral off"
             }
         ]
     },
@@ -386,52 +176,12 @@
         "categorical_name": "lipstick",
         "variation_files": [
             {
-                "file": "B07S1CJMS8/variation_1.jpg",
-                "prompt": "A close-up portrait of a woman with a shaved head and a small bun of hair at the crown, looking directly at the camera with a soft, confident expression. She has defined eyebrows, long eyelashes, and subtle eye makeup, with a smooth, radiant complexion. Her lips are coated in a rich, matte lipstick, and her hands are gently placed on her shoulders, with natural-looking nails. To the left of her face, there is a solid-colored vertical panel matching the shade of the lipstick, placed against a plain white background. The lighting is bright and even, highlighting her facial features and skin texture."
-            },
-            {
                 "file": "B07S1CJMS8/variation_2.jpg",
                 "prompt": "A close-up profile shot of a woman with warm, radiant skin and defined features, applying the lipstick to her lips. Her gaze is directed slightly upward and to the side, with soft, natural lighting highlighting her smooth complexion and subtle makeup, including defined eyebrows and long lashes. The background is a clean, bright white, creating a soft, high-key studio effect. The hand holding the lipstick is visible, gently guiding the product to her lips, emphasizing the act of application. The overall composition focuses on the natural beauty and elegance of the moment, with the product seamlessly integrated into the scene."
             },
             {
                 "file": "B07S1CJMS8/variation_3.jpg",
-                "prompt": "A split-screen background composed of a textured light gray upper panel and a solid deep red lower panel, with the boundary angled diagonally from the top left to the bottom right. The lipstick is positioned diagonally across the center, slightly tilted, with its cap removed and placed to the left side of the frame. The product is shown with its silver band and black casing, standing upright on the red panel, casting a soft shadow. The lighting is soft and even, highlighting the product\u2019s form with subtle reflections on the metallic band. The overall composition is clean and minimal, emphasizing the product against the two-toned backdrop."
-            }
-        ]
-    },
-    {
-        "asin": "B00KWUOJ3M",
-        "title": "Zermat MIO Malicia By Alicia Machado for Men 3.38oz MIO Caballero 100ml",
-        "reference_file": "B00KWUOJ3M/reference.jpg",
-        "categorical_name": "perfume",
-        "variation_files": [
-            {
-                "file": "B00KWUOJ3M/variation_1.jpg",
-                "prompt": "A split-screen layout featuring the perfume on the left side, presented as a clean product shot on a plain white background with a subtle reflection beneath it, and a vibrant lifestyle scene on the right side. The right side shows a man and a woman posing together; the man is shirtless with a white shirt draped over his shoulders, and the woman is wearing a white bikini top, both standing against a plain white background. The perfume bottle is positioned with a small, bright pink rectangular graphic element attached to its upper right corner. The overall lighting is bright and studio-like, emphasizing the product and the models. The composition is clean and commercial, with the product and figures clearly separated by the split layout."
-            }
-        ]
-    },
-    {
-        "asin": "B073Q3NGF8",
-        "title": "Urberry Galaxy S8 Butterfly Wallet Case, S8 Card Holder Case,Shock-proof Case for Samsung Galaxy S8 with a Screen Protector (Green)",
-        "reference_file": "B073Q3NGF8/reference.jpg",
-        "categorical_name": "wallet case",
-        "variation_files": [
-            {
-                "file": "B073Q3NGF8/variation_1.jpg",
-                "prompt": "A split-screen layout showcasing the wallet case open on the left and a smartphone securely held in place on the right. The left side features the interior of the wallet case with three horizontal card slots, each holding a card, and a vertical slot containing a folded banknote. The inner surface of the wallet case displays a decorative floral and butterfly motif that extends from the outer cover design. The right side displays the smartphone with its screen on, nestled within the case, showing the device\u2019s front interface with visible navigation icons at the bottom. The entire composition is set against a plain white background with even, bright studio lighting. The wallet case is positioned flat, open, and centered, with a black wrist strap attached to the top left corner, extending downward."
-            }
-        ]
-    },
-    {
-        "asin": "B074DZ9TPP",
-        "title": "BABEYOND Crystal Rhinestone Tiara Headband Happy Birthday Girl Crown Comb Pin (Multicolor)",
-        "reference_file": "B074DZ9TPP/reference.jpg",
-        "categorical_name": "tiara headband",
-        "variation_files": [
-            {
-                "file": "B074DZ9TPP/variation_1.jpg",
-                "prompt": "A mannequin head with long, wavy blonde hair is shown from the shoulders up, facing forward. The mannequin has a realistic facial appearance with defined eyebrows, large dark eyes, and natural-looking lips. The tiara headband is positioned on top of the head, resting just above the forehead, with its comb-like attachments visible at the back. The background is a plain, solid white, creating a clean and bright studio-style presentation. The lighting is even and soft, highlighting the contours of the face and hair without harsh shadows. The focus is centered on the head and the tiara headband, with no additional objects or text present."
+                "prompt": "A split-screen background composed of a textured light gray upper panel and a solid deep red lower panel, with the boundary angled diagonally from the top left to the bottom right. The lipstick is positioned diagonally across the center, slightly tilted, with its cap removed and placed to the left side of the frame. The product is shown with its silver band and black casing, standing upright on the red panel, casting a soft shadow. The lighting is soft and even, highlighting the product’s form with subtle reflections on the metallic band. The overall composition is clean and minimal, emphasizing the product against the two-toned backdrop."
             }
         ]
     }

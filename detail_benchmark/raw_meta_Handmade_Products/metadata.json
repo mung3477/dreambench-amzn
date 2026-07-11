@@ -1,17 +1,5 @@
 [
     {
-        "asin": "B07CRYGBJ9",
-        "title": "Shungite children stretchy bracelet",
-        "reference_file": "B07CRYGBJ9/reference.jpg",
-        "categorical_name": "bracelet",
-        "variation_files": [
-            {
-                "file": "B07CRYGBJ9/variation_2.jpg",
-                "prompt": "A close-up shot of the bracelet resting on a warm-toned wooden surface with visible grain patterns. The bracelet is arranged in a gentle curve, showcasing its beads in a shallow depth-of-field composition where the foreground beads are in sharp focus and the background beads softly blurred. The lighting is soft and natural, creating subtle highlights on the glossy surfaces of the beads, particularly the dark, round beads in the center. The wooden surface provides a rustic, organic texture that contrasts with the smoothness of the beads. The overall composition emphasizes texture, material contrast, and a natural, handcrafted aesthetic."
-            }
-        ]
-    },
-    {
         "asin": "B07BNQ9F9V",
         "title": "DEZAART Modern Wood Pendant Light (20” Ø) – Veneered Oak MDF Light Shade / 1 Meter Cord Length / E27 Bulb – Modern Wood Chandelier – Statement Lighting for Home & Office",
         "reference_file": "B07BNQ9F9V/reference.jpg",
@@ -64,42 +52,6 @@
             {
                 "file": "B07MFW4517/variation_2.jpg",
                 "prompt": "A roll-on perfume is centered in the frame, standing upright on a soft, textured surface. The background features a repeating pattern of faint, light gray hearts on a white base, creating a gentle, romantic ambiance. The lighting is soft and diffused, evenly illuminating the product from the front, with subtle shadows beneath it to give a sense of depth. The overall composition is clean and minimal, with the focus entirely on the product against the delicate, patterned backdrop."
-            }
-        ]
-    },
-    {
-        "asin": "B0B6SMG11R",
-        "title": "Healing stone necklaces Chakra necklace for women rainbow necklace as mothers day birthday gifts spiritual jewelry for mom gifts crystal necklaces spiritual for yoga friend",
-        "reference_file": "B0B6SMG11R/reference.jpg",
-        "categorical_name": "necklace",
-        "variation_files": [
-            {
-                "file": "B0B6SMG11R/variation_1.jpg",
-                "prompt": "A close-up shot of the necklace worn around a person’s neck, positioned just below the collarbone. The necklace features a delicate gold chain with a central arc of irregularly shaped gemstone beads. The image is taken from a slightly elevated angle, focusing on the curve of the necklace against the skin. The person is wearing a light-colored top with a visible textured green and white trim along the neckline. Natural sunlight illuminates the scene, casting soft shadows and highlighting the translucency and texture of the beads. The background is softly blurred, keeping the focus entirely on the necklace and the immediate area of the neck and upper chest. The lighting creates warm, golden tones on the skin and enhances the natural sheen of the stones."
-            },
-            {
-                "file": "B0B6SMG11R/variation_2.jpg",
-                "prompt": "A woman with long, wavy blonde hair is standing outdoors in front of a weathered brick wall, smiling warmly at the camera. She is wearing a wide-brimmed beige hat and a white short-sleeved blouse with puffed sleeves. The necklace is worn around her neck, resting just above the collarbone. In her right hand, she holds a white disposable coffee cup with a lid. Her left wrist features a colorful beaded bracelet. The lighting is natural and bright, suggesting a sunny day, with soft shadows visible on her face and clothing. The background includes a section of horizontal white slats to the right, possibly part of a window or door frame, with greenery faintly visible beyond. The overall composition is casual and"
-            },
-            {
-                "file": "B0B6SMG11R/variation_3.jpg",
-                "prompt": "The necklace is displayed on a soft, draped white satin fabric, creating gentle folds and highlights that add texture to the background. It lies in a gentle arc, with the chain extending upwards and out of frame, suggesting a natural, relaxed placement. The setting is softly lit with diffused, natural-style lighting that enhances the sheen of the fabric and gives a delicate glow to the stones. Surrounding the necklace are decorative elements: small clusters of dried flowers in soft white and vibrant pink, adding a natural, romantic touch. To the right, a single white rose with green stem and leaves is partially visible, contributing to the floral theme. On the left, two small, pale yellow heart-shaped objects resembling fortune cookies are placed near the chain, adding"
-            }
-        ]
-    },
-    {
-        "asin": "B07DGXMDNT",
-        "title": "Turkish Handmade Jewelry Round Shape Pink Cat's Eye Quartz and Round Cut Topaz 925 Sterling Silver Ring Size Option",
-        "reference_file": "B07DGXMDNT/reference.jpg",
-        "categorical_name": "ring",
-        "variation_files": [
-            {
-                "file": "B07DGXMDNT/variation_1.jpg",
-                "prompt": "A close-up shot of the ring resting on a human hand, with the fingers gently cupping the band and the palm providing a soft, natural backdrop. The ring is positioned diagonally across the frame, showcasing its intricate design from a slightly elevated side angle. The lighting is warm and diffused, highlighting the texture of the skin and the reflective surfaces of the ring’s metal and gemstones. The background is entirely composed of the skin tones of the hand, with no additional elements or distractions, creating an intimate and organic presentation. The focus is sharp on the ring, with subtle depth-of-field softening the edges of the hand to emphasize the product."
-            },
-            {
-                "file": "B07DGXMDNT/variation_2.jpg",
-                "prompt": "A close-up shot of the ring worn on a human finger, positioned against a plain white background. The ring is centered in the frame, with the finger extending naturally from the bottom left to the top right, showing part of the hand and surrounding fingers for context. The lighting is soft and even, highlighting the ring’s intricate details and creating subtle reflections on its surface. The focus is sharp on the ring, with a shallow depth of field that gently blurs the skin texture of the finger and hand. The composition emphasizes the ring’s size and ornate design, with the finger providing a natural, realistic scale. The background remains completely plain and uncluttered, ensuring the ring is the sole subject of attention."
             }
         ]
     }

@@ -1,49 +1,5 @@
 [
     {
-        "asin": "B0B89ZSYS7",
-        "title": "Shure SM7B Vocal Dynamic Microphone for Broadcast, Podcast & Recording, XLR Studio Mic for Music & Speech, Wide-Range Frequency, Warm & Smooth Sound, Rugged Construction, Detachable Windscreen - Black",
-        "reference_file": "B0B89ZSYS7/reference.jpg",
-        "categorical_name": "dynamic microphone",
-        "variation_files": [
-            {
-                "file": "B0B89ZSYS7/variation_1.jpg",
-                "prompt": "A professional studio setup featuring the dynamic microphone mounted on a sleek black boom arm with a flexible gooseneck joint. The microphone is suspended from the arm via a shock mount, with its cable neatly routed through the arm’s structure. The background is softly blurred, creating a shallow depth of field that emphasizes the microphone as the focal point. The scene is lit with soft, diffused studio lighting, producing subtle highlights on the metallic parts of the arm and gentle shadows that add dimension. In the out-of-focus background, hints of studio equipment are visible, including a bright circular light source and a white tripod-like stand, suggesting a professional recording or broadcasting environment. The overall tone is monochromatic and moody, with a cool, high-contrast"
-            },
-            {
-                "file": "B0B89ZSYS7/variation_2.jpg",
-                "prompt": "A wide-angle shot of two people sitting across from each other at a wooden table in a modern, softly lit studio space, engaged in a lively conversation. Each person has a dynamic microphone mounted on a flexible boom arm positioned directly in front of them, angled toward their mouth. Both individuals are wearing over-ear headphones and are smiling, facing each other with expressive hand gestures. Between them on the table is an open laptop and a small audio interface. The background features a neutral-toned wall with a large indoor plant and a guitar leaning against the wall, adding a creative, relaxed atmosphere. The lighting is warm and diffused, with soft shadows, creating a professional yet intimate ambiance. The overall composition is balanced, with the two subjects and their micro"
-            },
-            {
-                "file": "B0B89ZSYS7/variation_3.jpg",
-                "prompt": "A man with a beard and glasses, wearing headphones and a denim jacket with a brown shearling collar, is seated at a wooden desk, smiling warmly toward the camera. In front of him, a laptop is open, displaying a blurred interface with indistinct graphical elements and a dark screen. Positioned directly in front of him on a black boom arm is the dynamic microphone, mounted securely with its shock mount and cable neatly routed. The microphone is angled slightly toward the man’s mouth, ready for use. The background is softly blurred, featuring neutral tones and out-of-focus warm lights, creating a cozy, professional studio ambiance. The lighting is soft and directional, highlighting the man’s face and the microphone, while casting gentle shadows. The overall composition is"
-            }
-        ]
-    },
-    {
-        "asin": "B06W2NS817",
-        "title": "On-Stage MY570 Clamp-On Universal Accessory Holder",
-        "reference_file": "B06W2NS817/reference.jpg",
-        "categorical_name": "clamp-on holder",
-        "variation_files": [
-            {
-                "file": "B06W2NS817/variation_1.jpg",
-                "prompt": "A clean, three-panel layout on a plain white background, showcasing the clamp-on holder in three distinct usage scenarios. Each panel features a black vertical pole with the clamp-on holder attached, demonstrating its functionality. In the left panel, the holder secures a wooden tambourine with metal jingles. In the center panel, it holds a pair of over-ear headphones with black earcups and a padded headband. In the right panel, it supports a neatly coiled black audio cable with a visible 3.5mm jack at the end. The lighting is bright and even, emphasizing the versatility and secure grip of the product in each application."
-            }
-        ]
-    },
-    {
-        "asin": "B07TMM1GBN",
-        "title": "BONAOK Wireless Bluetooth Karaoke Microphone with Dynamic LED Light, Portable Handheld Karaoke Mic with Magic Voice Home Party Birthday Boys Girls Adults All Ages (Gray)",
-        "reference_file": "B07TMM1GBN/reference.jpg",
-        "categorical_name": "karaoke microphone",
-        "variation_files": [
-            {
-                "file": "B07TMM1GBN/variation_1.jpg",
-                "prompt": "A split-screen composition featuring a joyful child with curly hair, energetically singing into the karaoke microphone while standing on a bed with striped and polka-dot bedding. The child is wearing a white long-sleeve shirt and light gray pants, arms outstretched in a dynamic pose, with a large translucent blue circular graphic emanating from the microphone. To the left, a hand holds a white smartphone displaying a music app interface with a circular album art and playback controls, connected via a visible Bluetooth symbol. Adjacent to the phone is a vertical, solid peach-pink background panel with four rounded avatar icons arranged in a grid, each depicting a different cartoon character. The background includes a softly lit bedroom setting with white curtains and a white metal"
-            }
-        ]
-    },
-    {
         "asin": "B085ZS2G6N",
         "title": "Houkiper Distortion Pedal - Guitar Pedals TS9 & TS808 Overdrive Guitar Effect Pedal Drive Vintage Overdrive Effect Tuner Pedal Overdrive Pedal, 2 In1 True Bypass Guitar & Bass Accessories",
         "reference_file": "B085ZS2G6N/reference.jpg",
@@ -60,26 +16,6 @@
             {
                 "file": "B085ZS2G6N/variation_3.jpg",
                 "prompt": "A product shot of the guitar effect pedal placed diagonally on a white woven mat with a green and white pattern, positioned slightly off-center to the right. The pedal is angled to show its top and right side, with soft, natural lighting highlighting its surface. In the upper right corner, there is a soft-focus arrangement of light pink and pale green flowers with green foliage, adding a decorative, organic touch. The background is a clean, bright white surface with subtle shadows beneath the pedal and mat, creating a gentle sense of depth. The overall composition is clean and aesthetically styled, with a focus on natural textures and soft lighting."
-            }
-        ]
-    },
-    {
-        "asin": "B0BG3QZCJN",
-        "title": "ARENA Traditional Tambourine, Handheld Half-Moon Shape with Synthetic Frame — NOT Made in China — Double Row Dual Alloy Jingles, 2-Year Warranty (TMT1M-WH)",
-        "reference_file": "B0BG3QZCJN/reference.jpg",
-        "categorical_name": "tambourine",
-        "variation_files": [
-            {
-                "file": "B0BG3QZCJN/variation_1.jpg",
-                "prompt": "A top-down view of the tambourine placed centrally on a warm-toned wooden surface with visible horizontal grain patterns and natural wood texture. The background consists of parallel wooden planks with subtle variations in color and tone, creating a rustic and organic feel. The lighting is soft and even, casting gentle shadows beneath the tambourine, enhancing its three-dimensional form and the texture of the wood. The composition is clean and minimal, with the tambourine positioned slightly off-center to the right, leaving ample negative space on the left side of the frame. The overall aesthetic is natural, earthy, and visually balanced, emphasizing the product’s presence within a simple, textured environment."
-            },
-            {
-                "file": "B0BG3QZCJN/variation_2.jpg",
-                "prompt": "A close-up, angled view of the tambourine resting on a warm-toned wooden surface, with soft, directional lighting creating a golden glow and deep shadows that emphasize its curved frame and metallic jingles. The focus is shallow, highlighting the textured edge of the frame and the reflective surfaces of the jingles in the foreground, while the background fades into a blurred, warm amber gradient. The composition is intimate and moody, with the tambourine positioned diagonally across the frame, suggesting a sense of stillness and elegance."
-            },
-            {
-                "file": "B0BG3QZCJN/variation_3.jpg",
-                "prompt": "A close-up shot of hands holding and playing the tambourine, with one hand gripping the black foam handle and the other supporting the frame from below. The tambourine is angled slightly to showcase its side profile, revealing the jingles in motion. The background is a warm, softly blurred wooden surface, creating a natural and inviting atmosphere. The lighting is soft and directional, highlighting the texture of the hands and the reflective surfaces of the jingles, while casting gentle shadows that add depth. The focus is sharp on the hands and the tambourine, with a shallow depth of field that blurs the background."
             }
         ]
     },
@@ -104,22 +40,6 @@
             {
                 "file": "B09XMFJJ5D/variation_1.jpg",
                 "prompt": "A top-down product presentation shot featuring the turntable alignment protractor placed diagonally inside an open, rectangular black box with a matte finish. The box is positioned on a clean white background, with its lid removed and placed to the right, revealing the interior's dark, textured lining. The product rests on a soft, folded black fabric insert within the box, which cradles it securely. The lighting is bright and even, casting soft shadows that emphasize the sleek, minimalist design of the packaging and the clean lines of the product. The overall composition is simple, elegant, and focused, highlighting the product's premium presentation without any distracting elements or text."
-            }
-        ]
-    },
-    {
-        "asin": "B08GQ6ZL78",
-        "title": "KIMI 17-Key Rainbow cat paw Kalimba 17-Key Thumb Piano Transparent Acrylic Material with Carry Bag",
-        "reference_file": "B08GQ6ZL78/reference.jpg",
-        "categorical_name": "thumb piano",
-        "variation_files": [
-            {
-                "file": "B08GQ6ZL78/variation_1.jpg",
-                "prompt": "A close-up shot of the thumb piano held in a person’s hand, positioned against a vibrant green grassy background. The product is shown from a slightly elevated front angle, with natural daylight illuminating its surface, creating soft reflections and highlights. The hand grips the upper left side of the instrument, with fingers gently curled around its edge, suggesting a relaxed and casual interaction. The background is a lush, out-of-focus lawn, providing a natural and organic setting that contrasts with the reflective, iridescent surface of the thumb piano. The overall composition emphasizes the product’s portability and connection to outdoor environments, with a clean, uncluttered framing that centers attention on the instrument and the hand holding it."
-            },
-            {
-                "file": "B08GQ6ZL78/variation_2.jpg",
-                "prompt": "A top-down view of the thumb piano placed on a black, round, zippered carrying case, which rests on a vibrant green grassy lawn. The thumb piano is positioned slightly angled, with its metallic tines and wooden bridges clearly visible. The body of the thumb piano is transparent with an iridescent, rainbow-like sheen that reflects light in vertical streaks of color. The background consists of natural, sunlit grass with a shallow depth of field, creating a soft, blurred green backdrop. The lighting is bright and natural, suggesting outdoor daylight, with highlights on the reflective surface of the thumb piano. The overall composition is centered and balanced, emphasizing the product in a serene, outdoor setting."
             }
         ]
     }

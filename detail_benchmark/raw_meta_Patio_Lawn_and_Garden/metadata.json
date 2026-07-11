@@ -16,22 +16,6 @@
         ]
     },
     {
-        "asin": "B09YD13N21",
-        "title": "Ashman Spade Shovel (1 Pack) – 41 Inches Long D Handle Grip – The Single Shovel Weighs 2.2 Pounds and has a Durable Handle – Premium Quality Multipurpose Orange Spade Shovel with Strong Build.",
-        "reference_file": "B09YD13N21/reference.jpg",
-        "categorical_name": "spade shovel",
-        "variation_files": [
-            {
-                "file": "B09YD13N21/variation_1.jpg",
-                "prompt": "A person is standing outdoors on a grassy lawn, holding the spade shovel with both hands near the D-shaped handle, while stepping on the blade with their right foot to push it into the ground. The individual is wearing a black, red, and white jacket, gray pants, and black boots with red accents. The background features a natural outdoor setting with trees, a stone retaining wall, and a blurred park-like environment under overcast daylight. The focus is on the action of using the spade shovel in a real-world gardening or landscaping context, with the product positioned vertically in the foreground and the person partially visible from the waist down. The lighting is soft and diffused, creating a natural, realistic atmosphere."
-            },
-            {
-                "file": "B09YD13N21/variation_2.jpg",
-                "prompt": "A young man stands outdoors on a grassy lawn, holding the spade shovel upright with both hands gripping the D-shaped handle. He is leaning slightly forward, with one foot placed on the shovel’s blade, demonstrating its sturdiness. He wears a black, red, and white color-blocked hooded jacket, gray pants, and black hiking boots with red accents. The background features a natural park setting with leafless trees, a stone retaining wall, a wooden bench, and a paved pathway. The lighting is soft and overcast, suggesting a cool, cloudy day. The composition is full-body, centered, and focused on the person and the product in a realistic, lifestyle context."
-            }
-        ]
-    },
-    {
         "asin": "B00602J27E",
         "title": "BLACK+DECKER 20V MAX Cordless Hedge Trimmer, 22 Inch Steel Blade, Reduced Vibration, Battery and Charger Included (LHT2220), Orange",
         "reference_file": "B00602J27E/reference.jpg",
@@ -40,34 +24,6 @@
             {
                 "file": "B00602J27E/variation_1.jpg",
                 "prompt": "A person wearing white gloves and a blue long-sleeve shirt is actively using the cordless hedge trimmer to trim a dense, vibrant green hedge. The trimmer is angled downward, cutting through the foliage, with the blade section in contact with the top of the hedge. The background is a softly blurred natural garden setting with greenery and dappled sunlight, creating a shallow depth of field that emphasizes the action in the foreground. The lighting is bright and natural, suggesting an outdoor daytime scene. The focus is on the dynamic use of the tool, capturing motion and precision in gardening."
-            }
-        ]
-    },
-    {
-        "asin": "B00MNLC3GS",
-        "title": "Design Toscano Growling Black Bear Life Size Statue",
-        "reference_file": "B00MNLC3GS/reference.jpg",
-        "categorical_name": "statue",
-        "variation_files": [
-            {
-                "file": "B00MNLC3GS/variation_1.jpg",
-                "prompt": "A life-sized statue of a bear standing upright on its hind legs, positioned in a spacious, warmly lit interior hallway or entryway. The bear is depicted mid-roar with its mouth wide open, showing teeth and tongue, and its front paws are raised slightly as if in a dynamic, aggressive stance. The statue stands on a textured, rock-like base that rests on a polished stone or tile floor.\n\nThe surrounding environment features architectural elements such as a large stone or concrete column to the left, a wooden door with paneling in the background, and a wooden railing or banister to the right, suggesting a grand or rustic interior space. A potted plant with broad green leaves sits near the base of the statue, adding a touch of natural"
-            },
-            {
-                "file": "B00MNLC3GS/variation_2.jpg",
-                "prompt": "The statue stands upright on a textured, gray stone-like base, positioned outdoors in a rustic garden or farmyard setting. It is centered in the frame, with its front-facing posture and open mouth conveying a roaring or growling expression. The background features a weathered wooden shed with a dark, arched door and a small white-framed window; beneath the window, a decorative shelf with yellow flower motifs is visible. To the left of the statue, a simple wooden bench holds a metal bucket and a small ceramic container. To the right, a traditional black metal well with a wooden bucket and chain is present, surrounded by a wire fence and greenery. The ground is covered in light-colored wood chips or mulch. In the distance, a"
-            }
-        ]
-    },
-    {
-        "asin": "B003XL9O5U",
-        "title": "Woodstock Signature Collection Portrait Chime, 22-1/2-Inch, Jade",
-        "reference_file": "B003XL9O5U/reference.jpg",
-        "categorical_name": "wind chime",
-        "variation_files": [
-            {
-                "file": "B003XL9O5U/variation_1.jpg",
-                "prompt": "The wind chime hangs suspended from a tree branch, surrounded by the soft, needle-like foliage of a coniferous tree, likely a blue spruce, with its silvery-green needles creating a textured, natural frame. The background reveals a softly blurred garden scene with green grass and distant trees, suggesting a peaceful outdoor setting. Natural daylight illuminates the scene, casting gentle highlights on the chime and the surrounding branches, enhancing the serene, tranquil atmosphere. The composition centers the wind chime vertically, with the tree branches naturally framing it from all sides, giving the image a calm, organic feel."
             }
         ]
     }

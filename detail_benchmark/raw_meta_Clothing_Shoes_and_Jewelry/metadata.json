@@ -1,27 +1,10 @@
 [
     {
-        "asin": "B00ZQMM6BI",
-        "title": "Michael Kors Cindy, Women\u2019s Cross-Body Bag",
-        "reference_file": "B00ZQMM6BI/reference.jpg",
-        "categorical_name": "cross body bag",
-        "variation_files": [
-            {
-                "file": "B00ZQMM6BI/variation_1.jpg",
-                "prompt": "A full-length side-profile shot of a woman standing against a plain white background, wearing a form-fitting black sleeveless dress with her hair pulled back into a ponytail. She is carrying the cross body bag diagonally across her body, with the strap resting over her right shoulder and the bag positioned at her hip. The strap features a combination of a flat leather-like section and a gold-toned chain segment connecting to the bag. The lighting is soft and even, highlighting the silhouette and the clean lines of the outfit and bag, with no shadows or additional elements in the scene."
-            }
-        ]
-    },
-    {
         "asin": "B09H7LCMZ7",
         "title": "Girls Winter Warm Jacket Coat Windbreaker with Soft Fur Hoodies Cartoon Pattern",
         "reference_file": "B09H7LCMZ7/reference.jpg",
         "categorical_name": "winter coat",
-        "variation_files": [
-            {
-                "file": "B09H7LCMZ7/variation_1.jpg",
-                "prompt": "A split-screen composition featuring a young girl wearing the winter coat, shown from two perspectives: front-facing on the left and back-facing on the right. The girl is positioned in front of a large mirror, creating a reflective effect where the front view is mirrored on the right side. She has dark hair styled in a high ponytail with sunglasses perched on top. She is wearing black shiny leggings and black boots, with a light-colored turtleneck visible beneath the coat. Her arms are slightly extended, and she is making a playful hand gesture with her fingers. The background includes a clean, modern indoor setting with light-colored tiled flooring and white walls. To the side, there are decorative floral arrangements in white boxes, placed on a low surface."
-            }
-        ]
+        "variation_files": []
     },
     {
         "asin": "B082MF2L8H",
@@ -31,19 +14,7 @@
         "variation_files": [
             {
                 "file": "B082MF2L8H/variation_1.jpg",
-                "prompt": "A close-up shot of the watch worn on a person\u2019s wrist, positioned slightly angled to the right. The watch is set against a soft, out-of-focus background with warm, neutral tones, suggesting an indoor or softly lit outdoor environment. The wrist is partially visible, with natural skin texture and subtle shadows enhancing realism. Alongside the watch, on the same wrist, is a black braided leather bracelet with a metallic cross-shaped charm and silver-toned accents, adding a rugged, stylish contrast. The lighting is soft and diffused, highlighting the watch\u2019s face and the texture of the bracelet without harsh reflections. The overall composition focuses on the product in a natural, lifestyle context, emphasizing wearability and aesthetic appeal."
-            }
-        ]
-    },
-    {
-        "asin": "B0821XY8V4",
-        "title": "C.C Hatsandscarf Exclusives Unisex Solid Ribbed Beanie with Pom (HAT-43)",
-        "reference_file": "B0821XY8V4/reference.jpg",
-        "categorical_name": "beanie",
-        "variation_files": [
-            {
-                "file": "B0821XY8V4/variation_1.jpg",
-                "prompt": "A side-profile shot of a person wearing the beanie, with the hat positioned slightly tilted on the head. The beanie is shown in a natural, slouchy fit, with the brim folded up and resting against the side of the face. The person is looking downward with a soft, contemplative expression, and one hand is gently touching the side of the hat near the ear. The background is a plain white, creating a clean and minimalistic look. The lighting is soft and even, highlighting the texture of the beanie and the natural features of the person\u2019s face. The person is wearing a dark coat with a visible collar, adding contrast to the light-colored beanie. The overall composition is focused on the side profile, emphasizing"
+                "prompt": "A close-up shot of the watch worn on a person’s wrist, positioned slightly angled to the right. The watch is set against a soft, out-of-focus background with warm, neutral tones, suggesting an indoor or softly lit outdoor environment. The wrist is partially visible, with natural skin texture and subtle shadows enhancing realism. Alongside the watch, on the same wrist, is a black braided leather bracelet with a metallic cross-shaped charm and silver-toned accents, adding a rugged, stylish contrast. The lighting is soft and diffused, highlighting the watch’s face and the texture of the bracelet without harsh reflections. The overall composition focuses on the product in a natural, lifestyle context, emphasizing wearability and aesthetic appeal."
             }
         ]
     },
@@ -60,78 +31,6 @@
         ]
     },
     {
-        "asin": "B074M8VF39",
-        "title": "SweatyRocks Women's Splicing Tops Color Block Patch Pullover Sweatshirt Black S",
-        "reference_file": "B074M8VF39/reference.jpg",
-        "categorical_name": "pullover sweatshirt",
-        "variation_files": [
-            {
-                "file": "B074M8VF39/variation_1.jpg",
-                "prompt": "A woman with wavy blonde hair stands confidently, wearing the pullover sweatshirt. She is positioned slightly angled toward the camera, with one hand resting on her hip and the other raised near her shoulder, fingers gently curled. She is wearing blue jeans, and the sweatshirt is shown from the waist up. The background is a plain, solid white, creating a clean and bright studio environment. The lighting is soft and even, highlighting the subject\u2019s features and the silhouette of the garment without harsh shadows. The overall composition is centered, with the subject occupying the majority of the frame, emphasizing the casual and stylish presentation of the product."
-            },
-            {
-                "file": "B074M8VF39/variation_2.jpg",
-                "prompt": "A woman with wavy blonde hair is shown in a three-quarter side profile, facing slightly toward the camera, wearing the pullover sweatshirt. She is posed naturally with one hand resting lightly on her thigh, wearing blue jeans. The lighting is soft and even, highlighting her features and the garment with a clean, studio-like quality. The background is plain white, creating a clean and minimalistic look that emphasizes the subject and the product. The overall composition is a full-body fashion shot, focused on showcasing the fit and style of the pullover sweatshirt in a realistic, wearable context."
-            },
-            {
-                "file": "B074M8VF39/variation_3.jpg",
-                "prompt": "A woman with wavy blonde hair is shown from the waist up, wearing the pullover sweatshirt. She is posed naturally, looking slightly toward the camera with a soft, neutral expression. Her left hand rests gently on her right forearm, while her right hand hangs loosely by her side. She is wearing blue jeans, visible from the waist down. The background is a plain, solid white, providing a clean and neutral setting. The lighting is bright, even, and studio-like, highlighting the subject without harsh shadows. The overall composition is centered and focused on the model and the product, with a clear, professional, and minimalistic aesthetic."
-            }
-        ]
-    },
-    {
-        "asin": "B091DYF835",
-        "title": "Dokotoo Womens 2023 Spring Summer Deep V Neck Ruffle Long Sleeve Floral Print Mini Dress",
-        "reference_file": "B091DYF835/reference.jpg",
-        "categorical_name": "mini dress",
-        "variation_files": [
-            {
-                "file": "B091DYF835/variation_1.jpg",
-                "prompt": "A side-profile shot of a woman wearing the mini dress, standing indoors near a large white-framed window with visible panes, through which bright natural light and green foliage are softly visible. The setting features clean white interior walls with subtle molding details, and a portion of a round glass-topped table is visible to the right. The lighting is soft and diffused, creating a bright, airy, and elegant atmosphere. The woman is posed with one hand gently resting on her hip, showcasing the dress\u2019s flowy silhouette and tiered ruffle details. The background is composed of natural light and architectural elements, with no text, logos, or graphic overlays present."
-            },
-            {
-                "file": "B091DYF835/variation_2.jpg",
-                "prompt": "A full-body shot of a woman wearing the mini dress, standing indoors near a large window with white frames and soft natural light streaming in from the side. The background features a bright, airy room with white walls and hints of greenery visible outside the window, creating a fresh and elegant atmosphere. The woman is captured mid-twirl, her hands gently lifting the hem of the dress to showcase its flowing, layered ruffle skirt. Her long, wavy hair cascades over her shoulders, and she wears a delicate gold necklace. The lighting is soft and diffused, highlighting the movement and texture of the fabric. The overall composition emphasizes a romantic, carefree mood with a focus on the dress\u2019s silhouette and flow."
-            }
-        ]
-    },
-    {
-        "asin": "B0BQBNGT7J",
-        "title": "SAVEARTH DIAMONDS 5.80 Ct to 10.90 Ct Lab Created Moissanite Diamond 6MM Width Cuban Link Chain Necklace For Men In 14k Gold Over 925 Sterling Silver, 16\" to 30\" Length, Color : G-H, Clarity: VVS1",
-        "reference_file": "B0BQBNGT7J/reference.jpg",
-        "categorical_name": "cuban link chain necklace",
-        "variation_files": [
-            {
-                "file": "B0BQBNGT7J/variation_1.jpg",
-                "prompt": "A split-screen composition featuring the cuban link chain necklace arranged in a coiled spiral, resting partially on a plain light brown circular panel and extending onto a solid black background. The necklace is positioned diagonally across the frame, with its clasp visible near the top left. To the right, a soft-focus floral arrangement with peach-pink petals and dark green leaves adds a natural accent, partially overlapping the black background. The lighting is soft and diffused, highlighting the reflective surface of the chain while casting gentle shadows. The overall scene is styled with a minimalist, elegant aesthetic, emphasizing the product\u2019s form and texture against contrasting textures and colors."
-            },
-            {
-                "file": "B0BQBNGT7J/variation_2.jpg",
-                "prompt": "A flat-lay composition featuring the cuban link chain necklace displayed diagonally across a dark, matte black surface. The necklace is arranged in two overlapping strands, with one strand extending toward the upper right corner, draped over a solid peach-pink rectangular gift box, and the other lying flat on a circular, textured beige cardboard base. The clasp of the necklace is visible near the center of the composition, resting on the beige base. To the left, a cluster of soft, fabric-like pink flowers with green leaves adds a decorative touch, partially overlapping the beige base. The lighting is soft and diffused, creating gentle highlights on the chain and subtle shadows, emphasizing the texture of the materials. The overall scene is styled with a clean, elegant"
-            },
-            {
-                "file": "B0BQBNGT7J/variation_3.jpg",
-                "prompt": "A Cuban link chain necklace is displayed in a flat-lay composition on a dark background. The necklace rests partially coiled on a circular, light beige textured surface, with its chain extending diagonally across the frame and draping over a rectangular, solid peach-pink box positioned in the upper right. To the left, a soft pink fabric flower with green leaf accents adds a decorative element near the top edge of the circular surface. The lighting is soft and even, highlighting the reflective surface of the chain and creating gentle shadows. The overall composition is clean and stylized, with the product as the central focus, surrounded by minimal, complementary props."
-            }
-        ]
-    },
-    {
-        "asin": "B0BG67Y4G1",
-        "title": "Hand Knit Sherpa Wool Hat with Micro Fleece Lining, Toque, Beanie",
-        "reference_file": "B0BG67Y4G1/reference.jpg",
-        "categorical_name": "beanie",
-        "variation_files": [
-            {
-                "file": "B0BG67Y4G1/variation_1.jpg",
-                "prompt": "A white mannequin head and neck with a smooth, glossy finish, wearing the beanie. The beanie is positioned snugly on the head, covering the forehead and ears, with the brim folded up slightly. The mannequin is centered in the frame, facing forward with closed eyes, and set against a plain white background. The lighting is even and soft, highlighting the texture of the beanie and the reflective surface of the mannequin."
-            },
-            {
-                "file": "B0BG67Y4G1/variation_2.jpg",
-                "prompt": "A side-profile view of a white mannequin head and neck, showcasing the beanie worn on the head. The mannequin has a smooth, glossy finish and is positioned facing left, with the beanie fitting snugly over the crown and ears. The background is a plain, solid white, providing a clean and neutral backdrop that emphasizes the product. The lighting is even and soft, highlighting the texture of the beanie and the contours of the mannequin without creating harsh shadows. The composition is simple and focused, with no additional elements or distractions."
-            }
-        ]
-    },
-    {
         "asin": "B078SP21BQ",
         "title": "Darn Tough Tactical Boot Extra Cushion Sock",
         "reference_file": "B078SP21BQ/reference.jpg",
@@ -139,7 +38,7 @@
         "variation_files": [
             {
                 "file": "B078SP21BQ/variation_1.jpg",
-                "prompt": "A full-length product shot of a person\u2019s lower legs and feet, standing in a natural, slightly angled pose. The person is wearing the sock, which extends to mid-calf, paired with a rugged, tan-colored tactical-style boot featuring laces, metal eyelets, and a thick, textured sole. The boot is worn on the right foot, while the left foot is bare, showcasing the sock alone. The background is plain white, creating a clean, studio-like environment with even, soft lighting that highlights the texture of the sock and the details of the boot. The composition focuses on the lower legs, emphasizing the fit and practical use of the sock with outdoor or work footwear."
+                "prompt": "A full-length product shot of a person’s lower legs and feet, standing in a natural, slightly angled pose. The person is wearing the sock, which extends to mid-calf, paired with a rugged, tan-colored tactical-style boot featuring laces, metal eyelets, and a thick, textured sole. The boot is worn on the right foot, while the left foot is bare, showcasing the sock alone. The background is plain white, creating a clean, studio-like environment with even, soft lighting that highlights the texture of the sock and the details of the boot. The composition focuses on the lower legs, emphasizing the fit and practical use of the sock with outdoor or work footwear."
             }
         ]
     },
@@ -151,15 +50,11 @@
         "variation_files": [
             {
                 "file": "B073Q498T6/variation_1.jpg",
-                "prompt": "A split-screen layout showing a person wearing the crossbody bag from two angles: front and back. On the left, the front view displays the bag diagonally across the torso, with the strap over the right shoulder and the bag resting on the left hip. The person is wearing a light-colored short-sleeve button-up shirt and light-colored pants. On the right, the back view shows the same person from behind, with the bag positioned on the right side of the back, strap crossing from the left shoulder. The background is plain white in both panels. The lighting is even and studio-like, highlighting the bag\u2019s placement and fit on the body. The person\u2019s head is cropped out, focusing attention on the bag and its positioning."
+                "prompt": "A split-screen layout showing a person wearing the crossbody bag from two angles: front and back. On the left, the front view displays the bag diagonally across the torso, with the strap over the right shoulder and the bag resting on the left hip. The person is wearing a light-colored short-sleeve button-up shirt and light-colored pants. On the right, the back view shows the same person from behind, with the bag positioned on the right side of the back, strap crossing from the left shoulder. The background is plain white in both panels. The lighting is even and studio-like, highlighting the bag’s placement and fit on the body. The person’s head is cropped out, focusing attention on the bag and its positioning."
             },
             {
                 "file": "B073Q498T6/variation_2.jpg",
-                "prompt": "A person is shown from the side, wearing the crossbody bag over their shoulder, with the bag positioned on their left hip. The individual is dressed in a light gray short-sleeved shirt and light-colored shorts. The bag\u2019s strap extends diagonally across the back and over the shoulder, with the main body of the bag resting against the side. The background is plain white, with no additional elements or text. The lighting is even and bright, highlighting the bag\u2019s placement and fit on the body. The composition focuses on the side profile, emphasizing how the bag sits naturally when worn."
-            },
-            {
-                "file": "B073Q498T6/variation_3.jpg",
-                "prompt": "A close-up, angled product shot of the crossbody bag with its main front compartment unzipped and open, revealing its interior contents. Inside, a silver tablet rests on top of a blue-covered book, with a folded blue umbrella and a black spherical object partially visible beside them. The bag\u2019s front features multiple zippered pockets, with the top pocket partially unzipped and a white metal D-ring attached to a black strap. The shoulder strap is visible on the left side, extending diagonally upward. The background is plain white, with even, bright studio lighting highlighting the bag\u2019s texture and the items inside. The composition focuses on the functionality and capacity of the bag, emphasizing its organization and storage features."
+                "prompt": "A person is shown from the side, wearing the crossbody bag over their shoulder, with the bag positioned on their left hip. The individual is dressed in a light gray short-sleeved shirt and light-colored shorts. The bag’s strap extends diagonally across the back and over the shoulder, with the main body of the bag resting against the side. The background is plain white, with no additional elements or text. The lighting is even and bright, highlighting the bag’s placement and fit on the body. The composition focuses on the side profile, emphasizing how the bag sits naturally when worn."
             }
         ]
     },
@@ -179,27 +74,7 @@
             },
             {
                 "file": "B082WS5ZSS/variation_3.jpg",
-                "prompt": "A low-angle, dynamic shot of a person\u2019s feet wearing the running shoes, captured mid-stride on a red running track. The shoes are shown in motion, with one foot lifted slightly off the ground and the other planted, emphasizing movement and athletic use. The person is wearing black athletic pants, cropped just above the ankle, revealing the shoes and lower legs. The background is softly blurred, featuring green foliage and a hint of a sports field, suggesting an outdoor, natural environment. The lighting is bright and natural, highlighting the texture of the shoes and the track surface. The focus is sharp on the shoes and feet, with a shallow depth of field that gently blurs the background. The composition centers on the side profile of the leading shoe,"
-            }
-        ]
-    },
-    {
-        "asin": "B09G9L7PPQ",
-        "title": "Hanna Nikole Women Wide Patent Leather Belt Fashion Square High Waist Cinch Belts",
-        "reference_file": "B09G9L7PPQ/reference.jpg",
-        "categorical_name": "belt",
-        "variation_files": [
-            {
-                "file": "B09G9L7PPQ/variation_1.jpg",
-                "prompt": "A woman stands in a softly lit, vintage-inspired indoor setting, posing naturally with one hand gently touching her hair. She wears a flowing, blush-pink dress with lace sleeves and a scalloped, eyelet-trimmed hem. The belt is worn cinched at her waist, accentuating her figure. Behind her, a white vanity table holds an ornate, gilded mirror with intricate carvings, reflecting part of the room. The background includes a white paneled door and a louvered window, contributing to the elegant, classic atmosphere. The lighting is soft and diffused, creating a warm, inviting ambiance with subtle shadows. The overall composition is clean and focused on the woman and the belt, with no text or graphic"
-            },
-            {
-                "file": "B09G9L7PPQ/variation_2.jpg",
-                "prompt": "A split-screen layout featuring two distinct fashion scenes, each showcasing the belt worn by a woman in different outfits. On the left, a woman is walking outdoors on a city street, wearing a long red coat with white cuffs and white pointed-toe heels; the belt is fastened around her waist, accentuating her silhouette. The background includes blurred urban elements like a black car and storefronts, with natural daylight lighting. On the right, a woman stands indoors against a bright, neutral background, wearing a fitted maroon sleeveless dress with a sweetheart neckline and thin straps; the belt is cinched at her waist, complementing the dress. She holds a small black handbag with a gold chain strap in her left hand and gently touches her hair"
-            },
-            {
-                "file": "B09G9L7PPQ/variation_3.jpg",
-                "prompt": "A woman stands outdoors in a vintage-inspired setting, wearing a sleeveless floral dress with a flared skirt and a white underskirt, accentuated by the belt cinched at her waist. She is positioned beside a classic white vintage car with its door open, set against a backdrop of a red brick building with large windows. The scene is bathed in natural daylight, creating soft shadows and highlighting the movement of the dress as it flares slightly. The woman\u2019s hair is styled in a retro updo, and she wears elegant earrings, with her gaze directed to the side. The background includes visible pavement and a yellow parking line, contributing to a nostalgic, urban street atmosphere. The belt is shown in context, integrated naturally into the outfit,"
+                "prompt": "A low-angle, dynamic shot of a person’s feet wearing the running shoes, captured mid-stride on a red running track. The shoes are shown in motion, with one foot lifted slightly off the ground and the other planted, emphasizing movement and athletic use. The person is wearing black athletic pants, cropped just above the ankle, revealing the shoes and lower legs. The background is softly blurred, featuring green foliage and a hint of a sports field, suggesting an outdoor, natural environment. The lighting is bright and natural, highlighting the texture of the shoes and the track surface. The focus is sharp on the shoes and feet, with a shallow depth of field that gently blurs the background. The composition centers on the side profile of the leading shoe,"
             }
         ]
     },
@@ -211,27 +86,7 @@
         "variation_files": [
             {
                 "file": "B003MHY83I/variation_1.jpg",
-                "prompt": "A product shot of the watch displayed on a stylized, monochromatic gray human wrist and hand, shown in profile from the side. The wrist extends horizontally across the frame, with the hand positioned to the right, fingers slightly curled and relaxed. The watch is centered on the wrist, clearly visible with its round face and band wrapping naturally around the wrist. The background is a plain, solid white, providing high contrast to the gray silhouette of the arm. The lighting is even and soft, emphasizing the watch\u2019s placement and form without casting harsh shadows. The overall composition is clean, minimal, and focused solely on the watch worn on the wrist."
-            }
-        ]
-    },
-    {
-        "asin": "B07STQ6TS1",
-        "title": "Brooch Pin, gLoaSublim Cute Hedgehog Shape Brooch Pin Women Enamel Animal Jewelry Backpack Jacket Decor - Black",
-        "reference_file": "B07STQ6TS1/reference.jpg",
-        "categorical_name": "brooch pin",
-        "variation_files": [
-            {
-                "file": "B07STQ6TS1/variation_1.jpg",
-                "prompt": "A small, detailed brooch pin shaped like a hedgehog is positioned on a smooth, off-white ceramic dish with a slightly irregular, scalloped edge and subtle speckled texture. The dish rests on a clean, bright white surface, creating a soft, diffused shadow beneath it. The lighting is soft and even, highlighting the glossy finish of the brooch pin and the matte texture of the dish. The background is a plain, uniform white, providing a minimalist and elegant setting that draws focus to the brooch pin and its presentation. The composition is centered, with the brooch pin placed slightly forward on the dish, suggesting a gentle, natural placement rather than a rigid display."
-            },
-            {
-                "file": "B07STQ6TS1/variation_2.jpg",
-                "prompt": "A small, detailed brooch pin is positioned on a smooth, reflective white surface, viewed from a slightly elevated side angle. The brooch is placed horizontally, with its body oriented left to right, and a light brown wooden stick, resembling a chopstick or skewer, runs diagonally behind it, passing just above the brooch\u2019s back. The stick enters from the top left and exits toward the bottom right, partially framing the brooch. The lighting is soft and diffused, creating subtle highlights on the brooch\u2019s surface and a faint, gentle reflection on the glossy white background. The overall composition is clean and minimal, emphasizing the product\u2019s form and texture with a bright, neutral, studio-like aesthetic."
-            },
-            {
-                "file": "B07STQ6TS1/variation_3.jpg",
-                "prompt": "A close-up product shot of the brooch pin positioned horizontally on a smooth, light wooden stick, which runs diagonally across the frame from the bottom left to the top right. The brooch pin is shown in profile, facing left, with its body resting gently on the stick. The background is a soft, diffused white surface with subtle, natural folds, resembling a lightweight fabric or paper, creating a clean and minimalistic aesthetic. The lighting is bright and even, highlighting the texture and form of the brooch pin without harsh shadows, giving the image a soft, studio-quality appearance. The composition is simple and focused, emphasizing the product\u2019s shape and placement on the stick."
+                "prompt": "A product shot of the watch displayed on a stylized, monochromatic gray human wrist and hand, shown in profile from the side. The wrist extends horizontally across the frame, with the hand positioned to the right, fingers slightly curled and relaxed. The watch is centered on the wrist, clearly visible with its round face and band wrapping naturally around the wrist. The background is a plain, solid white, providing high contrast to the gray silhouette of the arm. The lighting is even and soft, emphasizing the watch’s placement and form without casting harsh shadows. The overall composition is clean, minimal, and focused solely on the watch worn on the wrist."
             }
         ]
     },
@@ -248,22 +103,6 @@
         ]
     },
     {
-        "asin": "B0925344QQ",
-        "title": "Scarlet Darkness Women Pencil Dress Midi Business Dress Cocktail Party Funeral Office Work",
-        "reference_file": "B0925344QQ/reference.jpg",
-        "categorical_name": "pencil dress",
-        "variation_files": [
-            {
-                "file": "B0925344QQ/variation_1.jpg",
-                "prompt": "A full-length studio photograph of a woman posing confidently in the pencil dress, standing against a plain white background. She is positioned slightly angled toward the camera, with one hand resting on her hip and the other relaxed by her side. Her legs are crossed at the ankles, and she wears black open-toe high-heeled sandals. The lighting is bright and even, highlighting the form-fitting silhouette of the dress and the natural contours of her figure. The overall composition is clean and professional, emphasizing the elegance and fit of the garment."
-            },
-            {
-                "file": "B0925344QQ/variation_2.jpg",
-                "prompt": "A full-length studio photograph of a woman posing confidently in a fitted, knee-length pencil dress. She stands in a dynamic, three-quarter pose with one leg slightly bent and crossed behind the other, her right hand resting on her hip and her left arm relaxed by her side. Her blonde hair is styled in an elegant updo with loose tendrils framing her face, and she wears large, ornate gold earrings. She is also wearing black strappy high-heeled sandals. The dress features a deep V-neckline with a draped cowl collar, short puffed sleeves with ruffled lace trim at the cuffs, and a matching lace trim along the hem. The background is plain white, with soft, even studio lighting that highlights the silhouette and texture"
-            }
-        ]
-    },
-    {
         "asin": "B002VJJNZG",
         "title": "Ed Hardy Men's SM-BK Spectrum Black Watch",
         "reference_file": "B002VJJNZG/reference.jpg",
@@ -276,18 +115,6 @@
         ]
     },
     {
-        "asin": "B083DPSJGX",
-        "title": "Women's Pointed Toe Ballet Flats Slip on Floral Print Dress Shoes",
-        "reference_file": "B083DPSJGX/reference.jpg",
-        "categorical_name": "ballet flats",
-        "variation_files": [
-            {
-                "file": "B083DPSJGX/variation_1.jpg",
-                "prompt": "A pair of the ballet flats is displayed in a top-down, slightly angled perspective on a light-toned wooden floor with visible grain. The shoes are positioned diagonally, with one slightly overlapping the other, showcasing their pointed-toe design and slip-on structure. The interior lining appears soft and light beige, and the soles are a subtle tan with a textured, flexible-looking edge. Surrounding the shoes are subtle, elegant accessories: a delicate strand of white pearls curves near the top left, and a small, transparent bottle with a metallic cap\u2014resembling a perfume or nail polish\u2014rests beside it. In the upper right corner, a white picture frame with a clean, minimalist design is partially visible, its inner mat and content indist"
-            }
-        ]
-    },
-    {
         "asin": "B0145XEGYS",
         "title": "Arc'teryx Index 15 Backpack",
         "reference_file": "B0145XEGYS/reference.jpg",
@@ -296,30 +123,6 @@
             {
                 "file": "B0145XEGYS/variation_1.jpg",
                 "prompt": "A person with short dark hair is shown from the back, wearing the backpack. They are dressed in an olive green hooded jacket and dark pants. The backpack is positioned snugly on their back, with the shoulder straps visible and adjusted to fit. The person is standing upright in a neutral pose, facing slightly to the right, with their arms relaxed at their sides. The background is a plain, solid white, providing a clean and minimalistic setting that emphasizes the subject and the backpack. The lighting is even and soft, highlighting the silhouette and form of the person and the backpack without harsh shadows."
-            },
-            {
-                "file": "B0145XEGYS/variation_2.jpg",
-                "prompt": "A full-body side-profile shot of a person wearing the backpack, standing against a plain white background. The individual is shown from the back, slightly angled to the left, with their head turned to the side, looking forward. They are dressed in outdoor-style clothing: a hooded olive-green jacket, black pants, and light brown hiking shoes. The backpack is positioned naturally on their back, secured with shoulder straps, and fits snugly against their torso. The lighting is even and studio-like, highlighting the silhouette and fit of the backpack on the person without casting harsh shadows. The overall composition is clean and minimal, focusing on the product in use with a natural, active stance."
-            },
-            {
-                "file": "B0145XEGYS/variation_3.jpg",
-                "prompt": "A person with short dark hair, wearing a green hooded jacket and dark pants, is shown in a three-quarter side profile facing right, wearing the backpack on their back. The backpack is positioned naturally against their upper back and shoulders, with the shoulder straps visible and adjusted. The person\u2019s right hand is gently touching or adjusting the strap near their shoulder. The background is a plain, solid white, with even, bright studio lighting that highlights the subject and the backpack without casting harsh shadows. The overall composition is clean and minimal, focusing on the fit and wearability of the backpack in a natural, casual pose."
-            }
-        ]
-    },
-    {
-        "asin": "B017NEPKUU",
-        "title": "TINYAT T510 Shoulder Messenger Bag Crossbody Pocket Travel Purse T510, Blue",
-        "reference_file": "B017NEPKUU/reference.jpg",
-        "categorical_name": "crossbody bag",
-        "variation_files": [
-            {
-                "file": "B017NEPKUU/variation_1.jpg",
-                "prompt": "A product shot of the crossbody bag shown open from the top, revealing its interior. The bag is positioned at a slight angle, with the main compartment unzipped to display the inner lining and contents. Inside, there are neatly arranged items including a folded green cloth and a stack of white papers or documents. The interior lining is a solid gray color with a subtle, repeating pattern. The bag\u2019s black zipper is fully open, and the black shoulder strap is visible on the left side, extending out of the frame. The background is plain white, and the lighting is bright and even, highlighting the texture of the bag\u2019s fabric and the contents within. The overall composition focuses on showcasing the bag\u2019s storage capacity and interior organization."
-            },
-            {
-                "file": "B017NEPKUU/variation_2.jpg",
-                "prompt": "A top-down view of the crossbody bag with its main compartment unzipped and open, revealing the interior. The bag is positioned against a plain white background. Inside, the lining is a light gray fabric with a subtle texture. The interior contains a few items: a hardcover book lying flat, and a compact, folded umbrella with a black handle and red-and-silver striped canopy, placed next to the book. The zipper is black and runs along the top edge of the bag, with the zipper pull visible on the left side. The bag\u2019s exterior fabric is not described, and any branding or text on the bag or within the image is ignored. The lighting is even and bright, highlighting the contents and interior details clearly."
             }
         ]
     },
@@ -336,70 +139,14 @@
         ]
     },
     {
-        "asin": "B003O2SLCA",
-        "title": "KEEN Women's Howser Slipper",
-        "reference_file": "B003O2SLCA/reference.jpg",
-        "categorical_name": "slipper",
-        "variation_files": [
-            {
-                "file": "B003O2SLCA/variation_1.jpg",
-                "prompt": "A close-up, low-angle shot of a person's feet wearing the slipper, standing on a moss-covered rock in a natural outdoor setting. The slipper is shown from the side and front, with the person\u2019s lower legs visible, wearing light-colored cuffed pants and white socks with black horizontal stripes. The background features dry, golden wildflowers and soft, blurred green hills under warm, natural sunlight. The lighting is soft and diffused, creating a calm, earthy atmosphere. The composition emphasizes the slipper in a real-world, lifestyle context, with the focus on the product\u2019s integration into an outdoor, rustic environment."
-            }
-        ]
-    },
-    {
-        "asin": "B06WWF75SG",
-        "title": "EnllerviiD Women's Wedge Mary Jane Sandals",
-        "reference_file": "B06WWF75SG/reference.jpg",
-        "categorical_name": "wedge sandals",
-        "variation_files": [
-            {
-                "file": "B06WWF75SG/variation_1.jpg",
-                "prompt": "A close-up lifestyle shot of the wedge sandals being held and worn by a person. The left shoe is held in the hand, showcasing its side profile, while the right shoe is worn on the foot, angled slightly to display the front and side. The hand holding the shoe has polished red nails and wears a plaid sleeve cuff. The background is a soft, neutral gray surface with subtle shadows, suggesting a clean, minimalist studio setting. The lighting is soft and diffused, highlighting the texture of the shoe and the natural skin tone of the foot. The composition focuses on the interaction between the hand, foot, and product, emphasizing comfort and style in a natural, everyday context."
-            },
-            {
-                "file": "B06WWF75SG/variation_2.jpg",
-                "prompt": "A pair of feet wearing the wedge sandals, shown from a slightly elevated front-three-quarter angle, standing on a smooth, light gray floor. The background consists of a plain, light gray wall with a subtle texture. To the left, a portion of a vertical, solid white panel is visible, with a thin wooden baseboard at its bottom edge. The lighting is soft and even, casting gentle shadows beneath the feet and sandals, emphasizing the shape of the thick, ridged wedge sole. The overall composition is clean and minimal, focusing on the product in a natural, lifestyle-style presentation."
-            },
-            {
-                "file": "B06WWF75SG/variation_3.jpg",
-                "prompt": "A pair of the wedge sandals is shown on a person's feet, captured from a side-front angle as they stand with one foot slightly forward, creating a natural walking pose. The shot focuses on the lower legs and feet, with the background consisting of a plain, light gray floor and a smooth, off-white textured wall. The lighting is soft and even, highlighting the form of the sandals and the contours of the legs without harsh shadows. The composition is clean and minimal, emphasizing the product in a realistic, lifestyle context."
-            }
-        ]
-    },
-    {
-        "asin": "B087BL7ZL9",
-        "title": "ILLUDE Women\u2019s Moccasin Slipper Vegan Suede Faux Fur Lined Indoor Outdoor Moccasins Slip On Loafers Moccasins Shoes",
-        "reference_file": "B087BL7ZL9/reference.jpg",
-        "categorical_name": "slippers",
-        "variation_files": [
-            {
-                "file": "B087BL7ZL9/variation_1.jpg",
-                "prompt": "A full-length shot of a person\u2019s lower legs and feet, standing against a plain white background. The person is wearing the slippers, with one foot slightly forward and the other slightly behind, creating a natural, relaxed pose. The legs are uncrossed and positioned to showcase the slippers from both side and front angles. The lighting is bright and even, highlighting the contours of the legs and the silhouette of the slippers without casting harsh shadows. The composition is clean and minimal, focusing entirely on the fit and appearance of the slippers on the feet, with no additional props, text, or graphic elements."
-            }
-        ]
-    },
-    {
         "asin": "B0785D7925",
-        "title": "Titan Raga Viva Women\u2019s Bracelet Watch - Quartz, Water Resistant",
+        "title": "Titan Raga Viva Women’s Bracelet Watch - Quartz, Water Resistant",
         "reference_file": "B0785D7925/reference.jpg",
         "categorical_name": "wristwatch",
         "variation_files": [
             {
                 "file": "B0785D7925/variation_1.jpg",
                 "prompt": "A side-profile view of a human arm and hand, rendered in solid dark gray, with the wrist positioned horizontally. The wrist is adorned with the wristwatch, centered on the wrist and shown in a natural, worn position. The background is completely plain and white, with no additional elements, text, or graphical overlays. The lighting is even and soft, creating subtle shading on the arm to give a sense of form and depth, while keeping the focus on the wristwatch. The overall composition is clean and minimal, emphasizing the product's placement on the wrist."
-            }
-        ]
-    },
-    {
-        "asin": "B07SJN6FQ9",
-        "title": "Kiwiaanaa Crazy Horse Leather Wallet \u2013 Weather-Resistant and Durable \u2013 Functional 8 Compartments Design \u2013 RFID Blocking Security \u2013 Elegant and Compact \u2013 Quick Access Smart Wallet \u2013 Money Clip",
-        "reference_file": "B07SJN6FQ9/reference.jpg",
-        "categorical_name": "wallet",
-        "variation_files": [
-            {
-                "file": "B07SJN6FQ9/variation_1.jpg",
-                "prompt": "A flat-lay composition on a weathered white wooden surface with visible grain and texture. In the center-left, the wallet is positioned horizontally, slightly angled, with a card partially visible in its front pocket. To the left of the wallet, a pair of black-rimmed eyeglasses rests diagonally. To the right of the wallet, a rectangular object with a solid yellow background is placed vertically, featuring a small black strap or closure at the bottom. Further to the right, a white smartphone with a dark screen lies horizontally. In the top-right corner, a white tablet with a visible screen displaying app icons is placed diagonally. In the top-left corner, a portion of a brown leather-bound notebook or journal is visible. The lighting"
             }
         ]
     },
@@ -416,22 +163,6 @@
         ]
     },
     {
-        "asin": "B07CLMF8Y9",
-        "title": "Bonndorf 7MM Stainless Steel Ring with Engraved Florentine Design Sizes 4 to 13",
-        "reference_file": "B07CLMF8Y9/reference.jpg",
-        "categorical_name": "ring",
-        "variation_files": [
-            {
-                "file": "B07CLMF8Y9/variation_1.jpg",
-                "prompt": "A close-up shot of a woman\u2019s hand gently resting near her chin, with her fingers slightly curled and her lips partially visible in the upper frame. The hand is positioned to showcase the ring on her ring finger, which is the central focus. The lighting is soft and natural, highlighting the skin texture and the subtle sheen of the ring. The background is a solid dark gray, providing a clean, minimalist contrast. The overall composition is elegant and intimate, emphasizing the ring\u2019s presence on the hand without any distractions. The hand features neatly manicured nails with a light, neutral polish. The image captures a moment of quiet sophistication, with the hand and face partially framed to draw attention to the ring."
-            },
-            {
-                "file": "B07CLMF8Y9/variation_2.jpg",
-                "prompt": "A close-up portrait of a woman with long blonde hair, her eyes gently closed and head tilted slightly downward, hands clasped together under her chin. She is bare-shouldered, with soft, natural lighting highlighting her skin and hair. The ring is worn on the ring finger of her right hand, positioned prominently in the center of the composition. The background is a solid dark gray, creating a neutral, elegant backdrop that draws focus to the subject and the ring. The lighting is soft and directional, casting subtle shadows and enhancing the contours of her face and hands. The overall mood is serene and sophisticated."
-            }
-        ]
-    },
-    {
         "asin": "B095BX2GT1",
         "title": "RF ROOM OF FASHION Women's Slip On Chunky Heel Peep Toe Mule Sandals",
         "reference_file": "B095BX2GT1/reference.jpg",
@@ -439,7 +170,7 @@
         "variation_files": [
             {
                 "file": "B095BX2GT1/variation_1.jpg",
-                "prompt": "A full-length shot of a person's lower legs and feet, wearing the mule sandals, standing on a light gray wooden plank floor. The person is wearing cuffed blue jeans, with the cuffs revealing a subtle patterned hem. The background features a white-painted brick wall, creating a clean, urban aesthetic. The lighting is soft and even, highlighting the texture of the jeans and the footwear. The person\u2019s feet are positioned naturally, with one foot slightly forward, showcasing the sandals from a three-quarter angle. The overall composition is casual and lifestyle-oriented, emphasizing comfort and everyday wear."
+                "prompt": "A full-length shot of a person's lower legs and feet, wearing the mule sandals, standing on a light gray wooden plank floor. The person is wearing cuffed blue jeans, with the cuffs revealing a subtle patterned hem. The background features a white-painted brick wall, creating a clean, urban aesthetic. The lighting is soft and even, highlighting the texture of the jeans and the footwear. The person’s feet are positioned naturally, with one foot slightly forward, showcasing the sandals from a three-quarter angle. The overall composition is casual and lifestyle-oriented, emphasizing comfort and everyday wear."
             }
         ]
     }

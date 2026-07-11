@@ -1,53 +1,5 @@
 [
     {
-        "asin": "B081RN9SL8",
-        "title": "Segarty Dog Bandana Boy, Pets Medium Dog Cat Formal Red Neck Tie Black Tuxedo Bow Tie Collar, Gentlemen Style Dogs Costume",
-        "reference_file": "B081RN9SL8/reference.jpg",
-        "categorical_name": "dog bandana",
-        "variation_files": [
-            {
-                "file": "B081RN9SL8/variation_1.jpg",
-                "prompt": "A golden retriever is sitting outdoors in a grassy area, surrounded by green foliage and a chain-link fence in the background. The dog is wearing a pair of black sunglasses and has its mouth open with its tongue out, appearing happy and relaxed. Around its neck is the dog bandana, styled to resemble a formal black vest with a white collar and a red tie. The dog is also wearing a black harness with a leash attached. The scene is brightly lit with natural daylight, creating a cheerful and playful atmosphere."
-            }
-        ]
-    },
-    {
-        "asin": "B07R9P7N2Q",
-        "title": "Bolux Over Head Dog Harness, Easy On and Off Pet Vest Harness, Reflective Breathable and Easy Adjust Pet Halters with Nylon Handle for Small Medium Large Dogs, Pink, L",
-        "reference_file": "B07R9P7N2Q/reference.jpg",
-        "categorical_name": "dog harness",
-        "variation_files": [
-            {
-                "file": "B07R9P7N2Q/variation_1.jpg",
-                "prompt": "A German Shepherd dog is shown outdoors on a paved, slightly snowy ground, wearing the dog harness. The dog is in a standing position, facing left, with its head tilted upward as if interacting with a person standing to its left, who is partially visible from the waist down, wearing black outdoor pants and hiking boots. The person is holding a textured, beige and red training toy or sleeve near the dog’s mouth. The dog harness is secured with a leash attached to a metal D-ring on the back of the harness, extending diagonally to the upper right. The background is a natural, out-of-focus outdoor setting with bare trees and muted earth tones, suggesting a cold or winter day. The lighting is soft and diffused, typical of an"
-            },
-            {
-                "file": "B07R9P7N2Q/variation_2.jpg",
-                "prompt": "A German Shepherd dog in mid-stride running across a dry, sunlit grassy field, wearing the dog harness. The harness is shown in use, with its straps positioned over the dog’s shoulders and chest, and a reflective strip visible along the side strap. The dog’s mouth is open with tongue out, conveying motion and energy. Blue curved arrows are overlaid on the harness area, illustrating airflow and breathability. The background is a natural outdoor scene with warm, golden lighting, emphasizing an active, outdoor setting. The overall composition is dynamic, capturing the dog in motion from a side profile."
-            }
-        ]
-    },
-    {
-        "asin": "B089Y6XG2K",
-        "title": "FEANDREA Cat Tree, Modern Cat Tower, Wood Cat Condo Furniture with Scratching Posts for Large/Small Cats，37.8 Inches, Walnut Color UPCT071H01",
-        "reference_file": "B089Y6XG2K/reference.jpg",
-        "categorical_name": "cat tree",
-        "variation_files": [
-            {
-                "file": "B089Y6XG2K/variation_1.jpg",
-                "prompt": "A full-room lifestyle scene featuring the cat tree placed in a cozy, modern living space. The cat tree is positioned in the corner near a large window, with natural light illuminating the room. A gray cat sits alertly on the top platform, while a white cat peeks out from the enclosed cubby on the middle level. The room includes a brown leather armchair with a black-and-white patterned throw pillow and a cream-colored knit blanket draped over the arm. A small white side table with a potted plant sits beside the chair. A black-and-white striped rug lies on the wooden floor in front of the cat tree. A decorative black string light with exposed bulbs hangs vertically along the wall. The walls are a light cream color with"
-            },
-            {
-                "file": "B089Y6XG2K/variation_2.jpg",
-                "prompt": "A multi-level cat tree is positioned in a cozy, well-lit bedroom corner, placed on a light wooden floor. The scene features soft, natural daylight streaming in from a window on the left, partially covered by sheer, cream-colored curtains. To the left of the cat tree, a bed with a white and black patterned blanket is visible, along with a small wooden side table holding a potted plant with large green leaves. On the right, a wooden cabinet with decorative white inlay and a small potted plant on top adds to the warm, homey decor. The walls are plain and light-colored, with two small framed artworks hanging on the upper right wall. A white rug lies on the floor in front of the cat tree."
-            },
-            {
-                "file": "B089Y6XG2K/variation_3.jpg",
-                "prompt": "A cozy indoor living space featuring the cat tree positioned on a patterned area rug with fringed edges, placed against a light-colored textured wall. The scene includes a wicker chair with a draped white throw blanket and a potted plant with long green leaves in a rustic wooden planter to the left. A woven tote bag and a straw hat hang on the wall above the chair. To the right, a white door with a black handle is visible. The cat tree is shown in use with two cats: one gray cat lounging in the suspended plush hammock, and a white cat peeking out from the circular opening of the enclosed cubby. The lighting is soft and natural, creating a warm, inviting atmosphere. The overall composition emphasizes the"
-            }
-        ]
-    },
-    {
         "asin": "B0BDDVDQFW",
         "title": "Kamoer X1 PRO T2 small programmable auto dosing pump 24V 110 ml/min calcium pump Wi-Fi control continuous flow stepper motor adjustable peristaltic pump for aquarium",
         "reference_file": "B0BDDVDQFW/reference.jpg",

@@ -1,25 +1,5 @@
 [
     {
-        "asin": "B000FLV23I",
-        "title": "From the Paradise Motel",
-        "reference_file": "B000FLV23I/reference.jpg",
-        "categorical_name": "heart-shaped glass jar",
-        "variation_files": [
-            {
-                "file": "B000FLV23I/variation_1.jpg",
-                "prompt": "A close-up product shot of the heart-shaped glass jar with its lid slightly ajar, placed on a smooth, reflective black surface. The jar is positioned at an angle, revealing its interior, which contains a vibrant, iridescent liquid with shifting hues of green, blue, and yellow. A makeup brush with a silver ferrule and brown bristles is partially submerged in the liquid, extending diagonally upward from the jar. The lid, featuring a clear glass knob, rests beside the jar, casting a soft reflection on the glossy background. The lighting is dramatic and focused, creating highlights on the glass and emphasizing the glossy, colorful sheen of the liquid inside. The overall composition is minimalist, with the black background providing high contrast to the lumin"
-            },
-            {
-                "file": "B000FLV23I/variation_2.jpg",
-                "prompt": "A close-up shot of the heart-shaped glass jar with its lid slightly ajar, positioned diagonally on a dark, reflective surface. The lighting is dramatic and focused, creating strong highlights on the glass and emphasizing its textured, scalloped edges. The background is completely black, enhancing the contrast and making the jar appear to glow with iridescent reflections. The overall composition is moody and artistic, with a shallow depth of field that keeps the jar sharply in focus while softly blurring the immediate surroundings."
-            },
-            {
-                "file": "B000FLV23I/variation_3.jpg",
-                "prompt": "A close-up, well-lit lifestyle scene showing a person’s hands performing a manicure on a white towel. The left hand holds a pink nail file, gently filing the nail of the right hand, which rests on the towel. In the foreground, arranged neatly on a clean white surface, are several nail polish bottles with black caps in various colors, along with a dual-sided orange and pink nail file. Positioned near the nail polish bottles are two small heart-shaped glass jars, one with a clear lid and the other with a blue-tinted interior, both placed beside a small, clear glass dish. The overall lighting is soft and bright, creating a clean, minimalist aesthetic with a focus on the manicure process and the surrounding beauty tools."
-            }
-        ]
-    },
-    {
         "asin": "B00556MWVO",
         "title": "George Beverly Shea, Cliff Barrows and Friends - Heart Of Praise: Billy Graham Crusade Choir Favourites - CD",
         "reference_file": "B00556MWVO/reference.jpg",
