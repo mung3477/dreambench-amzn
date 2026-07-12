@@ -12,11 +12,11 @@ def clean_metadata(base_dir, execute=False):
         cat_dir = os.path.join(base_dir, name)
         if not os.path.isdir(cat_dir) or not name.startswith("raw_meta_"):
             continue
-        
+
         metadata_path = os.path.join(cat_dir, "metadata.json")
         if not os.path.exists(metadata_path):
             continue
-            
+
         print(f"Checking {metadata_path}...")
         try:
             with open(metadata_path, 'r', encoding='utf-8') as f:
@@ -24,18 +24,18 @@ def clean_metadata(base_dir, execute=False):
         except Exception as e:
             print(f"  Error reading {metadata_path}: {e}")
             continue
-            
+
         if not isinstance(data, list):
             print(f"  Warning: metadata.json in {name} is not a JSON list. Skipping.")
             continue
-            
+
         cleaned_data = []
         modified = False
-        
+
         for entry in data:
             asin = entry.get("asin")
             ref_file = entry.get("reference_file")
-            
+
             # 1. Check reference_file existence
             if ref_file:
                 ref_path = os.path.join(cat_dir, ref_file)
@@ -47,7 +47,7 @@ def clean_metadata(base_dir, execute=False):
                 print(f"  [{asin}] No reference_file field. Removing entry.")
                 modified = True
                 continue
-                
+
             # 2. Check variation_files existence
             var_files = entry.get("variation_files", [])
             valid_variations = []
@@ -63,18 +63,18 @@ def clean_metadata(base_dir, execute=False):
                 else:
                     print(f"  [{asin}] Variation missing 'file' key. Removing variation.")
                     modified = True
-                    
+
             if not valid_variations:
                 print(f"  [{asin}] No valid variations left. Removing entry.")
                 modified = True
                 continue
-                
+
             if len(valid_variations) != len(var_files):
                 entry["variation_files"] = valid_variations
                 modified = True
-                
+
             cleaned_data.append(entry)
-            
+
         if modified:
             if execute:
                 try:
@@ -92,7 +92,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Clean metadata.json by verifying referenced file existence.")
     parser.add_argument("--execute", action="store_true", help="Execute the deletion of missing metadata entries")
     args = parser.parse_args()
-    
+
     # Path to the detail_benchmark directory
-    base_dir = os.path.dirname(os.path.abspath(__file__))
+    base_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "wordy")
     clean_metadata(base_dir, execute=args.execute)
