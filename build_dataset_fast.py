@@ -177,6 +177,19 @@ def main():
 
         os.makedirs(category_dir, exist_ok=True)
 
+        # Load deleted metadata if exists
+        deleted_metadata_path = os.path.join(category_dir, "deleted_metadata.json")
+        deleted_asins = {}
+        deleted_variations = {}
+        if os.path.exists(deleted_metadata_path):
+            try:
+                with open(deleted_metadata_path, "r", encoding="utf-8") as f:
+                    del_data = json.load(f)
+                    deleted_asins = del_data.get("deleted_asins", {})
+                    deleted_variations = del_data.get("deleted_variations", {})
+            except Exception as e:
+                print(f"Warning: Failed to load deleted metadata: {e}")
+
         print("--- Phase A & B: VLM Filtering and Curation ---")
         dataset = load_dataset("McAuley-Lab/Amazon-Reviews-2023", category_name, trust_remote_code=True, split="full", streaming=True)
         count = 0
@@ -190,6 +203,10 @@ def main():
                 break
 
             asin = row.get('parent_asin', f"unk_{count}")
+            if asin in deleted_asins:
+                print(f"  -> Skipping ASIN {asin}: Marked as deleted in deleted_metadata.json.")
+                continue
+
             asin_dir = os.path.join(category_dir, asin)
             if os.path.exists(asin_dir):
                 if any(item.get('asin') == asin for item in final_dataset):
@@ -259,6 +276,16 @@ def main():
                     try:
                         v_resp = requests.get(url, timeout=5)
                         v_img = Image.open(BytesIO(v_resp.content)).convert("RGB")
+
+                        # Check against deleted variations
+                        if asin in deleted_variations and deleted_variations[asin]:
+                            import hashlib
+                            temp_buf = BytesIO()
+                            v_img.save(temp_buf, format="JPEG")
+                            v_hash = hashlib.md5(temp_buf.getvalue()).hexdigest()
+                            if any(var.get('hash') == v_hash for var in deleted_variations[asin]):
+                                print(f"  -> Skipping variation for ASIN {asin}: Matches a deleted variation in deleted_metadata.json.")
+                                continue
 
                         v_tmp_path = os.path.join(root_dir, f"tmp_v_{category_name}.jpg")
                         v_img.save(v_tmp_path)

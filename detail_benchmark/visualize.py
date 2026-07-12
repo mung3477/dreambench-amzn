@@ -49,7 +49,56 @@ def save_metadata(category_dir, metadata):
         logger.error(f"Error saving metadata to {path}: {e}")
         return False
 
+def get_deleted_metadata_path(category_dir):
+    """Returns the path to deleted_metadata.json for a category"""
+    return os.path.join(BASE_DIR, category_dir, 'deleted_metadata.json')
+
+def load_deleted_metadata(category_dir):
+    """Loads deleted_metadata.json for a category, returning an empty structure if not found or invalid"""
+    path = get_deleted_metadata_path(category_dir)
+    if not os.path.exists(path):
+        return {"deleted_asins": {}, "deleted_variations": {}}
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            if not isinstance(data, dict):
+                data = {}
+            if "deleted_asins" not in data:
+                data["deleted_asins"] = {}
+            if "deleted_variations" not in data:
+                data["deleted_variations"] = {}
+            return data
+    except Exception as e:
+        logger.error(f"Error loading deleted metadata from {path}: {e}")
+        return {"deleted_asins": {}, "deleted_variations": {}}
+
+def save_deleted_metadata(category_dir, deleted_metadata):
+    """Saves deleted metadata to deleted_metadata.json for a category with indentation"""
+    path = get_deleted_metadata_path(category_dir)
+    try:
+        with open(path, 'w', encoding='utf-8') as f:
+            json.dump(deleted_metadata, f, indent=4, ensure_ascii=False)
+        logger.info(f"Successfully updated deleted metadata: {path}")
+        return True
+    except Exception as e:
+        logger.error(f"Error saving deleted metadata to {path}: {e}")
+        return False
+
+def get_file_hash(file_path):
+    """Computes the MD5 hash of a file"""
+    import hashlib
+    hash_md5 = hashlib.md5()
+    try:
+        with open(file_path, "rb") as f:
+            for chunk in iter(lambda: f.read(4096), b""):
+                hash_md5.update(chunk)
+        return hash_md5.hexdigest()
+    except Exception as e:
+        logger.error(f"Error computing hash for {file_path}: {e}")
+        return None
+
 # Web Server Routes
+
 
 @app.route('/')
 def index():
@@ -135,7 +184,35 @@ def api_delete_variant():
     metadata = load_metadata(category)
     updated = False
 
-    # 1. Update metadata
+    # 1. Log variation info before deleting from metadata/disk
+    variation_to_delete = None
+    for entry in metadata:
+        if entry.get('asin') == asin:
+            for v in entry.get('variation_files', []):
+                if v.get('file') == variation_file:
+                    variation_to_delete = v
+                    break
+            break
+
+    if variation_to_delete:
+        file_path = os.path.join(BASE_DIR, category, variation_file)
+        v_hash = get_file_hash(file_path) if os.path.exists(file_path) else None
+        
+        import datetime
+        deleted_meta = load_deleted_metadata(category)
+        if asin not in deleted_meta["deleted_variations"]:
+            deleted_meta["deleted_variations"][asin] = []
+        
+        if not any(v.get('file') == variation_file for v in deleted_meta["deleted_variations"][asin]):
+            deleted_meta["deleted_variations"][asin].append({
+                "file": variation_file,
+                "prompt": variation_to_delete.get("prompt"),
+                "hash": v_hash,
+                "deleted_at": datetime.datetime.now().isoformat()
+            })
+            save_deleted_metadata(category, deleted_meta)
+
+    # 2. Update metadata
     for entry in metadata:
         if entry.get('asin') == asin:
             original_len = len(entry.get('variation_files', []))
@@ -193,6 +270,30 @@ def api_delete_ref_set():
 
     if not product_entry:
         return jsonify({'success': False, 'error': 'Product entry not found in metadata'}), 404
+
+    # Log deleted ASIN and its variations
+    deleted_meta = load_deleted_metadata(category)
+    import datetime
+    deleted_meta["deleted_asins"][asin] = {
+        "title": product_entry.get("title"),
+        "reference_file": product_entry.get("reference_file"),
+        "deleted_at": datetime.datetime.now().isoformat()
+    }
+    if asin not in deleted_meta["deleted_variations"]:
+        deleted_meta["deleted_variations"][asin] = []
+    for v in product_entry.get("variation_files", []):
+        v_file = v.get("file")
+        if v_file:
+            file_path = os.path.join(BASE_DIR, category, v_file)
+            v_hash = get_file_hash(file_path) if os.path.exists(file_path) else None
+            if not any(x.get('file') == v_file for x in deleted_meta["deleted_variations"][asin]):
+                deleted_meta["deleted_variations"][asin].append({
+                    "file": v_file,
+                    "prompt": v.get("prompt"),
+                    "hash": v_hash,
+                    "deleted_at": datetime.datetime.now().isoformat()
+                })
+    save_deleted_metadata(category, deleted_meta)
 
     # Remove entry from metadata list
     metadata = [entry for entry in metadata if entry.get('asin') != asin]
