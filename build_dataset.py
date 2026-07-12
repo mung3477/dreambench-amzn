@@ -199,7 +199,7 @@ def main():
             count += 1
             if count < 5:
                 continue
-            if count > 5000: # Limit candidate search space per category to 5000 items (dry-run/scale limit)
+            if count > 1000: # Limit candidate search space per category to 5000 items (dry-run/scale limit)
                 break
 
             asin = row.get('parent_asin', f"unk_{count}")
