@@ -9,7 +9,7 @@ logger = logging.getLogger(__name__)
 
 app = Flask(__name__, template_folder='templates')
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "wordy")
 
 def get_category_dirs():
     """Returns a list of directory names starting with 'raw_meta_'"""
@@ -67,23 +67,23 @@ def api_categories():
     """Returns all categories with their counts of remaining variant pairs"""
     categories = []
     category_dirs = get_category_dirs()
-    
+
     for cat_dir in category_dirs:
         metadata = load_metadata(cat_dir)
         pair_count = 0
         for entry in metadata:
             if 'variation_files' in entry:
                 pair_count += len(entry['variation_files'])
-                
+
         # Make a friendly display name (e.g. raw_meta_All_Beauty -> All Beauty)
         display_name = cat_dir.replace('raw_meta_', '').replace('_', ' ')
-        
+
         categories.append({
             'id': cat_dir,
             'name': display_name,
             'count': pair_count
         })
-        
+
     return jsonify(categories)
 
 @app.route('/api/category/<category>', methods=['GET'])
@@ -92,19 +92,19 @@ def api_category_detail(category):
     category_dirs = get_category_dirs()
     if category not in category_dirs:
         return jsonify({'error': 'Category not found'}), 404
-        
+
     metadata = load_metadata(category)
     pairs = []
-    
+
     for entry in metadata:
         asin = entry.get('asin')
         title = entry.get('title')
         reference_file = entry.get('reference_file')
         categorical_name = entry.get('categorical_name', '')
-        
+
         if not asin or not reference_file:
             continue
-            
+
         for variation in entry.get('variation_files', []):
             pairs.append({
                 'asin': asin,
@@ -114,7 +114,7 @@ def api_category_detail(category):
                 'prompt': variation.get('prompt'),
                 'categorical_name': categorical_name
             })
-            
+
     return jsonify({'pairs': pairs})
 
 @app.route('/api/delete-variant', methods=['POST'])
@@ -124,17 +124,17 @@ def api_delete_variant():
     category = data.get('category')
     asin = data.get('asin')
     variation_file = data.get('variation_file')
-    
+
     if not category or not asin or not variation_file:
         return jsonify({'success': False, 'error': 'Missing parameters'}), 400
-        
+
     category_dirs = get_category_dirs()
     if category not in category_dirs:
         return jsonify({'success': False, 'error': 'Category not found'}), 404
-        
+
     metadata = load_metadata(category)
     updated = False
-    
+
     # 1. Update metadata
     for entry in metadata:
         if entry.get('asin') == asin:
@@ -143,14 +143,14 @@ def api_delete_variant():
             if len(entry['variation_files']) < original_len:
                 updated = True
             break
-            
+
     if not updated:
         return jsonify({'success': False, 'error': 'Variant metadata not found'}), 404
-        
+
     # Save metadata first to ensure sync
     if not save_metadata(category, metadata):
         return jsonify({'success': False, 'error': 'Failed to save metadata'}), 500
-        
+
     # 2. Delete file from disk
     file_path = os.path.join(BASE_DIR, category, variation_file)
     deleted_from_disk = False
@@ -165,7 +165,7 @@ def api_delete_variant():
     else:
         logger.warning(f"Variant file not found on disk: {file_path}")
         deleted_from_disk = True # Count as success since file is not there
-        
+
     return jsonify({'success': True, 'file_deleted': deleted_from_disk})
 
 @app.route('/api/delete-ref-set', methods=['POST'])
@@ -174,33 +174,33 @@ def api_delete_ref_set():
     data = request.json
     category = data.get('category')
     asin = data.get('asin')
-    
+
     if not category or not asin:
         return jsonify({'success': False, 'error': 'Missing parameters'}), 400
-        
+
     category_dirs = get_category_dirs()
     if category not in category_dirs:
         return jsonify({'success': False, 'error': 'Category not found'}), 404
-        
+
     metadata = load_metadata(category)
     product_entry = None
-    
+
     # Find entry
     for entry in metadata:
         if entry.get('asin') == asin:
             product_entry = entry
             break
-            
+
     if not product_entry:
         return jsonify({'success': False, 'error': 'Product entry not found in metadata'}), 404
-        
+
     # Remove entry from metadata list
     metadata = [entry for entry in metadata if entry.get('asin') != asin]
-    
+
     # Save updated metadata
     if not save_metadata(category, metadata):
         return jsonify({'success': False, 'error': 'Failed to save metadata'}), 500
-        
+
     # Delete reference image
     ref_file = product_entry.get('reference_file')
     if ref_file:
@@ -213,7 +213,7 @@ def api_delete_ref_set():
                 logger.error(f"Error deleting reference file {ref_path}: {e}")
         else:
             logger.warning(f"Reference file not found on disk: {ref_path}")
-            
+
     # Delete all variant images
     for variation in product_entry.get('variation_files', []):
         var_file = variation.get('file')
@@ -227,7 +227,7 @@ def api_delete_ref_set():
                     logger.error(f"Error deleting variant file {var_path}: {e}")
             else:
                 logger.warning(f"Variant file not found on disk: {var_path}")
-                
+
     # Also clean up the ASIN subdirectory if it's empty
     asin_dir = os.path.join(BASE_DIR, category, asin)
     if os.path.exists(asin_dir) and os.path.isdir(asin_dir):
@@ -239,7 +239,7 @@ def api_delete_ref_set():
                 logger.info(f"Deleted empty product directory: {asin_dir}")
         except Exception as e:
             logger.warning(f"Failed to check/remove empty product directory {asin_dir}: {e}")
-            
+
     return jsonify({'success': True})
 
 if __name__ == '__main__':
@@ -248,6 +248,6 @@ if __name__ == '__main__':
     parser.add_argument('--port', type=int, default=5000, help="Port to run web app on")
     parser.add_argument('--host', type=str, default='127.0.0.1', help="Host to run web app on")
     args = parser.parse_args()
-    
+
     logger.info(f"Starting server on http://{args.host}:{args.port}")
     app.run(host=args.host, port=args.port, debug=True)

@@ -1,0 +1,450 @@
+[
+    {
+        "asin": "B00U7XR54E",
+        "title": "GE GSS25GGHWW Side Refrigerator",
+        "reference_file": "B00U7XR54E/reference.jpg",
+        "categorical_name": "side by side refrigerator",
+        "variation_files": [
+            {
+                "file": "B00U7XR54E/variation_1.jpg",
+                "prompt": "A side-by-side refrigerator with its left door closed and its right door open, revealing the interior. The refrigerator is positioned against a plain white background. The open door displays multiple shelves and compartments filled with various food items and beverages, including bowls of salad and fruit, bottles, jars, a pitcher, and a whole fish in a crisper drawer. The interior lighting is bright and even, highlighting the contents clearly. The left door features an external water and ice dispenser with a digital display panel above it. The refrigerator\u2019s exterior is smooth and minimalist, with two vertical handles aligned along the center seam. The base of the unit includes a vented grille. The overall composition is clean, well-lit, and product-focused, emphasizing the spacious and organized"
+            },
+            {
+                "file": "B00U7XR54E/variation_2.jpg",
+                "prompt": "A side-by-side refrigerator is shown centered in a modern kitchen setting, flanked by white cabinetry with raised-panel doors and brushed metal handles. The refrigerator is positioned between two countertop sections with dark, reflective surfaces. To the left, a knife block with black-handled knives sits beside a tray of green pears, with a white and gray patterned tile backsplash behind. To the right, a collection of stainless steel canisters and glass jars with dark lids are arranged on the countertop, also backed by the same patterned tile. The lighting is bright and even, highlighting the clean, minimalist aesthetic of the kitchen. The refrigerator\u2019s front features a water and ice dispenser on the left door, with a small digital display above it."
+            }
+        ]
+    },
+    {
+        "asin": "B005H47EJ4",
+        "title": "GE CGS985SETSS Cafe 30\" Stainless Steel Gas Sealed Burner Range - Convection",
+        "reference_file": "B005H47EJ4/reference.jpg",
+        "categorical_name": "gas range",
+        "variation_files": [
+            {
+                "file": "B005H47EJ4/variation_1.jpg",
+                "prompt": "A stainless steel gas range is shown installed in a kitchen setting, centered between two bright red cabinet doors with metallic handles. The range features a cooktop with multiple burners and a control panel with knobs and a digital display, all visible but without any text or branding details. Below the cooktop is a large oven door with a black glass window, through which four round, golden-brown baked items are visible on a rack inside. Beneath the oven is a matching stainless steel drawer with a horizontal handle. The countertop above the range is white marble with subtle veining, holding a few kitchen items: a tall glass of red wine on the left, a stack of stainless steel pots and pans on the cooktop, and a bowl of red"
+            },
+            {
+                "file": "B005H47EJ4/variation_2.jpg",
+                "prompt": "A stainless steel gas range is positioned in a modern kitchen setting, angled slightly to the right, with the front panel facing the viewer. The cooktop features black grates over multiple burners, and the control knobs and digital display are visible along the front edge. The oven door has a large, dark-tinted glass window, and a horizontal handle runs across the top of the door. Below the oven, a matching drawer with a handle is present. The range is set against a light green, glossy subway tile backsplash with a subtle linear pattern. To the left, a red kitchen cabinet with a gold pull handle is visible, topped with a speckled beige countertop. On the right, a wooden tiered spice rack holds various"
+            },
+            {
+                "file": "B005H47EJ4/variation_3.jpg",
+                "prompt": "A stainless steel gas range is positioned in a modern kitchen setting, centered between vibrant red cabinetry with gold-toned handles. The range sits on a dark, reflective floor that mirrors its base. Above it, a sleek, silver microwave is mounted under white upper cabinets. The backsplash features a glossy, light green glass tile in a brick pattern, adding texture and brightness to the scene. The countertop is a light, neutral stone or quartz surface, holding a few kitchen items: a wooden tray with jars and small bowls, a white ceramic bottle, and a potted herb plant near the window on the right. Natural light enters from the right, illuminating the scene with soft, warm highlights. The overall composition is clean and inviting, with"
+            }
+        ]
+    },
+    {
+        "asin": "B0B1TXLLY7",
+        "title": "Compact Laundry Dryer, 1400W Electric Portable Clothes Dryer, 9LBS Laundry Dryer, Premium Compact Tumbler Stainless Steel Laundry Dryer with Exhaust Pipe, LCD Panel Dryer for Apartments, Home, Dorm (Whit-9LBs)",
+        "reference_file": "B0B1TXLLY7/reference.jpg",
+        "categorical_name": "electric clothes dryer",
+        "variation_files": [
+            {
+                "file": "B0B1TXLLY7/variation_1.jpg",
+                "prompt": "A warm, natural-lit indoor scene featuring the electric clothes dryer positioned on the left side of the frame, standing on a light wooden floor against a light-toned wooden wall with visible grain. The dryer is shown in full view, with its large circular door and front panel clearly visible. To the right of the dryer, a woman and a young child are sitting on the floor, facing each other with gentle smiles. The woman is holding a wicker laundry basket filled with colorful folded clothes, while the child leans into her, also holding some fabric. The background includes a white slatted cabinet or shelf unit to the left of the dryer and a small shelf above them holding a few bottles, likely laundry products, in soft blue and white tones."
+            }
+        ]
+    },
+    {
+        "asin": "B071DVXJFN",
+        "title": "Sekido 24 inch All-in-One-Combo Washer-Dryer, Vented or Ventless, 1200 RPM, Auto Water, Auto Dry, Winterize, Quiet, Fully Digital in WHITE",
+        "reference_file": "B071DVXJFN/reference.jpg",
+        "categorical_name": "washer dryer",
+        "variation_files": [
+            {
+                "file": "B071DVXJFN/variation_1.jpg",
+                "prompt": "A front-facing shot of the washer dryer placed in a narrow, enclosed laundry alcove with light beige walls and white trim. The floor is covered in large, square, off-white tiles. The washer dryer is centered in the alcove, positioned between two white doors on either side. Above the appliance, a white floating shelf with a wooden rod holds neatly folded stacks of colorful linens and laundry supplies. To the left of the washer dryer, a white electrical outlet is visible on the wall, and to the right, a recessed white panel contains a coiled silver vent hose. The lighting is soft and even, creating a clean, bright, and functional domestic atmosphere. The background consists of plain, solid-colored walls and a simple tiled floor,"
+            }
+        ]
+    },
+    {
+        "asin": "B00K6M2BV8",
+        "title": "VOMAXTECH INC. Ventisonic DHT11 Temperature and Relative Humidity Sensor Module for arduino",
+        "reference_file": "B00K6M2BV8/reference.jpg",
+        "categorical_name": "temperature and humidity sensor",
+        "variation_files": [
+            {
+                "file": "B00K6M2BV8/variation_1.jpg",
+                "prompt": "A product shot on a plain white background, featuring the temperature and humidity sensor positioned on the right side, slightly angled to show its top and side profile. To the left, a bundle of three color-coded wires \u2014 blue, green, and yellow \u2014 extends diagonally across the frame, each terminating in a small black connector. The wires are neatly arranged, curving gently to create a dynamic flow from the bottom left toward the sensor. The overall composition is clean and minimal, with even, bright lighting that highlights the product and cables without casting harsh shadows. The background remains uniformly white and uncluttered, emphasizing the subject and its accessories."
+            },
+            {
+                "file": "B00K6M2BV8/variation_2.jpg",
+                "prompt": "A product shot of the temperature and humidity sensor mounted on a black circuit board with a blue plastic housing, positioned diagonally on a plain white background. Extending from the board are three colored wires\u2014blue, green, and yellow\u2014connected to two black plastic connectors. The wires form a gentle arc above the sensor, with one connector near the board and the other at the end of the cable. The lighting is even and bright, highlighting the clean, minimalist composition with no shadows or distractions. The overall layout is simple and focused, emphasizing the product and its cabling against the solid white backdrop."
+            }
+        ]
+    },
+    {
+        "asin": "B09MQDTM67",
+        "title": "WR57X10033 Refrigerator Water Inlet Valve 1/4\" Inlet Fitting Icemaker Water Inlet Valve with Guard Replaces WR57X90 WR57X0093 WR57X0110 WR57X0096",
+        "reference_file": "B09MQDTM67/reference.jpg",
+        "categorical_name": "water inlet valve",
+        "variation_files": [
+            {
+                "file": "B09MQDTM67/variation_1.jpg",
+                "prompt": "A split-screen composition featuring a clean, bright kitchen scene on the left and a close-up product display on the right. On the left, a woman with shoulder-length wavy hair, wearing a light-colored blouse, stands smiling while holding a fresh head of green leafy vegetables. In front of her, on a reflective countertop, is a rustic wooden crate filled with colorful produce including radishes, carrots, and leafy greens. Behind her, a window with horizontal blinds lets in soft, natural daylight, and a modern refrigerator is visible in the background. On the right side of the image, the water inlet valve is positioned prominently on the countertop, mounted on its metal bracket, with its blue body and red solenoid clearly visible."
+            }
+        ]
+    },
+    {
+        "asin": "B07S9DJ2S2",
+        "title": "Frigidaire Portable Compact Maker, Counter Top Ice Making Machine, 26lb per day (Blue) (EFIC108-BLUE) (Renewed)",
+        "reference_file": "B07S9DJ2S2/reference.jpg",
+        "categorical_name": "ice maker",
+        "variation_files": [
+            {
+                "file": "B07S9DJ2S2/variation_1.jpg",
+                "prompt": "A product shot of the ice maker with its top lid open, revealing the interior ice bin filled with crushed ice and a light blue plastic scoop resting inside. The lid is hinged and lifted upward, forming a handle-like arch, with a transparent window in the lid showing the ice-making mechanism beneath. The side of the unit features a circular vent with a protective metal grille. The entire scene is set against a plain white background with even, bright studio lighting that highlights the product\u2019s form and open-top functionality."
+            }
+        ]
+    },
+    {
+        "asin": "B07MP9SK23",
+        "title": "Indoor Digital Hygrometer Thermometer, Humidity Monitor with Temperature Gauge Humidity Meter, Big LCD Screen Multifunctional Hygrometer for Kids Home, Car, Office, Etc. (Mini)",
+        "reference_file": "B07MP9SK23/reference.jpg",
+        "categorical_name": "digital hygrometer thermometer",
+        "variation_files": [
+            {
+                "file": "B07MP9SK23/variation_1.jpg",
+                "prompt": "A digital hygrometer thermometer is placed on a light wooden surface in the foreground, angled slightly toward the viewer. Behind it, a festive holiday scene features several wrapped gift boxes stacked in a casual arrangement\u2014some wrapped in red paper with white-and-red twine, others in white paper with gold star patterns and tied with red ribbons. To the left, a small red Santa hat with a white pom-pom sits upright on the surface. The background consists of vertical light blue wooden planks with a subtle weathered texture. The lighting is soft and even, highlighting the product and creating a warm, cheerful holiday atmosphere. The composition emphasizes the product as the focal point while integrating it naturally into a festive, gift-giving context."
+            }
+        ]
+    },
+    {
+        "asin": "B083VSL7P3",
+        "title": "AKDY Wall Mount Range Hood - Embossed Copper Hood Fan for Kitchen - 4-Speed Professional Quiet Motor - Premium Touch Control Panel - Elegant Vine Design - Dishwasher Safe Baffle Filters (30 in.)",
+        "reference_file": "B083VSL7P3/reference.jpg",
+        "categorical_name": "range hood",
+        "variation_files": [
+            {
+                "file": "B083VSL7P3/variation_1.jpg",
+                "prompt": "A kitchen scene featuring the range hood mounted above a gas stove, set against a white subway tile backsplash. The range hood is positioned centrally, with its underside illuminated by warm, recessed lighting. Below, the stove has a stainless steel finish with multiple burners, control knobs, and a flat griddle in the center. On the stovetop, there are several cooking pots and pans with dark exteriors and metallic lids, arranged as if in active use. To the left, a stainless steel utensil holder contains various black cooking tools. To the right, a glass jar filled with uncooked pasta sits on the countertop. The countertop is made of speckled granite, and the cabinetry is white with a clean,"
+            },
+            {
+                "file": "B083VSL7P3/variation_2.jpg",
+                "prompt": "A modern kitchen scene featuring the range hood mounted above a gas stovetop. The range hood is positioned centrally, with its underside illuminated by two warm, circular lights. Below it, the stovetop has multiple burners with black grates, and several dark cookware pieces \u2014 including a large pot with a lid, a smaller pot, and a frying pan \u2014 are arranged on the surface. The stovetop has a metallic control panel with visible knobs along the front. To the left, a stainless steel utensil holder contains various cooking tools. The backsplash consists of small, glossy white subway tiles arranged in a classic horizontal pattern. The countertop is a light brown granite with natural veining. White kitchen cabinets frame the"
+            }
+        ]
+    },
+    {
+        "asin": "B07S388MQP",
+        "title": "NewAir White Portable Ice Maker | First Batch In Under 10 Minutes And 33 lb Daily | 2 Ice Size Bullets Daily, Perfect Machine For Kitchen Countertops, and RV NIM033WH00",
+        "reference_file": "B07S388MQP/reference.jpg",
+        "categorical_name": "portable ice maker",
+        "variation_files": [
+            {
+                "file": "B07S388MQP/variation_2.jpg",
+                "prompt": "A white kitchen countertop scene featuring the portable ice maker placed centrally in the background, slightly to the left. In the foreground, two tall glasses filled with iced tea and round ice cubes are positioned side by side, each garnished with a slice of lemon on the rim. To the right of the glasses, a white cutting board holds a knife and several lemon slices, with a whole lemon nearby. The countertop is a polished white marble with subtle gray veining, reflecting the product and glasses. The background shows a bright, modern kitchen with white cabinetry, a glass-front upper cabinet displaying dishware, and a light-colored herringbone backsplash. Natural light streams in from a large window on the left, revealing green foliage outside."
+            }
+        ]
+    },
+    {
+        "asin": "B07WNM4YP7",
+        "title": "Kaiterra Laser Egg+ CO2: Indoor Air Quality Monitor (Tracks PM2.5, Fine Dust, CO2, Temperature, and Humidity)",
+        "reference_file": "B07WNM4YP7/reference.jpg",
+        "categorical_name": "indoor air quality monitor",
+        "variation_files": [
+            {
+                "file": "B07WNM4YP7/variation_1.jpg",
+                "prompt": "A round indoor air quality monitor is placed on a light wooden surface, positioned slightly to the left of the frame. The background features a softly lit room with sheer white curtains framing a large window. Through the window, a blurred view of green foliage and natural daylight is visible, suggesting a calm, bright daytime setting. On the windowsill, three small potted plants in white pots are arranged in a row, adding a touch of nature to the scene. The lighting is soft and diffused, creating a serene and clean atmosphere. The monitor is shown in a natural, realistic context, with no text, labels, or graphical overlays on its display or surrounding area. The overall composition emphasizes tranquility, modern living, and indoor environmental awareness."
+            },
+            {
+                "file": "B07WNM4YP7/variation_2.jpg",
+                "prompt": "A close-up shot of the indoor air quality monitor placed on a smooth, white tabletop. The monitor is positioned slightly angled toward the viewer, with a human hand entering from the right side, index finger gently touching the top edge of the device. The background features a softly blurred wooden shelving unit with warm tones, creating a natural, home-like indoor environment. The lighting is soft and diffused, highlighting the monitor and the hand while keeping the background out of focus. The overall composition emphasizes interaction and usability, with the product as the central focus against a clean, minimalist domestic setting."
+            },
+            {
+                "file": "B07WNM4YP7/variation_3.jpg",
+                "prompt": "A cozy living room scene with soft, natural lighting. In the foreground, on a small white round side table, sits the indoor air quality monitor, angled slightly toward the viewer, positioned next to a closed gray notebook. The background features a wooden shelving unit with decorative items: a framed photo, two small potted green plants in white pots, a dark ceramic vase, and a glass bottle. To the right, a man is seated on a light teal sofa, slightly out of focus, wearing a dark t-shirt and jeans, holding a light green mug to his lips as if drinking. The overall composition uses shallow depth of field, emphasizing the product in the foreground while the person and background remain softly blurred, creating a relaxed, domestic atmosphere."
+            }
+        ]
+    },
+    {
+        "asin": "B083Q6Y54F",
+        "title": "G.a HOMEFAVOR Cold Brew Coffee Infuser 64oz (2 Quart), Stainless Steel Filter Kit for Wide Mason Jar and Iced Tea Maker at Home",
+        "reference_file": "B083Q6Y54F/reference.jpg",
+        "categorical_name": "coffee infuser",
+        "variation_files": [
+            {
+                "file": "B083Q6Y54F/variation_1.jpg",
+                "prompt": "A rustic outdoor setting featuring a light blue wooden tabletop with a natural, weathered texture. On the table, the coffee infuser is placed centrally between two clear glass mason jars of different sizes \u2014 a larger jar on the left and a smaller jar with a metal lid on the right. The jars have embossed designs and are empty, showcasing their transparent glass. The background includes a blurred beige outdoor sofa and wooden paneling, suggesting a patio or deck environment. Soft, natural daylight illuminates the scene, casting gentle shadows and highlighting the reflective surfaces of the metal infuser and glass jars. The overall composition is balanced and casual, with a clean, lifestyle-oriented aesthetic."
+            },
+            {
+                "file": "B083Q6Y54F/variation_2.jpg",
+                "prompt": "A cylindrical coffee infuser stands upright on a folded, textured beige cloth placed on a light wooden surface, with scattered whole coffee beans around its base. To the left, a glass jar filled with dark liquid and sealed with a metal lid sits beside it. The background is a softly blurred green outdoor scene, suggesting a garden or field. Natural daylight illuminates the scene from the front, casting soft shadows and highlighting the metallic sheen of the infuser and the jar. The composition is balanced, with the infuser positioned slightly right of center, creating a rustic, natural aesthetic."
+            }
+        ]
+    },
+    {
+        "asin": "B08PPBDTK7",
+        "title": "HKKAIS Milk Frothing Pitcher 32Oz Stainless Steel Milk Jug Espresso Steaming Pitcher Barista Cup For Making Coffee Cappuccino Latte Art 32 Oz/900 ML",
+        "reference_file": "B08PPBDTK7/reference.jpg",
+        "categorical_name": "milk frothing pitcher",
+        "variation_files": [
+            {
+                "file": "B08PPBDTK7/variation_1.jpg",
+                "prompt": "A close-up shot of a hand holding the milk frothing pitcher by its handle, tilting it to pour steamed milk into a ceramic coffee cup below. The stream of milk creates a swirling latte art pattern on the surface of the coffee. The background is dark and out of focus, emphasizing the pitcher and the pouring action. The lighting is warm and directional, highlighting the reflective surface of the pitcher and the creamy texture of the milk. The coffee cup is positioned in the lower foreground, partially visible, with a soft glow reflecting off its rim. The overall composition is dynamic and focused on the moment of pouring, with a shallow depth of field."
+            }
+        ]
+    },
+    {
+        "asin": "B07W1HQQ77",
+        "title": "Dryer Belt,341241 Dryer Drum Belt Compatible with Whirlpool Dryers and Kenmore Dryers,Replacement for Old Dryer Belt",
+        "reference_file": "B07W1HQQ77/reference.jpg",
+        "categorical_name": "dryer belt",
+        "variation_files": [
+            {
+                "file": "B07W1HQQ77/variation_1.jpg",
+                "prompt": "A coiled black dryer belt tied with a small black strap, floating in the foreground against a softly blurred, bright white kitchen background featuring white cabinetry, a tiled backsplash, and a window with sheer curtains. The lighting is soft and diffused, creating a clean, airy atmosphere with gentle shadows. The belt is centered and slightly angled, with its loops arranged in an open, flowing shape. The background is uniformly bright and desaturated, emphasizing the product as the focal point."
+            },
+            {
+                "file": "B07W1HQQ77/variation_2.jpg",
+                "prompt": "A white brick wall background with a clean, bright, evenly lit environment. On the right side, a white front-loading clothes dryer stands on a light gray tiled floor, featuring a rectangular door with a vertical handle and a control panel on top with dials and buttons. To the left of the dryer, the dryer belt is shown coiled and suspended in mid-air, held together by a small black tie near the center, positioned vertically against the wall. The belt is displayed clearly, floating slightly away from the surface, with soft shadows beneath it to suggest depth. The overall composition is clean and minimal, emphasizing the product and its context of use."
+            },
+            {
+                "file": "B07W1HQQ77/variation_3.jpg",
+                "prompt": "A white top-loading clothes dryer with its door open, revealing colorful laundry inside, is positioned on a white marble countertop against a white tiled wall with a grid pattern. To the right of the dryer, a coiled black dryer belt is suspended in the air, floating above the countertop. Beside the dryer, on the right, there is a small potted succulent in a light gray ceramic pot placed on a black wire stand, along with a round bar of soap on a wooden soap dish and a single white flower resting nearby. The lighting is bright and even, creating a clean, minimalist aesthetic. The background consists of a plain white tiled wall and a smooth white marble surface."
+            }
+        ]
+    },
+    {
+        "asin": "B07FNSTXCM",
+        "title": "Kenmore 30\" Freestanding Electric Range with 4.8 Cubic Ft. Total Capacity, Stainless Steel",
+        "reference_file": "B07FNSTXCM/reference.jpg",
+        "categorical_name": "electric range",
+        "variation_files": [
+            {
+                "file": "B07FNSTXCM/variation_1.jpg",
+                "prompt": "Front-facing view of the electric range with its oven door open, revealing three racks inside. On the top rack, two glass baking dishes are placed side by side \u2014 one containing roasted asparagus, the other a mix of roasted vegetables and tofu. On the middle rack, a white ceramic baking dish holds roasted chicken pieces with herbs. The oven interior is dark with visible heating elements and metal racks. The stovetop remains closed and intact above, with control knobs and a digital display panel visible. The oven door is fully open, angled downward, showing its inner glass panel and black frame. The entire appliance is set against a plain white background with even, bright studio lighting."
+            }
+        ]
+    },
+    {
+        "asin": "B094QCFMHC",
+        "title": "Electric Cooktop, Thermomate 12 Inch Built-in Induction Stove Top, 240V Electric Smoothtop with 2 Boost Burner, 9 Heating Level, Timer & Kid Safety Lock, Sensor Touch Control, Black",
+        "reference_file": "B094QCFMHC/reference.jpg",
+        "categorical_name": "electric cooktop",
+        "variation_files": [
+            {
+                "file": "B094QCFMHC/variation_1.jpg",
+                "prompt": "A close-up, eye-level shot of the electric cooktop placed on a light gray kitchen countertop, being cleaned with a yellow sponge covered in white foam by a hand wearing a bright pink rubber glove. The cooktop surface is glossy and reflective, with faint white dotted outlines indicating the circular heating zones. In the background, a wooden kitchen utensil holder with a metal band is visible against a white tiled wall. The lighting is bright and even, highlighting the smooth, clean surface of the cooktop and the cleaning action. The overall composition focuses on the ease of cleaning, with the cooktop positioned slightly angled to show depth and context within a modern kitchen environment."
+            },
+            {
+                "file": "B094QCFMHC/variation_2.jpg",
+                "prompt": "A high-angle view of a modern kitchen with a sleek, minimalist design, featuring a dark gray countertop with a built-in sink and a stainless steel faucet. On the countertop, near the edge, is the electric cooktop, positioned horizontally with its control panel facing upward. The cooktop is surrounded by a clean, uncluttered workspace with a laptop, two coffee cups, and a small wooden tray with potted plants nearby. A man and a woman are standing close together beside the counter, leaning slightly forward, smiling and interacting casually. The kitchen has light wood flooring, white cabinetry, and a large stainless steel refrigerator in the background. Natural light fills the space, creating a bright and airy atmosphere with soft shadows. The overall"
+            }
+        ]
+    },
+    {
+        "asin": "B0BM9KVBQX",
+        "title": "Reusable 4 Cone Coffee Filter 4 6 8 10 Cup Basket Coffee Filters Fit for Cuisinart,Ninja, Hamilton Beach Coffee Maker (Not Applicable to Ninja CFP251, CFP200)",
+        "reference_file": "B0BM9KVBQX/reference.jpg",
+        "categorical_name": "coffee filter",
+        "variation_files": [
+            {
+                "file": "B0BM9KVBQX/variation_1.jpg",
+                "prompt": "A person wearing a white shirt and a denim apron is pouring hot water from a stainless steel gooseneck kettle into a glass coffee server with a metal filter basket placed on top. In the foreground, on a wooden countertop, two coffee filters are displayed side by side \u2014 one upright and one inverted \u2014 both positioned in front of the brewing setup. The scene is set in a warm, softly lit kitchen or caf\u00e9 environment with blurred wooden cabinetry and shelves in the background. The lighting is natural and bright, highlighting the reflective surfaces of the kettle and filters. The composition focuses on the coffee brewing process, with the coffee filters as the central subject in the foreground, surrounded by related coffee-making tools including a black tamper, a glass car"
+            }
+        ]
+    },
+    {
+        "asin": "B00JAMZTXC",
+        "title": "Firebird 36 in. Convertible Island Mount Range Hood in Stainless Steel with Tempered Glass and Touch Controls",
+        "reference_file": "B00JAMZTXC/reference.jpg",
+        "categorical_name": "range hood",
+        "variation_files": [
+            {
+                "file": "B00JAMZTXC/variation_1.jpg",
+                "prompt": "A modern kitchen interior featuring a central island with a concrete countertop and built-in cooktop, viewed from a slightly low angle. The range hood is mounted above the cooktop, positioned centrally, with a tall, sleek chimney extending upward toward the ceiling. The kitchen has dark gray cabinetry with white-framed glass-front upper cabinets, a matching dark gray backsplash, and a stainless steel refrigerator with vertical handles. A black blender and coffee machine sit on the counter to the left. Two black bar stools with chrome frames are placed at the island\u2019s edge. The lighting is soft and natural, coming from an unseen source, creating subtle reflections on the metallic surfaces. The overall color palette is monochromatic, dominated by shades of gray, black,"
+            }
+        ]
+    },
+    {
+        "asin": "B07HKXVQYC",
+        "title": "Giantex Portable Washing Machine, Full Automatic Washer and Dryer Combo, with Built-in Pump Drain 8 LBS Capacity Compact Laundry Washer Spinner for Apartment RV Dorm",
+        "reference_file": "B07HKXVQYC/reference.jpg",
+        "categorical_name": "portable washing machine",
+        "variation_files": [
+            {
+                "file": "B07HKXVQYC/variation_1.jpg",
+                "prompt": "A woman sits barefoot on a light-colored floor next to a white laundry basket overflowing with colorful clothes, including striped and polka-dotted garments. Behind her, the portable washing machine stands upright against a light gray wall, positioned near a window with white blinds and a small potted green plant on the windowsill. The scene is brightly lit with soft natural light, creating a clean, airy, and domestic atmosphere. The floor is smooth and light-toned, and the overall composition emphasizes comfort and convenience in a home laundry setting."
+            }
+        ]
+    },
+    {
+        "asin": "B07WJJKJTC",
+        "title": "Bosch SHEM78Z55N 24\" 800 Series Full Console Recessed Handle Dishwasher with 16 Place Settings, Flexible 3rd Rack, Speed60 Cycle and Crystal Dry (Stainless Steel)",
+        "reference_file": "B07WJJKJTC/reference.jpg",
+        "categorical_name": "dishwasher",
+        "variation_files": [
+            {
+                "file": "B07WJJKJTC/variation_1.jpg",
+                "prompt": "A front-facing view of the dishwasher installed in a modern kitchen cabinetry setup, centered between two plain white cabinet doors. The dishwasher is positioned under a white countertop and above a light-colored wooden floor with visible wood grain. The scene is evenly lit with soft, natural lighting, creating subtle reflections on the stainless steel surface. The surrounding cabinetry and floor are clean and uncluttered, emphasizing the product\u2019s seamless integration into the kitchen environment."
+            },
+            {
+                "file": "B07WJJKJTC/variation_2.jpg",
+                "prompt": "A stainless steel dishwasher is installed in a modern kitchen, positioned between light gray cabinetry with recessed panel doors and sleek horizontal handles. The dishwasher is flush with the surrounding cabinets, creating a seamless, built-in appearance. Above it, a light gray countertop extends across the space, featuring a stainless steel sink with a high-arc faucet on the left and a potted green plant in a dark gray and gold vase on the right. Behind the countertop, a white-framed window with multiple panes allows natural light to illuminate the scene. The floor is made of dark brown hardwood with visible wood grain. The overall lighting is bright and even, highlighting the clean, minimalist aesthetic of the kitchen."
+            },
+            {
+                "file": "B07WJJKJTC/variation_3.jpg",
+                "prompt": "A spacious, modern kitchen with light gray cabinetry and dark hardwood flooring. The kitchen features a stainless steel refrigerator on the left, a built-in stainless steel oven and cooktop in the center, and the dishwasher integrated into the cabinetry on the right side under the sink. The countertops are light-colored stone, and there are open wooden shelves above the cooktop displaying glassware, bowls, and decorative plants. A large window with white trim lets in natural light on the right wall, above the sink area, which includes a modern faucet. The ceiling has recessed lighting and exposed dark wooden beams. The overall lighting is bright and even, creating a clean, warm, and inviting atmosphere. The dishwasher is positioned flush with the surrounding cabinetry, with"
+            }
+        ]
+    },
+    {
+        "asin": "B07KMQQDPP",
+        "title": "Fuxury 12 Inch Impulse Bag Sealer, Heat Sealer Machine Closer for Cookies, Manual Hot Min Sealing Machine for Poly Bag & Shrink Wrap with 2 Free Repair Kit (Blue)",
+        "reference_file": "B07KMQQDPP/reference.jpg",
+        "categorical_name": "impulse sealer",
+        "variation_files": [
+            {
+                "file": "B07KMQQDPP/variation_1.jpg",
+                "prompt": "A split-screen layout featuring the impulse sealer in action on the left side, sealing a clear plastic bag filled with yellow spaghetti, with the sealer positioned at a slight angle and the bag extending outward. Below and to the right of the sealer, scattered piles of various food items including round crackers, colorful candies, and loose spaghetti are arranged on a plain white surface. Above the sealer, a row of five circular icons with orange borders displays different categories of items: candy, biscuits, fruits, grains, and clothes, each represented by colorful, illustrative imagery. The entire composition is set against a plain white background, with no text or labels described."
+            },
+            {
+                "file": "B07KMQQDPP/variation_2.jpg",
+                "prompt": "A kitchen countertop scene with a light wood grain surface. The impulse sealer is positioned horizontally in the foreground, viewed from a slightly elevated angle. A human hand enters from the top right, holding a transparent plastic bag filled with a yellow liquid, placing it into the sealing channel of the device. The background is softly blurred, showing a bright, modern kitchen with white cabinetry, a microwave, and a green potted plant on the left. The lighting is bright and even, creating a clean, natural look. The overall composition emphasizes the product in use, with the hand and bag as the focal point of action."
+            }
+        ]
+    },
+    {
+        "asin": "B0B1361121",
+        "title": "Brown Exhaust Hood Vent 5'' Inch with Built-in Pest Guard Screen and Flange, White, Air Vent Cover, HVAC Exhaust Vent Duct Cover, Exhaust Cap",
+        "reference_file": "B0B1361121/reference.jpg",
+        "categorical_name": "exhaust vent cover",
+        "variation_files": [
+            {
+                "file": "B0B1361121/variation_1.jpg",
+                "prompt": "A three-quarter angled view of the exhaust vent cover, showcasing its front-facing mesh grille and curved, glossy dark brown outer frame. The product is positioned diagonally, with the top edge tilted toward the viewer, revealing the depth of the housing and the vertical, arched internal baffles behind the grille. The mesh is visible through the openings between the baffles, and the structure features sharp, clean edges with a smooth, reflective finish. The background is a plain white, providing high contrast and emphasizing the product\u2019s form and details. The lighting is bright and even, highlighting the contours and glossy surface without casting harsh shadows."
+            }
+        ]
+    },
+    {
+        "asin": "B093BPW8WY",
+        "title": "FRIGIDAIRE Portable 10L, 15-can Mini Fridge Brushed Stainless Rugged Refrigerator, EFMIS183-SS (Renewed)",
+        "reference_file": "B093BPW8WY/reference.jpg",
+        "categorical_name": "mini fridge",
+        "variation_files": [
+            {
+                "file": "B093BPW8WY/variation_1.jpg",
+                "prompt": "A compact black mini fridge with its door open, revealing an interior with two shelves and a door compartment. The main compartment contains various skincare and beauty products, including bottles and jars arranged neatly on the shelves. The door features a small shelf holding additional items. The fridge is shown from a three-quarter angle, with soft, even lighting highlighting the interior contents and the smooth, glossy black exterior. The background is plain white, and all text or labels on the products inside are ignored."
+            },
+            {
+                "file": "B093BPW8WY/variation_2.jpg",
+                "prompt": "A three-quarter view of the mini fridge with its door slightly ajar, revealing the interior. Inside, three beverage containers are arranged vertically: a white carton at the top, a black can in the middle, and a blue can at the bottom. The fridge is set against a plain white background with soft, even lighting that highlights the brushed metal front panel and black side and door frame. The door is open just enough to show the contents without obscuring the exterior design."
+            },
+            {
+                "file": "B093BPW8WY/variation_3.jpg",
+                "prompt": "A front-facing view of the mini fridge with its door open, revealing the interior. The left side shows the main compartment with two shelves: the top shelf holds two yogurt containers, and the bottom shelf contains two soda cans. The right side displays the door interior with two black wire racks: the top rack holds a packaged sheet mask, and the bottom rack holds a box of chocolate cookies. The entire fridge is set against a plain white background with even, bright lighting that highlights the contents and interior structure. The exterior casing is black, and the door is fully open, angled slightly to the right, showcasing the full layout of the storage compartments."
+            }
+        ]
+    },
+    {
+        "asin": "B0C2K57SHK",
+        "title": "EASTMAN 41042 Stainless Steel Dishwasher Connector, 5 Ft, Silver",
+        "reference_file": "B0C2K57SHK/reference.jpg",
+        "categorical_name": "dishwasher connector",
+        "variation_files": [
+            {
+                "file": "B0C2K57SHK/variation_1.jpg",
+                "prompt": "A close-up shot of a hand holding the dishwasher connector, inserting its angled fitting into a red-ringed opening on a metallic appliance component. The connector\u2019s braided hose extends diagonally from the hand, with the background showing a blurred interior of a machine with black plastic parts and colorful wiring. The lighting is bright and focused on the connection point, emphasizing the metallic texture of the connector and the hand\u2019s grip. The surrounding environment appears industrial or mechanical, with visible screws, plastic casings, and electrical cables. The composition is tight, centered on the action of installation, with shallow depth of field blurring the background elements."
+            },
+            {
+                "file": "B0C2K57SHK/variation_2.jpg",
+                "prompt": "A close-up, angled view of the dishwasher connector installed within a dark mechanical environment, showing the braided metallic hose connected to a silver elbow fitting with a knurled nut. The connector is positioned diagonally across the frame, with the fitting attached to a white cylindrical component above. Surrounding the connector are blurred multicolored wires and dark metallic surfaces, suggesting an internal appliance setting. The lighting is focused on the connector, highlighting its metallic texture and reflective surface, while the background remains dark and out of focus."
+            }
+        ]
+    },
+    {
+        "asin": "B0BLRNPXSH",
+        "title": "W10515057 Refrigerator LED-Light with Shell Replacement for Whirlpool, Kenmore, May-tag LED Refrigerator Light Parts Numbers WPW10515057, AP6022533, PS11755866, W10398007, 3021141",
+        "reference_file": "B0BLRNPXSH/reference.jpg",
+        "categorical_name": "refrigerator led light",
+        "variation_files": [
+            {
+                "file": "B0BLRNPXSH/variation_1.jpg",
+                "prompt": "A wide, open, four-door refrigerator with all doors ajar, revealing a fully stocked interior filled with colorful food and beverages. Inside, the shelves and drawers are organized with fresh produce, meats, dairy, bottled drinks, and packaged goods. Two identical rectangular units, each outlined with a red border, are mounted horizontally near the top of the left and right interior doors. Each unit features a translucent front panel with a grid-like pattern and small visible components inside, positioned above the door\u2019s storage compartments. Red curved arrows rise from the lower sections of the refrigerator interior toward the top, indicating airflow or cooling direction. The overall lighting is bright and even, highlighting the contents and the mounted units. The background is plain white, with no text, labels"
+            }
+        ]
+    },
+    {
+        "asin": "B075WC9TVK",
+        "title": "ChenYuTe Digital Thermometer Hygrometer,Humidity Monitor with Temperature Gauge and 3.3 Inch LCD Display,Table Standing,Magnet Attaching for Household,Kids Home,Kitchen,etc (1 Pack)",
+        "reference_file": "B075WC9TVK/reference.jpg",
+        "categorical_name": "digital thermometer hygrometer",
+        "variation_files": [
+            {
+                "file": "B075WC9TVK/variation_1.jpg",
+                "prompt": "A digital thermometer hygrometer placed on a wooden tabletop in a softly lit bedroom setting, positioned in the foreground with a shallow depth of field. The background features a blurred view of a bed with a blue and white striped blanket, a glass of orange juice, a plate with a pastry, and a laptop partially visible on the left. Behind the scene, sheer white curtains diffuse natural light coming from a window, creating a warm and calm morning ambiance. The product is shown at a slight angle, with its screen facing forward, set against the natural indoor environment. The overall lighting is soft and diffused, enhancing the cozy, domestic atmosphere."
+            },
+            {
+                "file": "B075WC9TVK/variation_2.jpg",
+                "prompt": "A digital thermometer hygrometer is placed at a 45-degree angle on a wooden desk, positioned next to a laptop with a dark screen and a beige ceramic cup on a saucer in the background. The scene is softly lit with natural light coming through sheer white curtains, creating a calm and modern workspace ambiance. The product is shown in a realistic, slightly angled perspective, emphasizing its upright, tilted display. The background is a natural, out-of-focus indoor setting with warm tones and soft shadows, giving a clean, lifestyle-oriented feel. All text, labels, and graphical annotations are ignored, leaving only the physical layout and environmental context described."
+            },
+            {
+                "file": "B075WC9TVK/variation_3.jpg",
+                "prompt": "A modern stainless steel refrigerator with both doors open, revealing a well-lit interior filled with fresh produce, jars, and bottles. Inside, the refrigerator is illuminated with a cool blue light and features white arrows indicating airflow circulation. The digital thermometer hygrometer is mounted on the inner back wall, centered above the middle shelf. The background outside the refrigerator shows a nighttime cityscape visible through large windows, with illuminated buildings and roads below. The floor is made of dark gray tiles. The entire scene is well-lit with soft, ambient lighting, emphasizing the clean, modern kitchen environment."
+            }
+        ]
+    },
+    {
+        "asin": "B07PVDJV8R",
+        "title": "Summit ALFD24WBV 24\"\" ADA Compliant Dual Zone Beverage Center with 4.6 cu. ft. Capacity Digital Thermostats LED Lighting and Automatic Defrost in Stainless Steel",
+        "reference_file": "B07PVDJV8R/reference.jpg",
+        "categorical_name": "beverage center",
+        "variation_files": [
+            {
+                "file": "B07PVDJV8R/variation_1.jpg",
+                "prompt": "A front-facing view of a double-door beverage center with a brushed stainless steel exterior and two vertical handles centered between the doors. The left door features a large transparent glass panel revealing multiple interior shelves stocked with various beverage containers, including cans and bottles arranged in rows. The right door also has a transparent glass panel, showing shelves filled with wine bottles stored horizontally, their bottoms visible through the glass. Above the right door\u2019s glass panel is a digital control display with illuminated buttons and numerical readouts. The bottom of the unit includes a vented grille with two circular knobs or sensors embedded within it. The lighting is even and neutral, highlighting the reflective surfaces and interior contents through the glass. The background is plain and neutral, keeping the focus entirely on the beverage"
+            },
+            {
+                "file": "B07PVDJV8R/variation_2.jpg",
+                "prompt": "A close-up angled view of the beverage center with one door partially open, revealing an interior shelf holding two wine bottles in a horizontal position. The door features a vertical handle and a large tinted glass panel, with the metallic frame and edges clearly visible. The background is a solid neutral gray, and the lighting is soft and directional, emphasizing the sleek, modern contours and reflective surfaces of the appliance. The open door reveals a dark interior with visible shelving, while the closed door remains intact with its glass panel and handle. The overall composition focuses on the product\u2019s design details and premium finish, with no text or branding elements present."
+            },
+            {
+                "file": "B07PVDJV8R/variation_3.jpg",
+                "prompt": "A split-view shot of the beverage center with its left door partially open, revealing an illuminated interior. The left compartment contains two shelves stocked with yellow canned beverages, while the right compartment displays two shelves holding dark glass bottles stored horizontally. The interior lighting casts a bright glow on the contents, emphasizing the clean, organized layout. The right door remains closed, showing a digital control panel with illuminated blue numbers and icons at the top, above the bottle storage. The exterior of the unit features a sleek, dark metallic finish with a vertical handle on the left door. The background is a solid neutral gray, and no text or branding elements are visible on the surface or within the image."
+            }
+        ]
+    },
+    {
+        "asin": "B077SRPNNZ",
+        "title": "WECOME Temperature Humidity with Record Function Digital Hygrometer Thermometer Humidity Monitor for Home, Office and Baby Room",
+        "reference_file": "B077SRPNNZ/reference.jpg",
+        "categorical_name": "digital hygrometer thermometer",
+        "variation_files": [
+            {
+                "file": "B077SRPNNZ/variation_1.jpg",
+                "prompt": "A digital hygrometer thermometer placed on a wooden surface, positioned to the right side of the frame. The background features a softly blurred garden scene with green foliage and hints of purple flowers, creating a natural, outdoor ambiance. To the left of the product, there is a small glass jar filled with dark dried herbs and a metal tray holding fresh green mint leaves with some variegated white edges. A few loose leaves are scattered on the wooden surface near the jar. The lighting is soft and natural, suggesting daylight, with gentle highlights on the leaves and the glass jar. The overall composition is balanced and serene, emphasizing freshness and nature."
+            }
+        ]
+    },
+    {
+        "asin": "B083JN834K",
+        "title": "Cafe CVE28DP3ND1 27.8 cu. ft. Smart 4-Door French Door Refrigerator in Matte Black, Fingerprint Resistant and ENERGY STAR",
+        "reference_file": "B083JN834K/reference.jpg",
+        "categorical_name": "refrigerator",
+        "variation_files": [
+            {
+                "file": "B083JN834K/variation_1.jpg",
+                "prompt": "A front-facing view of the refrigerator with its top two doors fully open, revealing the interior compartments. The interior is well-lit and filled with various food items and beverages arranged on shelves and door bins, including jars, bottles, bowls of fruit, and produce in clear drawers. The door shelves feature transparent bins with metallic trim, holding condiments, beverages, and snacks. The main compartment has multiple glass shelves displaying fresh produce, dairy, and other groceries, with a decorative tiled backsplash visible behind the shelves. The bottom two drawers remain closed, with sleek horizontal handles. The entire scene is set against a plain white background, with no text, logos, or branding visible on the refrigerator or within the image."
+            }
+        ]
+    },
+    {
+        "asin": "B0BCRGFXH7",
+        "title": "Amazon Basics Replacement LG LT600P Refrigerator Water Filter Cartridge - Premium Filtration",
+        "reference_file": "B0BCRGFXH7/reference.jpg",
+        "categorical_name": "water filter",
+        "variation_files": [
+            {
+                "file": "B0BCRGFXH7/variation_1.jpg",
+                "prompt": "A top-down flat lay composition featuring the water filter positioned diagonally on a light marble surface. The filter is placed next to a folded light blue textured cloth on the left side and a small glass of water with lemon slices and fresh mint leaves on the right. Two additional lemon slices are arranged near the glass, adding a fresh, natural aesthetic. The lighting is soft and diffused, creating subtle shadows and a clean, bright atmosphere. The overall scene conveys a sense of purity and freshness, with the product integrated naturally into a kitchen or lifestyle setting."
+            },
+            {
+                "file": "B0BCRGFXH7/variation_2.jpg",
+                "prompt": "A tall cylindrical water filter stands upright on a light-colored kitchen countertop, placed on a white cloth with a yellow polka-dot pattern. To the left of the filter is a clear glass filled with water and a slice of lemon, resting beside a small plate holding several fresh lemon halves. In the background, a stainless steel refrigerator with a built-in water and ice dispenser is slightly out of focus. The scene is brightly lit with natural, soft lighting, creating a clean and fresh atmosphere. The countertop has a smooth, reflective surface, and the overall composition suggests a domestic kitchen setting."
+            }
+        ]
+    }
+]

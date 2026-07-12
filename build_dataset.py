@@ -110,7 +110,7 @@ def main():
     parser.add_argument("--verbose_dir", type=str, default="/root/Desktop/workspace/woosung/AMZN-review-2023/tmp_verbose_logs", help="Directory where verbose logs will be saved")
     args = parser.parse_args()
 
-    root_dir = "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark"
+    root_dir = "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark/wordy"
     os.makedirs(root_dir, exist_ok=True)
 
     # Load dynamic keywords to know what categories exist
@@ -271,8 +271,14 @@ def main():
                         # Stage 2: Variation Validation Check
                         messages_var = [
                             {"role": "user", "content": [
-                                {"type": "text", "text": variation_prompt},
+                                {"type": "text", "text": variation_prompt}
+                            ]},
+                            {"role": "user", "content": [
+                                {"type": "text", "text": "reference image: "},
                                 {"type": "image", "image": f"{ref_path}"},
+                            ]},
+                            {"role": "user", "content": [
+                                {"type": "text", "text": "candidate variation image: "},
                                 {"type": "image", "image": f"{v_tmp_path}"},
                             ]}
                         ]
@@ -324,9 +330,15 @@ def main():
                             )
                             messages_prompt = [
                                 {"role": "user", "content": [
-                                    {"type": "image", "image": f"{ref_path}"},
-                                    {"type": "image", "image": f"{v_tmp_path}"},
                                     {"type": "text", "text": prompt_query}
+                                ]},
+                                {"role": "user", "content": [
+                                    {"type": "text", "text": "reference image: "},
+                                    {"type": "image", "image": f"{ref_path}"},
+                                ]},
+                                {"role": "user", "content": [
+                                    {"type": "text", "text": "candidate variation image: "},
+                                    {"type": "image", "image": f"{v_tmp_path}"},
                                 ]}
                             ]
                             variation_prompt_str = generate_with_vlm(messages_prompt, model, processor, max_new_tokens=150).strip()
