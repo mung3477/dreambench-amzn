@@ -152,7 +152,7 @@ def main():
             raise e
 
     # Loop over all 32 categories
-    for category_name, KEYWORDS in all_category_keywords.items():
+    for category_name, KEYWORDS in reversed(all_category_keywords.items()):
         if args.category and category_name != args.category:
             continue
 

@@ -95,4 +95,5 @@ if __name__ == "__main__":
 
     # Path to the detail_benchmark directory
     base_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "wordy")
+    # base_dir = "/root/Desktop/workspace/woosung/commercial-dreambench/assets/data/amzn"
     clean_metadata(base_dir, execute=args.execute)

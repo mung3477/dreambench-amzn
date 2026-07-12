@@ -8,7 +8,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-GROUND_TRUTH_DIR = "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark"
+GROUND_TRUTH_DIR = "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark/wordy"
 TARGET_DIRS = [
     "/root/Desktop/workspace/woosung/commercial-dreambench/assets/data/amzn",
     "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/diptych",
