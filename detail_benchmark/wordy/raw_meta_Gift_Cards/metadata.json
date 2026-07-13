@@ -7,7 +7,7 @@
         "variation_files": [
             {
                 "file": "B017T6CUS2/variation_1.jpg",
-                "prompt": "A close-up, slightly angled shot of a person\u2019s hands gently holding open a hardcover book on a warm-toned wooden surface. The book is open to a page with dense text, and the bookmark is placed horizontally across the page, partially covering the text. The bookmark is long and rectangular, with a white string looped through a hole at its top, extending upward and slightly to the left. The background includes a softly lit, out-of-focus stack of books and another open book with black-and-white images, suggesting a cozy reading environment near a window. Natural light illuminates the scene from the upper right, casting soft shadows and highlighting the texture of the book pages and the wooden surface. The overall composition conveys a calm, intimate moment"
+                "prompt": "A close-up, slightly angled shot of a person’s hands gently holding open a hardcover book on a warm-toned wooden surface. The book is open to a page with dense text, and the bookmark is placed horizontally across the page, partially covering the text. The bookmark is long and rectangular, with a white string looped through a hole at its top, extending upward and slightly to the left. The background includes a softly lit, out-of-focus stack of books and another open book with black-and-white images, suggesting a cozy reading environment near a window. Natural light illuminates the scene from the upper right, casting soft shadows and highlighting the texture of the book pages and the wooden surface. The overall composition conveys a calm, intimate moment"
             }
         ]
     },
@@ -31,7 +31,7 @@
         "variation_files": [
             {
                 "file": "B08LZLTDP8/variation_1.jpg",
-                "prompt": "A vertical gift card holder with a stylized, abstract Christmas tree design printed on its surface, composed of layered beige and off-white curved lines and dotted patterns that form a symmetrical, festive motif. The holder is open and flat, displaying the gift card centered within its middle section. The gift card is positioned horizontally, slightly elevated above the holder\u2019s base, and is held in place by a small, folded tab at the top of the holder. The background of the holder is a textured, natural beige paper, and the overall lighting is soft and even, highlighting the clean, minimalist aesthetic of the packaging."
+                "prompt": "A vertical gift card holder with a stylized, abstract Christmas tree design printed on its surface, composed of layered beige and off-white curved lines and dotted patterns that form a symmetrical, festive motif. The holder is open and flat, displaying the gift card centered within its middle section. The gift card is positioned horizontally, slightly elevated above the holder’s base, and is held in place by a small, folded tab at the top of the holder. The background of the holder is a textured, natural beige paper, and the overall lighting is soft and even, highlighting the clean, minimalist aesthetic of the packaging."
             }
         ]
     },
@@ -48,126 +48,6 @@
         ]
     },
     {
-        "asin": "1619923009",
-        "title": "Cavallini Papers Glitter Gift Tags Christmas Cats and Dogs Assorted Gift Tags Packaged in a Tin, Set of 36",
-        "reference_file": "1619923009/reference.jpg",
-        "categorical_name": "gift tags",
-        "variation_files": [
-            {
-                "file": "1619923009/variation_1.jpg",
-                "prompt": "A collection of six vintage-style Christmas gift tags arranged in a loose horizontal spread against a plain white background. Each tag is attached with a red-and-white striped string threaded through a small hole at the top. The tags vary in shape: one is oval, one is scalloped circular, one is rectangular, one is circular, and two are elongated oval. The designs feature illustrated cats and dogs in festive holiday scenes, including a tabby cat with a red bow, kittens playing with mistletoe, a dog within a holly wreath, puppies in a row, kittens in a sleigh, and two puppies on a sled. The background of each tag is off-white or cream with subtle vintage texture. The overall style is classic"
-            },
-            {
-                "file": "1619923009/variation_2.jpg",
-                "prompt": "A collection of six vintage-style Christmas gift tags arranged in a loose, scattered layout against a plain white background. The tags vary in shape \u2014 including oval, scalloped oval, circular, and rectangular \u2014 each featuring a white string loop at the top for hanging. The designs are illustrated in a classic, nostalgic style with soft colors and delicate linework. One oval tag shows a cat with a red bow. Another scalloped oval tag depicts three cats playing with holly. A circular tag features a dog\u2019s face framed by a green holly wreath. A rectangular tag displays a row of five puppies. A second circular tag shows two cats playing with a red bell. The final oval tag shows two puppies sitting together with holly above them"
-            }
-        ]
-    },
-    {
-        "asin": "B01FERRBBE",
-        "title": "Amazon.com Gift Card with a Holiday Teddy Bear - Limited Edition",
-        "reference_file": "B01FERRBBE/reference.jpg",
-        "categorical_name": "gift card plush toy",
-        "variation_files": [
-            {
-                "file": "B01FERRBBE/variation_1.jpg",
-                "prompt": "A white plush bear wearing a red Santa hat with white trim and red mittens with white snowflake patterns sits on a dark wooden surface, holding a green gift-shaped tag with a red ribbon tied around its neck. To the right of the bear are two wrapped gift boxes \u2014 one large and red with a white ribbon, the other smaller and brown with a white ribbon \u2014 placed on a surface dusted with artificial snow. In the background, a softly blurred Christmas tree adorned with warm yellow lights and red ornaments creates a festive bokeh effect. A pinecone with a small red ribbon lies to the left of the bear. The lighting is warm and ambient, highlighting the bear and gifts while keeping the background softly out of focus. The overall composition is cozy"
-            }
-        ]
-    },
-    {
-        "asin": "B09H3XJBB2",
-        "title": "Amazon.com Gift Card for any Amount in a Lunar New Year Premium Paper Certificate",
-        "reference_file": "B09H3XJBB2/reference.jpg",
-        "categorical_name": "gift card",
-        "variation_files": [
-            {
-                "file": "B09H3XJBB2/variation_1.jpg",
-                "prompt": "A red envelope with a curved top flap, slightly open to reveal a golden-yellow gift card partially inserted inside. The gift card features a decorative white line pattern including floral motifs, radiating sunburst designs, and geometric corner elements. The red envelope has a plain surface with no visible text or markings, and the gift card is positioned at the top, angled slightly upward. The overall composition is clean and minimal, set against a white background."
-            }
-        ]
-    },
-    {
-        "asin": "B06ZYP35HT",
-        "title": "Amazon.com Gift Card in Gift Tag (Various Designs)",
-        "reference_file": "B06ZYP35HT/reference.jpg",
-        "categorical_name": "gift tag",
-        "variation_files": [
-            {
-                "file": "B06ZYP35HT/variation_1.jpg",
-                "prompt": "A gift tag with a red string threaded through a metal grommet at the top, positioned upright on a plain white background. The tag features horizontal silver foil stripes across its surface and is angled slightly to the right. To the left of the tag, a dark rectangular object lies diagonally, partially overlapping the tag. The overall composition is clean and minimal, with even studio lighting and soft shadows beneath the objects. The background is entirely plain white, with no text, logos, or additional graphic elements visible."
-            }
-        ]
-    },
-    {
-        "asin": "B07L1NP6QB",
-        "title": "QuickGifts Hops n Drops Gift Card ($30)",
-        "reference_file": "B07L1NP6QB/reference.jpg",
-        "categorical_name": "gift card",
-        "variation_files": [
-            {
-                "file": "B07L1NP6QB/variation_1.jpg",
-                "prompt": "A close-up food photograph of a juicy burger with lettuce, tomato, crispy onion strings, and a creamy sauce, served on a branded paper wrapper with repeating oval logos, accompanied by golden french fries. The burger sits on a dark textured surface, possibly a metal grate, with a blurred amber-colored bottle in the background. The lighting is warm and natural, highlighting the textures of the food. The paper wrapper features a repeating pattern of oval-shaped logos with a dark red background and gold lettering, arranged diagonally across the surface. The overall composition is slightly angled, with the burger centered and the fries scattered around it, creating a casual, appetizing presentation."
-            }
-        ]
-    },
-    {
-        "asin": "B01FERR9FW",
-        "title": "Amazon.com Gift Card with a Holiday Teddy Bear - Limited Edition",
-        "reference_file": "B01FERR9FW/reference.jpg",
-        "categorical_name": "gift card plush toy",
-        "variation_files": [
-            {
-                "file": "B01FERR9FW/variation_1.jpg",
-                "prompt": "A white fluffy plush bear wearing a red Santa hat with white trim and pom-poms, and red mittens with white snowflake patterns, sits on a dark wooden surface. The bear is positioned in front of a softly blurred Christmas tree adorned with warm yellow lights and red ornaments, creating a bokeh effect. To the right of the bear are two wrapped gift boxes \u2014 one large and red with a white ribbon, and one smaller and brown kraft paper with a white ribbon \u2014 both tied with bows. A small pinecone with a red ribbon lies to the left of the bear. The scene is warmly lit, evoking a cozy holiday atmosphere, with a light dusting of snow visible on the surface near the gifts. The gift card plush toy"
-            }
-        ]
-    },
-    {
-        "asin": "B01GF6X9UU",
-        "title": "Amazon Hallmark Gift Card or Money Holder: Pink Flowers Pop-Up Box",
-        "reference_file": "B01GF6X9UU/reference.jpg",
-        "categorical_name": "gift box",
-        "variation_files": [
-            {
-                "file": "B01GF6X9UU/variation_1.jpg",
-                "prompt": "A rectangular gift box is shown open, revealing a nested inner box inside. The outer box has a floral and paisley pattern on its exterior surfaces, with a bright pink satin ribbon loosely draped across and extending outward from the sides. The inner box is smaller, with a solid bright pink exterior and a polka-dotted pink interior. Inside the inner box, a plain white card is visible, resting flat. The entire composition is set against a plain white background, with soft, even lighting that highlights the shapes and textures of the boxes and ribbon. The perspective is slightly elevated, showing the top and side profiles of both boxes."
-            }
-        ]
-    },
-    {
-        "asin": "B01GF6WAC8",
-        "title": "Amazon Hallmark Gift Card or Money Holder: Geometric Shapes for Any Occasion",
-        "reference_file": "B01GF6WAC8/reference.jpg",
-        "categorical_name": "gift card holder",
-        "variation_files": [
-            {
-                "file": "B01GF6WAC8/variation_1.jpg",
-                "prompt": "A pop-up gift card holder in an open, three-dimensional display position, viewed from a slightly elevated angle. The base features a vibrant geometric pattern composed of interlocking triangles in bright blue, yellow, peach-pink, red, and off-white. A bright yellow rectangular panel is elevated and supported by a folded paper stand, creating a floating effect. The inner back panel is a solid peach-pink color with a small, circular textured embellishment near the top right corner. The entire object is set against a plain white background with soft, even lighting that highlights the clean edges and colorful surfaces."
-            }
-        ]
-    },
-    {
-        "asin": "B01FE8CO7Y",
-        "title": "Amazon.com Gift Cards - As a Bookmark",
-        "reference_file": "B01FE8CO7Y/reference.jpg",
-        "categorical_name": "bookmark",
-        "variation_files": [
-            {
-                "file": "B01FE8CO7Y/variation_1.jpg",
-                "prompt": "A close-up shot of an open book resting on a wooden surface, with a hand gently holding the pages open. The bookmark is placed between the pages, positioned diagonally across the text. In the background, there are stacks of books with visible spines, and another open book with black-and-white images lies nearby. Natural light comes from a window in the upper right, casting soft shadows and creating a warm, cozy atmosphere. The scene is focused on the reading experience, with the bookmark naturally integrated into the context of a book being read. The background is softly blurred, emphasizing the book and hand in the foreground."
-            },
-            {
-                "file": "B01FE8CO7Y/variation_2.jpg",
-                "prompt": "A tall, rectangular bookmark with a white string looped through a hole at the top is positioned diagonally, leaning against a stack of hardcover books. The bookmark is placed on a textured brown surface, with a wooden bookshelf filled with books visible in the softly blurred background. The stack of books varies in size and color, with visible spines and thick pages, creating a layered, realistic composition. Natural, warm lighting casts soft shadows, enhancing the depth and texture of the scene. The bookmark is shown in a relaxed, casual pose, as if casually placed among the books. The background is composed of warm, earthy tones, with the bookshelf and books providing a rich, textured environment. The overall composition is natural and inviting, suggesting"
-            },
-            {
-                "file": "B01FE8CO7Y/variation_3.jpg",
-                "prompt": "Four bookmarks with white ribbons are arranged diagonally on a textured brown fabric surface, overlapping slightly. The bookmarks vary in design and color, with one featuring a dark blue night scene with a full moon and pine trees, another showing a red-roofed house with a chimney and snow, a third displaying a teal background with yellow and gray leaf patterns, and the fourth an orange background with faint repeating icons. In the blurred background, a wooden bookshelf filled with books is visible. The lighting is soft and natural, creating a warm, cozy atmosphere. The bookmarks are positioned at a slight angle, with the orange one on the rightmost side, and the white ribbons extend outward from the top of each bookmark. The scene is shallow in depth"
-            }
-        ]
-    },
-    {
         "asin": "B0153RIC6S",
         "title": "Amazon.com Gift Cards - As a Bookmark",
         "reference_file": "B0153RIC6S/reference.jpg",
@@ -176,106 +56,6 @@
             {
                 "file": "B0153RIC6S/variation_1.jpg",
                 "prompt": "A hand holds the bookmark vertically in the foreground, positioned over an open book resting on a wooden surface. The bookmark is angled slightly, with its top edge near the top of the frame and its bottom edge near the bottom. In the background, several stacks of books are visible, including a tall stack to the left and another to the right, with one book open and displaying black-and-white photographs. A window with natural light is visible in the upper left, casting soft, diffused lighting across the scene. The overall setting suggests a cozy, lived-in reading space with a warm, natural ambiance. The background is softly blurred, keeping the focus on the bookmark and the open book beneath it."
-            },
-            {
-                "file": "B0153RIC6S/variation_2.jpg",
-                "prompt": "A stack of hardcover books arranged on a textured wooden surface, with two bookmarks placed in front. One bookmark features a festive illustration of red boots sticking out of a snowy chimney against a night sky with snow-covered rooftops, while the other is a plain white bookmark. The scene is set in a cozy indoor environment with a wooden bookshelf filled with books in the background, softly blurred. Natural, warm lighting illuminates the scene from the side, casting soft shadows. The bookmarks are positioned at an angle, leaning against the books, with the illustrated one slightly overlapping the plain one. The overall composition suggests a quiet, reading-focused atmosphere."
-            },
-            {
-                "file": "B0153RIC6S/variation_3.jpg",
-                "prompt": "Four bookmarks with white ribbons lie fanned out on a textured brown fabric surface, arranged diagonally from bottom-left to top-right. The background features a softly blurred wooden bookshelf filled with books, creating a cozy, library-like atmosphere. The bookmarks vary in design: one is dark blue with a large white circle and green tree silhouettes; another shows a red brick chimney with red boots sticking out, set against a snowy landscape with small houses; a third is teal with abstract leaf and cloud patterns; and the fourth is bright orange with a repeating pattern of small icons. All bookmarks have rounded corners and are photographed with soft, natural lighting, emphasizing the vibrant colors and clean, flat design of each. The scene is shallow in depth of field"
-            }
-        ]
-    },
-    {
-        "asin": "B074MQ8MRC",
-        "title": "Amazon.com Gift Cards - As a Bookmark",
-        "reference_file": "B074MQ8MRC/reference.jpg",
-        "categorical_name": "bookmark",
-        "variation_files": [
-            {
-                "file": "B074MQ8MRC/variation_1.jpg",
-                "prompt": "A close-up shot of an open book resting on a wooden surface, with a hand gently holding the pages open. The bookmark is placed between the pages, lying flat and slightly angled across the text. The book is surrounded by a stack of other books, some standing upright and others lying flat, creating a cozy, lived-in reading environment. Natural light from a nearby window softly illuminates the scene, casting subtle shadows and highlighting the texture of the paper and wood. The background includes a blurred view of the window sill and a hint of greenery outside, adding depth and warmth to the composition. The overall mood is calm and inviting, evoking a quiet moment of reading."
-            },
-            {
-                "file": "B074MQ8MRC/variation_2.jpg",
-                "prompt": "A stack of hardcover books arranged vertically on a textured brown surface, with the bookmark inserted between the pages of the second book from the top. The bookmark is positioned diagonally, slightly fanned out, with its white string loop visible at the top. In the background, a wooden bookshelf filled with books is softly blurred, creating a shallow depth of field. The lighting is warm and natural, coming from the left, casting soft shadows to the right. The bookmark is partially overlapping a plain white rectangular card placed next to it. The overall composition is centered, with a cozy, lived-in library atmosphere."
-            },
-            {
-                "file": "B074MQ8MRC/variation_3.jpg",
-                "prompt": "Four bookmarks with white ribbons are arranged diagonally on a textured brown fabric surface, overlapping slightly. The bookmarks feature colorful, illustrated designs, each with a distinct theme and background color \u2014 one is dark blue with a full moon and trees, another is white with a red-roofed house and chimney, a third is teal with leafy patterns, and the fourth is orange with a repeating pattern of small icons. In the softly blurred background, a wooden bookshelf filled with books is visible, suggesting a cozy reading environment. The lighting is warm and natural, creating a soft focus effect on the background while keeping the bookmarks in sharp focus. The composition is shot from a slightly elevated angle, emphasizing the bookmarks as the central subject."
-            }
-        ]
-    },
-    {
-        "asin": "B076VSDM12",
-        "title": "Amazon.com Gift Cards - As a Bookmark",
-        "reference_file": "B076VSDM12/reference.jpg",
-        "categorical_name": "bookmark",
-        "variation_files": [
-            {
-                "file": "B076VSDM12/variation_1.jpg",
-                "prompt": "A close-up shot of an open book lying on a wooden surface, with a hand gently resting on the pages near the bottom edge. The bookmark is placed vertically across the open pages, slightly angled, with its white ribbon extending upward and draped over the top edge of the book. The background features a softly blurred stack of books to the left and another open book with black-and-white images to the right, near a window with natural light coming through. The lighting is warm and soft, creating subtle shadows and highlights on the pages and the hand. The overall scene feels cozy and natural, with a shallow depth of field that keeps the focus on the book and the bookmark."
-            },
-            {
-                "file": "B076VSDM12/variation_2.jpg",
-                "prompt": "A stack of hardcover books arranged vertically on a textured wooden surface, with the top book slightly tilted. Leaning against the stack are two bookmarks: one orange with a white string attached at the top, and the other plain white with a curved bottom edge. The orange bookmark is positioned slightly in front of the white one. In the background, a wooden bookshelf filled with books is visible, softly blurred. The lighting is warm and natural, casting soft shadows. The scene is composed with a shallow depth of field, focusing on the books and bookmarks in the foreground."
-            },
-            {
-                "file": "B076VSDM12/variation_3.jpg",
-                "prompt": "Four bookmarks with white ribbons are arranged in a fanned-out cluster on a textured brown fabric surface, angled diagonally from left to right. The bookmarks vary in design and color: one is dark blue with a white circular shape and green triangular shapes at the bottom; another is white with a red and black chimney and snow-covered roof; a third is teal with yellow and gray leaf-like patterns; the fourth is orange with a repeating pattern of small icons. In the softly blurred background, a wooden bookshelf filled with books is visible, creating a cozy, library-like setting. The lighting is warm and natural, highlighting the bookmarks in the foreground while keeping the background out of focus."
-            }
-        ]
-    },
-    {
-        "asin": "B01G7XQH3M",
-        "title": "Amazon.com Gift Cards - As a Bookmark",
-        "reference_file": "B01G7XQH3M/reference.jpg",
-        "categorical_name": "bookmark",
-        "variation_files": [
-            {
-                "file": "B01G7XQH3M/variation_1.jpg",
-                "prompt": "A close-up, natural-light scene showing an open book resting on a wooden surface, with a hand gently holding the pages open. The bookmark is placed horizontally across the open pages, its top edge slightly overlapping the text. In the background, several stacked books are visible, including hardcovers and paperbacks, some with visible spines and titles. The setting suggests a cozy, lived-in reading space near a window, with soft, warm lighting casting gentle shadows. The bookmark is positioned naturally within the book, appearing in use, with its white ribbon loop extending slightly upward. The overall composition is realistic and intimate, emphasizing the act of reading."
-            },
-            {
-                "file": "B01G7XQH3M/variation_2.jpg",
-                "prompt": "A stack of hardcover books arranged vertically on a textured brown surface, with the bookmark inserted between two of the books, slightly angled to the right. The bookmark is positioned prominently in the foreground, with its white string loop visible at the top. Behind the stack, a wooden bookshelf filled with books is softly blurred, creating a shallow depth of field. The lighting is warm and natural, casting soft shadows and highlighting the texture of the book spines and the surface. The background is a plain, softly lit indoor environment with no visible text or graphic elements."
-            },
-            {
-                "file": "B01G7XQH3M/variation_3.jpg",
-                "prompt": "Four rectangular bookmarks with white ribbons are arranged diagonally on a textured brown fabric surface, slightly overlapping each other. The bookmarks feature different colorful designs, with one in orange, one in blue with a moon and trees, one in white with a red-roofed house and chimney, and one in teal with leaf patterns. In the softly blurred background, a wooden bookshelf filled with books is visible, creating a cozy, library-like setting. The lighting is warm and natural, highlighting the bookmarks in the foreground while keeping the background out of focus."
-            }
-        ]
-    },
-    {
-        "asin": "B01FE8CV86",
-        "title": "Amazon.com Gift Cards - As a Bookmark",
-        "reference_file": "B01FE8CV86/reference.jpg",
-        "categorical_name": "bookmark",
-        "variation_files": [
-            {
-                "file": "B01FE8CV86/variation_1.jpg",
-                "prompt": "A close-up shot of an open book resting on a wooden surface, with a hand gently holding the pages open. The bookmark is placed between the pages, lying flat and visible, with its white string extending slightly above the top edge of the book. In the background, several other books are stacked, some upright and others lying flat, creating a cozy, lived-in reading environment. Natural light illuminates the scene from the side, casting soft shadows and highlighting the texture of the paper and wood. The overall composition focuses on the interaction between the hand, the book, and the bookmark, emphasizing a moment of quiet reading."
-            },
-            {
-                "file": "B01FE8CV86/variation_2.jpg",
-                "prompt": "A tall, rectangular bookmark with a white string looped through a hole at the top is placed diagonally across a stack of hardcover books. The bookmark is positioned in the foreground, leaning slightly forward, with its front side facing the viewer. Behind it, another bookmark with a plain silver-gray surface is partially visible, also leaning against the books. The books are stacked vertically, varying in size and color, with visible spines and pages. The stack rests on a textured brown surface, likely a wooden table or desk. In the background, a wooden bookshelf filled with rows of books is softly blurred, creating a shallow depth of field. The lighting is warm and natural, coming from the left, casting soft shadows and highlighting the edges of the"
-            },
-            {
-                "file": "B01FE8CV86/variation_3.jpg",
-                "prompt": "Four bookmarks with white ribbons are arranged diagonally on a textured brown fabric surface, overlapping slightly. The bookmarks vary in design and color, including one with a dark blue night sky and full moon, one with a festive red and white chimney scene, one with a teal background and leafy patterns, and one with an orange background featuring a repeating pattern of small icons. In the softly blurred background, a wooden bookshelf filled with books is visible, creating a cozy, library-like atmosphere. The lighting is warm and natural, highlighting the bookmarks in the foreground."
-            }
-        ]
-    },
-    {
-        "asin": "B071QYXJKK",
-        "title": "Amazon.com Gift Card in Gift Tag (Various Designs)",
-        "reference_file": "B071QYXJKK/reference.jpg",
-        "categorical_name": "gift tag",
-        "variation_files": [
-            {
-                "file": "B071QYXJKK/variation_1.jpg",
-                "prompt": "A gift tag with a red string threaded through a metal grommet at the top, positioned upright on a plain white background. The tag has a textured off-white surface with horizontal silver foil stripes near the top and bottom. The tag is shown alongside a black rectangular card with rounded corners, placed diagonally to the left. The background is plain white with soft, even lighting and a subtle shadow beneath the tag and card."
             }
         ]
     }

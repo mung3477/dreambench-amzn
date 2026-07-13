@@ -12,18 +12,6 @@
         ]
     },
     {
-        "asin": "B09GPBLS89",
-        "title": "SEEHONOR Insulated Cooler Backpack 45 Cans Leakproof Soft Cooler Bag Lightweight Backpack Cooler for Lunch Picnic Fishing Hiking Camping Park Beach",
-        "reference_file": "B09GPBLS89/reference.jpg",
-        "categorical_name": "cooler backpack",
-        "variation_files": [
-            {
-                "file": "B09GPBLS89/variation_1.jpg",
-                "prompt": "A person wearing a wide-brimmed hat and light-colored clothing is seated in a small wooden boat, paddling gently on calm, emerald-green water. The view is from behind, showing the person\u2019s back as they face a lush, tropical shoreline lined with dense green foliage and palm trees. The sky is overcast with soft, diffused light. The person is wearing the cooler backpack, which is positioned prominently on their back, centered in the frame. The backpack\u2019s front panel features a crisscrossed elastic lacing system. The boat has a dark, weathered surface, and a coiled rope rests near the person\u2019s feet. The water reflects the surrounding greenery, creating a serene and natural atmosphere. The overall composition emphasizes"
-            }
-        ]
-    },
-    {
         "asin": "B09L7HJFYX",
         "title": "Callaway Golf Men's OptiColor Leather Glove",
         "reference_file": "B09L7HJFYX/reference.jpg",
@@ -31,7 +19,7 @@
         "variation_files": [
             {
                 "file": "B09L7HJFYX/variation_1.jpg",
-                "prompt": "A black golf glove is shown gripping the handle of a golf club, positioned diagonally across the frame from left to right. The glove is placed on the right side of the image, with the fingers wrapped around the grip and the thumb extended outward. The golf club\u2019s shaft extends horizontally, with the grip featuring a textured surface and a small white arrow-shaped logo near the center. The background is plain white, providing a clean and minimalistic look. The lighting is even and bright, highlighting the texture of the glove and the grip without casting harsh shadows. The composition emphasizes the interaction between the glove and the club, suggesting use in a golfing context."
+                "prompt": "A black golf glove is shown gripping the handle of a golf club, positioned diagonally across the frame from left to right. The glove is placed on the right side of the image, with the fingers wrapped around the grip and the thumb extended outward. The golf club’s shaft extends horizontally, with the grip featuring a textured surface and a small white arrow-shaped logo near the center. The background is plain white, providing a clean and minimalistic look. The lighting is even and bright, highlighting the texture of the glove and the grip without casting harsh shadows. The composition emphasizes the interaction between the glove and the club, suggesting use in a golfing context."
             }
         ]
     },
@@ -48,142 +36,18 @@
         ]
     },
     {
-        "asin": "B06ZY8KV82",
-        "title": "Capri Designs Clear Crossbody Bag, Transparent Stadium Approved Purse for Women, Large or Small Size, PVC with Accents",
-        "reference_file": "B06ZY8KV82/reference.jpg",
-        "categorical_name": "crossbody bag",
-        "variation_files": [
-            {
-                "file": "B06ZY8KV82/variation_1.jpg",
-                "prompt": "A person is sitting casually against a textured brick wall painted with bold, gradient blocks of teal and green. They are wearing a light blue long-sleeve top, dark jeans, and brown suede fringe ankle boots. The person is holding the crossbody bag open with both hands, displaying its transparent body and silver-toned trim. Inside the bag, visible contents include a pair of reflective green-lensed sunglasses, a striped fabric item, and a small silver pouch. The bag\u2019s adjustable strap is draped over the person\u2019s shoulder and extends down their side. The lighting is natural daylight, casting soft shadows and highlighting the reflective surfaces of the bag and the person\u2019s hands. The overall composition focuses on the bag in use, emphasizing its functionality and style in"
-            }
-        ]
-    },
-    {
-        "asin": "B01ESX79XU",
-        "title": "NUOLUX Retractable Chalk Holder for Pool Billiard Snooker (Black)",
-        "reference_file": "B01ESX79XU/reference.jpg",
-        "categorical_name": "chalk holder",
-        "variation_files": [
-            {
-                "file": "B01ESX79XU/variation_1.jpg",
-                "prompt": "A close-up shot of two hands interacting with the chalk holder against a plain white background. One hand holds the circular base of the chalk holder, while the other hand pulls the attached retractable cord, extending it diagonally across the frame. The cord is taut and thin, connecting the base to the small black square clip at the end. The scene is brightly lit with soft, even lighting, emphasizing the clean, minimal composition. The focus is on the action of extending the cord, showcasing the functionality of the product in a simple, uncluttered environment."
-            }
-        ]
-    },
-    {
-        "asin": "B0B14HMQX1",
-        "title": "Golf Headcovers Golf Alignment Stick Cover Case Holder Premium Leather Holds at Least 2 Sticks",
-        "reference_file": "B0B14HMQX1/reference.jpg",
-        "categorical_name": "golf alignment stick cover",
-        "variation_files": [
-            {
-                "file": "B0B14HMQX1/variation_1.jpg",
-                "prompt": "A close-up shot of multiple golf alignment stick covers arranged upright in a grassy outdoor setting, with a backdrop of lush green palm trees under a bright blue sky with scattered white clouds. The covers are positioned closely together, creating a clustered composition that emphasizes their shape and placement. The scene is illuminated by natural daylight, casting soft shadows and highlighting the texture of the grass and the fabric of the covers. The background is slightly blurred, drawing focus to the foreground objects. The overall atmosphere is vibrant and outdoor, suggesting a sunny day on a golf course or park."
-            }
-        ]
-    },
-    {
-        "asin": "B07CHSQSWJ",
-        "title": "STMAX Roller Skates Women and Girls Classic Derby 4 Wheels Rink Quad Skate for Kids and Adults Patines para ni\u00f1as y Mujer Outdoor Rollerskates",
-        "reference_file": "B07CHSQSWJ/reference.jpg",
-        "categorical_name": "roller skates",
-        "variation_files": [
-            {
-                "file": "B07CHSQSWJ/variation_1.jpg",
-                "prompt": "A young woman wearing a pink helmet, a purple and pink plaid shirt, and denim shorts is roller skating outdoors on a paved surface in front of a textured gray stone wall. She is in motion, leaning slightly forward with one arm extended for balance, skating between small green cones arranged on the ground. The roller skates are worn on her feet, positioned mid-stride. The lighting is bright and natural, suggesting daytime. The background consists of a plain, solid gray stone wall with visible grout lines, and the ground is a smooth, light-gray pavement. All text and graphic overlays are ignored."
-            },
-            {
-                "file": "B07CHSQSWJ/variation_2.jpg",
-                "prompt": "A young girl wearing protective gear, including a blue patterned helmet, elbow pads, wrist guards, and knee pads, is roller skating on a paved outdoor path. She is in motion, gliding forward with one foot slightly lifted, wearing the roller skates. The background features lush green trees and grass under natural daylight, with soft shadows indicating a sunny day. The path curves gently into the distance, creating depth. The scene is captured from a low angle, emphasizing movement and the skater\u2019s posture. The overall lighting is bright and natural, with a clear focus on the skater and the roller skates in use."
-            }
-        ]
-    },
-    {
-        "asin": "B08KSBF8NL",
-        "title": "GRIND FITNESS Alpha3000 Power Rack, Squat Rack with Rubber Protected J-Cups, Silver Spotter Arms, 2x2 Uprights, Textured Multi-Grip Pull Up Bar, Heavy Duty J-Cups",
-        "reference_file": "B08KSBF8NL/reference.jpg",
-        "categorical_name": "power rack",
-        "variation_files": [
-            {
-                "file": "B08KSBF8NL/variation_1.jpg",
-                "prompt": "A full-body view of the power rack standing in a minimalist gym environment, positioned centrally on a smooth, gray concrete floor with a clean, neutral gray wall behind it. The lighting is soft and diffused, creating subtle shadows that emphasize the structure\u2019s depth and industrial design. The background is plain and uncluttered, with a dark baseboard running along the bottom of the wall. The power rack is shown from a slightly low angle, highlighting its stability and height, with no additional equipment or props in the scene."
-            },
-            {
-                "file": "B08KSBF8NL/variation_2.jpg",
-                "prompt": "A person is performing a pull-up on the power rack, viewed from behind, with arms extended and legs bent at the knees. The power rack is positioned centrally in a dimly lit industrial warehouse environment, featuring concrete flooring and tall shelving units with stacked boxes and materials on the left side. Two bright rectangular lights are visible in the background, casting a soft glow and creating a dramatic contrast with the dark surroundings. The lighting is low-key and directional, emphasizing the silhouette of the person and the structure of the power rack. The overall atmosphere is gritty and intense, with a focus on strength and functionality."
-            },
-            {
-                "file": "B08KSBF8NL/variation_3.jpg",
-                "prompt": "A wide-angle shot of a dimly lit industrial warehouse space with concrete flooring and tall shelving units filled with stacked materials on either side. In the center, the power rack is positioned with a barbell loaded with weight plates resting on its safety pins. A person is seated on a weight bench placed in front of the rack, head bowed, hands clasped, in a moment of rest or contemplation. The lighting is moody and dramatic, with a single bright light source in the background casting soft illumination and creating subtle shadows across the scene. The overall atmosphere is gritty and focused, emphasizing strength and endurance."
-            }
-        ]
-    },
-    {
-        "asin": "B095CWSV2H",
-        "title": "Chong Olympic Barbell 47INCH/4FT EZ Curl Weight Bar, 350lb Capacity Chrome Barbells for Gym Home Strength Training,Weightlifting,Power Lifting",
-        "reference_file": "B095CWSV2H/reference.jpg",
-        "categorical_name": "ez curl bar",
-        "variation_files": [
-            {
-                "file": "B095CWSV2H/variation_1.jpg",
-                "prompt": "A low-angle shot of the ez curl bar lying horizontally on a dark speckled rubber gym floor, loaded with black weight plates on each end and secured with silver collars. The barbell is positioned diagonally across the frame, with the curved red handle section prominently visible in the center. The background shows a well-lit gym environment with various fitness equipment, including weight racks, benches, and machines, slightly blurred to emphasize the bar in the foreground. Warm ambient lighting casts soft shadows on the floor, enhancing the depth and realism of the scene."
-            }
-        ]
-    },
-    {
-        "asin": "B09HTTNV6D",
-        "title": "Albott Scooter for Adults Wide Handlebar&Large Aluminum Deck Kick Scooter with Adjustable Height, Big Wheel w/ABEC-9 Wheel Bearings for Teens and Kids 8 Years and up, 250LB Max Load",
-        "reference_file": "B09HTTNV6D/reference.jpg",
-        "categorical_name": "kick scooter",
-        "variation_files": [
-            {
-                "file": "B09HTTNV6D/variation_1.jpg",
-                "prompt": "A person stands on a grassy hilltop at sunset, viewed from behind, wearing a dark hoodie and blue jeans, holding a black helmet in one hand. Beside them, the kick scooter is positioned upright on the grass, angled slightly toward the viewer. The scene features a wide, scenic landscape in the background with rolling hills, trees, and a soft, warm sky with light clouds. The lighting is natural and golden-hour, casting a warm glow over the environment. The foreground includes a slightly blurred path or dirt trail leading up to the hill. The overall composition is cinematic and serene, emphasizing outdoor adventure and freedom."
-            }
-        ]
-    },
-    {
-        "asin": "B08V5JDP1V",
-        "title": "BeBeFun Toddler and Kids Ski Helmet Snowboard Helmet Sled Helmet Ultra Lightweight Small Size for 2-6 Years Kids ASTM Certified",
-        "reference_file": "B08V5JDP1V/reference.jpg",
-        "categorical_name": "ski helmet",
-        "variation_files": [
-            {
-                "file": "B08V5JDP1V/variation_1.jpg",
-                "prompt": "A young child stands in a snowy outdoor environment, wearing a winter jacket, gloves, and ski goggles, with the ski helmet positioned on their head. The background features a soft-focus snow-covered landscape with faint outlines of trees, fencing, and distant figures, suggesting a ski resort or winter playground. The lighting is natural and diffused, typical of an overcast winter day, casting soft shadows. The child is slightly turned, with arms slightly extended, appearing engaged in playful motion. The overall composition is a full-body shot centered on the child, with the ski helmet clearly visible on top of the head, integrated into the winter gear. The background is a natural snowy scene with no text, logos, or graphic overlays\u2014just a plain, wintry"
-            }
-        ]
-    },
-    {
         "asin": "B08HXCZFBG",
         "title": "Long Distance Thoughtful Ideas for Best Friend Couple Sisters Mom - 20 oz. Insulated Tumbler with Lid Reusable Straws - Personalized BFF Friendship Moving Away Bday Christmas Ideas for Women",
         "reference_file": "B08HXCZFBG/reference.jpg",
         "categorical_name": "insulated tumbler",
         "variation_files": [
             {
-                "file": "B08HXCZFBG/variation_1.jpg",
-                "prompt": "A woman is driving a car, smiling and looking ahead, holding the insulated tumbler in her right hand. She is seated in the driver\u2019s seat with light-colored leather upholstery, wearing a colorful patterned top and a beaded bracelet. In the passenger seat behind her, another woman is smiling and looking toward her. The car\u2019s interior is bright and modern, with sunlight streaming through the windows, creating a warm, natural lighting effect. The tumbler is held upright, positioned near the center of the frame, with its top slightly visible above the woman\u2019s hand. The background shows a blurred view of the road and trees outside the car windows, suggesting motion and a sunny day. The overall composition is dynamic and lifestyle-oriented, capturing a"
-            },
-            {
                 "file": "B08HXCZFBG/variation_2.jpg",
-                "prompt": "A close-up product shot of the insulated tumbler placed in a car's center console, positioned next to an automatic gear shift lever. The tumbler is shown with its clear lid open, revealing a transparent inner lid with a drinking spout. The surrounding environment features dark, glossy interior surfaces with metallic accents and wood trim, including parts of the dashboard and climate control panel. The lighting is soft and ambient, highlighting the reflective surfaces of the car interior and the tumbler\u2019s metallic rim. The background is dark and slightly blurred, focusing attention on the tumbler and the gear shift. The composition is angled slightly from above, capturing the tumbler in a realistic, in-use setting. Ignore any text or labels in the image"
+                "prompt": "A close-up product shot of the insulated tumbler placed in a car's center console, positioned next to an automatic gear shift lever. The tumbler is shown with its clear lid open, revealing a transparent inner lid with a drinking spout. The surrounding environment features dark, glossy interior surfaces with metallic accents and wood trim, including parts of the dashboard and climate control panel. The lighting is soft and ambient, highlighting the reflective surfaces of the car interior and the tumbler’s metallic rim. The background is dark and slightly blurred, focusing attention on the tumbler and the gear shift. The composition is angled slightly from above, capturing the tumbler in a realistic, in-use setting. Ignore any text or labels in the image"
             },
             {
                 "file": "B08HXCZFBG/variation_3.jpg",
                 "prompt": "A split-screen composition featuring a close-up of a smiling woman with wavy blonde hair, holding the insulated tumbler in her right hand while looking down at a smartphone in her left hand. The left side of the image displays a dark-themed smartphone messaging interface with a conversation, shown as a solid black background panel with light-colored message bubbles. The woman is positioned on the right side, set against a plain dark teal background. The lighting is soft and natural, highlighting her face and the tumbler she holds. The tumbler is held at a slight angle, clearly visible in the foreground. The overall mood is warm and personal, suggesting a heartfelt connection."
-            }
-        ]
-    },
-    {
-        "asin": "B089CLVG5T",
-        "title": "Cressi Full Diving Snorkeling Men's and Ladies' Wetsuit 2.5mm in Premium High Stretch Neoprene - Maya: Designed in Italy",
-        "reference_file": "B089CLVG5T/reference.jpg",
-        "categorical_name": "wetsuit",
-        "variation_files": [
-            {
-                "file": "B089CLVG5T/variation_1.jpg",
-                "prompt": "A woman stands in shallow, clear ocean water, wearing the wetsuit. She is positioned in profile, facing left, with her right hand holding a white snorkel mask and regulator, and her left hand holding a pair of black and pink fins. The water gently laps around her ankles, with sunlight reflecting off the surface, creating a natural, bright outdoor lighting effect. The background consists of a calm, sunlit sea extending to the horizon, with subtle ripples and light variations in the water. The scene is captured in a full-body, vertical composition, emphasizing the wetsuit in a realistic, active environment."
             }
         ]
     },
@@ -195,15 +59,11 @@
         "variation_files": [
             {
                 "file": "B09C1C1SHD/variation_1.jpg",
-                "prompt": "A close-up shot of a dark amber plastic bottle with a white cap, positioned on a wooden workbench next to a polished wooden gun stock. The bottle is slightly angled, with its label facing forward, and is placed in front of the gun stock, which shows a smooth, glossy finish with visible wood grain. The background includes a softly blurred workshop environment with wooden surfaces, tools, and a yellow object in the distance. Natural, warm lighting highlights the reflective sheen on the gun stock and the bottle\u2019s surface. The composition focuses on the bottle and the gun stock, emphasizing their proximity and suggesting a connection between the product and the finished wood. The scene is shot from a slightly low angle, creating a sense of depth and realism."
-            },
-            {
-                "file": "B09C1C1SHD/variation_2.jpg",
-                "prompt": "A close-up, slightly angled view of a wooden surface with visible grain and natural imperfections, showing a glossy, wet finish on one side and a matte, untreated appearance on the other, creating a clear before-and-after contrast. The surface is part of a larger wooden object, possibly a gun stock or furniture piece, with a dark, rounded edge and a small black knot or inlay visible. In the background, partially tucked behind the wood, sits a small brown bottle with a white cap, placed on a light-colored wooden workbench. The lighting is warm and natural, highlighting the sheen of the finished wood and casting soft shadows. The overall environment suggests a workshop or crafting space with wooden textures and tools implied in the blurred background. The"
+                "prompt": "A close-up shot of a dark amber plastic bottle with a white cap, positioned on a wooden workbench next to a polished wooden gun stock. The bottle is slightly angled, with its label facing forward, and is placed in front of the gun stock, which shows a smooth, glossy finish with visible wood grain. The background includes a softly blurred workshop environment with wooden surfaces, tools, and a yellow object in the distance. Natural, warm lighting highlights the reflective sheen on the gun stock and the bottle’s surface. The composition focuses on the bottle and the gun stock, emphasizing their proximity and suggesting a connection between the product and the finished wood. The scene is shot from a slightly low angle, creating a sense of depth and realism."
             },
             {
                 "file": "B09C1C1SHD/variation_3.jpg",
-                "prompt": "A dark brown bottle of the gun stock finish is placed at an angle on a polished wooden chair, with the bottle\u2019s neck slightly tilted upward and its label facing forward. The chair has a natural wood grain finish with visible texture and warm tones, and its armrest and backrest frame the bottle on the left and right sides. The background shows a workshop environment with wooden walls, tools hanging on a pegboard, shelves with various containers, a blue trash can, and a black vacuum or shop tool in the distance. The lighting is natural and warm, highlighting the glossy surface of the wood and the reflective sheen on the bottle. The composition is a close-up, slightly low-angle shot, emphasizing the product in context with its intended use environment."
+                "prompt": "A dark brown bottle of the gun stock finish is placed at an angle on a polished wooden chair, with the bottle’s neck slightly tilted upward and its label facing forward. The chair has a natural wood grain finish with visible texture and warm tones, and its armrest and backrest frame the bottle on the left and right sides. The background shows a workshop environment with wooden walls, tools hanging on a pegboard, shelves with various containers, a blue trash can, and a black vacuum or shop tool in the distance. The lighting is natural and warm, highlighting the glossy surface of the wood and the reflective sheen on the bottle. The composition is a close-up, slightly low-angle shot, emphasizing the product in context with its intended use environment."
             }
         ]
     },
@@ -215,27 +75,7 @@
         "variation_files": [
             {
                 "file": "B07FNFJ8CH/variation_1.jpg",
-                "prompt": "A close-up product shot of the massage roller positioned horizontally, resting on a reflective surface that creates a soft, ghosted mirror image beneath it. The roller is held gently by a person wearing white athletic attire, visible from the mid-torso down, with their hands lightly gripping the ends of the roller. The background is a clean, soft white gradient with subtle shadowing, giving a bright, studio-like feel. The lighting is even and diffused, highlighting the texture of the roller while casting a faint reflection on the glossy surface below. The composition is centered, with the product as the focal point, and the person\u2019s body is slightly blurred and desaturated, keeping attention on the massage roller."
-            },
-            {
-                "file": "B07FNFJ8CH/variation_2.jpg",
-                "prompt": "A muscular man with a highly defined torso and arms is holding the massage roller horizontally with both hands, gripping it firmly near the ends. He is shirtless, wearing blue athletic shorts with a white drawstring, and is positioned slightly angled toward the viewer. The background is a solid dark gray, creating a dramatic contrast that highlights the subject\u2019s physique and the product. The lighting is focused and directional, casting subtle shadows that emphasize muscle definition and the texture of the roller. The roller is centered in the lower half of the frame, held across the man\u2019s midsection, with the central textured section visible. The overall composition is dynamic and intense, conveying strength and physical performance."
-            },
-            {
-                "file": "B07FNFJ8CH/variation_3.jpg",
-                "prompt": "A clean product shot on a plain white background featuring the massage roller positioned diagonally in the foreground, with a brown cardboard packaging box placed behind it at a slight angle. The box has a minimalist design with a simple line drawing of the product and text printed on its surface, but these details are ignored. The massage roller is shown with a black strap attached to one end, and a soft shadow is cast beneath both the roller and the box, suggesting bright, even studio lighting. The composition is simple and focused, emphasizing the product and its packaging in a clean, commercial style."
-            }
-        ]
-    },
-    {
-        "asin": "B07ZJVBWHP",
-        "title": "LaserGram Single Wall Stainless Steel Water Bottle, Fox, Personalized Engraving Included",
-        "reference_file": "B07ZJVBWHP/reference.jpg",
-        "categorical_name": "water bottle",
-        "variation_files": [
-            {
-                "file": "B07ZJVBWHP/variation_1.jpg",
-                "prompt": "A young woman sits outdoors on a black metal chair, casually drinking from the water bottle held in her right hand, while her left hand holds the bottle\u2019s cap. She wears a black sweater with a gray diamond pattern across the chest and light blue ripped jeans. The background features a warm-toned wooden wall with greenery visible to the right, under natural daylight. The scene is captured from a slightly low angle, emphasizing the act of drinking, with soft shadows and a relaxed, candid atmosphere. The water bottle is shown in use, tilted toward her mouth, with its metallic surface reflecting the ambient light."
+                "prompt": "A close-up product shot of the massage roller positioned horizontally, resting on a reflective surface that creates a soft, ghosted mirror image beneath it. The roller is held gently by a person wearing white athletic attire, visible from the mid-torso down, with their hands lightly gripping the ends of the roller. The background is a clean, soft white gradient with subtle shadowing, giving a bright, studio-like feel. The lighting is even and diffused, highlighting the texture of the roller while casting a faint reflection on the glossy surface below. The composition is centered, with the product as the focal point, and the person’s body is slightly blurred and desaturated, keeping attention on the massage roller."
             }
         ]
     },
@@ -247,7 +87,7 @@
         "variation_files": [
             {
                 "file": "B06ZZ57LKJ/variation_1.jpg",
-                "prompt": "A low-angle shot of a person wearing the inline skates, standing on a polished light wooden floor with visible wood grain and natural reflections. The skates are positioned slightly apart, angled naturally as if mid-step or poised for movement. The background is a plain, light-colored wall with soft, even lighting that creates subtle shadows beneath the skates and highlights the glossy surface of the floor. The person\u2019s lower legs are visible, wearing colorful socks with bold patterns in teal, magenta, and black, adding a vibrant contrast to the scene. The overall composition is clean and minimal, emphasizing the skates in a realistic, lifestyle context."
+                "prompt": "A low-angle shot of a person wearing the inline skates, standing on a polished light wooden floor with visible wood grain and natural reflections. The skates are positioned slightly apart, angled naturally as if mid-step or poised for movement. The background is a plain, light-colored wall with soft, even lighting that creates subtle shadows beneath the skates and highlights the glossy surface of the floor. The person’s lower legs are visible, wearing colorful socks with bold patterns in teal, magenta, and black, adding a vibrant contrast to the scene. The overall composition is clean and minimal, emphasizing the skates in a realistic, lifestyle context."
             }
         ]
     },
@@ -259,19 +99,7 @@
         "variation_files": [
             {
                 "file": "B07XDY47KN/variation_1.jpg",
-                "prompt": "A close-up shot of a person from the waist down, standing on a grassy outdoor field, wearing khaki pants and carrying a large black golf bag with red trim over their shoulder. The rangefinder case is attached to the side of the golf bag via its carabiner, hanging vertically and positioned near the person\u2019s hip. The case is secured by a red cord looped through the carabiner and fastened with a small metal bead. The background is a natural outdoor setting with soft, diffused daylight. The image focuses on the practical use and portability of the product in a real-world context."
-            }
-        ]
-    },
-    {
-        "asin": "B0C2YRHBZZ",
-        "title": "YZLSPORTS Metal Black Heavy Hand Grip and Wrist Strengthener Gripper - Resistance from 50-350 LB Metal Exerciser for Hand, Forearm, and Fingers,Black(Bold Handle) Stainless Steel",
-        "reference_file": "B0C2YRHBZZ/reference.jpg",
-        "categorical_name": "hand gripper",
-        "variation_files": [
-            {
-                "file": "B0C2YRHBZZ/variation_1.jpg",
-                "prompt": "The hand gripper is shown partially submerged in splashing water, with dynamic droplets and ripples surrounding it, creating a sense of motion and impact. The background is a dark, reflective, wet surface that mirrors the product and water, enhancing the glossy, high-contrast aesthetic. The lighting is dramatic and directional, emphasizing the metallic sheen of the spring and the textured grip surface. The composition is angled, with the hand gripper positioned diagonally across the frame, partially emerging from the water. The overall mood is sleek, modern, and industrial, with a focus on durability and resistance to moisture."
+                "prompt": "A close-up shot of a person from the waist down, standing on a grassy outdoor field, wearing khaki pants and carrying a large black golf bag with red trim over their shoulder. The rangefinder case is attached to the side of the golf bag via its carabiner, hanging vertically and positioned near the person’s hip. The case is secured by a red cord looped through the carabiner and fastened with a small metal bead. The background is a natural outdoor setting with soft, diffused daylight. The image focuses on the practical use and portability of the product in a real-world context."
             }
         ]
     },
@@ -295,35 +123,23 @@
         "variation_files": [
             {
                 "file": "B019IFMT06/variation_1.jpg",
-                "prompt": "A man stands in profile, facing left, with his back to the viewer, wearing the hydration pack. He is silhouetted in black, with no visible facial features or clothing details, except for the outline of a short-sleeved shirt and pants. The hydration pack is positioned on his back, centered and clearly visible, with its straps over his shoulders. The background is a plain, solid white. The lighting is high-contrast, creating a strong silhouette effect, with the hydration pack standing out brightly against the dark figure. The composition is centered, with the man\u2019s posture upright and hands resting on his hips."
+                "prompt": "A man stands in profile, facing left, with his back to the viewer, wearing the hydration pack. He is silhouetted in black, with no visible facial features or clothing details, except for the outline of a short-sleeved shirt and pants. The hydration pack is positioned on his back, centered and clearly visible, with its straps over his shoulders. The background is a plain, solid white. The lighting is high-contrast, creating a strong silhouette effect, with the hydration pack standing out brightly against the dark figure. The composition is centered, with the man’s posture upright and hands resting on his hips."
             }
         ]
     },
     {
         "asin": "B09CFZ8RFP",
-        "title": "Sports Water Bottle, BPA Free & Frosted Tritan Plastic, 36oz Water Bottle with Leak Proof Flip Top Lid, Apply to The Gym, Yoga, Running, Outdoors, Cycling, and Camping\u2026",
+        "title": "Sports Water Bottle, BPA Free & Frosted Tritan Plastic, 36oz Water Bottle with Leak Proof Flip Top Lid, Apply to The Gym, Yoga, Running, Outdoors, Cycling, and Camping…",
         "reference_file": "B09CFZ8RFP/reference.jpg",
         "categorical_name": "sports water bottle",
         "variation_files": [
             {
                 "file": "B09CFZ8RFP/variation_1.jpg",
-                "prompt": "A man and a woman are standing on a rocky mountain trail during golden hour, surrounded by rugged terrain and distant hills. The man, wearing a black cap, glasses, a dark jacket, and an orange backpack, is drinking from the sports water bottle held in his right hand. The woman beside him, dressed in a gray t-shirt, a striped shirt tied around her waist, and carrying a camera and trekking pole, is smiling at the camera. The scene is bathed in warm, soft sunlight, with natural grasses and rocks in the foreground and a clear sky above. The background features a scenic mountain landscape with soft focus, emphasizing the outdoor adventure setting. The sports water bottle is held at a slight angle, positioned near the man\u2019s"
+                "prompt": "A man and a woman are standing on a rocky mountain trail during golden hour, surrounded by rugged terrain and distant hills. The man, wearing a black cap, glasses, a dark jacket, and an orange backpack, is drinking from the sports water bottle held in his right hand. The woman beside him, dressed in a gray t-shirt, a striped shirt tied around her waist, and carrying a camera and trekking pole, is smiling at the camera. The scene is bathed in warm, soft sunlight, with natural grasses and rocks in the foreground and a clear sky above. The background features a scenic mountain landscape with soft focus, emphasizing the outdoor adventure setting. The sports water bottle is held at a slight angle, positioned near the man’s"
             },
             {
                 "file": "B09CFZ8RFP/variation_2.jpg",
-                "prompt": "A woman in athletic wear is resting in a gym, leaning on a red dumbbell with a white towel draped over her shoulders. She is holding the sports water bottle in her hand, positioned prominently in the foreground. The gym environment features dark flooring, exercise equipment in the background, and bright overhead lighting creating lens flares. Another person is visible in the background using gym machinery, slightly out of focus. The scene is shot with a shallow depth of field, emphasizing the woman and the bottle in the foreground. The lighting is dynamic, with highlights on the woman\u2019s face and the bottle, suggesting an active, high-energy fitness setting. The background includes large windows and industrial-style ceiling lights, contributing to a modern gym atmosphere."
-            }
-        ]
-    },
-    {
-        "asin": "B01FT6PUOU",
-        "title": "Life Energy EkoSmart Non-Slip Exercise Yoga Mat with Carrying Strap, 4 mm Thick",
-        "reference_file": "B01FT6PUOU/reference.jpg",
-        "categorical_name": "yoga mat",
-        "variation_files": [
-            {
-                "file": "B01FT6PUOU/variation_1.jpg",
-                "prompt": "A woman lying on her back on the yoga mat in a relaxed yoga pose, legs bent and feet together, arms extended outward, eyes closed, on a light-colored wooden floor with a subtle plank pattern. The yoga mat is fully unrolled and positioned diagonally across the frame, with its surface visible beneath her body. The scene is captured from a high-angle, top-down perspective, showing the full mat and the person\u2019s posture in a calm, serene setting. The lighting is soft and even, creating a natural, tranquil atmosphere. The background consists of the plain wooden floor with no additional objects or text."
+                "prompt": "A woman in athletic wear is resting in a gym, leaning on a red dumbbell with a white towel draped over her shoulders. She is holding the sports water bottle in her hand, positioned prominently in the foreground. The gym environment features dark flooring, exercise equipment in the background, and bright overhead lighting creating lens flares. Another person is visible in the background using gym machinery, slightly out of focus. The scene is shot with a shallow depth of field, emphasizing the woman and the bottle in the foreground. The lighting is dynamic, with highlights on the woman’s face and the bottle, suggesting an active, high-energy fitness setting. The background includes large windows and industrial-style ceiling lights, contributing to a modern gym atmosphere."
             }
         ]
     },
@@ -347,15 +163,15 @@
         "variation_files": [
             {
                 "file": "B01D0DO8YM/variation_1.jpg",
-                "prompt": "A running backpack is shown from a slightly angled front view against a plain white background. The backpack is positioned upright and features two trekking poles attached diagonally across its front, secured with black straps and loops. The poles extend from the lower left to the upper right of the frame, with their handles resting near the bottom left corner and their tips pointing upward beyond the top edge of the image. The poles have black shafts with yellow markings and black foam grips. The backpack\u2019s side mesh pockets and red-trimmed shoulder straps are visible, and the front panel includes a vertical zipper. The overall lighting is bright and even, highlighting the product\u2019s structure and the attached gear without casting strong shadows."
+                "prompt": "A running backpack is shown from a slightly angled front view against a plain white background. The backpack is positioned upright and features two trekking poles attached diagonally across its front, secured with black straps and loops. The poles extend from the lower left to the upper right of the frame, with their handles resting near the bottom left corner and their tips pointing upward beyond the top edge of the image. The poles have black shafts with yellow markings and black foam grips. The backpack’s side mesh pockets and red-trimmed shoulder straps are visible, and the front panel includes a vertical zipper. The overall lighting is bright and even, highlighting the product’s structure and the attached gear without casting strong shadows."
             },
             {
                 "file": "B01D0DO8YM/variation_2.jpg",
-                "prompt": "A front-facing view of the running backpack centered on a plain white background, shown with trekking poles attached horizontally across the lower section using black straps. The poles are secured near the base of the backpack, extending outward on both sides, with their tips pointing outward and slightly downward. The backpack is positioned upright, displaying its main body, shoulder straps with red trim, and mesh back panel. The lighting is even and studio-like, highlighting the product\u2019s form and structure without shadows or distractions. The overall composition is clean and product-focused, with no text, logos, or additional elements present."
+                "prompt": "A front-facing view of the running backpack centered on a plain white background, shown with trekking poles attached horizontally across the lower section using black straps. The poles are secured near the base of the backpack, extending outward on both sides, with their tips pointing outward and slightly downward. The backpack is positioned upright, displaying its main body, shoulder straps with red trim, and mesh back panel. The lighting is even and studio-like, highlighting the product’s form and structure without shadows or distractions. The overall composition is clean and product-focused, with no text, logos, or additional elements present."
             },
             {
                 "file": "B01D0DO8YM/variation_3.jpg",
-                "prompt": "A front-facing product shot of the running backpack against a plain white background, shown in a slightly angled perspective to reveal both the front and right side. The backpack is positioned upright with its main compartment closed, and the right side mesh pocket is visibly filled with trekking poles, which extend upward and slightly outward from the pocket. The poles are secured with a black elastic strap and feature black shafts with yellow accents and black baskets at the tips. The backpack\u2019s red-trimmed shoulder straps are partially visible on the left, and the front zipper is closed with the pull tab resting near the top. The lower portion of the backpack includes a cinched drawstring closure. The lighting is even and studio-like, highlighting the texture of the fabric and the"
+                "prompt": "A front-facing product shot of the running backpack against a plain white background, shown in a slightly angled perspective to reveal both the front and right side. The backpack is positioned upright with its main compartment closed, and the right side mesh pocket is visibly filled with trekking poles, which extend upward and slightly outward from the pocket. The poles are secured with a black elastic strap and feature black shafts with yellow accents and black baskets at the tips. The backpack’s red-trimmed shoulder straps are partially visible on the left, and the front zipper is closed with the pull tab resting near the top. The lower portion of the backpack includes a cinched drawstring closure. The lighting is even and studio-like, highlighting the texture of the fabric and the"
             }
         ]
     },
@@ -366,168 +182,24 @@
         "categorical_name": "camping chair",
         "variation_files": [
             {
-                "file": "B0C37ZBK76/variation_1.jpg",
-                "prompt": "A group of people relaxing outdoors on a grassy hillside overlooking a lake and distant mountains under a soft, overcast sky. In the foreground, a person sits in the camping chair, angled slightly to the side, drinking from a metallic water bottle. The chair is positioned on natural terrain with tall grass, and another identical chair is visible behind them, occupied by a person in a red top. A third person is partially visible in the background, seated on the ground. The scene is captured from a low angle with a shallow depth of field, emphasizing the person in the foreground while softly blurring the background. The lighting is natural and diffused, creating a calm, serene atmosphere. The overall composition is candid and lifestyle-oriented, with a focus"
-            },
-            {
                 "file": "B0C37ZBK76/variation_2.jpg",
                 "prompt": "A wide-angle outdoor scene set in a natural, grassy meadow with a rocky cliff and distant forested hills in the background. The lighting is soft, natural daylight, suggesting late afternoon. In the foreground, a person is crouched beside a backpack, smiling and looking upward, wearing a light-colored hoodie, maroon pants, and a baseball cap. To their left, the camping chair is positioned upright on the grass, slightly angled toward the viewer. A blue and white tent is partially visible on the far left, with its pole extending diagonally across the frame. The ground is covered in dry, golden grass, and a small pile of firewood rests in the bottom right corner. The overall composition feels candid and immersive, capturing a"
-            },
-            {
-                "file": "B0C37ZBK76/variation_3.jpg",
-                "prompt": "A tall, cylindrical blue drawstring carry bag with a gray shoulder strap, standing upright on a plain white background. The bag is made of smooth, slightly reflective fabric with visible vertical seams dividing it into sections. The top is cinched closed with a gray drawstring, and the bag casts a soft shadow to its right, indicating a light source from the left. The overall composition is clean and minimal, with no text, logos, or additional elements visible on the bag or background."
-            }
-        ]
-    },
-    {
-        "asin": "B09KP9SLQ9",
-        "title": "beiyoule Fishing Umbrella Stand, 360-Degree Selection Bait Tray Holder Clamp Connector Can Fix Fishing Umbrella, Bracket, Fish Guard",
-        "reference_file": "B09KP9SLQ9/reference.jpg",
-        "categorical_name": "fishing umbrella stand",
-        "variation_files": [
-            {
-                "file": "B09KP9SLQ9/variation_1.jpg",
-                "prompt": "A close-up product shot of the fishing umbrella stand mounted onto a metallic fishing chair frame, shown from a slightly elevated side angle. The stand is clamped securely to a curved silver metal tube of the chair, with its adjustable arms and knobs visible. The chair features a black fabric backrest with white stitching and a small orange accent detail. The background is a plain, bright white surface with soft, even lighting. The top portion of the image includes a solid teal-blue horizontal panel, but all text and labels within it are ignored. The overall composition emphasizes the product\u2019s installation and functionality in a clean, well-lit, real-world setup."
-            },
-            {
-                "file": "B09KP9SLQ9/variation_2.jpg",
-                "prompt": "A close-up product shot of the fishing umbrella stand securely attached to a shiny metallic pole, positioned diagonally across the frame. The stand is shown in a functional, installed state with its clamps gripping the pole, highlighting its adjustable components and fastening hardware. The background is a plain, light-colored surface with soft, even lighting that emphasizes the product\u2019s structure and details. A solid teal banner spans the top of the image, but its content is ignored. The overall composition is clean and focused, with the product centered and clearly visible against the neutral backdrop."
-            },
-            {
-                "file": "B09KP9SLQ9/variation_3.jpg",
-                "prompt": "A side-view product demonstration showing the fishing umbrella stand mounted on a silver metal fishing chair frame, with the stand positioned near the chair\u2019s front leg structure. The chair features a black fabric seat and backrest, supported by a tubular aluminum frame with black circular foot pads. The fishing umbrella stand is attached to the chair\u2019s frame using its clamp mechanism, with one end secured to the frame and the other extending outward. The background is a plain, bright white studio setting with even, soft lighting. The overall composition is clean and focused, emphasizing the functional integration of the product with the chair."
-            }
-        ]
-    },
-    {
-        "asin": "B077PN67LS",
-        "title": "IZIP Bicycles E3 Dash Electric Commuter Bike",
-        "reference_file": "B077PN67LS/reference.jpg",
-        "categorical_name": "electric commuter bike",
-        "variation_files": [
-            {
-                "file": "B077PN67LS/variation_1.jpg",
-                "prompt": "The electric commuter bike is positioned at a slight angle, leaning against a weathered brick wall covered in vibrant, layered graffiti. The wall features a mix of bold colors including bright turquoise, deep red, and splashes of orange and white, with various abstract shapes, tags, and stylized figures painted across its surface. The ground is a rough, gray concrete sidewalk with small cracks and scattered debris. Natural daylight illuminates the scene, casting soft shadows beneath the bike and along the wall. The bike is shown in full side profile, with its front wheel slightly turned inward, and the overall composition emphasizes an urban, street-art aesthetic."
-            },
-            {
-                "file": "B077PN67LS/variation_2.jpg",
-                "prompt": "A man riding the electric commuter bike on a city street, captured in motion with a slight blur effect to convey speed. He is wearing a helmet, sunglasses, a backpack, and casual clothing. The bike is positioned diagonally across the frame, with the front wheel slightly turned. The street features a painted bicycle lane symbol on the asphalt. In the background, there are modern multi-story buildings with balconies, storefronts, and trees, under bright daylight. The lighting is natural and sunny, casting a clear shadow of the rider and bike on the pavement. The overall scene is dynamic and urban, emphasizing active commuting."
-            },
-            {
-                "file": "B077PN67LS/variation_3.jpg",
-                "prompt": "A low-angle outdoor shot of two people riding electric commuter bikes side by side on a gravel street, with a weathered urban wall painted in textured teal and faded pink tones in the background. The wall features peeling paint, metal window grates, and a vintage-style wall-mounted lamp. The riders are in motion, captured mid-pedal, with the person on the left wearing a dark helmet and backpack, and the person on the right wearing a white helmet and red top. The bikes are positioned diagonally across the frame, with the front wheels angled toward the viewer, emphasizing dynamic movement. Natural daylight illuminates the scene with soft shadows, highlighting the gritty urban texture of the pavement and wall. The composition is wide and immersive, focusing on"
-            }
-        ]
-    },
-    {
-        "asin": "B07DKWZSWW",
-        "title": "NIKE Men's HBR Basketball Shorts",
-        "reference_file": "B07DKWZSWW/reference.jpg",
-        "categorical_name": "basketball shorts",
-        "variation_files": [
-            {
-                "file": "B07DKWZSWW/variation_1.jpg",
-                "prompt": "A mid-section view of a person wearing the basketball shorts, shown from the waist down to the upper thighs, with the shorts fitting snugly and showcasing their structured, athletic cut. The person is standing in a relaxed, natural pose with arms slightly away from the body, one hand visible and resting near the thigh. The background is a plain, bright white, creating a clean, studio-like environment with even, soft lighting that highlights the texture and form of the shorts without casting harsh shadows. The focus is on the lower torso and legs, emphasizing the fit and movement of the shorts. The upper body is partially visible, showing a portion of a dark top with no visible text or logos, and the person\u2019s skin tone and physical features are naturally rendered"
-            },
-            {
-                "file": "B07DKWZSWW/variation_2.jpg",
-                "prompt": "A side-profile view of a person wearing the basketball shorts, showing the lower torso and legs from the waist down. The shorts are displayed in motion, with one hand casually placed in the side pocket. The background is a plain, bright white, creating a clean and minimal studio-style setting. The lighting is even and soft, highlighting the texture and fit of the shorts without harsh shadows. The focus is on the side silhouette, emphasizing the contour and design lines of the garment as worn."
-            },
-            {
-                "file": "B07DKWZSWW/variation_3.jpg",
-                "prompt": "A full-body front-facing shot of a person wearing the basketball shorts, standing upright with arms relaxed at their sides. The shot focuses from the upper torso down to the feet, showing the shorts worn with white socks and black athletic shoes with white soles. The background is a plain, seamless white studio environment with even, soft lighting that eliminates harsh shadows. The subject\u2019s legs are slightly apart, showcasing the fit and drape of the shorts naturally. The overall composition is clean and minimal, emphasizing the product in a realistic, lifestyle context."
             }
         ]
     },
     {
         "asin": "B07CJYL433",
-        "title": "REP FITNESS Adjustable Bench, AB-3100 V3 \u2013 700 lb Rated for Home and Garage Gym Workouts, Weight Lifting, and Strength Training",
+        "title": "REP FITNESS Adjustable Bench, AB-3100 V3 – 700 lb Rated for Home and Garage Gym Workouts, Weight Lifting, and Strength Training",
         "reference_file": "B07CJYL433/reference.jpg",
         "categorical_name": "adjustable weight bench",
         "variation_files": [
             {
                 "file": "B07CJYL433/variation_1.jpg",
-                "prompt": "A muscular man is performing an incline dumbbell press on the adjustable weight bench, which is positioned at an upward angle in a gym environment. The bench is shown in use, with the man seated and leaning back, holding dumbbells in each hand, mid-exercise. The gym setting includes a dark rubber floor, a rack of hex dumbbells to the left, and a large wall mural with bold blue, white, and black abstract designs in the background. The lighting is bright and focused, highlighting the man\u2019s upper body and the bench, with natural shadows indicating overhead and side lighting. The bench is angled to support the incline position, with its adjustment pins and leg supports visible. The overall composition is dynamic, capturing motion and"
+                "prompt": "A muscular man is performing an incline dumbbell press on the adjustable weight bench, which is positioned at an upward angle in a gym environment. The bench is shown in use, with the man seated and leaning back, holding dumbbells in each hand, mid-exercise. The gym setting includes a dark rubber floor, a rack of hex dumbbells to the left, and a large wall mural with bold blue, white, and black abstract designs in the background. The lighting is bright and focused, highlighting the man’s upper body and the bench, with natural shadows indicating overhead and side lighting. The bench is angled to support the incline position, with its adjustment pins and leg supports visible. The overall composition is dynamic, capturing motion and"
             },
             {
                 "file": "B07CJYL433/variation_2.jpg",
                 "prompt": "A man is seated on the adjustable weight bench, performing a shoulder press exercise with dumbbells raised above his head. The bench is positioned in a home gym environment with a dark rubber flooring. In the background, there is a black weight rack with an American flag hanging on it, and various gym equipment including resistance bands, a cable machine, and weight plates are visible. The lighting is bright and even, highlighting the subject and the bench. The bench is shown in an upright, seated position, with its frame and adjustment mechanisms clearly visible. The surrounding gym space is clean and organized, with neutral-colored walls and functional equipment arranged around the central workout area."
-            }
-        ]
-    },
-    {
-        "asin": "B000KCUEJ0",
-        "title": "Shimano Cl201DC Calais Digital Control",
-        "reference_file": "B000KCUEJ0/reference.jpg",
-        "categorical_name": "fishing reel",
-        "variation_files": [
-            {
-                "file": "B000KCUEJ0/variation_1.jpg",
-                "prompt": "A black cardboard box is open, revealing the fishing reel nestled inside on a dark, non-reflective base. The box is positioned at a slight angle, with its flaps open wide to display the contents. The interior of the box is plain black, matching the exterior. The exterior of the box features a solid dark gray or black surface with no visible text, logos, or markings. The fishing reel is centered within the box, angled slightly to showcase its side profile and handle. The entire scene is set against a plain white background with soft, even lighting that creates subtle shadows beneath the box, emphasizing its three-dimensional form. The composition is clean and minimal, focusing entirely on the product within the box."
-            }
-        ]
-    },
-    {
-        "asin": "B07PY7F49D",
-        "title": "BuildLife Gallon Water Bottle Sleeve with Time Marker for Measuring Your H2O Intake(1 Gallon,Purple Sleeve)",
-        "reference_file": "B07PY7F49D/reference.jpg",
-        "categorical_name": "water bottle sleeve",
-        "variation_files": [
-            {
-                "file": "B07PY7F49D/variation_1.jpg",
-                "prompt": "A close-up shot of a hand gripping the side of the water bottle sleeve, which is attached to a large transparent water bottle with a pink cap. The sleeve is bright pink with black trim, featuring a black mesh pocket on the side and a black adjustable strap with a carabiner clip. The hand is positioned through a black-rimmed oval cutout on the sleeve, providing a secure grip. The background shows a blurred gym environment with a gray carpeted floor and part of a black exercise machine, suggesting an active, fitness-oriented setting. The lighting is bright and even, highlighting the product in use. The overall composition focuses on the functionality and portability of the sleeve during physical activity."
-            }
-        ]
-    },
-    {
-        "asin": "B09F8ZKS63",
-        "title": "LETHMIK Men's Boonie",
-        "reference_file": "B09F8ZKS63/reference.jpg",
-        "categorical_name": "boonie hat",
-        "variation_files": [
-            {
-                "file": "B09F8ZKS63/variation_1.jpg",
-                "prompt": "A close-up of the boonie hat floating in the foreground, sharply in focus, against a scenic mountain landscape backdrop. The hat is positioned centrally, with its wide brim and chin strap clearly visible. Behind it, a blurred figure of a person stands on a rocky mountain ridge, wearing outdoor clothing, gazing out over a vast valley with distant peaks, green slopes, and a partly cloudy blue sky. The lighting is natural daylight, with soft shadows on the hat, suggesting an outdoor, high-altitude environment. The background is a continuous panoramic view of the alpine terrain, with no text, logos, or graphic elements present."
-            },
-            {
-                "file": "B09F8ZKS63/variation_2.jpg",
-                "prompt": "A wide-brimmed boonie hat suspended in mid-air against a rainy outdoor scene, with raindrops falling diagonally across the frame and beading visibly on the hat\u2019s surface and the wet ground below. The background shows a blurred natural landscape with greenery and overcast skies, creating a moody, wet atmosphere. The ground is covered in scattered, wet stones with water pooling between them, reflecting light and rain. The hat is centered in the composition, viewed from a slightly low angle, emphasizing its shape and the water-resistant effect. The lighting is soft and diffused, typical of an overcast, rainy day. The overall mood is outdoor, functional, and weather-resistant."
-            }
-        ]
-    },
-    {
-        "asin": "B09YTW1XQY",
-        "title": "Colorful Star Non Slip Yoga Towel with Corner Pockets for Yoga Mat - Microfiber Mat-Sized Yoga Towel for Hot Yoga - Sweat Absorbent Hot Yoga Mat Cover Towel 70\" x 26\" - Grey Moon Phases Print",
-        "reference_file": "B09YTW1XQY/reference.jpg",
-        "categorical_name": "yoga towel",
-        "variation_files": [
-            {
-                "file": "B09YTW1XQY/variation_1.jpg",
-                "prompt": "A woman in a black athletic outfit performs a yoga pose on the yoga towel, which is laid flat on a light wooden floor. The towel features a dark, starry background with a sequence of moon phases arranged horizontally across its surface. The setting is a bright, minimalist indoor space with light gray walls and a large window or glass partition in the background. Two potted plants with broad green leaves sit on a low concrete or stone ledge to the left. The lighting is soft and natural, coming from the side, casting gentle shadows. The overall composition is clean and focused, with the yoga towel positioned horizontally in the foreground and the woman\u2019s body arched gracefully over it, her hands placed near her upper back. The background remains uncluttered"
-            },
-            {
-                "file": "B09YTW1XQY/variation_2.jpg",
-                "prompt": "A woman performs a standing yoga pose on a grassy hilltop, balancing on one leg with the other extended upward, holding her foot with one hand and extending the other arm outward for balance. She is dressed in light-colored long-sleeve top and dark leggings, with her hair tied back. The yoga towel lies flat on the ground beneath her feet, positioned diagonally across the frame, showing a portion of its surface with a dark background and circular moon-like patterns arranged in a row. The surrounding environment features rolling green hills under a soft, hazy sky with gentle gradients of blue and peach, suggesting early morning or late afternoon light. The scene is natural and serene, with no text, logos, or graphic overlays visible."
-            },
-            {
-                "file": "B09YTW1XQY/variation_3.jpg",
-                "prompt": "A woman is performing a seated yoga pose on the yoga towel, positioned in a bright, minimalist studio with light wooden flooring and white walls. The towel is laid flat on the floor, displaying its full length and width, with the design visible beneath her. She is wearing a light blue tank top and gray leggings, sitting with one leg extended forward and the other bent, hands pressed together at her chest in a meditative gesture. Natural light streams in from large windows in the background, creating a soft, even illumination across the scene. The overall composition is clean and spacious, emphasizing calmness and focus."
-            }
-        ]
-    },
-    {
-        "asin": "B01N7SD8AX",
-        "title": "eoocvt 56 inch Power Chute Speed Training - Running Parachute Resistance Trainer",
-        "reference_file": "B01N7SD8AX/reference.jpg",
-        "categorical_name": "running parachute",
-        "variation_files": [
-            {
-                "file": "B01N7SD8AX/variation_1.jpg",
-                "prompt": "A woman in motion, mid-stride during a run, wearing athletic clothing and running shoes, with the running parachute attached to her waist via a long black strap, trailing behind her and inflated by the motion, set against a plain white background. The parachute is fully deployed, creating a dynamic sense of movement and resistance, with its fabric billowing and stretched by airflow. The composition emphasizes the action and physical exertion, with the subject positioned diagonally across the frame, leading from left to right. The lighting is bright and even, highlighting the form and motion without shadows or environmental distractions."
-            },
-            {
-                "file": "B01N7SD8AX/variation_2.jpg",
-                "prompt": "A male athlete in motion, running on a red outdoor track with white lane lines, wearing athletic attire including a dark top and bright red shorts with black trim, white sneakers, and a focused expression. Attached to his waist by a thin black strap is the running parachute, deployed behind him and inflated by the wind, creating a dynamic, billowing effect with its fabric panels. The background features a grassy field beyond the track under bright daylight, casting a soft shadow of the runner onto the track surface. The scene captures mid-stride action with natural motion blur and realistic lighting."
             }
         ]
     },
@@ -544,58 +216,6 @@
         ]
     },
     {
-        "asin": "B00JSO9VD6",
-        "title": "Lightspeed Seaside Quick Shelter",
-        "reference_file": "B00JSO9VD6/reference.jpg",
-        "categorical_name": "tent",
-        "variation_files": [
-            {
-                "file": "B00JSO9VD6/variation_1.jpg",
-                "prompt": "A beach scene under bright daylight with the tent set up on sandy ground near the ocean. The tent is positioned slightly to the left of center, with its front opening facing forward and slightly angled toward the right. Behind the tent, the calm blue ocean stretches to the horizon under a clear sky. In front of the tent, a man and a woman are seated side by side on red beach chairs, both wearing sunglasses and swimwear, facing toward the right side of the frame. The woman is on the left, holding a red drink holder, and the man is on the right with a surfboard resting beside him on the sand. The sand is light beige with scattered footprints and small debris. A yellow paddle and a blue towel lie on the"
-            },
-            {
-                "file": "B00JSO9VD6/variation_2.jpg",
-                "prompt": "A family of three is gathered on a lush green lawn in a sunny outdoor park setting, with the tent set up as a shaded shelter. The tent is positioned centrally, with its front entrance open, revealing a semi-transparent mesh panel. A man in a red shirt and jeans sits on a blue folding chair to the left of the tent, while a woman in a light blue shirt and jeans sits on the grass to the right, interacting with a young child seated in a small blue chair in front of the tent. The background features rolling hills, scattered trees, and a clear blue sky, with a playground structure visible to the left. The scene is brightly lit by natural daylight, casting soft shadows on the grass. The tent\u2019s structure includes a black"
-            },
-            {
-                "file": "B00JSO9VD6/variation_3.jpg",
-                "prompt": "A dome-shaped tent is set up on a lush green lawn under a clear blue sky, surrounded by trees and rolling hills in the background. The tent is positioned centrally, with its front mesh panel open, revealing a partially visible interior. In front of the tent, two blue foldable lawn chairs are placed side by side, facing forward. Between the chairs sits a woven picnic basket filled with fruit and snacks, and to the right is a white tote bag with green trim. A small cornhole game board is visible on the grass to the far right. The scene is brightly lit by natural daylight, casting soft shadows on the ground. The overall composition is wide and balanced, capturing a relaxed outdoor picnic or camping setup in a park-like environment."
-            }
-        ]
-    },
-    {
-        "asin": "B08PQT7QV3",
-        "title": "LUBAN 35 LB Adjustable Dumbbell and Kettlebell for Men and Women, Perfect for Home, Office, Gym Work Out",
-        "reference_file": "B08PQT7QV3/reference.jpg",
-        "categorical_name": "adjustable kettlebell",
-        "variation_files": [
-            {
-                "file": "B08PQT7QV3/variation_1.jpg",
-                "prompt": "A woman in athletic wear performs a lunge exercise in a gym environment, holding the adjustable kettlebell in her right hand. The gym features wooden walls, black rubber flooring, and industrial-style ceiling beams with soft overhead lighting. The kettlebell is positioned in front of her, slightly below waist level, as she maintains a focused posture with her left hand resting on her thigh. The background is softly blurred, emphasizing the subject and the kettlebell in the foreground. Natural, warm lighting highlights the scene, creating a dynamic and realistic fitness atmosphere."
-            },
-            {
-                "file": "B08PQT7QV3/variation_2.jpg",
-                "prompt": "A woman in athletic wear performs a lunge in a modern home interior, holding the adjustable kettlebell overhead with one hand. The room features light gray walls, a white door, and a wooden floor with a light rug. A framed abstract artwork hangs on the wall, and a wooden side table with a white lamp is visible to the right. Natural light illuminates the scene, creating soft shadows. The kettlebell is positioned above her head, centered in the upper portion of the frame, with her body angled slightly toward the viewer. The background includes minimal furniture and decor, maintaining focus on the exercise action."
-            }
-        ]
-    },
-    {
-        "asin": "B071J46SCT",
-        "title": "Eskimo Sierra Travel Cover, Red, 60 inches",
-        "reference_file": "B071J46SCT/reference.jpg",
-        "categorical_name": "travel cover",
-        "variation_files": [
-            {
-                "file": "B071J46SCT/variation_1.jpg",
-                "prompt": "A low-angle close-up shot of the travel cover resting on a snowy ground, with soft sunlight casting warm highlights and shadows across its textured fabric. In the blurred background, a snowmobile is visible, parked on a snow-covered trail lined with evergreen trees under a clear blue sky. The foreground focuses on the cover\u2019s surface, showing natural folds and creases in the material, while the background suggests a serene winter outdoor setting with soft bokeh and natural lighting. The scene conveys a sense of adventure and cold-weather utility."
-            },
-            {
-                "file": "B071J46SCT/variation_2.jpg",
-                "prompt": "A close-up, low-angle shot of the travel cover resting on a snowy surface, lightly dusted with fresh snow, emphasizing its textured fabric and padded, quilted construction. The cover is positioned in a wintry outdoor setting with a snow-covered ground and blurred trees in the background. In the upper left, a portion of a black all-terrain vehicle is visible, slightly out of focus, adding context to the outdoor, cold-weather environment. Natural, diffused daylight illuminates the scene, highlighting the fabric\u2019s folds and the subtle sheen of the snow on its surface. The composition focuses on the product\u2019s durability and outdoor use, with no text or branding elements present."
-            }
-        ]
-    },
-    {
         "asin": "B0BKXC2X98",
         "title": "Men's Analog-Digital Yapeach Sports Watch 50M Waterproof Military LED Screen Large Face Stopwatch Alarm",
         "reference_file": "B0BKXC2X98/reference.jpg",
@@ -603,23 +223,7 @@
         "variation_files": [
             {
                 "file": "B0BKXC2X98/variation_1.jpg",
-                "prompt": "A rugged sports watch is positioned prominently in the foreground, resting on a dark, wet rock partially submerged in shallow, foamy ocean water. The background features a dramatic coastal scene with crashing waves, misty sea spray, and a distant rocky outcrop under an overcast, gray sky. The lighting is natural and diffused, with soft highlights reflecting off the wet surfaces of the rock and the watch\u2019s casing. The watch is angled slightly to the right, showcasing its side profile and front face, with a shallow depth of field that keeps the watch in sharp focus while softly blurring the dynamic ocean backdrop. The overall mood is adventurous and resilient, emphasizing durability and outdoor performance."
-            }
-        ]
-    },
-    {
-        "asin": "B0BLW846R8",
-        "title": "Egnaro Silicone Ring Women Thin and Stackable Rubber Rings Women Wedding Bands - 2.5mm Width - 1.8mm Thick",
-        "reference_file": "B0BLW846R8/reference.jpg",
-        "categorical_name": "silicone ring",
-        "variation_files": [
-            {
-                "file": "B0BLW846R8/variation_1.jpg",
-                "prompt": "A close-up shot of a hand holding a dark amber glass bottle with a black dropper cap, positioned against a textured white brick wall background. The hand is shown from the side, fingers wrapped around the bottle, with the silicone ring worn on the middle finger. The lighting is soft and natural, highlighting the skin texture and the subtle sheen of the bottle. The composition focuses on the hand and bottle, with the ring naturally integrated into the scene, appearing as a small, delicate accessory. The background remains plain and uncluttered, with no text or labels visible on the bottle or in the environment."
-            },
-            {
-                "file": "B0BLW846R8/variation_2.jpg",
-                "prompt": "A close-up shot of a hand wearing the silicone ring on the middle finger, resting gently on a woven straw surface. The hand is positioned slightly angled, with natural skin texture and soft lighting highlighting the contours of the fingers. In the background, a black fabric band with white embroidered lettering is partially visible, running horizontally across the top edge of the frame. The lighting is soft and even, casting subtle shadows that enhance the three-dimensional form of the hand and the ring. The overall composition focuses on the ring\u2019s placement and natural integration with the hand, emphasizing its wearable design against a textured, neutral backdrop."
+                "prompt": "A rugged sports watch is positioned prominently in the foreground, resting on a dark, wet rock partially submerged in shallow, foamy ocean water. The background features a dramatic coastal scene with crashing waves, misty sea spray, and a distant rocky outcrop under an overcast, gray sky. The lighting is natural and diffused, with soft highlights reflecting off the wet surfaces of the rock and the watch’s casing. The watch is angled slightly to the right, showcasing its side profile and front face, with a shallow depth of field that keeps the watch in sharp focus while softly blurring the dynamic ocean backdrop. The overall mood is adventurous and resilient, emphasizing durability and outdoor performance."
             }
         ]
     },
@@ -636,34 +240,6 @@
         ]
     },
     {
-        "asin": "B0B31CB538",
-        "title": "Vanswe Weight Bench, Adjustable Workout Bench Press 800lbs Flat Incline Decline Utility Bench Sit Up Exercise Bench for Home Gym Strength Training Full Body Workout",
-        "reference_file": "B0B31CB538/reference.jpg",
-        "categorical_name": "weight bench",
-        "variation_files": [
-            {
-                "file": "B0B31CB538/variation_1.jpg",
-                "prompt": "A woman in athletic wear is performing a dumbbell row exercise, kneeling on the seat of the weight bench with one hand supporting her body on the bench's flat surface. The weight bench is positioned horizontally, with its backrest folded down and the leg support extended. The scene is set against a plain white background, with bright, even studio lighting highlighting the subject and the product. The woman is in motion, mid-exercise, holding a dumbbell in one hand, her body angled forward in a focused, dynamic pose. The composition is clean and centered, emphasizing the functional use of the weight bench in a fitness context."
-            },
-            {
-                "file": "B0B31CB538/variation_2.jpg",
-                "prompt": "A woman stands beside the weight bench, positioned slightly behind and to the left of it, with her left hand resting on the top of the backrest. She is wearing a black sleeveless athletic top and patterned leggings, standing confidently with a neutral expression. The weight bench is angled slightly to the right, showcasing its full structure including the padded seat, backrest, leg support, and metal frame. The entire scene is set against a plain white background with soft, even studio lighting that highlights the product and the person without casting harsh shadows. The composition is clean and focused, with the woman and the weight bench as the central elements, arranged to emphasize the product\u2019s design and usability."
-            }
-        ]
-    },
-    {
-        "asin": "B0BC1FNPXS",
-        "title": "Hmtaolife Inflatable Gymnastic Training Mat Air Tumbling Track Mats Yoga Barrel Air Roller for/Home/Backyard/Water/Cheerleading,10ft Length,3.3ft Width,0.33ft Thickness,with Electric Air Pump",
-        "reference_file": "B0BC1FNPXS/reference.jpg",
-        "categorical_name": "inflatable gymnastic mat",
-        "variation_files": [
-            {
-                "file": "B0BC1FNPXS/variation_1.jpg",
-                "prompt": "A woman in athletic wear is performing a seated side stretch on a blue yoga mat, positioned near a large window with soft, natural light flooding the space. To her left, the inflatable gymnastic mat is placed upright, showing its rounded, inflated form with visible valve and side handles. The background features a bright, minimalist indoor setting with light-colored walls and a view of blurred city buildings outside the window. The floor is a smooth, light gray surface, and the overall lighting is soft and diffused, creating a calm, serene atmosphere. The bottom of the image includes a solid black horizontal bar with a thin blue stripe above it, but all text, logos, and graphical elements within this bar are ignored and not described."
-            }
-        ]
-    },
-    {
         "asin": "B00DH9BY6K",
         "title": "Delta-13 Select Metal Pool Ball Rack - Black",
         "reference_file": "B00DH9BY6K/reference.jpg",
@@ -672,10 +248,6 @@
             {
                 "file": "B00DH9BY6K/variation_1.jpg",
                 "prompt": "A black triangular pool ball rack positioned at a slight angle, viewed from above, with a full set of colorful billiard balls neatly arranged inside. The balls are arranged in a standard triangular formation, with the 1-ball at the front and the 15-ball at the apex, each ball displaying its number and traditional color scheme. The rack is set against a plain white background, with soft, even lighting that highlights the glossy surface of the balls and the matte finish of the rack. The overall composition is clean and centered, emphasizing the product in use with its intended contents."
-            },
-            {
-                "file": "B00DH9BY6K/variation_2.jpg",
-                "prompt": "A hand with red-painted nails holds the pool ball rack against a beige wall, positioning it to hang from a small, dark metal hook mounted on the wall. To the left, two pool cues with wooden shafts and black wraps are vertically aligned, resting against the same wall. The rack is shown in a slightly angled, three-quarter view, with its triangular frame clearly visible. The background is a plain, solid beige wall with soft, even lighting that casts subtle shadows. The overall composition focuses on the product in use, emphasizing its functionality and placement in a realistic setting."
             }
         ]
     },
@@ -687,59 +259,11 @@
         "variation_files": [
             {
                 "file": "B08L4K53HW/variation_1.jpg",
-                "prompt": "A three-panel composite layout showcasing the rowing machine in different home environments. The top-left panel features the rowing machine placed on a light wooden floor in a bedroom setting, with a bed, white shelving unit, and window in the background. The bottom-left panel shows the rowing machine in a living room with a white sofa, coffee table, and white brick wall. The right panel displays the rowing machine in its folded, vertical storage position next to a window with sheer curtains, on a light wooden floor with a small rug and a white side table with a vase nearby. Each scene is brightly lit with natural daylight, emphasizing the product\u2019s integration into modern, minimalist home interiors. The backgrounds are clean and uncluttered, with"
+                "prompt": "A three-panel composite layout showcasing the rowing machine in different home environments. The top-left panel features the rowing machine placed on a light wooden floor in a bedroom setting, with a bed, white shelving unit, and window in the background. The bottom-left panel shows the rowing machine in a living room with a white sofa, coffee table, and white brick wall. The right panel displays the rowing machine in its folded, vertical storage position next to a window with sheer curtains, on a light wooden floor with a small rug and a white side table with a vase nearby. Each scene is brightly lit with natural daylight, emphasizing the product’s integration into modern, minimalist home interiors. The backgrounds are clean and uncluttered, with"
             },
             {
                 "file": "B08L4K53HW/variation_2.jpg",
-                "prompt": "A muscular man in a black tank top and dark shorts is actively using the rowing machine in a spacious, industrial-style gym with exposed ceiling pipes and warm overhead lighting. The gym floor is covered in dark rubber matting, and fitness equipment like weight racks and bars are visible in the background. The rowing machine is positioned horizontally across the frame, with the man seated and pulling the handle toward his torso, legs extended, demonstrating the rowing motion. The scene is captured from a side angle, emphasizing the user\u2019s form and the machine\u2019s placement within the environment. Below the main image, a solid white background panel contains a row of black anatomical muscle illustrations, but all text and labels are ignored and not described."
-            }
-        ]
-    },
-    {
-        "asin": "B0858ZGFRQ",
-        "title": "RedSwing 4 Gallon/15L Portable Water Container with Spigot, Water Storage Carrier for Camping Outdoor Hiking, BPA Free",
-        "reference_file": "B0858ZGFRQ/reference.jpg",
-        "categorical_name": "portable water container",
-        "variation_files": [
-            {
-                "file": "B0858ZGFRQ/variation_1.jpg",
-                "prompt": "A close-up outdoor scene showing a person\u2019s hands holding the portable water container by its handle, tilting it to pour water from its spigot into a small metallic camping kettle with an orange handle. The kettle rests on a grassy ground covered with green clover and blades of grass. The background is softly blurred, showing natural outdoor lighting with dappled sunlight and hints of trees or foliage. The focus is on the action of pouring, with a visible stream of water flowing from the spigot into the kettle. The person\u2019s left wrist wears a black sport-style watch. The overall composition is natural, bright, and sunlit, emphasizing utility and outdoor use."
-            },
-            {
-                "file": "B0858ZGFRQ/variation_2.jpg",
-                "prompt": "A close-up view of the portable water container's spigot actively dispensing water into a clear glass jar, with the spigot's blue cap and white nozzle clearly visible. The container's white body is partially shown on the left, positioned against a lush, moss-covered stone background with vibrant green foliage in soft focus. The scene is illuminated with natural, diffused daylight, highlighting the texture of the moss and the clarity of the water flowing into the jar. The composition focuses on the action of pouring, with the container slightly angled to emphasize the spigot and the stream of water."
-            }
-        ]
-    },
-    {
-        "asin": "B09WDL3LWK",
-        "title": "Coleman Insulated Portable Thermoelectric Cooler, 40qt Versatile Hot/Cold Cooler for Vehicles and Truckers",
-        "reference_file": "B09WDL3LWK/reference.jpg",
-        "categorical_name": "portable cooler",
-        "variation_files": [
-            {
-                "file": "B09WDL3LWK/variation_1.jpg",
-                "prompt": "A wide-angle interior view of a car\u2019s backseat area, showing a woman sitting in the middle seat and a young girl in the right seat, both smiling and interacting. The car interior features beige leather seats and matching trim, with a clear view of the windows showing a bright blue sky with scattered clouds outside. Positioned on the floor between the seats is the portable cooler with its lid open, revealing a variety of colorful fruits and beverages inside, including grapes, apples, oranges, and bottles. The cooler is angled slightly toward the viewer, with its front side facing forward and the lid tilted upward. The lighting is natural and bright, simulating daylight streaming through the car windows, casting soft shadows inside the cabin. The scene captures a casual, joyful"
-            }
-        ]
-    },
-    {
-        "asin": "B07DYNL3F9",
-        "title": "Champion Sports Viper Soccer Ball",
-        "reference_file": "B07DYNL3F9/reference.jpg",
-        "categorical_name": "soccer ball",
-        "variation_files": [
-            {
-                "file": "B07DYNL3F9/variation_1.jpg",
-                "prompt": "A young female soccer player stands confidently on a grassy field under a clear blue sky, with one foot resting on the soccer ball. She is wearing a white short-sleeved jersey with black stripes on the shoulders, navy blue shorts with white side stripes, white knee-high socks, and light blue soccer cleats. Her right hand is placed on her hip, and her left hand rests on her raised knee. In the background, a soccer goal with an orange net is visible to the left, and a line of bare trees stretches across the horizon. The lighting is bright and natural, suggesting midday sunlight. The soccer ball is positioned on the grass directly under her foot, appearing slightly compressed from the weight. The overall scene conveys an active"
-            },
-            {
-                "file": "B07DYNL3F9/variation_2.jpg",
-                "prompt": "A female soccer player in mid-kick on a grassy outdoor field under a clear blue sky, wearing a white jersey, navy blue shorts with white stripes, white socks, and light blue soccer cleats. The soccer ball is positioned on the grass near her right foot, slightly to the left of the frame. In the background, a soccer goal with an orange net is visible on the left side, with a line of bare trees and distant field markings further back. The lighting is bright and natural, suggesting midday sunlight. The composition captures dynamic motion, with the player\u2019s hair flowing and her body leaning forward in action. The background is an open, natural field environment with no text, logos, or graphic overlays."
-            },
-            {
-                "file": "B07DYNL3F9/variation_3.jpg",
-                "prompt": "Two soccer players in action on a grass field, competing for control of the soccer ball near a goal net. One player wears a black jersey with white side stripes and black shorts with the number 17, while the other wears a black and yellow long-sleeved jersey with the number 8 on the back and white shorts. Both players are wearing black socks with yellow and white stripes and yellow cleats. The soccer ball is positioned on the grass between their feet, near the goalpost. The background shows a soccer goal with a white net, a grassy field, and a distant fence with bare trees under an overcast sky. The scene is captured from a low angle, emphasizing the dynamic movement and intensity of the play."
+                "prompt": "A muscular man in a black tank top and dark shorts is actively using the rowing machine in a spacious, industrial-style gym with exposed ceiling pipes and warm overhead lighting. The gym floor is covered in dark rubber matting, and fitness equipment like weight racks and bars are visible in the background. The rowing machine is positioned horizontally across the frame, with the man seated and pulling the handle toward his torso, legs extended, demonstrating the rowing motion. The scene is captured from a side angle, emphasizing the user’s form and the machine’s placement within the environment. Below the main image, a solid white background panel contains a row of black anatomical muscle illustrations, but all text and labels are ignored and not described."
             }
         ]
     }

@@ -74,5 +74,25 @@
                 "prompt": "A live performance scene featuring three individuals on a dimly lit stage, captured in a dynamic, atmospheric setting with dramatic stage lighting and a hazy, smoky background. The central figure is a man with a beard, wearing a dark shirt and holding an acoustic guitar, singing into a microphone. To his left, another man in a dark suit also plays an acoustic guitar and sings into a microphone. To the right, a woman with blonde hair, wearing a sleeveless top, stands close to the central figure, smiling and engaged in the performance. The lighting is moody and focused, highlighting the performers against a dark, textured backdrop with subtle gradients of shadow and light. The overall composition is centered, with the performers arranged in a triangular formation,"
             }
         ]
+    },
+    {
+        "asin": "B000FLV23I",
+        "title": "From the Paradise Motel",
+        "reference_file": "B000FLV23I/reference.jpg",
+        "categorical_name": "heart-shaped glass jar",
+        "variation_files": [
+            {
+                "file": "B000FLV23I/variation_1.jpg",
+                "prompt": "A heart-shaped glass jar with its lid removed and placed beside it on a smooth, reflective black surface. The jar is filled with a colorful, iridescent liquid, and a paintbrush with a metallic handle and red-tipped bristles is dipped into the liquid, resting inside the jar. The lid features a round glass knob on top and matches the jar\u2019s scalloped, textured rim. The scene is lit with soft, directional lighting that creates clear reflections of the jar, lid, and brush on the glossy surface below. The background is a solid, neutral dark gray, emphasizing the transparency and shimmer of the glass and the vibrant colors of the liquid."
+            },
+            {
+                "file": "B000FLV23I/variation_2.jpg",
+                "prompt": "A heart-shaped glass jar with its lid slightly ajar, placed on a smooth, dark reflective surface. The jar is open, revealing its interior, and a paintbrush with a silver ferrule and brown bristles is inserted into it at an angle. The lid rests beside the jar, tilted to the left, showcasing its clear glass knob and textured rim. The scene is lit from above, creating soft highlights on the glass and a subtle reflection on the surface below. The background is a solid, deep black, enhancing the contrast and focus on the jar and brush."
+            },
+            {
+                "file": "B000FLV23I/variation_3.jpg",
+                "prompt": "A heart-shaped glass jar with its lid slightly ajar, positioned diagonally on a smooth, dark reflective surface. The jar is illuminated from above and slightly to the front, creating bright highlights on the textured, scalloped edges and the spherical knob on the lid, while casting soft shadows behind it. The background is a solid black, creating a high-contrast, studio-style presentation that emphasizes the iridescent sheen and glossy finish of the glass. The interior of the jar is visible, revealing a colorful, rainbow-like reflection on its inner surface. The overall lighting is dramatic and focused, highlighting the contours and transparency of the jar."
+            }
+        ]
     }
 ]

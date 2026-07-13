@@ -7,7 +7,7 @@
         "variation_files": [
             {
                 "file": "B07JNNFCNL/variation_1.jpg",
-                "prompt": "A low-angle, close-up shot of a person’s feet wearing the sneaker, standing on a smooth, light-gray concrete floor. The person is wearing cuffed blue jeans with frayed hems, and a sparkling silver anklet adorns the right ankle. The sneaker is positioned naturally, with the left foot slightly forward and the right foot slightly back, showcasing the side profile and top view. The background is a plain, solid white wall, creating a clean and minimalist setting. The lighting is soft and even, highlighting the texture of the sneaker and the fabric of the jeans without harsh shadows. The overall composition focuses on the casual, everyday wearability of the sneaker in a relaxed, urban-style context."
+                "prompt": "A low-angle, close-up shot of a person\u2019s feet wearing the sneaker, standing on a smooth, light-gray concrete floor. The person is wearing cuffed blue jeans with frayed hems, and a sparkling silver anklet adorns the right ankle. The sneaker is positioned naturally, with the left foot slightly forward and the right foot slightly back, showcasing the side profile and top view. The background is a plain, solid white wall, creating a clean and minimalist setting. The lighting is soft and even, highlighting the texture of the sneaker and the fabric of the jeans without harsh shadows. The overall composition focuses on the casual, everyday wearability of the sneaker in a relaxed, urban-style context."
             },
             {
                 "file": "B07JNNFCNL/variation_2.jpg",
@@ -16,6 +16,74 @@
             {
                 "file": "B07JNNFCNL/variation_3.jpg",
                 "prompt": "A close-up shot of a person's lower legs and feet wearing the sneaker, standing on a smooth, gray tiled floor. The person is wearing cuffed blue denim jeans with frayed hems, and a delicate silver anklet adorns the right ankle. The sneaker is positioned at a slight angle, showcasing the side profile with the heel slightly raised. The background is a plain, light gray wall, creating a clean and minimalistic setting. The lighting is soft and even, highlighting the texture of the jeans and the sleek design of the sneaker. The overall composition focuses on the casual, everyday wearability of the product."
+            }
+        ]
+    },
+    {
+        "asin": "B01N6S6PQD",
+        "title": "The Umbrellas of Cherbourg (The Criterion Collection) [Blu-ray]",
+        "reference_file": "B01N6S6PQD/reference.jpg",
+        "categorical_name": "blu-ray disc",
+        "variation_files": [
+            {
+                "file": "B01N6S6PQD/variation_1.jpg",
+                "prompt": "A close-up cinematic scene featuring a man and a woman in an intimate moment, with the man leaning in to kiss the woman\u2019s cheek as she smiles gently with her eyes closed. The woman has blonde hair styled with a yellow hair accessory and wears a soft pink textured sweater. The man is dressed in a light beige jacket over a pink shirt with a striped collar. The background is dark and out of focus, with faint warm lights and indistinct shapes suggesting a nighttime urban or indoor setting. The lighting is soft and warm, highlighting the couple\u2019s faces and creating a romantic, nostalgic atmosphere. The composition centers on the two figures, capturing a tender, emotional interaction."
+            }
+        ]
+    },
+    {
+        "asin": "B079P9BVC4",
+        "title": "4/20 Massacre (aka 420 Massacre) [DVD]",
+        "reference_file": "B079P9BVC4/reference.jpg",
+        "categorical_name": "dvd",
+        "variation_files": [
+            {
+                "file": "B079P9BVC4/variation_1.jpg",
+                "prompt": "A wide horizontal shot of five women standing closely together in a dry, wooded outdoor environment with bare trees and golden-brown foliage in the background. The group is arranged in a slightly staggered line, facing forward with tense, concerned expressions. Each woman is dressed in casual, rugged outdoor clothing including jackets, t-shirts, jeans, and backpacks. The woman on the far right holds a crumpled, stained paper map in her hands. The lighting is natural and diffused, casting soft shadows, with a warm, earthy color tone across the scene. The overall composition conveys a sense of suspense and urgency."
+            },
+            {
+                "file": "B079P9BVC4/variation_2.jpg",
+                "prompt": "A close-up shot of two women in a tense, fearful moment in a forest setting. The woman on the left has her hand covering her mouth, eyes wide with terror, while the woman on the right clutches her from behind, her face contorted in shock and fear, looking off to the side. They are positioned in the foreground, with dry earth and blurred trees in the background, suggesting a remote, outdoor environment. The lighting is natural and muted, casting soft shadows and giving the scene a gritty, realistic tone. A small tent is partially visible in the background on the right. The overall composition focuses on their expressions and physical proximity, conveying urgency and danger."
+            }
+        ]
+    },
+    {
+        "asin": "B00DZP1C4A",
+        "title": "Eyes Without a Face (The Criterion Collection) [Blu-ray]",
+        "reference_file": "B00DZP1C4A/reference.jpg",
+        "categorical_name": "blu-ray disc",
+        "variation_files": [
+            {
+                "file": "B00DZP1C4A/variation_1.jpg",
+                "prompt": "A black-and-white film still showing a woman standing in a dimly lit, vintage interior room. She is positioned slightly left of center, facing right with a neutral expression, wearing a light-colored robe with a wide collar and tied cuffs. Behind her, a dark curtain with a scalloped valance hangs on the left. To her right, a wooden table holds a framed photograph of a smiling man, a tall crystal vase, a small figurine of a man at a workbench, and scattered papers. The wall behind the table features vertical striped wallpaper and an oval-framed portrait of two figures in period attire. A wall-mounted sconce is visible above the table. The lighting is soft and directional, casting subtle shadows, creating a"
+            },
+            {
+                "file": "B00DZP1C4A/variation_2.jpg",
+                "prompt": "A black-and-white photograph-style scene depicting a surgical operation in progress, viewed from a slightly elevated angle. A patient lies on an operating table, their head tilted back, with their face partially covered in dark, textured material resembling a mask or bandage, and metal clamps and wires attached to the face and head. Two surgeons in surgical gowns, masks, and caps are focused on the procedure \u2014 one on the left holding a tool near the patient\u2019s face, the other on the right holding surgical instruments. A large, round, reflective surgical lamp hangs above, casting strong, focused light onto the patient\u2019s face. The background is dark and indistinct, with a hint of tiled wall on the right. The overall lighting is high-"
+            },
+            {
+                "file": "B00DZP1C4A/variation_3.jpg",
+                "prompt": "A black-and-white cinematic scene featuring a figure standing in the center of a dimly lit, narrow brick corridor with arched ceilings. The figure is wearing a long, light-colored coat with a high collar, standing upright and facing forward. The lighting is dramatic and high-contrast, with a strong spotlight illuminating the figure from above, casting a deep shadow on the ground beneath. The surrounding brick walls are textured and shadowed, creating a moody, atmospheric environment. The corridor leads to a dark, closed door at the far end, framed by the arch. The overall composition is symmetrical and centered, evoking a sense of suspense and stillness."
+            }
+        ]
+    },
+    {
+        "asin": "B00DCZH4QI",
+        "title": "LITTLE THIRTEEN (BLU-RAY) - MO [2012]",
+        "reference_file": "B00DCZH4QI/reference.jpg",
+        "categorical_name": "blu-ray disc",
+        "variation_files": [
+            {
+                "file": "B00DCZH4QI/variation_1.jpg",
+                "prompt": "A close-up shot of a young man and woman standing intimately in a narrow, metallic elevator. The woman leans against the brushed metal wall, smiling softly as she looks up at the man, her hand gently touching her chest. She wears a loose white t-shirt tied at the waist, revealing her midriff, and a floral-patterned skirt. The man, facing her with a tender expression, wears a plaid shirt in shades of green, blue, and red, with a black backpack slung over one shoulder. The lighting is soft and warm, casting gentle shadows on the reflective elevator walls. The composition focuses on their proximity and emotional connection, with the confined space emphasizing intimacy. The background is a plain, textured metallic surface with no visible"
+            },
+            {
+                "file": "B00DCZH4QI/variation_2.jpg",
+                "prompt": "A nighttime outdoor scene featuring a person wrapped in a plaid blanket, standing slightly turned away from the camera while looking back over their shoulder. The background includes a wooden wall partially covered with green ivy and foliage, with warm ambient lighting from a string of glowing orange-red bulbs along the wall and a bright light source above. To the left, a red fabric curtain or tarp is partially visible. The overall lighting is dim and moody, with soft highlights on the person\u2019s hair and the blanket, creating an intimate, atmospheric setting."
+            },
+            {
+                "file": "B00DCZH4QI/variation_3.jpg",
+                "prompt": "A split-screen layout with a central photographic image of two people sitting closely together on a colorful striped cushion outdoors, surrounded by dense green foliage. The person on the left is holding a small glass and a cigarette, wearing a shiny gold jacket over a black corset-style top, with curly hair and multiple bracelets. The person on the right wears a yellow baseball cap, a black and yellow varsity jacket over a graphic t-shirt, and jeans, leaning toward the other person with a focused expression. The background is a natural, dark green evergreen wall, suggesting an outdoor or garden setting. The lighting is soft and natural, with a slightly warm, candid atmosphere. The image is framed by a solid blue border at the top and bottom, with a"
             }
         ]
     }

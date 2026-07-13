@@ -7,11 +7,11 @@
         "variation_files": [
             {
                 "file": "B085ZS2G6N/variation_1.jpg",
-                "prompt": "A close-up, angled product shot of the guitar effect pedal placed on a dark, textured fabric surface. The pedal is shown in use, with a black instrument cable plugged into the input jack on the right side and another cable connected to the output jack on the left. A 9V DC power cable is also connected to the bottom left corner. The footswitch is in the engaged position, with a small blue LED illuminated above it, indicating the pedal is active. The lighting is soft and directional, creating subtle reflections on the pedal’s metallic knobs and edges, while the background remains dark and out of focus to emphasize the pedal. The overall composition is natural and realistic, capturing the pedal in a practical, real-world setup."
+                "prompt": "A close-up, angled product shot of the guitar effect pedal placed on a dark, textured fabric surface. The pedal is shown in use, with a black instrument cable plugged into the input jack on the right side and another cable connected to the output jack on the left. A 9V DC power cable is also connected to the bottom left corner. The footswitch is in the engaged position, with a small blue LED illuminated above it, indicating the pedal is active. The lighting is soft and directional, creating subtle reflections on the pedal\u2019s metallic knobs and edges, while the background remains dark and out of focus to emphasize the pedal. The overall composition is natural and realistic, capturing the pedal in a practical, real-world setup."
             },
             {
                 "file": "B085ZS2G6N/variation_2.jpg",
-                "prompt": "A product shot of the guitar effect pedal placed on a clean, white marble surface with subtle veining. The pedal is positioned diagonally, angled slightly toward the bottom right of the frame. To the left, a portion of a silver laptop is visible, showing part of the keyboard with black keys and a trackpad, providing a sense of scale. In the upper right background, a clear glass container filled with small white decorative stones adds a minimalist, modern aesthetic. The lighting is bright, soft, and even, creating gentle reflections on the pedal’s surface and the marble. The overall composition is clean and minimalistic, with a focus on the product and its proportions, which are indicated by green measurement lines and text annotations (ignored as per rules)"
+                "prompt": "A product shot of the guitar effect pedal placed on a clean, white marble surface with subtle veining. The pedal is positioned diagonally, angled slightly toward the bottom right of the frame. To the left, a portion of a silver laptop is visible, showing part of the keyboard with black keys and a trackpad, providing a sense of scale. In the upper right background, a clear glass container filled with small white decorative stones adds a minimalist, modern aesthetic. The lighting is bright, soft, and even, creating gentle reflections on the pedal\u2019s surface and the marble. The overall composition is clean and minimalistic, with a focus on the product and its proportions, which are indicated by green measurement lines and text annotations (ignored as per rules)"
             },
             {
                 "file": "B085ZS2G6N/variation_3.jpg",
@@ -27,7 +27,7 @@
         "variation_files": [
             {
                 "file": "B00Y2ATGFY/variation_1.jpg",
-                "prompt": "A close-up shot of the guitar preamp placed diagonally on a warm-toned wooden surface with visible grain, angled slightly upward from the bottom left to the top right. The background is softly lit with a warm, ambient glow, creating a subtle gradient from darker edges to a brighter center, enhancing the product’s presence. The lighting is directional, casting a gentle highlight on the top edge of the preamp and a soft shadow beneath it, giving a sense of depth. The surface appears smooth and polished, with natural wood textures and light reflections adding realism. The overall composition is clean and focused, emphasizing the product’s form and placement within a natural, inviting environment."
+                "prompt": "A close-up shot of the guitar preamp placed diagonally on a warm-toned wooden surface with visible grain, angled slightly upward from the bottom left to the top right. The background is softly lit with a warm, ambient glow, creating a subtle gradient from darker edges to a brighter center, enhancing the product\u2019s presence. The lighting is directional, casting a gentle highlight on the top edge of the preamp and a soft shadow beneath it, giving a sense of depth. The surface appears smooth and polished, with natural wood textures and light reflections adding realism. The overall composition is clean and focused, emphasizing the product\u2019s form and placement within a natural, inviting environment."
             }
         ]
     },
@@ -40,6 +40,682 @@
             {
                 "file": "B09XMFJJ5D/variation_1.jpg",
                 "prompt": "A top-down product presentation shot featuring the turntable alignment protractor placed diagonally inside an open, rectangular black box with a matte finish. The box is positioned on a clean white background, with its lid removed and placed to the right, revealing the interior's dark, textured lining. The product rests on a soft, folded black fabric insert within the box, which cradles it securely. The lighting is bright and even, casting soft shadows that emphasize the sleek, minimalist design of the packaging and the clean lines of the product. The overall composition is simple, elegant, and focused, highlighting the product's premium presentation without any distracting elements or text."
+            }
+        ]
+    },
+    {
+        "asin": "B0B89ZSYS7",
+        "title": "Shure SM7B Vocal Dynamic Microphone for Broadcast, Podcast & Recording, XLR Studio Mic for Music & Speech, Wide-Range Frequency, Warm & Smooth Sound, Rugged Construction, Detachable Windscreen - Black",
+        "reference_file": "B0B89ZSYS7/reference.jpg",
+        "categorical_name": "microphone",
+        "variation_files": [
+            {
+                "file": "B0B89ZSYS7/variation_1.jpg",
+                "prompt": "A close-up shot of the microphone mounted on a black articulating boom arm, suspended in a dimly lit studio environment. The microphone is angled slightly downward, with soft, directional lighting highlighting its body and foam windscreen. The background is blurred and desaturated, featuring out-of-focus studio equipment including a tripod with a light source and indistinct shapes suggesting acoustic panels or furniture. The overall atmosphere is moody and professional, with a shallow depth of field that keeps the microphone in sharp focus while rendering the surroundings into smooth, dark tonal gradients."
+            },
+            {
+                "file": "B0B89ZSYS7/variation_2.jpg",
+                "prompt": "Two people sitting across from each other at a wooden table in a dimly lit studio, each with a microphone mounted on a boom arm positioned in front of them. The microphones are angled toward the speakers, who are wearing headphones and smiling while engaged in conversation. A laptop is open on the table between them, with a small audio interface placed nearby. The background features a neutral gray wall with potted green plants and a guitar leaning against the wall. The lighting is soft and focused, creating a warm, intimate atmosphere with subtle shadows. The overall composition is balanced, capturing a natural, collaborative moment."
+            },
+            {
+                "file": "B0B89ZSYS7/variation_3.jpg",
+                "prompt": "A man with a beard and glasses, wearing headphones and a denim jacket with a brown-lined collar, is seated at a wooden desk, smiling while looking toward the camera. In front of him, a laptop is open, displaying a blurred audio editing interface. Positioned above the laptop is a boom arm holding the microphone, which is angled slightly downward toward the man. The background is softly blurred, with warm, out-of-focus lights creating a bokeh effect, suggesting a cozy indoor recording or streaming setup. The lighting is natural and soft, highlighting the man\u2019s face and the microphone, with a shallow depth of field that keeps the focus on the subject and the product. The overall composition is warm and inviting, capturing a moment of engagement during a podcast or"
+            }
+        ]
+    },
+    {
+        "asin": "B0891SBM1L",
+        "title": "Fender Classic Series Case Stand, 3-Guitar, Black",
+        "reference_file": "B0891SBM1L/reference.jpg",
+        "categorical_name": "guitar case stand",
+        "variation_files": [
+            {
+                "file": "B0891SBM1L/variation_1.jpg",
+                "prompt": "A black hard-shell guitar case stand is shown open, angled slightly to the right, with its lid propped up to reveal the interior. The inside is lined with thick, plush black fabric. Three guitars are vertically stored inside, standing upright and secured by a horizontal black bar across the top opening. The guitars are positioned side by side, their necks extending upward and heads visible above the case. The case features silver metal latches and corner reinforcements, with a black handle centered on the front edge. The entire setup is presented against a plain white background, with even, bright studio lighting highlighting the contours and textures of the case and its contents."
+            }
+        ]
+    },
+    {
+        "asin": "B06W2NS817",
+        "title": "On-Stage MY570 Clamp-On Universal Accessory Holder",
+        "reference_file": "B06W2NS817/reference.jpg",
+        "categorical_name": "clamp-on holder",
+        "variation_files": [
+            {
+                "file": "B06W2NS817/variation_1.jpg",
+                "prompt": "Three vertical black poles stand side by side against a plain white background. Each pole features a clamp-on holder attached near the top, securing a different item: on the left, a wooden tambourine with metal jingles; in the center, a pair of black over-ear headphones; on the right, a coiled black audio cable with a plug at the end. The clamp-on holders are positioned to grip the items firmly, with their adjustment knobs visible and oriented to the side. The overall composition is clean and evenly spaced, emphasizing the functionality of the holders in organizing and displaying various accessories."
+            }
+        ]
+    },
+    {
+        "asin": "B07TMM1GBN",
+        "title": "BONAOK Wireless Bluetooth Karaoke Microphone with Dynamic LED Light, Portable Handheld Karaoke Mic with Magic Voice Home Party Birthday Boys Girls Adults All Ages (Gray)",
+        "reference_file": "B07TMM1GBN/reference.jpg",
+        "categorical_name": "karaoke microphone",
+        "variation_files": [
+            {
+                "file": "B07TMM1GBN/variation_1.jpg",
+                "prompt": "A child with curly hair stands joyfully in a bed, holding the karaoke microphone up to their mouth as if singing, with arms outstretched in motion. The scene is set in a bright, cozy bedroom with soft white and beige bedding, patterned pillows, and sheer curtains in the background. To the left, a hand holds a smartphone displaying a music app interface, with a blue Bluetooth symbol floating between the phone and the microphone. A large, colorful graphic panel with a pink border and blue interior floats near the phone, showing four cartoon avatars representing voice-changing modes \u2014 labeled as \"Little boy,\" \"Cute girl,\" \"Gentleman,\" and \"Beautiful lady\" \u2014 along with a crown and clapping hands icon above"
+            },
+            {
+                "file": "B07TMM1GBN/variation_2.jpg",
+                "prompt": "A split composition featuring a person on the right wearing over-ear headphones and smiling, with a hand on the left holding a white smartphone displaying a colorful app interface. The phone is connected via a white cable to the karaoke microphone, which is positioned centrally between them. The microphone has a glowing circular panel on its front with multicolored lights. A black audio cable with a gold-tipped connector extends from the bottom of the microphone. The background is a plain light beige. All text and app content on the phone screen are ignored."
+            }
+        ]
+    },
+    {
+        "asin": "B0BG3QZCJN",
+        "title": "ARENA Traditional Tambourine, Handheld Half-Moon Shape with Synthetic Frame \u2014 NOT Made in China \u2014 Double Row Dual Alloy Jingles, 2-Year Warranty (TMT1M-WH)",
+        "reference_file": "B0BG3QZCJN/reference.jpg",
+        "categorical_name": "tambourine",
+        "variation_files": [
+            {
+                "file": "B0BG3QZCJN/variation_1.jpg",
+                "prompt": "A top-down view of the tambourine resting on a warm-toned wooden surface with visible horizontal grain patterns and natural wood texture. The tambourine is positioned slightly off-center to the right, with its white circular frame and black foam grip clearly visible. The lighting is soft and diffused, casting subtle shadows beneath the instrument, enhancing the depth and realism of the scene. The wooden background fills the entire frame, creating a rustic and organic atmosphere."
+            },
+            {
+                "file": "B0BG3QZCJN/variation_2.jpg",
+                "prompt": "Close-up shot of a pair of hands holding the tambourine, gripping it firmly with the thumb and fingers wrapped around the white frame and black padded grip. The tambourine is angled slightly, showing its circular structure with metallic jingles along the rim. The background is a warm, softly blurred wooden surface, creating a natural and intimate setting. The lighting is soft and directional, highlighting the contours of the hands and the reflective surfaces of the jingles, while casting gentle shadows that add depth. The focus is sharp on the hands and the tambourine, with the background out of focus to emphasize the subject."
+            },
+            {
+                "file": "B0BG3QZCJN/variation_3.jpg",
+                "prompt": "A close-up shot of two hands holding the tambourine, with one hand gripping the black foam handle and the other supporting the white circular frame from below. The tambourine is angled slightly, showing its side profile with the metallic jingles visible along the rim. The background is a warm-toned wooden surface with visible grain and planks, softly blurred to emphasize the subject. The lighting is natural and directional, casting subtle shadows and highlighting the texture of the hands and the smooth surface of the tambourine. The composition focuses on the interaction between the hands and the instrument, conveying a sense of use and motion."
+            }
+        ]
+    },
+    {
+        "asin": "B08GQ6ZL78",
+        "title": "KIMI 17-Key Rainbow cat paw Kalimba 17-Key Thumb Piano Transparent Acrylic Material with Carry Bag",
+        "reference_file": "B08GQ6ZL78/reference.jpg",
+        "categorical_name": "thumb piano",
+        "variation_files": [
+            {
+                "file": "B08GQ6ZL78/variation_1.jpg",
+                "prompt": "A close-up shot of the thumb piano held in a person\u2019s hand, positioned against a vibrant green grass background. The instrument is centered in the frame, viewed from a slightly elevated angle, with natural daylight illuminating it evenly. The background is softly blurred, emphasizing the thumb piano as the focal point. The hand grips the upper left side of the instrument gently, with fingers visible along the left edge. The lighting creates subtle reflections and highlights on the surface of the thumb piano, enhancing its glossy, iridescent appearance. The overall composition is natural and outdoor, with a shallow depth of field that keeps the thumb piano sharp while the grassy surroundings remain out of focus."
+            },
+            {
+                "file": "B08GQ6ZL78/variation_2.jpg",
+                "prompt": "A close-up, slightly angled overhead shot of the thumb piano resting on a black, rounded, zippered carrying case, which is placed on a vibrant green grassy lawn. The thumb piano is positioned diagonally, with its keys extending from the bottom left toward the top right of the frame. The background consists of natural, sunlit grass with soft focus, creating a shallow depth of field that highlights the product. Bright, natural daylight illuminates the scene, casting subtle reflections on the transparent, iridescent body of the thumb piano and the metallic keys. The overall composition is clean and natural, with no text, logos, or graphic overlays visible."
+            }
+        ]
+    },
+    {
+        "asin": "B09GV54GQB",
+        "title": "Meideal Guitar Fret Leveling Beam, 8 Inch Length Fret Leveler Leveling Sanding File Pro Luthier Tool with 400 600 1000 1200 Grit Sandpaper for Guitar Bass",
+        "reference_file": "B09GV54GQB/reference.jpg",
+        "categorical_name": "guitar fret leveling beam",
+        "variation_files": [
+            {
+                "file": "B09GV54GQB/variation_1.jpg",
+                "prompt": "A close-up product shot of the guitar fret leveling beam resting diagonally across the fretboard of an acoustic guitar, positioned near the body. The guitar features a dark fretboard with visible frets and a sunburst wood finish on the body, with a black pickguard. The background is plain white, creating a clean, studio-style presentation. The lighting is bright and even, highlighting the edges and surface of the beam and the guitar\u2019s wood grain. The composition is angled, showing the beam in perspective with the guitar neck extending toward the upper right corner of the frame."
+            },
+            {
+                "file": "B09GV54GQB/variation_2.jpg",
+                "prompt": "A close-up shot of a hand holding the guitar fret leveling beam horizontally across the fretboard of an acoustic guitar. The beam is positioned diagonally, resting on the dark fretboard with visible metal frets and white dot inlays. The guitar has a light wood top with a natural grain pattern and a dark brown body with a cream binding. The hand is gently pressing down on the beam, with fingers extended along its top surface. The background is a solid black, creating a high-contrast, focused view on the product in use. The lighting is soft and directional, highlighting the texture of the guitar's wood and the smooth surface of the beam. The composition emphasizes the interaction between the hand, the beam, and the guitar, showcasing the product"
+            }
+        ]
+    },
+    {
+        "asin": "B07HJX9TXY",
+        "title": "AUFGELD Dual Mic Adapter 3.5mm Jack Headset Splitter 4 Pole Male to 2 Dual Female Lavalier Lapel Microphone Compatible with iPhone iPod Android Windows Smartphones Headphones (Mic + Audio)",
+        "reference_file": "B07HJX9TXY/reference.jpg",
+        "categorical_name": "audio splitter",
+        "variation_files": [
+            {
+                "file": "B07HJX9TXY/variation_1.jpg",
+                "prompt": "A split-screen style product demonstration layout on a plain white background. On the left, a smartphone is shown vertically with its screen displaying a voice recording interface, connected via a white cable to the audio splitter. The audio splitter\u2019s main cable extends from the phone, branching into two separate black cables that run vertically upward. Each branch ends in a small black lapel microphone with a foam windscreen and a clip, arranged symmetrically on the right side. Between the two microphones, a simple black speaker icon with sound waves and a waveform graphic is displayed. The entire composition is clean and minimal, with no text, labels, or branding visible on the product or background."
+            }
+        ]
+    },
+    {
+        "asin": "B08XY9R64S",
+        "title": "Mobile Creator Stand",
+        "reference_file": "B08XY9R64S/reference.jpg",
+        "categorical_name": "tripod phone stand",
+        "variation_files": [
+            {
+                "file": "B08XY9R64S/variation_1.jpg",
+                "prompt": "A person is holding the tripod phone stand in an extended, handheld position, using it for vlogging. The stand is positioned diagonally across the frame, with the phone mounted at the top, displaying a live recording interface. A furry microphone windscreen is attached to the side of the phone, and a small rectangular LED light is mounted on the opposite side, illuminating the scene. The person\u2019s hand grips the central handle of the stand, which features a textured, carbon-fiber-like pattern. The background is softly blurred, showing a bright, naturally lit indoor space with hints of greenery and neutral-toned walls. The overall lighting is warm and diffused, creating a clean, professional vlogging atmosphere. The phone screen shows a live preview"
+            }
+        ]
+    },
+    {
+        "asin": "B01ARSSWR2",
+        "title": "Ortega Guitars OGFT Ortega Guitars OGFT Guitarist Foot Tambourine",
+        "reference_file": "B01ARSSWR2/reference.jpg",
+        "categorical_name": "foot tambourine",
+        "variation_files": [
+            {
+                "file": "B01ARSSWR2/variation_1.jpg",
+                "prompt": "A close-up product shot of the foot tambourine securely attached to the side of a white leather sneaker, with the black strap fastened around the shoe. The sneaker features visible stitching, a textured toe cap, and white laces, with a glimpse of blue denim fabric at the top edge. The background is plain white, emphasizing the product and shoe in sharp focus with bright, even lighting. The foot tambourine is positioned diagonally across the shoe\u2019s upper, showcasing its curved, layered structure and how it integrates with footwear."
+            }
+        ]
+    },
+    {
+        "asin": "B09JP5WTWP",
+        "title": "NUOSIYA XLR Female to 1/4 (6.35mm) TRS Cables 3ft, TRS to XLR Female Gold Plated Balanced Speaker Cord Quarter Inch Jack Lead Stereo Signal Interconnect Wire for Microphone, Mixer, Amplifier",
+        "reference_file": "B09JP5WTWP/reference.jpg",
+        "categorical_name": "audio cable",
+        "variation_files": [
+            {
+                "file": "B09JP5WTWP/variation_1.jpg",
+                "prompt": "A lively indoor celebration scene with a group of people gathered closely together, smiling and enjoying music. In the foreground, a woman with blonde hair is singing enthusiastically into a handheld microphone, her mouth open wide and eyes bright with joy. The microphone is connected to a blue audio cable that extends downward, partially visible in the frame. To her left, a man with a beard is playing a violin, his focus on the instrument. Behind them, a bride in a white dress with a floral crown smiles warmly, while other guests, including a woman in a pink dress and a man with gray hair holding a sparkler, surround them with expressions of happiness. The background is softly lit with warm, ambient lighting and features blurred architectural details like windows and hanging lights"
+            }
+        ]
+    },
+    {
+        "asin": "B07JNNN8FM",
+        "title": "Baosity Acoustic Classical Guitar Rosette Soundhole Wood Inlay",
+        "reference_file": "B07JNNN8FM/reference.jpg",
+        "categorical_name": "guitar rosette",
+        "variation_files": [
+            {
+                "file": "B07JNNN8FM/variation_1.jpg",
+                "prompt": "A close-up view of an acoustic guitar's soundhole, featuring the guitar rosette centered within the circular opening. The rosette is surrounded by the guitar\u2019s wooden top, which has a warm sunburst finish transitioning from golden amber to deep brown. The guitar\u2019s dark fretboard extends diagonally from the upper right, with visible frets and strings crossing over the soundhole. The strings are taut and reflective, stretching from the bridge area (partially visible) toward the headstock (out of frame). The guitar\u2019s body has a smooth, glossy finish with subtle wood grain texture, and the edges are defined by a thin white binding. The background is a plain, neutral white, providing clean contrast to the guitar\u2019s rich tones"
+            }
+        ]
+    },
+    {
+        "asin": "B09HTV1RV3",
+        "title": "SAPHUE Crunch Distortion Guitar Effects Pedal Gain/Volume/Tone Knob High Low Frequency Effect Pedals with Steel Metal Shell Mini Single Type Dc 9V with True Bypass Switch for Multi Electric Guitar Kit",
+        "reference_file": "B09HTV1RV3/reference.jpg",
+        "categorical_name": "guitar effects pedal",
+        "variation_files": [
+            {
+                "file": "B09HTV1RV3/variation_1.jpg",
+                "prompt": "A black fabric bag with a white zipper is partially unzipped, revealing its contents. Inside, the guitar effects pedal rests on a folded yellow microfiber cloth, placed atop a white surface with printed patterns. The bag\u2019s interior is dark, and other small items like a metal tool and a blue denim-like fabric with a metal buckle are visible nearby. The scene is shot from a high angle, with soft, even lighting highlighting the textures of the fabric and the metallic components. The background is plain white, and the overall composition emphasizes portability and compact storage."
+            }
+        ]
+    },
+    {
+        "asin": "B0C4KZHK14",
+        "title": "HOSONGIN XLR Female to 1/4 TS Unbalanced Microphone Cable, Quarter inch (6.35mm) TS Mono Jack Unbalanced Interconnect Mic Cord - 10 Feet",
+        "reference_file": "B0C4KZHK14/reference.jpg",
+        "categorical_name": "microphone cable",
+        "variation_files": [
+            {
+                "file": "B0C4KZHK14/variation_1.jpg",
+                "prompt": "A studio-style scene featuring the microphone cable positioned diagonally across the frame, with one connector resting on a dark audio mixing console and the other floating slightly above it. The background is a dimly lit music production environment with soft, atmospheric blue and purple lighting, showing blurred audio equipment including a mixing board, headphones, and a computer monitor. A glowing, colorful soundwave graphic stretches horizontally across the center of the image, rendered in shades of blue, pink, and white, appearing to emanate from the cable. The overall lighting is dramatic and moody, with subtle highlights on the cable\u2019s connectors and a shallow depth of field that keeps the cable in sharp focus while softly blurring the background elements. The composition emphasizes the cable as the central subject"
+            }
+        ]
+    },
+    {
+        "asin": "B0B8NJBS3V",
+        "title": "Donner Folding Keyboard Stand, Z-style Heavy-Duty Portable Piano Stand, Adjustable and Collapsible, Suitable for 37 54 61 88 Key MIDI Keyboard Electronic Keyboards Digital Pianos, DKS-100",
+        "reference_file": "B0B8NJBS3V/reference.jpg",
+        "categorical_name": "keyboard stand",
+        "variation_files": [
+            {
+                "file": "B0B8NJBS3V/variation_1.jpg",
+                "prompt": "A keyboard stand is shown in a folded position, standing upright against a light gray wall with decorative paneling and a wooden baseboard. The stand is positioned on a light brown wooden floor, with a black-and-white striped rug visible in the foreground on the left. To the left of the stand, there is a wooden side table or cabinet with a glass vase on top. The background includes a dark, softly blurred interior space suggesting a living or home office environment. The lighting is soft and natural, coming from the left, casting subtle shadows. The overall composition is a low-angle, slightly angled shot that emphasizes the slim profile of the folded stand. The image has a dark, semi-transparent overlay at the top, and the background behind the stand is"
+            },
+            {
+                "file": "B0B8NJBS3V/variation_2.jpg",
+                "prompt": "A street-side performance scene featuring the keyboard stand supporting a digital piano, positioned on a concrete sidewalk next to a road with white road markings. A woman stands behind the keyboard, smiling upward, wearing a denim vest and plaid skirt, with black boots. In the background, a man sits on a stool playing an acoustic guitar, dressed in a colorful patterned shirt and black pants. The setting includes a brick wall with a wooden storefront sign, green metal chairs, and a red car partially visible. The lighting is natural daylight with soft shadows, suggesting an outdoor urban environment. The keyboard stand is shown in full view, with its legs spread wide for stability, and cables running from the keyboard to a pedal on the ground. The background features a mix"
+            }
+        ]
+    },
+    {
+        "asin": "B002WZ6DUC",
+        "title": "M-Audio SBX10 240-Watt Professional Active Subwoofer",
+        "reference_file": "B002WZ6DUC/reference.jpg",
+        "categorical_name": "subwoofer",
+        "variation_files": [
+            {
+                "file": "B002WZ6DUC/variation_1.jpg",
+                "prompt": "A front-facing product shot of the subwoofer positioned slightly angled to the left, standing on four pointed feet against a clean, reflective white surface. The subwoofer is shown with a black footswitch connected by a thin cable extending from its lower left side, resting on the same reflective surface. The background is plain white, with soft, even studio lighting creating subtle highlights on the edges and a gentle reflection beneath the unit and footswitch. The overall composition is minimal and professional, emphasizing the product and its accessory in a clean, isolated environment."
+            }
+        ]
+    },
+    {
+        "asin": "B07Y6V2WKV",
+        "title": "Boss GT-100 Guitar Multi-Effects Pedal",
+        "reference_file": "B07Y6V2WKV/reference.jpg",
+        "categorical_name": "guitar effects pedal",
+        "variation_files": [
+            {
+                "file": "B07Y6V2WKV/variation_1.jpg",
+                "prompt": "A low-angle, close-up shot of the guitar effects pedal on a dark, reflective stage floor, illuminated by warm, dramatic stage lighting with soft circular highlights in the background. A person\u2019s legs and brown leather boots are visible above the pedal, with one foot pressing down on one of the footswitches. The pedal is positioned diagonally, showing its front and top surfaces, with cables connected to its rear input/output jacks. The scene has a moody, atmospheric lighting style with deep shadows and a focus on the pedal as the central subject. The background is dark and slightly out of focus, emphasizing the pedal and the performer\u2019s foot interaction."
+            }
+        ]
+    },
+    {
+        "asin": "B09H5QMCCC",
+        "title": "MOOER Pitch Box Guitar Harmonizer Pedal Harmony Pitch Shifter Detune For Electric Guitar Bass True Bypass",
+        "reference_file": "B09H5QMCCC/reference.jpg",
+        "categorical_name": "guitar pedal",
+        "variation_files": [
+            {
+                "file": "B09H5QMCCC/variation_1.jpg",
+                "prompt": "A close-up product shot of the guitar pedal placed diagonally on a dark blue digital background with glowing circuit patterns and floating translucent blue circuit boards emitting soft light. The background features subtle binary code textures and bright white light streaks running horizontally. The lighting is dramatic with a strong blue glow highlighting the edges and surface of the pedal, creating a high-tech, futuristic ambiance. The pedal is centered and slightly elevated, with a shallow depth of field that keeps the focus sharp on the pedal while the background elements are softly blurred. The overall composition emphasizes a clean, modern, and advanced electronic aesthetic."
+            }
+        ]
+    },
+    {
+        "asin": "B09R3N19F7",
+        "title": "Antelope Audio Zen Q Synergy Core 14x10 Bus-Powered Thunderbolt 3 Audio Interface with Onboard Real-Time Effects and Expandable I/O",
+        "reference_file": "B09R3N19F7/reference.jpg",
+        "categorical_name": "audio interface",
+        "variation_files": [
+            {
+                "file": "B09R3N19F7/variation_1.jpg",
+                "prompt": "A front-facing, angled view of the audio interface placed on a plain white background. The top panel features a dark brushed metal finish with a rectangular digital display on the left, showing illuminated audio level meters. To the right of the display are three small circular buttons labeled GAIN, HP/MON, and a small icon, with a large circular knob positioned further right. The top-right corner has a small red square logo. The bottom front panel is a solid black surface with four circular output jacks aligned horizontally, each with a metallic ring and labeled G1, G2, HP1, HP2, accompanied by small icons. The brand name is printed in white text on the lower front panel. The overall lighting is even and studio-like,"
+            },
+            {
+                "file": "B09R3N19F7/variation_2.jpg",
+                "prompt": "A close-up shot of the audio interface placed on a light wooden table, viewed from a slightly elevated angle. The device is positioned in the foreground with its rear panel facing the viewer, showing multiple connected cables including XLR, 1/4\" jacks, and a white USB cable plugged into the side. The background is softly blurred, featuring a person sitting and playing an electric guitar, with their hands and the guitar neck in focus. The setting suggests a casual home studio environment with natural, warm lighting. The surface of the table has a smooth, natural wood grain texture. The overall composition emphasizes the product in use, with the musician in the background creating a sense of context and activity."
+            },
+            {
+                "file": "B09R3N19F7/variation_3.jpg",
+                "prompt": "A top-down overhead view of the audio interface placed diagonally on a light wooden surface, surrounded by music production equipment. The device is connected with multiple black cables, including XLR and TRS connectors, and a white USB cable plugged into the top rear. To the left, part of a black electric guitar with a silver pickguard and control knobs is visible. To the right, the corner of a silver laptop with a black keyboard is shown. The lighting is warm and natural, casting soft shadows, emphasizing the metallic texture of the device and the organic grain of the wood. The overall composition suggests a creative, hands-on music production setup."
+            }
+        ]
+    },
+    {
+        "asin": "B01DA4I8TW",
+        "title": "Tripod Microphone Stand, eBerry Foldable Desktop Microphone Tripod Stand Holder Bracket with Mic Clip for Podcasts, Online Chat, Conferences, Lectures, and More",
+        "reference_file": "B01DA4I8TW/reference.jpg",
+        "categorical_name": "microphone stand",
+        "variation_files": [
+            {
+                "file": "B01DA4I8TW/variation_1.jpg",
+                "prompt": "A small tripod-style microphone stand with three silver legs and black rubber tips is positioned on a light-colored wooden desk surface. The stand holds a microphone, angled slightly upward, with its head pointing toward the upper right. In the background, to the left, a wooden desk calendar with a white page and spiral binding is visible, standing upright. Partially visible in the bottom left corner is a black laptop keyboard with stickers on the palm rest. The scene is lit with soft, even lighting, creating subtle shadows beneath the stand and calendar. The background includes a light gray wall and a dark horizontal surface at the top edge, possibly a monitor or shelf. The overall composition is a close-up, slightly angled shot focusing on the stand and its immediate surroundings."
+            }
+        ]
+    },
+    {
+        "asin": "B01MG3SAJ1",
+        "title": "Headphones with Volume Control and Long Cord,AUKAY Foldable Headphone Compatible with Amazing Sound plus Powerful Bass, Soft Sweat Proof Earpads for iPhone iPad Android Tablets Compute-Black",
+        "reference_file": "B01MG3SAJ1/reference.jpg",
+        "categorical_name": "headphones",
+        "variation_files": [
+            {
+                "file": "B01MG3SAJ1/variation_1.jpg",
+                "prompt": "Two hands are holding the headphones, one hand gripping each earcup, showcasing the product from a slightly angled front perspective. The headphones are positioned with the headband arched upward and the earcups slightly separated, emphasizing their foldable or adjustable design. The background is plain white, providing a clean and minimal setting that highlights the product. The lighting is bright and even, with soft shadows under the hands and earcups, creating a clear, studio-style presentation. The hands appear natural and are positioned to suggest interaction or demonstration of the headphones\u2019 portability or flexibility."
+            }
+        ]
+    },
+    {
+        "asin": "B0BKZ6YP43",
+        "title": "Evans Tri-Center Conga, 11.75 inch",
+        "reference_file": "B0BKZ6YP43/reference.jpg",
+        "categorical_name": "conga drum head",
+        "variation_files": [
+            {
+                "file": "B0BKZ6YP43/variation_1.jpg",
+                "prompt": "A conga drum with a polished wooden body featuring natural wood grain patterns, mounted with shiny gold-colored hardware including tuning lugs and a rim. The top surface features the conga drum head centered on the drum, viewed from a slightly elevated angle. The drum is positioned upright on a plain white background with soft shadowing beneath, creating a clean, studio-style product shot."
+            }
+        ]
+    },
+    {
+        "asin": "B0C57LCM69",
+        "title": "Pro Riq Tambourine Mosaic \"Blue Ocean\" GAWHARET EL FAN Drum #RE-700 (White Head)",
+        "reference_file": "B0C57LCM69/reference.jpg",
+        "categorical_name": "tambourine",
+        "variation_files": [
+            {
+                "file": "B0C57LCM69/variation_1.jpg",
+                "prompt": "A close-up, angled view of the tambourine resting on a dark, scratched metal surface, partially wrapped in clear plastic packaging. The tambourine is positioned diagonally, with its top head facing slightly upward and to the left. A black fabric carrying case with a visible zipper lies partially beneath and overlapping the tambourine, also partially covered by the plastic wrap. The lighting is dim and directional, casting soft shadows and highlighting the metallic sheen of the jingles and hardware. The background is a plain, dark gray industrial surface with minor scuffs and reflections. The overall composition suggests a product freshly unpacked or in transit, with a focus on the physical form and texture of the tambourine and its accessories."
+            },
+            {
+                "file": "B0C57LCM69/variation_2.jpg",
+                "prompt": "A close-up, slightly angled top-down view of the tambourine resting on a black fabric case, which is placed on a textured gray metallic surface. The tambourine is positioned diagonally, with its white drumhead facing upward and slightly tilted to the left. The metallic rim and tuning lugs are visible, along with the golden, textured jingles arranged around the sides. The body of the tambourine features a geometric pattern with a central star-like design, bordered by a black and white lattice. The lighting is soft and diffused, casting subtle shadows beneath the instrument and the case, giving a natural, slightly industrial feel to the scene. The background is a plain, scratched gray metal surface with no text or graphics."
+            }
+        ]
+    },
+    {
+        "asin": "B09Y5L9RK5",
+        "title": "BETOPPER Stage Lights 200W COB LED Stage Spotlights w/Barndoor Warm & Cold White LED Par Lights DMX/Master-Slave DJ Lights Spotlight/Fresnel Lights for Church Wedding Theater Photo Studio (1)",
+        "reference_file": "B09Y5L9RK5/reference.jpg",
+        "categorical_name": "led spotlight",
+        "variation_files": [
+            {
+                "file": "B09Y5L9RK5/variation_1.jpg",
+                "prompt": "A studio-style LED spotlight is positioned centrally in a dimly lit industrial space with exposed wooden ceiling beams and grid-patterned walls. The spotlight is shown from a front-facing angle, with its four black barn doors open, casting a focused beam of warm light downward onto the floor, which reflects soft circular highlights. The background features multiple similar lights mounted on the ceiling, illuminating the space with a warm, ambient glow. The overall lighting is dramatic and directional, emphasizing the spotlight\u2019s brightness and beam control. The environment has a rustic, professional studio or warehouse aesthetic with a dark, moody atmosphere. The spotlight is the primary subject, sharply in focus, while the background is slightly blurred to draw attention to the product. The top of the image contains"
+            }
+        ]
+    },
+    {
+        "asin": "B081TP8J67",
+        "title": "Isolate IT Lavalier Microphone Isolation Shield System with Sorbothane (Compatible with Rode SmartLav+, Black/Black)",
+        "reference_file": "B081TP8J67/reference.jpg",
+        "categorical_name": "microphone isolation shield",
+        "variation_files": [
+            {
+                "file": "B081TP8J67/variation_1.jpg",
+                "prompt": "A side-view product shot of the microphone isolation shield positioned diagonally on a plain white background, with a long, curved black cable extending from its cylindrical core toward the top left corner of the frame. The product is shown in a slightly angled perspective, highlighting its flat mounting plates with circular holes and ribbed texture, and the central cylindrical section with a visible orange ring near the end. Soft, even studio lighting creates subtle shadows beneath the object and along the cable, emphasizing its three-dimensional form. The composition is clean and minimal, focusing solely on the product and cable without any text, logos, or additional graphical elements."
+            }
+        ]
+    },
+    {
+        "asin": "B0B6NG9S4C",
+        "title": "Rodyweil Mic Preamp Microphone Gain Booster for Dynamic & Condenser Mic Max 75db Gain for Vocal Podcast Home Studio Recording",
+        "reference_file": "B0B6NG9S4C/reference.jpg",
+        "categorical_name": "microphone preamp",
+        "variation_files": [
+            {
+                "file": "B0B6NG9S4C/variation_1.jpg",
+                "prompt": "A split-screen composition showing a digital audio workstation interface on the top half and a close-up of audio equipment on the bottom half. The top half features a dark gray software interface with two vertical audio track panels, each containing a blue waveform icon, and a larger central waveform display area with a red waveform. To the right of the waveform area is a small inset video feed showing a person in a recording setup with a microphone and audio gear. The bottom half displays a close-up of audio hardware: the microphone preamp is positioned on top of a red audio interface, with a black XLR cable plugged into its input. The preamp\u2019s gain knob is illuminated with a blue ring, and its power and +48V buttons are lit with red"
+            }
+        ]
+    },
+    {
+        "asin": "B00275G7MG",
+        "title": "Meinl Half Finger Drummer Gloves - Medium",
+        "reference_file": "B00275G7MG/reference.jpg",
+        "categorical_name": "drummer gloves",
+        "variation_files": [
+            {
+                "file": "B00275G7MG/variation_1.jpg",
+                "prompt": "A pair of the drummer gloves is placed on top of a drum head, viewed from a high-angle overhead perspective. The drum has a light-colored, slightly reflective surface with a black rim, and the gloves are positioned slightly overlapping, with one glove lying flat and the other partially folded. The surrounding environment is dimly lit, with soft, warm light casting gentle highlights on the drum and gloves, creating a moody, atmospheric ambiance. The background is dark and out of focus, suggesting a drum kit setup with blurred elements of other drums or cymbals visible at the edges. The overall composition emphasizes the product within a natural musical context, with a shallow depth of field that draws attention to the gloves on the drum."
+            },
+            {
+                "file": "B00275G7MG/variation_2.jpg",
+                "prompt": "A pair of the drummer gloves is casually placed on top of a light-colored drum head, slightly crumpled and overlapping, with the wrist strap and logo patch visible. The background features a softly blurred drum set with out-of-focus cymbals and reflective surfaces, creating a shallow depth of field with warm, moody lighting. The scene is shot from a low angle, emphasizing the texture of the drum head and the gloves, with natural shadows and highlights suggesting a dimly lit performance or rehearsal space. The overall atmosphere is intimate and atmospheric, with a cinematic quality and subtle bokeh effects from the background lights."
+            },
+            {
+                "file": "B00275G7MG/variation_3.jpg",
+                "prompt": "A close-up shot of a person\u2019s hands wearing the drummer gloves, with one hand adjusting the wrist strap of the other glove. The hands are positioned over a drum kit, with a snare drum visible in the foreground and other drums softly blurred in the background. The lighting is warm and focused, creating a shallow depth of field that highlights the gloves and hands while keeping the background dim and atmospheric. The scene conveys a live or rehearsal setting, with natural skin tones and realistic textures on the arms and gloves. The background is dark and out of focus, emphasizing the subject\u2019s hands and the product in use."
+            }
+        ]
+    },
+    {
+        "asin": "B09FZ281F6",
+        "title": "XGWTH Headset Microphone Single Ear Earset Headworn Over Ear Hanging Condenser Omnidirectional Mic Compatible with AKG Wireless System Bodypack Transmitter with 1.2m Cable Mini XLR 3 Pin TA3F Plug",
+        "reference_file": "B09FZ281F6/reference.jpg",
+        "categorical_name": "headset microphone",
+        "variation_files": [
+            {
+                "file": "B09FZ281F6/variation_1.jpg",
+                "prompt": "A warm, intimate indoor scene featuring a man and a woman sitting closely together on a soft, textured rug in a cozy living space. The man, wearing a blue plaid shirt over a white t-shirt, is playing an acoustic guitar and has the headset microphone clipped near his mouth, with the thin wire running along his jawline and over his ear. The woman, with blonde hair and wearing a gray cardigan, leans affectionately against him, smiling warmly. The background shows a bright, airy room with a slanted ceiling, wooden shelves, and soft natural lighting. A glass of white wine rests on the rug beside them. The overall mood is joyful and relaxed, with soft, natural lighting enhancing the intimate atmosphere."
+            },
+            {
+                "file": "B09FZ281F6/variation_2.jpg",
+                "prompt": "A woman and a young girl are performing a seated yoga stretch on a purple exercise mat in a bright, modern studio. The woman, wearing a yellow tank top and black leggings, is seated with her legs extended forward and arms reaching toward her toes, while the girl, also in a yellow tank top and black leggings, sits behind her with arms raised overhead, smiling. The woman is wearing the headset microphone, with the thin wire looping over her ear and the small microphone positioned near her mouth. The background features exposed brick walls, a large window with natural light, and a dark curtain to the side. The scene is well-lit with soft, natural lighting, creating a warm and inviting atmosphere. The floor is dark, and a pink mat is"
+            }
+        ]
+    },
+    {
+        "asin": "B06XKX63GC",
+        "title": "Gator Cases Lightweight Molded Shock Rack Case with 16.5\" depth; 12U Size (G-SHOCK-12L)",
+        "reference_file": "B06XKX63GC/reference.jpg",
+        "categorical_name": "rack case",
+        "variation_files": [
+            {
+                "file": "B06XKX63GC/variation_1.jpg",
+                "prompt": "A three-quarter view of the rack case shown open, revealing its internal structure with metal rack rails and mounting hardware. The front door is hinged and swung open to the left, exposing the black interior lining and vertical rack space. The case features a sturdy aluminum extrusion frame with visible rivets along the edges. On the right side, the exterior shows multiple latches, reinforced corners, and black rubberized handles. The bottom of the case is equipped with four caster wheels, each with a blue rubber tire and a metallic swivel base. The entire product is presented against a plain white background, with even studio lighting highlighting the texture and metallic details of the case."
+            }
+        ]
+    },
+    {
+        "asin": "B00LOAAVD6",
+        "title": "On-Stage GCE6000S Electric Guitar Hard Case, Snakeskin",
+        "reference_file": "B00LOAAVD6/reference.jpg",
+        "categorical_name": "guitar case",
+        "variation_files": [
+            {
+                "file": "B00LOAAVD6/variation_1.jpg",
+                "prompt": "A long, rectangular guitar case is shown open at an angle, revealing its interior. The case is positioned diagonally across the frame, with the lid tilted upward and supported by a black strap attached to the side. The exterior of the case features a textured brown surface with dark brown trim along the edges and gold-colored metal latches and corners. Inside, the case is lined with black plush material, and a guitar is placed within the lower compartment, resting securely in a custom-fit cavity. The guitar's body is partially visible, with its neck extending toward the front of the case and its headstock resting on a padded support. The background is plain white, and the lighting is even and bright, highlighting the case\u2019s structure and the interior details without"
+            }
+        ]
+    },
+    {
+        "asin": "B07HFKXCH2",
+        "title": "On-Stage KS7292 Double-X Ergo Lok Keyboard Stand with 2nd Tier",
+        "reference_file": "B07HFKXCH2/reference.jpg",
+        "categorical_name": "keyboard stand",
+        "variation_files": [
+            {
+                "file": "B07HFKXCH2/variation_1.jpg",
+                "prompt": "A black X-shaped keyboard stand with two tiers, each supporting a keyboard. The stand is positioned at a slight angle, viewed from the front-left perspective, with the top tier holding a smaller keyboard and the bottom tier holding a larger keyboard. The background is plain white. The stand\u2019s structure features intersecting metal bars forming an X-shape, with adjustable height knobs and rubber-tipped feet. The keyboards are placed horizontally on the stand\u2019s support arms, which are secured with clamps. The overall lighting is even and studio-like, highlighting the stand\u2019s form and functionality without shadows or distractions."
+            }
+        ]
+    },
+    {
+        "asin": "B089QTBTMH",
+        "title": "Turntable Phonograph LP Phono Cartridge Stylus Alignment Protractor Tool\u2013High Contrast (VTA Sold Separately)",
+        "reference_file": "B089QTBTMH/reference.jpg",
+        "categorical_name": "stylus alignment protractor",
+        "variation_files": [
+            {
+                "file": "B089QTBTMH/variation_1.jpg",
+                "prompt": "A hand is placing the stylus alignment protractor onto the platter of a turntable, which has a textured brown surface and is mounted on a black base with a wooden side panel. The turntable is positioned on a light wooden surface, with green foliage visible in the background. The protractor is held at an angle, aligned with the spindle, and partially overlaps the platter. A black circular graphic element with concentric rings is overlaid on the left side of the image, covering part of the turntable. The lighting is soft and natural, highlighting the textures of the wood, the platter, and the hand. The overall composition is a close-up, angled shot that emphasizes the interaction between the hand and the product in a realistic"
+            },
+            {
+                "file": "B089QTBTMH/variation_2.jpg",
+                "prompt": "A close-up shot of the stylus alignment protractor placed on a textured turntable platter, with a tonearm and cartridge positioned above it, the stylus precisely aligned with one of the grid markings on the protractor. The protractor is a white rectangular ruler with two square grid sections and measurement indicators, lying diagonally across the platter. The background features a dark, slightly blurred turntable surface with a speckled texture. The top of the image has a solid black curved banner, and the bottom right contains a circular white graphic with a black center, resembling a vinyl record label. The lighting is bright and focused, highlighting the metallic parts of the tonearm and the clean lines of the protractor."
+            },
+            {
+                "file": "B089QTBTMH/variation_3.jpg",
+                "prompt": "A close-up, angled view of a person\u2019s hand placing the stylus alignment protractor onto the platter of a turntable, with the tonearm positioned above it. The turntable sits on a natural wood surface, with a textured, dark gray platter mat. In the background, out-of-focus green foliage and a metallic object are visible, creating a warm, domestic atmosphere. The lighting is soft and natural, highlighting the hand and the product. The protractor lies flat on the platter, aligned with the tonearm. The overall composition focuses on the interaction between the hand and the product, emphasizing precision and use in a real-world setting. The background is softly blurred, drawing attention to the central action."
+            }
+        ]
+    },
+    {
+        "asin": "B07SX5483G",
+        "title": "Axess PABT6027 Bluetooth PA Speaker, Loud Party Speaker with 5 Speakers, LED Disco Lights, USB - Aux - FM - Mic & Guitar Inputs, Bass-Treble Control, X-Bass, Remote Control",
+        "reference_file": "B07SX5483G/reference.jpg",
+        "categorical_name": "bluetooth pa speaker",
+        "variation_files": [
+            {
+                "file": "B07SX5483G/variation_1.jpg",
+                "prompt": "A tall, multi-driver bluetooth pa speaker stands on a wooden floor next to a white TV stand, positioned in a modern living room setting. The speaker features a large circular woofer at the bottom with a glowing purple light, a central control panel with a circular volume knob and surrounding buttons, and four smaller square speakers arranged in two rows at the top, each with visible purple illumination. The speaker is placed against a plain white wall, with a flat-screen TV on the stand to its left displaying a dark, atmospheric scene with purple and gray tones. The TV stand has open shelves holding small electronic devices, and a black subwoofer sits partially visible behind the speaker. The overall lighting is soft and even, highlighting the speaker\u2019s illuminated elements and creating"
+            },
+            {
+                "file": "B07SX5483G/variation_2.jpg",
+                "prompt": "A tall, vertically oriented bluetooth pa speaker stands against a dark red brick wall in a dimly lit, cozy lounge setting. The speaker features multiple illuminated red speaker grilles at the top, a central control panel with a glowing blue circular volume knob, and a large circular subwoofer at the bottom emitting a vibrant purple and pink light. The scene is illuminated by warm, ambient red lighting from two large, teardrop-shaped glass pendant lamps hanging above a modern, curved olive-green sofa with wooden legs. The floor is a smooth, dark concrete surface, and a portion of a mustard-yellow round ottoman is visible in the foreground. The overall lighting is moody and atmospheric, with soft shadows and glowing highlights emphasizing the speaker\u2019s illuminated elements."
+            },
+            {
+                "file": "B07SX5483G/variation_3.jpg",
+                "prompt": "A full-body shot of a woman standing to the left of the bluetooth pa speaker, which is positioned vertically against a solid bright blue background. The woman is wearing a floral dress and holding a smartphone, looking down at it with a smile, while carrying a large blue tote bag on her left arm. The speaker features a tall, rectangular design with multiple illuminated speaker grilles at the top, glowing with purple and blue light, and a central control panel with a circular volume knob emitting a purple glow. Below the control panel is a large circular subwoofer grille with a blue illuminated center. The overall lighting is bright and even, highlighting the speaker and the woman clearly. A small portion of a colorful abstract painting is visible in the top right corner of"
+            }
+        ]
+    },
+    {
+        "asin": "B01KY8ZEFS",
+        "title": "HQRP 1-Button Guitar Amp Footswitch for Fender 099-4049-000 fits FM, Mustang, Blues Junior amps",
+        "reference_file": "B01KY8ZEFS/reference.jpg",
+        "categorical_name": "footswitch",
+        "variation_files": [
+            {
+                "file": "B01KY8ZEFS/variation_1.jpg",
+                "prompt": "A split-screen style advertisement layout with a clean white background. On the left side, a beige and brown guitar amplifier with a textured grille and metal corners is shown, connected by a coiled black cable to the footswitch positioned on the lower right. The footswitch is placed slightly angled, with its cable leading toward the amplifier. The top of the image features a solid blue curved banner with a wavy white line beneath it. All text, logos, and labels are omitted, leaving only the visual composition of the amplifier, cable, and footswitch in a minimalist, product-focused arrangement. The lighting is bright and even, emphasizing the objects with soft shadows."
+            }
+        ]
+    },
+    {
+        "asin": "B08XCG2M41",
+        "title": "Shure BLX2/SM58 Handheld Wireless Transmitter with SM58 Vocal Microphone Capsule, for use with BLX Wireless Systems (Receiver Sold Separately) - H11 Band",
+        "reference_file": "B08XCG2M41/reference.jpg",
+        "categorical_name": "wireless microphone",
+        "variation_files": [
+            {
+                "file": "B08XCG2M41/variation_1.jpg",
+                "prompt": "A male performer is captured mid-song on a dimly lit stage, holding the wireless microphone close to his mouth with his right hand. He is shown in profile, eyes closed, mouth open in a powerful vocal expression, wearing a dark short-sleeved shirt with a textured, possibly denim, vest. The stage is enveloped in atmospheric smoke, illuminated by dramatic blue and yellow spotlights that create strong beams of light cutting through the haze. In the background, a faint silhouette of another musician playing a guitar is visible, slightly out of focus. The lighting emphasizes the performer\u2019s face and upper body, with high contrast between the illuminated subject and the dark, smoky environment. The overall mood is intense and energetic, evoking a live rock or"
+            }
+        ]
+    },
+    {
+        "asin": "B01MRV9Z1Y",
+        "title": "Gator Cases Journeyman Series Deluxe Wood Case for Electric Bass Guitars; Fits Fender Precision/Jazz Bass, & More (GW-JM-BASS)",
+        "reference_file": "B01MRV9Z1Y/reference.jpg",
+        "categorical_name": "guitar case",
+        "variation_files": [
+            {
+                "file": "B01MRV9Z1Y/variation_1.jpg",
+                "prompt": "An open guitar case viewed from a high-angle perspective, revealing the interior lined with deep navy blue plush fabric. The case is positioned diagonally across the frame, with the left side showing the exterior edge and latches, while the right side displays the open lid. Inside, a coiled red instrument cable rests near a black package with a circular label, alongside a small collection of colorful guitar picks. A white and black strap is partially visible in a dedicated compartment on the lower left. The background is plain white, with soft, even lighting highlighting the textures of the fabric and contents. The exterior of the case is visible only along the edges, showing a light-colored fabric shell with dark brown trim and metallic hardware."
+            },
+            {
+                "file": "B01MRV9Z1Y/variation_2.jpg",
+                "prompt": "An open guitar case angled diagonally from top-left to bottom-right, revealing a dark blue plush interior lining. The case is positioned on a clean white surface with a soft reflection beneath. The lid is propped open, showing the inner edge of the case with a light beige fabric exterior and dark brown trim along the edges. The handle and latches are visible on the side of the case, matching the dark brown accents. Inside, a bass guitar rests securely, with its body and neck clearly visible, nestled within the contoured padding. The lighting is bright and even, highlighting the textures of the case and the instrument. The background is plain white, with no text, logos, or additional elements."
+            },
+            {
+                "file": "B01MRV9Z1Y/variation_3.jpg",
+                "prompt": "An open guitar case viewed from a high-angle perspective, showcasing the interior with a dark blue plush lining and padded compartments. The case is positioned diagonally across the frame, with the top edge of the case visible at the upper right, revealing a beige exterior and a silver metal latch. Inside, a portion of a guitar neck with a light wood fretboard, black block inlays, and metal strings is resting on the plush surface. The bottom left corner of the case shows a beige exterior with a metal clasp. The background is plain white, with soft, even lighting highlighting the textures of the interior lining and the wood of the guitar neck."
+            }
+        ]
+    },
+    {
+        "asin": "B07W414GSS",
+        "title": "TraderPlus 10 feet USB Guitar Cable RockSmith PC Cable - USB Interface Male to 6.35mm 1/4\" TS Mono Electric Guitar Converter Cord",
+        "reference_file": "B07W414GSS/reference.jpg",
+        "categorical_name": "usb guitar cable",
+        "variation_files": [
+            {
+                "file": "B07W414GSS/variation_1.jpg",
+                "prompt": "A silver laptop with a visible screen displaying audio waveforms and digital audio workstation interface is positioned on the left side of the frame, angled slightly toward the viewer. On the right, a sunburst-finish electric guitar stands upright, angled diagonally with the headstock pointing upward and to the right. The guitar is connected to the laptop via a coiled black cable, with the connector visibly plugged into the guitar\u2019s input jack and the other end inserted into a port on the laptop\u2019s side. The entire scene is set against a plain white background with soft, even lighting, creating clean shadows beneath the laptop and guitar. The cable lies loosely coiled on the surface between the two objects, emphasizing the connection. The composition is minimal and focused, highlighting"
+            }
+        ]
+    },
+    {
+        "asin": "B0002E3AO2",
+        "title": "Manhasset Wind Instrument Stand Adapter (1400)",
+        "reference_file": "B0002E3AO2/reference.jpg",
+        "categorical_name": "instrument stand adapter",
+        "variation_files": [
+            {
+                "file": "B0002E3AO2/variation_1.jpg",
+                "prompt": "A split-screen composition showing two distinct views of the instrument stand adapter. On the left, the adapter is mounted on a black tripod-style stand, holding a silver brass instrument upright; the stand has three curved legs and a central column, with the adapter securely attached to the top platform. On the right, the adapter is shown separately, lying flat on a plain white surface, viewed from a slightly elevated angle. The background is uniformly white and untextured, with soft, even lighting that highlights the form and structure of the adapter and stand without casting harsh shadows. The overall style is clean, minimal, and product-focused, emphasizing functionality and design."
+            }
+        ]
+    },
+    {
+        "asin": "B093348ZYQ",
+        "title": "Bogart Guitar String Cutter End Plier Nipper Bridge Pin Plier Cut Luthier Tools Fret Wire Puller Guitar Repair Tool.",
+        "reference_file": "B093348ZYQ/reference.jpg",
+        "categorical_name": "pliers",
+        "variation_files": [
+            {
+                "file": "B093348ZYQ/variation_1.jpg",
+                "prompt": "A close-up shot of the pliers in use, positioned diagonally across the frame, cutting a guitar string near the bridge of a wooden acoustic guitar. The guitar's dark brown wooden bridge and light beige wooden body are visible, with several metal and copper-wound strings running across the bridge. The pliers are shown mid-action, gripping a white string ball-end. The background is a plain, solid light beige surface with a subtle wood grain texture. The lighting is soft and even, highlighting the metallic sheen of the pliers' jaws and the texture of the guitar wood. The composition focuses on the interaction between the tool and the guitar, with the pliers slightly angled upward from the bottom right toward the top left."
+            },
+            {
+                "file": "B093348ZYQ/variation_2.jpg",
+                "prompt": "A close-up shot of a hand holding the pliers, with the fingers gripping the handles naturally. The pliers are positioned vertically, centered in the frame, with the cutting head at the top and the handles extending downward into the palm. The hand is shown from a slightly elevated angle, revealing the thumb on one side and the other fingers wrapped around the opposite handle. The background is plain white, creating a clean and minimalistic look. The lighting is bright and even, highlighting the contours of the hand and the pliers without harsh shadows. The focus is sharp on both the hand and the pliers, emphasizing their form and interaction."
+            }
+        ]
+    },
+    {
+        "asin": "B084DVD1G6",
+        "title": "D'Addario Microphone Mount (PW-MSASCH-01)",
+        "reference_file": "B084DVD1G6/reference.jpg",
+        "categorical_name": "microphone mount",
+        "variation_files": [
+            {
+                "file": "B084DVD1G6/variation_1.jpg",
+                "prompt": "A side-profile view of the microphone mount attached to a vertical black pole, shown against a plain white background. The mount is positioned horizontally around the pole, secured by a clamping mechanism on its right side. The front of the mount features a U-shaped opening, and the body has a textured, matte finish. The lighting is even and studio-like, highlighting the contours and form of the mount without casting harsh shadows. The composition is minimal, clean, and focused solely on the product and its attachment to the pole."
+            }
+        ]
+    },
+    {
+        "asin": "B089N5Q49L",
+        "title": "Guitar Tuner Clip-On Tuner For Guitar, Bass, Violin, Ukulele & Chromatic Tuning Modes High Precision Calibration Tuner",
+        "reference_file": "B089N5Q49L/reference.jpg",
+        "categorical_name": "clip-on tuner",
+        "variation_files": [
+            {
+                "file": "B089N5Q49L/variation_1.jpg",
+                "prompt": "A close-up shot of a person tuning an acoustic guitar, with the clip-on tuner securely attached to the headstock. The tuner is positioned prominently in the foreground, clipped near the tuning pegs, with the guitar\u2019s wooden headstock and metallic tuning keys visible around it. The person\u2019s hand is gently adjusting one of the tuning pegs, suggesting active use. The background is softly blurred, showing the person wearing a striped long-sleeve shirt and seated near a window with natural light coming in, creating a warm and casual atmosphere. The lighting is soft and diffused, highlighting the texture of the wood and metal components. The overall composition focuses on the interaction between the user and the instrument, emphasizing practical use in a relaxed, real-life setting"
+            },
+            {
+                "file": "B089N5Q49L/variation_2.jpg",
+                "prompt": "A close-up shot of the clip-on tuner attached to the headstock of an acoustic guitar, with the tuner's display illuminated in bright green. The guitar\u2019s wooden headstock is visible, featuring six tuning pegs and strings, with a hand gently holding the neck near the tuning area. The background is softly blurred and dark, emphasizing the product and the guitar\u2019s details. The lighting is warm and focused, creating a natural, intimate atmosphere. The tuner is positioned slightly off-center, angled to show both the display and the clip mechanism. The overall composition is tight and centered on the interaction between the tuner and the instrument, with no text or graphic overlays present."
+            }
+        ]
+    },
+    {
+        "asin": "B08F2R5KBW",
+        "title": "\"Solea\" Handcrafted Wooden Guitar Capo by Tenor. Designed for Classical & Flamenco Guitar Players. Made of Solid Rosewood laced with Ebony and a Leather Strap. Spectacular Design of Traditional-Style.",
+        "reference_file": "B08F2R5KBW/reference.jpg",
+        "categorical_name": "guitar capo",
+        "variation_files": [
+            {
+                "file": "B08F2R5KBW/variation_1.jpg",
+                "prompt": "A close-up shot of the guitar capo securely positioned on the fretboard of a classical guitar, with the capo\u2019s body aligned across the strings and the black, rounded knob facing upward. The guitar neck extends diagonally from the bottom left to the top right of the frame, featuring a dark fretboard with visible metal frets and six strings. The background is a plain white, creating a clean, high-contrast look that emphasizes the capo and guitar neck. The lighting is bright and even, highlighting the textures and contours of the capo and the guitar\u2019s surface. The composition focuses tightly on the capo and the immediate surrounding area of the fretboard, with the headstock of the guitar softly blurred in the background."
+            },
+            {
+                "file": "B08F2R5KBW/variation_2.jpg",
+                "prompt": "A split composition on a clean white background. The top section features a close-up diagonal view of a guitar neck with multiple guitar capos attached at different positions along the fretboard, showcasing their placement and functionality. The capos are arranged in a row, each clamping the strings at varying frets, with the guitar neck extending from left to right. The fretboard is dark with light-colored fret markers, and the headstock is partially visible on the right with tuning pegs. Below, the bottom section displays three separate components of the guitar capo: a complete assembled capo, a detached base with black felt padding, and a detached black knob mechanism connected by a thin transparent string. All elements are arranged neatly on the white surface with soft"
+            }
+        ]
+    },
+    {
+        "asin": "B09JXYQHWW",
+        "title": "Pearl Flute PF200 Belsona Student 200 Series C-Flute w/ABS Case",
+        "reference_file": "B09JXYQHWW/reference.jpg",
+        "categorical_name": "flute",
+        "variation_files": [
+            {
+                "file": "B09JXYQHWW/variation_1.jpg",
+                "prompt": "An open black hard-shell case with a padded interior, viewed from above, containing the flute disassembled into its three main sections: the headjoint, body, and footjoint, arranged neatly inside. The case features a black exterior with silver latches and a black handle attached to the bottom half. The interior is lined with black foam with custom-cut grooves to hold the flute sections securely. The background is a plain white surface with soft, even lighting that highlights the reflective surfaces of the flute and case."
+            }
+        ]
+    },
+    {
+        "asin": "B06Y5GKJQK",
+        "title": "Ibanez IAB541 Powerpad Acoustic Guitar Gig Bag (IAB541BK)",
+        "reference_file": "B06Y5GKJQK/reference.jpg",
+        "categorical_name": "guitar gig bag",
+        "variation_files": [
+            {
+                "file": "B06Y5GKJQK/variation_1.jpg",
+                "prompt": "A woman stands in a cozy, naturally lit living room, wearing the guitar gig bag as a backpack. She is positioned slightly angled toward the camera, looking over her shoulder with a gentle smile. The bag is securely fastened with its shoulder straps, resting vertically along her back. The setting features a vintage-style striped sofa with an orange cushion, a patterned area rug on a wooden floor, and a green leafy plant in the background. The walls are plain white, and the overall lighting is soft and even, creating a warm, inviting atmosphere. The guitar gig bag is the central focus, shown in use within a lifestyle context, with no text or branding elements visible."
+            },
+            {
+                "file": "B06Y5GKJQK/variation_2.jpg",
+                "prompt": "A woman stands in a bright, minimalist living room, holding the guitar gig bag upright by its top handle. She is positioned slightly to the right of center, facing forward with a calm expression, wearing a light cream-colored long dress and blue jeans. The room features white walls, a large window on the right letting in natural light, and a wooden floor partially covered by a patterned beige and cream rug. To the left, a vintage-style striped armchair with a blue cushion and an orange throw pillow sits next to a potted green plant with broad leaves. The guitar gig bag is placed vertically on the rug, its front facing the viewer, with the woman\u2019s hands resting on the top edge. The lighting is soft and even, creating a"
+            },
+            {
+                "file": "B06Y5GKJQK/variation_3.jpg",
+                "prompt": "A woman stands in a bright, minimalist living room, holding the guitar gig bag upright with both hands, smiling toward the camera. She is wearing a light cream-colored dress and black shoes, standing on a patterned area rug over a wooden floor. To her left is a striped sofa with an orange and a blue cushion. The background consists of plain white walls and a window on the right, letting in soft natural light. The scene is clean and airy, with a casual, lifestyle feel. The guitar gig bag is positioned vertically, angled slightly toward the viewer, with its front side visible. The lighting is soft and even, highlighting the subject and the product naturally without harsh shadows."
+            }
+        ]
+    },
+    {
+        "asin": "B01JTI4NLA",
+        "title": "E.F. Durand Bb Brass Cornet with Case, Mouthpiece, and White Gloves",
+        "reference_file": "B01JTI4NLA/reference.jpg",
+        "categorical_name": "brass cornet",
+        "variation_files": [
+            {
+                "file": "B01JTI4NLA/variation_1.jpg",
+                "prompt": "A brass cornet is positioned inside an open black hard-shell case, resting securely in a plush black interior lining. The case is shown from a top-down perspective, with the lid propped open to reveal the instrument nestled within. The case features a sturdy black exterior with visible zippers, metal rivets, and a padded handle on the side. A small circular cutout is visible on the inside of the lid. The background is a plain white surface, providing clean contrast to the black case and the reflective surface of the brass cornet. The lighting is even and bright, highlighting the contours of the case and the instrument\u2019s placement within it."
+            }
+        ]
+    },
+    {
+        "asin": "B0002MNXFK",
+        "title": "Beyerdynamic M88 TG Dynamic Microphone With Hypercardioid Polar Pattern for Vocals, Bass Drum, and Studio",
+        "reference_file": "B0002MNXFK/reference.jpg",
+        "categorical_name": "dynamic microphone",
+        "variation_files": [
+            {
+                "file": "B0002MNXFK/variation_1.jpg",
+                "prompt": "A dynamic microphone lying diagonally on a warm-toned wooden surface with visible grain and natural texture, positioned in the foreground. In the background, slightly out of focus, a pair of over-ear headphones rests with its headband arched and earcups angled toward the top right. The lighting is soft and natural, coming from the upper right, casting gentle shadows and highlighting the texture of the wood and the smooth surfaces of the audio equipment. The composition is shallow depth-of-field, emphasizing the microphone in sharp focus while the headphones are softly blurred. The overall scene conveys a professional, studio-like atmosphere with a natural, organic feel."
+            },
+            {
+                "file": "B0002MNXFK/variation_2.jpg",
+                "prompt": "A close-up shot of the dynamic microphone mounted on a black microphone stand, positioned at a slight angle, with the grille facing slightly upward. The microphone is set against a softly blurred background featuring a wooden desk surface, a pair of over-ear headphones resting out of focus in the mid-ground, and a portion of a computer monitor visible in the upper right corner. The lighting is soft and natural, coming from the front-left, creating gentle highlights on the microphone\u2019s grille and stand. The overall composition emphasizes depth of field, with the microphone in sharp focus and the background elements gently blurred. The scene suggests a home studio or workspace environment."
+            },
+            {
+                "file": "B0002MNXFK/variation_3.jpg",
+                "prompt": "A close-up shot of the dynamic microphone mounted on a black microphone stand, positioned diagonally across the frame. The microphone is angled slightly downward, with its grille facing the lower left. In the blurred background, a keyboard with white and black keys is visible, illuminated by warm, reddish-orange stage lighting. The background is softly out of focus, featuring bokeh highlights in red, green, and yellow tones, suggesting a live performance or studio environment. The overall lighting is dramatic and low-key, with strong directional light accentuating the microphone\u2019s form and creating a moody, atmospheric ambiance. The scene is shot from a slightly low angle, emphasizing the microphone as the central subject."
+            }
+        ]
+    },
+    {
+        "asin": "B01JGQB6R4",
+        "title": "Evans Calftone Bass Drum Head, 18\"",
+        "reference_file": "B01JGQB6R4/reference.jpg",
+        "categorical_name": "bass drum head",
+        "variation_files": [
+            {
+                "file": "B01JGQB6R4/variation_1.jpg",
+                "prompt": "A bass drum with a chrome hardware shell, black drum hoop, and three chrome legs supporting it, positioned at a slight angle to show both the front head and side profile, set against a plain white background with soft, even studio lighting. The bass drum head is centered in the frame, occupying most of the visual space, with a subtle shadow cast beneath the drum and legs."
+            },
+            {
+                "file": "B01JGQB6R4/variation_2.jpg",
+                "prompt": "A bass drum with a chrome hardware shell and black drum body, positioned at a three-quarter angle, featuring the bass drum head centered on the front. The drum is mounted on a black bass drum pedal with a footboard and beater arm, and supported by a black leg stand extending from the side. The entire setup is isolated on a plain white background with soft, even studio lighting and a subtle shadow beneath the drum and pedal."
             }
         ]
     }
