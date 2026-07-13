@@ -136,30 +136,6 @@
         ]
     },
     {
-        "asin": "B07J6P1X76",
-        "title": "Orion Korean Snack TURTLE CHIPS 꼬북칩 80g (Pack of 7)",
-        "reference_file": "B07J6P1X76/reference.jpg",
-        "categorical_name": "potato chips",
-        "variation_files": [
-            {
-                "file": "B07J6P1X76/variation_1.jpg",
-                "prompt": "A single bag of the potato chips rests diagonally on a light wooden tray, positioned on a white-washed wooden surface. The bag features a bright lime green and white design with bold black text and a cartoon turtle character in a bow tie, set against a blue comic-style background. To the right of the bag, a small gray bowl filled with the potato chips sits on the tray. The chips are light yellow, ridged, and curled in shape. The overall lighting is soft and natural, highlighting the textures of the bag and the chips. The composition is clean and minimal, with the focus on the product and its presentation."
-            }
-        ]
-    },
-    {
-        "asin": "B06XF4PZP7",
-        "title": "Grow A Pear Handcrafted Prickly Pear Syrup 9 oz",
-        "reference_file": "B06XF4PZP7/reference.jpg",
-        "categorical_name": "syrup",
-        "variation_files": [
-            {
-                "file": "B06XF4PZP7/variation_1.jpg",
-                "prompt": "A tall champagne flute filled with a vibrant red bubbly drink sits on a speckled granite countertop, positioned to the left. In the center is a dark green bottle of champagne with a cream-colored label and foil neck, standing upright. To the right is a clear glass bottle of the syrup, partially filled with dark red liquid, placed at a slight angle. The background shows a white interior door and light-colored walls, softly blurred. The lighting is warm and natural, suggesting an indoor setting with ambient light. The composition is a close-up, slightly angled shot focusing on the three items arranged side by side on the countertop."
-            }
-        ]
-    },
-    {
         "asin": "B09FKHJ2RK",
         "title": "Ahmad Tea Black Tea, English Tea No.1 Teabags, 100 ct - Caffeinated and Sugar-Free",
         "reference_file": "B09FKHJ2RK/reference.jpg",
@@ -200,10 +176,6 @@
             {
                 "file": "B07P61CM2H/variation_2.jpg",
                 "prompt": "A French press filled with dark coffee sits on a light-colored countertop next to a standing bag of the coffee. The bag features a white background with a colorful pixelated pattern at the top and bottom, a red wax seal near the top, and a black silhouette of mountain peaks in the center. The scene is lit with soft, even lighting, creating subtle reflections on the countertop and the glass of the French press. The background is a plain, neutral light gray wall."
-            },
-            {
-                "file": "B07P61CM2H/variation_3.jpg",
-                "prompt": "A top-down view of a coffee-making setup on a plain white surface. A black drip coffee maker with a glass carafe is positioned on the left, with ground coffee visible in the filter basket. To the right of the coffee maker is a yellow ceramic mug with a decorative patterned rim, filled with dark brewed coffee. In the foreground, angled diagonally, is a white coffee bag with a colorful pixelated border at the top and bottom, a red wax seal design near the top, black mountain silhouettes in the center, and a rectangular information panel at the bottom. The bag is placed next to the coffee maker and mug, suggesting a fresh brew. The lighting is bright and even, creating soft shadows and highlighting the glossy surfaces of"
             }
         ]
     },

@@ -136,22 +136,6 @@
         ]
     },
     {
-        "asin": "B004W3SZ7Q",
-        "title": "Healthy Habits Kids Myplate",
-        "reference_file": "B004W3SZ7Q/reference.jpg",
-        "categorical_name": "divided plate",
-        "variation_files": [
-            {
-                "file": "B004W3SZ7Q/variation_1.jpg",
-                "prompt": "A top-down view of the divided plate with a red rim and white interior, placed on a plain white surface. The plate is divided into three sections: the top left section contains cooked brown rice, the top right section holds glazed chicken pieces, and the bottom section is filled with green beans, green grapes, sliced strawberries, and blueberries. The food is arranged neatly within each compartment. The lighting is bright and even, creating soft reflections on the glossy surface of the plate. The background is a solid, plain white with no text, logos, or additional graphics."
-            },
-            {
-                "file": "B004W3SZ7Q/variation_2.jpg",
-                "prompt": "A divided plate with a red rim is shown from a slightly elevated angle, resting on a dark, textured surface. The plate is filled with food: one compartment contains a roasted chicken leg, another holds a piece of flatbread, and the third is filled with a salad of shredded cabbage, orange segments, and sliced almonds. The lighting is natural and warm, casting soft shadows and highlighting the textures of the food. The background is dark and plain, keeping the focus on the plate and its contents."
-            }
-        ]
-    },
-    {
         "asin": "B088LCZSDN",
         "title": "Primitives by Kathy Baby Milestone Blanket, 42 x 36-Inches, My Girl",
         "reference_file": "B088LCZSDN/reference.jpg",
@@ -228,22 +212,6 @@
             {
                 "file": "B06XHQHZX3/variation_1.jpg",
                 "prompt": "A joyful toddler sitting on a wooden bench outdoors, laughing with eyes closed, wearing a plaid shirt and a cap, holding an open book on their lap. To the right of the child, placed on the same bench, is the coconut oil in its clear jar with a white lid, positioned upright. The background is a softly blurred natural outdoor scene with sunlight filtering through trees, creating a warm and bright atmosphere. The lighting is natural and golden, suggesting late afternoon sunlight. The composition is horizontal, with the child on the left and the product on the right, both clearly visible and in focus."
-            }
-        ]
-    },
-    {
-        "asin": "B06WVJ7CZN",
-        "title": "PMLAND Premium Quality Airport Gate Check Bag for Car Seats with Backpack Style Shoulder Strape and Drawstring Ballistic Nylon (Blue)",
-        "reference_file": "B06WVJ7CZN/reference.jpg",
-        "categorical_name": "carry bag",
-        "variation_files": [
-            {
-                "file": "B06WVJ7CZN/variation_1.jpg",
-                "prompt": "A person viewed from the back, wearing a gray t-shirt and dark shorts with white diagonal stripes, carrying the carry bag on their shoulders. The bag is positioned diagonally across the back, with its top opening gathered and secured, and a black strap visible on the side. The background is plain white. The lighting is bright and even, highlighting the bag’s form and the person’s posture. The overall composition is clean and focused on the product in use."
-            },
-            {
-                "file": "B06WVJ7CZN/variation_2.jpg",
-                "prompt": "A person is shown from the waist down, wearing a gray t-shirt and dark patterned pants, holding the carry bag by its black top handle. The bag is positioned diagonally in the frame, slightly angled to the right, with its full volume visible. The background is plain white, creating a clean, studio-style presentation. The lighting is bright and even, highlighting the bag’s smooth, slightly reflective surface and natural folds. The person’s hand grips the handle firmly, suggesting the bag is being carried or lifted. All text, logos, and promotional elements are ignored, leaving only the visual composition of the person holding the bag against the white background."
             }
         ]
     },

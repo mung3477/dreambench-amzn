@@ -11,7 +11,7 @@
             },
             {
                 "file": "B077W4YKVB/variation_2.jpg",
-                "prompt": "The watch is positioned at a slight angle, resting on a rugged, dark, weathered rock surface with rough, cracked textures and uneven edges. The rocks appear charred or fossilized, with deep crevices and a monochromatic, grayscale tone that emphasizes their natural, raw texture. The lighting is dramatic and directional, casting soft shadows that accentuate the contours of the rocks and the watch\u2019s form, creating a high-contrast, moody atmosphere. The background is composed entirely of these dark, textured rock formations, filling the frame and providing a natural, outdoor setting that conveys durability and adventure. The watch is the central focus, placed prominently on the rocks, with its strap and lugs clearly visible, suggesting a rugged, outdoor"
+                "prompt": "The watch is positioned at a slight angle, resting on a rugged, dark, weathered rock surface with rough, cracked textures and uneven edges. The rocks appear charred or fossilized, with deep crevices and a monochromatic, grayscale tone that emphasizes their natural, raw texture. The lighting is dramatic and directional, casting soft shadows that accentuate the contours of the rocks and the watch’s form, creating a high-contrast, moody atmosphere. The background is composed entirely of these dark, textured rock formations, filling the frame and providing a natural, outdoor setting that conveys durability and adventure. The watch is the central focus, placed prominently on the rocks, with its strap and lugs clearly visible, suggesting a rugged, outdoor"
             }
         ]
     },
@@ -23,35 +23,11 @@
         "variation_files": [
             {
                 "file": "B0C61Q3TVB/variation_1.jpg",
-                "prompt": "A split-screen composition featuring a pair of hands gripping the game controller in the foreground, positioned centrally and angled slightly upward to showcase the top and front surfaces. The hands are shown in a natural gaming grip, with thumbs resting on the analog sticks and fingers curled around the body, suggesting active gameplay. The controller is held in front of a large, rectangular screen displaying an intense action scene from a video game \u2014 a character in combat with a large, monstrous enemy, surrounded by dynamic visual effects like sparks and glowing energy beams. The screen is framed by a dark, digital-style background with vertical, glowing blue and purple lines resembling circuitry or data streams, creating a high-tech, immersive atmosphere. The lighting is dramatic, with highlights emphasizing the controller and hands"
+                "prompt": "A split-screen composition featuring a pair of hands gripping the game controller in the foreground, positioned centrally and angled slightly upward to showcase the top and front surfaces. The hands are shown in a natural gaming grip, with thumbs resting on the analog sticks and fingers curled around the body, suggesting active gameplay. The controller is held in front of a large, rectangular screen displaying an intense action scene from a video game — a character in combat with a large, monstrous enemy, surrounded by dynamic visual effects like sparks and glowing energy beams. The screen is framed by a dark, digital-style background with vertical, glowing blue and purple lines resembling circuitry or data streams, creating a high-tech, immersive atmosphere. The lighting is dramatic, with highlights emphasizing the controller and hands"
             },
             {
                 "file": "B0C61Q3TVB/variation_2.jpg",
                 "prompt": "A product shot featuring the game controller placed on a dark, reflective surface, positioned in the foreground to the left. Behind it, a blue and black product box with a clear plastic window displays the same controller inside, angled slightly to showcase the front and top. The box has a clean, modern design with bold blue panels and black accents, including white geometric shapes and lines along the sides. To the right of the controller, a black USB cable is laid out in a loose coil. Below the cable, a small white instruction manual lies flat, showing a black-and-white illustration of the game controller on its cover. The entire scene is set against a solid black background, with soft, directional lighting creating subtle highlights on the controller and box, emphasizing their"
-            }
-        ]
-    },
-    {
-        "asin": "B0BWH6DVT8",
-        "title": "Compact 80% Mechanical Gaming Keyboard, 98 Key Hot-Swappable Keyboard with Number Pad and Extra 16 keycaps, Anti-Ghosting Gaming/Office Keyboard with Blue Switches for Windows Mac PC, Black Grey",
-        "reference_file": "B0BWH6DVT8/reference.jpg",
-        "categorical_name": "keyboard",
-        "variation_files": [
-            {
-                "file": "B0BWH6DVT8/variation_1.jpg",
-                "prompt": "A sleek, modern keyboard is positioned diagonally on a smooth, dark gray desk surface with a subtle metallic sheen, illuminated by a glowing blue LED strip running along the front edge of the desk. The keyboard casts a soft, realistic reflection on the glossy surface below. In the background, a large, curved monitor with a thin black bezel displays a vibrant, high-contrast fantasy artwork featuring a character in dynamic pose, with warm golden and pink hues dominating the screen. The monitor\u2019s stand is angular and geometric, matching the modern aesthetic. To the right of the monitor, a black speaker with a visible circular driver is partially visible, adding to the high-tech setup. The overall lighting is moody and ambient, with cool blue tones from the"
-            }
-        ]
-    },
-    {
-        "asin": "B08NCKZJQD",
-        "title": "CQ63 Mechanica Gaming Keyboard Bluetooth 5.0 RGB Backlit USB Type-C Wired Gaming Keyboard 63 Keys Compatible with Windows Desktop Laptop Tablet Smartphone (White - Brown Switch)",
-        "reference_file": "B08NCKZJQD/reference.jpg",
-        "categorical_name": "keyboard",
-        "variation_files": [
-            {
-                "file": "B08NCKZJQD/variation_1.jpg",
-                "prompt": "A product shot of the keyboard placed on a dark, reflective desk surface, positioned in front of a large, modern monitor with a thick black stand. The keyboard is angled slightly to the right, showcasing its side profile and the glowing RGB lighting along the base, which transitions from pink to purple to blue to green. The background behind the monitor is a solid dark gray or black, creating a sleek, high-contrast gaming or tech environment. The lighting is soft and directional, highlighting the keyboard\u2019s edges and the subtle glow beneath it, with a slight reflection visible on the desk surface. The overall composition emphasizes the keyboard as the central focus, with clean lines and a professional, modern aesthetic."
             }
         ]
     },
@@ -80,106 +56,6 @@
         ]
     },
     {
-        "asin": "B00BQR55JM",
-        "title": "NEOGEO X Classics Vol 4",
-        "reference_file": "B00BQR55JM/reference.jpg",
-        "categorical_name": "video game console",
-        "variation_files": [
-            {
-                "file": "B00BQR55JM/variation_1.jpg",
-                "prompt": "A top-down pixel-art video game scene set in a jungle environment with brown dirt ground, scattered rocks, and green ferns. In the center, a female character with long dark hair, wearing a sleeveless top and blue pants, stands facing a military-style armored vehicle with large wheels and mounted weapons. Two soldiers in green combat gear are positioned nearby\u2014one standing to the left, the other on top of the vehicle. The scene is framed with a retro arcade interface: a vertical yellow health bar on the left side, a small character portrait and score display at the top left, a \"TIME\" counter in green at the top right, and a \"CREDIT\" indicator at the bottom right. The overall lighting is bright and even, typical of"
-            },
-            {
-                "file": "B00BQR55JM/variation_2.jpg",
-                "prompt": "A top-down pixel-art video game scene set in a desert battlefield environment with sandy brown terrain, scattered rocks, and patches of green shrubbery. Multiple green-armored soldiers are positioned across the scene, some standing and others firing weapons, with small explosions and gunfire effects visible. A lone character in blue and yellow attire is centered at the bottom, facing upward, with a flame-like visual effect above their head. The background features a simple, flat desert landscape with no distinct structures or distant scenery. The overall lighting is even and flat, typical of retro arcade-style games. On the left side, a vertical yellow health bar is present, and at the top left and right, small rectangular UI elements are visible, but these are ignored as placeholder or"
-            }
-        ]
-    },
-    {
-        "asin": "B07W3RQJ3N",
-        "title": "Zombieland: Double Tap - Roadtrip - Nintendo Switch Standard Edition",
-        "reference_file": "B07W3RQJ3N/reference.jpg",
-        "categorical_name": "video game",
-        "variation_files": [
-            {
-                "file": "B07W3RQJ3N/variation_1.jpg",
-                "prompt": "A top-down, isometric view of a chaotic nighttime urban environment with a zombie-infested street scene. The setting features a two-story house with a striped awning on the left, a glowing green carnival ride, and a large dark tent with string lights on the right. The ground is littered with debris, blood splatters, and fallen zombies. Several characters are engaged in combat, shooting at approaching zombies, with colorful weapon trails and impact effects visible. At the bottom of the frame, four character portraits are arranged horizontally, each with a health bar and weapon icon above them, set against a dark, curved interface panel. The overall lighting is dark and atmospheric, with vibrant neon and light effects from the environment and weapons contrasting against the shadows."
-            }
-        ]
-    },
-    {
-        "asin": "B087Y981PW",
-        "title": "Controller Gear Authentic and Officially Licensed Animal Crossing: New Horizons - On The Beach - Nintendo Switch Lite Skin - Not Machine Specific",
-        "reference_file": "B087Y981PW/reference.jpg",
-        "categorical_name": "switch lite skin",
-        "variation_files": [
-            {
-                "file": "B087Y981PW/variation_1.jpg",
-                "prompt": "A close-up shot of a hand holding the switch lite skin at an angle, showcasing its bottom half with a vibrant, illustrated beach and camping scene featuring animated characters, tents, and palm trees. The device rests partially on a textured brown fabric surface, likely a bag or jacket, with soft, natural lighting highlighting the glossy finish of the skin. The top half of the device is cropped out of frame, focusing attention on the detailed artwork along the lower portion. The hand grips the left side, with fingers gently curled around the edge, emphasizing portability and real-world use. The background is softly blurred, drawing focus to the device and the hand holding it."
-            },
-            {
-                "file": "B087Y981PW/variation_2.jpg",
-                "prompt": "Close-up of a person\u2019s hands pulling the switch lite skin out of a dark blue denim backpack with a brown leather trim and metal zipper. The device is angled diagonally, partially inside the bag, with the top left corner emerging first. The screen is off and dark, reflecting subtle ambient light. The surrounding environment is softly blurred, showing a neutral-toned background with hints of fabric and texture. Natural, warm lighting highlights the hands and the edges of the device, emphasizing the tactile interaction and portability. The backpack\u2019s interior is visible, lined with a light brown material. The composition focuses on the action of retrieving the device, conveying a sense of everyday use and convenience."
-            }
-        ]
-    },
-    {
-        "asin": "B07NWGSZSJ",
-        "title": "DURGOD Gaming Mechanical Keyboard with Cherry MX Silent Red Switches - 104 Key - Double Shot PBT - NKRO - USB Type C - for Gamer/Typist(Space Gray,ANSI/US)",
-        "reference_file": "B07NWGSZSJ/reference.jpg",
-        "categorical_name": "keyboard",
-        "variation_files": [
-            {
-                "file": "B07NWGSZSJ/variation_1.jpg",
-                "prompt": "A full-size keyboard placed on a dark, textured surface, viewed from a high-angle perspective. The keyboard is positioned diagonally, with the top edge slightly closer to the viewer. Above the keyboard, a portion of a monitor is visible, displaying a dark, futuristic interface with glowing blue and white elements, including circular and linear indicators. The scene is dimly lit with focused, dramatic lighting highlighting the keyboard and the monitor\u2019s edge, creating soft shadows and a sleek, modern ambiance. The background surface extends into a solid dark panel, and the lower portion of the image features a plain black background. All text and graphical elements on the screen or in the image are ignored."
-            },
-            {
-                "file": "B07NWGSZSJ/variation_2.jpg",
-                "prompt": "A full-sized keyboard placed diagonally on a light-colored woven textured surface, viewed from a slightly elevated angle. The keyboard is positioned centrally, with its left side closer to the foreground. To the upper right of the keyboard, there is a magazine or brochure with a visible image and text, partially covered by a small black geometric stand holding dried floral decor. In the background, a wooden furniture leg and a soft, neutral-toned floor are visible, suggesting a bright, airy indoor setting. The lighting is soft and natural, casting subtle shadows and highlighting the texture of the woven surface. The overall composition conveys a clean, minimalist, and lifestyle-oriented aesthetic."
-            }
-        ]
-    },
-    {
-        "asin": "B074W81JKS",
-        "title": "Ps4 Xbox one PC Gaming Headset, Micolindun Over Ear Stereo Gaming Headphones with Mic Mute & Volume Control for Xbox One PS4 PlayStation 4 PC Computer Smart Phone",
-        "reference_file": "B074W81JKS/reference.jpg",
-        "categorical_name": "gaming headset",
-        "variation_files": [
-            {
-                "file": "B074W81JKS/variation_1.jpg",
-                "prompt": "A close-up product shot of the gaming headset resting on a dark, smooth surface with a subtle gradient, angled slightly to the right. The headset is positioned diagonally, with the left earcup resting on a black rectangular object with a textured, geometric pattern and a white striped edge, while the right earcup sits directly on the surface. The microphone extends upward and to the right, with its flexible cable visible. The background is a solid dark gray to black, creating a high-contrast, studio-like environment. Soft, directional lighting highlights the headset\u2019s contours and emits a glowing green light from the earcup grilles, casting a faint green reflection on the surface below. The overall composition is clean, focused, and professional, emphasizing the product\u2019s"
-            }
-        ]
-    },
-    {
-        "asin": "B0B4VHJLKZ",
-        "title": "Anker Head Starp Compatible with Oculus Quest 2, Easily Switch Between Virtual and Reality, Adjustable Size for Using",
-        "reference_file": "B0B4VHJLKZ/reference.jpg",
-        "categorical_name": "head strap",
-        "variation_files": [
-            {
-                "file": "B0B4VHJLKZ/variation_1.jpg",
-                "prompt": "A man is seated on a light-colored sofa, viewed from behind and slightly to the side, wearing the head strap on his head. He is holding a smartphone in his right hand, looking at it. The background is a softly lit, neutral-toned indoor space with vertical light patterns suggesting window blinds or curtains. The head strap is positioned on his head with a slight upward tilt, indicated by a blue curved arrow graphic near the front adjustment dial. To the left of the man, there is a circular diagram showing a slider mechanism with a dashed arc and the number \"60\u00b0\" inside. The overall lighting is soft and natural, creating a calm, modern, and clean atmosphere. The scene is composed to emphasize the user\u2019s interaction with the"
-            },
-            {
-                "file": "B0B4VHJLKZ/variation_2.jpg",
-                "prompt": "A person is seen from behind, reclining comfortably on a white textured sofa, wearing the head strap. The head strap is positioned over the person\u2019s head, with the back of their head and upper shoulders visible. The background is softly blurred with neutral, light beige tones, suggesting a calm indoor environment with natural lighting. The overall composition is warm and relaxed, emphasizing a laid-back, leisurely atmosphere. The head strap is the central focus, shown in use, with no text or branding elements present in the image."
-            }
-        ]
-    },
-    {
-        "asin": "B08QZ884Q9",
-        "title": "Decoration Shell Compatible with PS5 Controller, Replacement Decorative Accessory Controller Faceplate with Guitar Pick Compatible with Playstation 5 Controller (Blue)",
-        "reference_file": "B08QZ884Q9/reference.jpg",
-        "categorical_name": "controller faceplate",
-        "variation_files": [
-            {
-                "file": "B08QZ884Q9/variation_1.jpg",
-                "prompt": "A pair of hands holding the controller faceplate in a natural grip, positioned in the lower half of the image, with thumbs resting on the analog sticks and fingers wrapped around the sides. Above the hands, a wide rectangular screen displays a dynamic, high-action video game scene featuring soldiers in combat, military vehicles, and a burning building with a Ferris wheel in the background. The screen is framed with a thin dark border and appears to float slightly above the hands. The background behind the screen and hands is softly blurred, showing muted tones and indistinct shapes that suggest an extension of the game environment, creating a sense of immersion. The overall lighting is bright and even, highlighting the controller and hands while keeping the screen vivid and clear."
-            }
-        ]
-    },
-    {
         "asin": "B07X34PDXS",
         "title": "SkyPAD Glass 2.0 Gaming Mouse Pad | Professional Large Mouse Mat | 300 x 350 mm | Red | Special glass surface with improved precision and speed",
         "reference_file": "B07X34PDXS/reference.jpg",
@@ -188,14 +64,6 @@
             {
                 "file": "B07X34PDXS/variation_1.jpg",
                 "prompt": "A top-down view of a gaming desk setup featuring the gaming mouse pad placed on a dark textured surface. The mouse pad is positioned on the right side of the frame, with a white wired gaming mouse resting on its surface. To the left, a mechanical keyboard with RGB backlighting in shades of blue and green is partially visible. Above the setup, the bottom edge of a computer monitor is shown, displaying a colorful, blurred screen. The overall lighting is dim and atmospheric, with focused illumination on the mouse pad and keyboard, creating a moody, immersive gaming environment. The background remains dark and out of focus, emphasizing the central elements."
-            },
-            {
-                "file": "B07X34PDXS/variation_2.jpg",
-                "prompt": "A red gaming mouse pad is placed on a dark desk surface, angled slightly toward the viewer, with a red wired gaming mouse resting on top. The scene is set in a dimly lit gaming environment, with soft ambient light reflecting off the smooth surface of the mouse pad. In the background, a monitor displays a game menu with blurred text, and a patterned wall with glowing square lights creates a bokeh effect. To the right, a partially visible product box with a red and black design stands upright, featuring a stylized cloud logo. The overall lighting is low and atmospheric, emphasizing the mouse pad and mouse as the central focus, with a shallow depth of field blurring the background elements."
-            },
-            {
-                "file": "B07X34PDXS/variation_3.jpg",
-                "prompt": "A top-down flat lay composition of a workspace featuring the gaming mouse pad placed on a light beige surface. The mouse pad is positioned on the right side of the frame, with a black wireless gaming mouse resting on its surface. To the left, a dark gray keyboard is partially visible, with a pair of black over-ear headphones resting on top of it. In the top-left corner, a small white rectangular planter holds a green artificial plant. The lighting is soft and even, creating subtle shadows that suggest a natural overhead light source. The overall scene is clean and minimal, with no text, logos, or placeholder elements described \u2014 only the arrangement of the objects and the plain background surface."
             }
         ]
     },
@@ -212,162 +80,6 @@
         ]
     },
     {
-        "asin": "B07VQ6YNQZ",
-        "title": "ABKONCORE B581 USB Gaming Headset with 7.1 Surround Sound - PC Headset with Noise-Cancelling Mic, On-Ear Volume & Mute Controls, LED Light - Comfort to Wear Headphone for WFH PC, Laptop",
-        "reference_file": "B07VQ6YNQZ/reference.jpg",
-        "categorical_name": "gaming headset",
-        "variation_files": [
-            {
-                "file": "B07VQ6YNQZ/variation_1.jpg",
-                "prompt": "A gaming headset is displayed on a sleek, dark stand with glowing green accents, positioned on a dark blue surface. The background features a gradient of deep blue tones, with a portion of a monitor visible on the left side and a partially visible keyboard with illuminated keys in the lower-left corner. The headset is illuminated with bright blue light emanating from its earcups, creating a glowing effect. A subtle green light outlines the headband, adding to the futuristic ambiance. The overall scene is bathed in cool blue lighting, emphasizing a high-tech, immersive gaming environment. The surface and background are smooth and solid-colored, with no text, logos, or graphic overlays present."
-            }
-        ]
-    },
-    {
-        "asin": "B086PJCTS5",
-        "title": "Mount Plus DVD-30X2 2 Pack Floating Wall Mount Tempered Glass Shelf for DVD Player, Audio, Streaming Devices, Gaming Consoles(PS 4, PS 5, Xbox Series X, Xbox 360, Xbox One)",
-        "reference_file": "B086PJCTS5/reference.jpg",
-        "categorical_name": "glass shelf",
-        "variation_files": [
-            {
-                "file": "B086PJCTS5/variation_1.jpg",
-                "prompt": "A modern living room scene featuring a wooden media console with a rustic, dark wood grain finish. Mounted on the wall above the console is a flat-screen TV, positioned slightly to the right of center. Below the TV, attached to the wall, is the glass shelf, extending horizontally and supporting a black electronic device, likely a media player or streaming box. The shelf is mounted with visible black brackets that connect to the wall and support the shelf from underneath. On the console surface, there are two black gaming controllers, a remote control, and a small glass vase with yellow orchid flowers and green stems. To the left, a portion of a brown sofa with a patterned throw pillow is visible, and soft natural light filters through sheer white curtains."
-            }
-        ]
-    },
-    {
-        "asin": "B0086VPUHI",
-        "title": "Grand Theft Auto V: Premium Edition - Xbox One [Digital Code]",
-        "reference_file": "B0086VPUHI/reference.jpg",
-        "categorical_name": "video game",
-        "variation_files": [
-            {
-                "file": "B0086VPUHI/variation_1.jpg",
-                "prompt": "A red and white rally-style car with a large front bumper, multiple round headlights, and a prominent rear wing is shown from a low front-three-quarter angle on a city street. The car features a black roll cage visible through the open roof, and the driver is seated inside, wearing sunglasses. The background includes a modern building with large windows, a traffic light, and distant city structures under a soft, overcast sky. The lighting is natural and diffused, highlighting the car\u2019s glossy paint and detailed bodywork. The scene is rendered in a realistic, high-fidelity video game style with attention to reflections and textures."
-            },
-            {
-                "file": "B0086VPUHI/variation_2.jpg",
-                "prompt": "A cinematic scene inside a modern boardroom with large floor-to-ceiling windows revealing a city skyline at sunset, featuring a long dark conference table where four characters are seated in high-backed chairs, facing each other in a tense meeting; on the table is a large pile of cash shaped like a mountain, surrounded by stacks and bundles of money, with an open briefcase filled with cash and a black assault rifle with a drum magazine resting in the foreground; the room has dark wood paneling and soft ambient lighting, creating a dramatic and intense atmosphere."
-            },
-            {
-                "file": "B0086VPUHI/variation_3.jpg",
-                "prompt": "A dynamic action scene featuring a character in tactical gear holding a firearm, firing with a bright muzzle flash. The character is shown in a side profile, wearing a gray armored vest with a high collar and gloves, set against a chaotic urban backdrop with smoke, fire, and debris. In the background, a red vehicle is partially visible, engulfed in flames, with blurred buildings and explosions adding to the intense atmosphere. The lighting is dramatic, with warm glows from the fire contrasting against the dark, smoky environment. The overall composition emphasizes motion and intensity, capturing a moment of high-stakes combat."
-            }
-        ]
-    },
-    {
-        "asin": "B0BTPLNGVY",
-        "title": "PS5 Wall Mount, MUSVOH Playstation 5 Wall Mount with Adjustable Clamp, Wall Mount for ps5 Made of Aluminium Alloy",
-        "reference_file": "B0BTPLNGVY/reference.jpg",
-        "categorical_name": "wall mount",
-        "variation_files": [
-            {
-                "file": "B0BTPLNGVY/variation_1.jpg",
-                "prompt": "A wall-mounted product is shown installed on a light gray wall, positioned to the left of a large flat-screen TV displaying a dark, cinematic scene with a car. The product is mounted vertically, with its curved front panel facing forward and slightly angled. Below the product, a light wooden console table with black legs holds a small white astronaut figurine. The scene is lit with soft, natural light coming from the upper left, casting gentle shadows across the wall and table. The background wall is plain and light gray, with no text or graphics. The TV frame is black and sleek, mounted on the wall with a slim black bracket above it. The overall setting is clean, modern, and minimalistic, emphasizing the product\u2019s integration into a contemporary living"
-            },
-            {
-                "file": "B0BTPLNGVY/variation_2.jpg",
-                "prompt": "A sleek, modern gaming setup featuring the wall mount securely attached to a light gray wall, holding a vertical console in place. The mount is positioned to the right of a curved black monitor displaying a glowing green logo on a dark, particle-filled screen. The monitor rests on a black stand on a light wooden desk. In front of the monitor, on the desk, sits a white rectangular device with blue-lit USB ports. The scene is well-lit with soft, natural lighting, emphasizing clean lines and a minimalist, tech-focused aesthetic. The wall mount is shown in use, integrated into a real-world environment with no text or branding visible on the surfaces."
-            },
-            {
-                "file": "B0BTPLNGVY/variation_3.jpg",
-                "prompt": "A modern gaming setup featuring a sleek, silver wall mount attached to a dark gray wall, holding a vertical white gaming console with a black logo at the top. To the left, a large flat-screen monitor displays a rainy cityscape scene with a blurred bridge and wet pavement. Below, on a light wooden desk, sits a white rectangular device with glowing blue indicator lights, alongside a black gaming headset and a stack of books with visible text on the spine. The lighting is soft and ambient, highlighting the clean lines and minimalist aesthetic of the setup. The wall mount is positioned centrally, with its base extending slightly forward, and the console is securely seated in its curved support. The overall scene is clean, organized, and tech-focused, with no visible text"
-            }
-        ]
-    },
-    {
-        "asin": "B096KDP58M",
-        "title": "JORREP Xbox Controller Wireless for Xbox one, Xbox One S/X, Xbox Series X/S Consoles, PC Windows 7/8/10, Video Game/PC/Mac Gamepad Controller with Audio Jack - Blue",
-        "reference_file": "B096KDP58M/reference.jpg",
-        "categorical_name": "game controller",
-        "variation_files": [
-            {
-                "file": "B096KDP58M/variation_1.jpg",
-                "prompt": "A pair of hands holding the game controller in a natural grip, positioned in the foreground with fingers on the analog sticks and buttons, showing active use. The controller is centered in the lower half of the image, with translucent blue wavy lines emanating from the grips to visually indicate vibration feedback. Behind the hands, a modern flat-screen monitor displays a high-speed racing game scene featuring a black sports car driving on a curved road during sunset, with warm lighting and motion blur. To the right of the monitor, a black gaming console with a textured surface sits on a light gray desk. The background consists of a plain, solid dark gray wall and a clean, minimalist desk surface with soft ambient lighting. The overall scene is well-lit with a focus"
-            },
-            {
-                "file": "B096KDP58M/variation_2.jpg",
-                "prompt": "A young person wearing headphones is seated at a desk, holding the game controller in both hands while focused on a laptop screen displaying a vibrant, action-packed game. The scene is set in a modern, softly lit room with a white brick wall, a tall floor lamp with a black shade, and a window in the background. On the desk, there is a laptop with a visible keyboard and screen, a notebook, pens, and small decorative items including a toy car and a robot figurine. A circular magnified inset highlights a close-up of the audio jack port on the side of the game controller, with a black audio cable plugged in. The overall lighting is soft and natural, with a cool, slightly moody ambiance. The background elements are"
-            }
-        ]
-    },
-    {
-        "asin": "B0973HKKDJ",
-        "title": "HIDEit Mounts Wall Mount for PS5 DualSense Charging Station - American Company - Steel Mount for PS5 DualSense Charging Station, Works with Playstation 5 DualSense Controllers - Patent Pending",
-        "reference_file": "B0973HKKDJ/reference.jpg",
-        "categorical_name": "wall mount",
-        "variation_files": [
-            {
-                "file": "B0973HKKDJ/variation_1.jpg",
-                "prompt": "A close-up product shot of the wall mount attached to a white surface, holding a white gaming controller in a horizontal, free-floating position. The mount is positioned slightly below the center of the controller, with its black and silver components visible, securing the controller by its base. The background is a plain white wall with soft, natural lighting creating subtle shadows. To the left, a partial view of a black-framed screen or monitor is visible, slightly out of focus. The overall composition is clean and minimal, emphasizing the product\u2019s functionality and sleek integration with the controller. The image has a solid lime-green banner at the top and bottom, but these are ignored as text and graphic elements."
-            },
-            {
-                "file": "B0973HKKDJ/variation_2.jpg",
-                "prompt": "A close-up shot of the wall mount installed on a textured white wall, viewed from a slightly low angle. The product is positioned horizontally, with its side panel flush against the wall and secured by two visible silver screws. A black cable is neatly coiled and routed through a cutout on the right side of the mount, extending downward. The lighting is soft and even, highlighting the clean lines and functional design. The background consists of a plain white wall with subtle texture. A solid lime-green horizontal band is present at the top of the image, and a solid white band is at the bottom\u2014both are empty and devoid of any text or graphics. The overall composition emphasizes the product\u2019s integration into a real-world environment with a focus on cable management"
-            },
-            {
-                "file": "B0973HKKDJ/variation_3.jpg",
-                "prompt": "A close-up shot of a hand placing a white gaming controller onto the wall mount, which is mounted on a light gray textured wall. The wall mount is positioned slightly angled, with its front panel facing forward and slightly to the right. The background behind the mount and controller is a plain, light gray wall with soft, even lighting. The top of the image features a solid lime green horizontal panel, and the bottom features a solid white horizontal panel. All text and promotional copy are ignored."
-            }
-        ]
-    },
-    {
-        "asin": "B094J5RPDB",
-        "title": "Punkston TK104 Mechanical Gaming Keyboard with Metal Panel, RGB Rainbow Backlit, 104 Keys Anti-Ghosting, PC Gaming Wired Keyboard (Blue Switch)",
-        "reference_file": "B094J5RPDB/reference.jpg",
-        "categorical_name": "keyboard",
-        "variation_files": [
-            {
-                "file": "B094J5RPDB/variation_1.jpg",
-                "prompt": "A top-down angled view of the keyboard resting on a dark textured surface, likely a large mousepad, placed on a dark wooden desk. The keyboard is illuminated with vibrant multicolor RGB lighting beneath the keys, casting a glowing effect across the keycaps and frame. The scene is dimly lit, emphasizing the keyboard\u2019s backlighting, with subtle ambient light reflecting off the surface. In the background, partially visible, are dark-toned decorative objects, including what appears to be a figurine with red and metallic accents. The overall mood is moody and atmospheric, with a focus on the keyboard\u2019s glowing presence. The bottom left corner features a plain dark wooden surface, and the entire composition is framed to highlight the keyboard as the central subject."
-            }
-        ]
-    },
-    {
-        "asin": "B0B5FZGQHH",
-        "title": "EG3 Pro Gaming Headset for PC, PS4, Xbox One, Surround Sound Over Ear Headphones with Noise Cancelling Mic, On-Line LED Light/Volume/Mic Control for PC, Playstation 4, Xbox\uff0cNintendo Switch",
-        "reference_file": "B0B5FZGQHH/reference.jpg",
-        "categorical_name": "gaming headset",
-        "variation_files": [
-            {
-                "file": "B0B5FZGQHH/variation_1.jpg",
-                "prompt": "A man viewed from behind wearing a dark jacket and a baseball cap, standing on a high vantage point overlooking a sprawling cityscape with mountains in the distance under a clear blue sky. He is holding a smartphone in his hand, which displays a digital interface with data and targeting lines extending toward a drone flying above the city. The gaming headset is shown in a circular, glowing blue overlay on his head, highlighting the earcup with a translucent, illuminated effect. The background features a detailed urban environment with buildings, a river, and a prominent tower on a hill, all rendered in a cinematic, slightly desaturated style with soft lighting and atmospheric haze. The overall composition has a futuristic, action-oriented tone with a focus on surveillance and advanced technology."
-            }
-        ]
-    },
-    {
-        "asin": "B07KN44KR9",
-        "title": "ECOOPRO Gaming Headsets PS4 Headset for Xbox One PS4 PC, Pro 50mm Driver & Stereo Surround Sound, Updated Noise Cancelling Mic Headphones for PS4, Xbox One S, PC, Nintendo Switch Mac, Laptop (A)",
-        "reference_file": "B07KN44KR9/reference.jpg",
-        "categorical_name": "gaming headset",
-        "variation_files": [
-            {
-                "file": "B07KN44KR9/variation_1.jpg",
-                "prompt": "A man in full camouflage hunting gear, including a cap and jacket, is positioned in a natural woodland environment, partially concealed by tree trunks and green foliage. He is wearing the gaming headset over his ears, with the headset's earcups visible and resting against his head. He holds a compound bow with a mounted scope, positioned across his chest, and is looking intently forward. The background consists of blurred green leaves and tree branches, suggesting a dense forest setting. The lighting is natural daylight, with soft shadows and dappled sunlight filtering through the canopy. The overall scene conveys a realistic outdoor hunting scenario."
-            }
-        ]
-    },
-    {
-        "asin": "B07L6MJ6LD",
-        "title": "Mortal Kombat 11: Premium Edition - Xbox One",
-        "reference_file": "B07L6MJ6LD/reference.jpg",
-        "categorical_name": "video game",
-        "variation_files": [
-            {
-                "file": "B07L6MJ6LD/variation_1.jpg",
-                "prompt": "A dramatic, cinematic close-up of a character in a dark, stormy, otherworldly landscape, wearing a wide-brimmed conical hat and armored red and gold attire, with glowing orange lightning crackling between their outstretched hands and across their chest. The character stands in a powerful, intense pose, eyes glowing with energy, against a backdrop of jagged rock formations, bare trees, and faint silhouettes of traditional East Asian-style architecture shrouded in mist. The lighting is moody and atmospheric, with strong orange and red highlights from the energy effects contrasting against the dark, overcast sky. The scene is rendered in high detail with a photorealistic, game-art style."
-            },
-            {
-                "file": "B07L6MJ6LD/variation_2.jpg",
-                "prompt": "A dynamic action scene featuring a character in a combat stance, surrounded by intense flames and flying embers, standing on a cracked stone ground. The character is wearing a detailed armored outfit with a helmet and mask, holding a weapon with a chain and a glowing triangular object. The background is dark and atmospheric, with silhouettes of trees and structures under a night sky, creating a dramatic and fiery environment. The lighting is high-contrast, with bright orange and yellow flames illuminating the scene from below and around the character, casting sharp shadows and highlighting the metallic textures of the armor. The overall composition is cinematic, centered on the character, with a sense of motion and energy conveyed through the sparks and fire."
-            },
-            {
-                "file": "B07L6MJ6LD/variation_3.jpg",
-                "prompt": "A dynamic action scene set in a gritty, sun-baked desert combat arena with cracked earth and scattered debris. Two characters are engaged in intense close-quarters combat: one on the left in a crouched stance wielding a chain weapon, the other on the right mid-air, recoiling from a powerful strike with visible motion blur and blood splatter effects. The environment features industrial elements like sandbags, metal crates, a large mounted turret with glowing red lights, and a weathered building facade with faded signage. The lighting is dramatic, with strong directional sunlight casting sharp shadows, enhancing the high-contrast, cinematic atmosphere. The overall composition emphasizes motion, impact, and a dark, rugged aesthetic with a warm color palette dominated by browns, oranges,"
-            }
-        ]
-    },
-    {
         "asin": "B0895PT9Y5",
         "title": "NIVAVA K11 Gaming Headset, PS4 Headset with Noise Canceling Microphone, Over-Ear Gaming Headphones with Surround Sound, Soft Earmuff & RGB Light for PC PS5 Nintendo Switch Mac Laptop (Black)",
         "reference_file": "B0895PT9Y5/reference.jpg",
@@ -375,43 +87,7 @@
         "variation_files": [
             {
                 "file": "B0895PT9Y5/variation_1.jpg",
-                "prompt": "A young person with short reddish hair is seated in a gaming chair, wearing the gaming headset, viewed in profile from the front-left angle. The headset is positioned naturally on their head, with the microphone extending toward their mouth. The background is a softly lit room with warm ambient lighting from a yellow lamp on a side table to the left, and cool blue light emanating from the right side, possibly from a monitor or LED strip. A framed picture hangs on the wall behind, and a small potted plant is visible on the table. The overall lighting is moody and cinematic, with highlights on the person\u2019s face and hair, and subtle reflections on the headset. The person is wearing a dark hoodie, and the scene conveys an immersive"
-            }
-        ]
-    },
-    {
-        "asin": "B0BQVLJ3J3",
-        "title": "STOGA Mechanical Gaming Keyboard,87 Keys Wired Gaming Keyboard,LED Rainbow Backlit Keyboard with Blue Switches for Windows/MAC/Gaming PC(Black)",
-        "reference_file": "B0BQVLJ3J3/reference.jpg",
-        "categorical_name": "keyboard",
-        "variation_files": [
-            {
-                "file": "B0BQVLJ3J3/variation_1.jpg",
-                "prompt": "A close-up angled view of the keyboard placed on a dark textured surface, illuminated by vibrant neon lighting. The keyboard is positioned diagonally, with a glowing cyan light strip running along the bottom edge and a magenta light strip along the top edge of the frame. To the right of the keyboard, a pair of black over-ear headphones rests partially in view, and below them, a black gaming mouse with a glowing green circular logo is visible. The overall lighting is dramatic and moody, emphasizing the keyboard\u2019s RGB backlighting and the ambient glow from the surrounding light strips. The background is a solid dark surface with a subtle brushed texture."
-            },
-            {
-                "file": "B0BQVLJ3J3/variation_2.jpg",
-                "prompt": "A wide, curved gaming monitor displaying a vibrant fantasy artwork is positioned on a sleek black desk, illuminated by ambient blue lighting that casts a soft glow across the scene. Below the monitor, the keyboard rests on a large, dark desk mat, centered in the composition. To the left of the keyboard, a pair of over-ear gaming headphones with glowing accents lies casually. To the right, a black gaming mouse with subtle light accents is placed. The background features a gradient of deep blue tones, with a horizontal neon blue light strip running along the wall behind the monitor. The overall lighting is moody and atmospheric, emphasizing the glowing elements of the setup while keeping the focus on the central arrangement of the monitor, keyboard, and peripherals. The keyboard is"
-            }
-        ]
-    },
-    {
-        "asin": "B07BHXMYV6",
-        "title": "Valkyria Chronicles 4: Launch Edition - Nintendo Switch",
-        "reference_file": "B07BHXMYV6/reference.jpg",
-        "categorical_name": "video game",
-        "variation_files": [
-            {
-                "file": "B07BHXMYV6/variation_1.jpg",
-                "prompt": "A wide, horizontal landscape scene featuring a military tank positioned centrally in a vibrant field of colorful wildflowers under a bright blue sky with scattered fluffy white clouds. The tank is shown in profile, with two small figures visible on top \u2014 one standing near the turret and another crouched beside it. The tank has a weathered, olive-green and gray appearance with visible mechanical details and markings, including a small flag attached to an antenna. In the background, distant blue-green hills or mountains stretch across the horizon, with a faint, purple-tinted tower visible on the left side. The foreground is filled with dense, colorful flowers in shades of pink, orange, yellow, and white, rendered with a soft, painterly, watercolor-like texture"
-            },
-            {
-                "file": "B07BHXMYV6/variation_2.jpg",
-                "prompt": "A large military tank is positioned in the foreground, viewed from a low angle, with its treads resting on a grassy field dotted with small wildflowers. The tank has a weathered, metallic appearance with visible rivets, armor plates, and dual cannons mounted on its turret. The background features a bright blue sky with soft, scattered white clouds, and a line of tall green trees along the horizon. Rolling hills and distant mountains are visible in the far background. The entire scene is rendered in a soft, painterly anime art style with gentle lighting and a slightly textured, watercolor-like border framing the image. The environment is peaceful and natural, contrasting with the heavy machinery of the tank."
-            },
-            {
-                "file": "B07BHXMYV6/variation_3.jpg",
-                "prompt": "A multi-panel comic-style layout set against a soft, watercolor-rendered outdoor background of green hills, trees, and a dirt path under a light blue sky. The scene is divided into three distinct rectangular panels with white borders, arranged in a staggered composition: one large panel on the left featuring a character with brown hair and glasses, a medium panel on the right showing a character with dark hair and a red bandana, and a smaller panel above the right one showing the back of a character\u2019s head. All characters are depicted in a detailed anime-inspired art style with expressive faces and military-style clothing. The background behind the panels blends seamlessly with the natural landscape, giving a hand-drawn, sketchy texture around the edges. At the bottom"
+                "prompt": "A young person with short reddish hair is seated in a gaming chair, wearing the gaming headset, viewed in profile from the front-left angle. The headset is positioned naturally on their head, with the microphone extending toward their mouth. The background is a softly lit room with warm ambient lighting from a yellow lamp on a side table to the left, and cool blue light emanating from the right side, possibly from a monitor or LED strip. A framed picture hangs on the wall behind, and a small potted plant is visible on the table. The overall lighting is moody and cinematic, with highlights on the person’s face and hair, and subtle reflections on the headset. The person is wearing a dark hoodie, and the scene conveys an immersive"
             }
         ]
     },
@@ -423,83 +99,7 @@
         "variation_files": [
             {
                 "file": "B07TX9QKGG/variation_1.jpg",
-                "prompt": "A low-angle shot of the keyboard placed on a dark textured surface, illuminated by vibrant RGB lighting along its edges and under the keys, with a soft blue ambient glow emanating from behind the monitor. In the background, a computer monitor displays a software interface with multiple panels showing a keyboard and mouse layout, control settings, and layer options, all set against a dark, slightly blurred backdrop. The monitor\u2019s frame is lit with a blue LED strip along the bottom edge. The overall lighting is dim and moody, emphasizing the glowing keyboard and screen, creating a high-tech, gaming-focused atmosphere. The scene is viewed from a slightly elevated angle, focusing on the keyboard in the foreground with the monitor positioned above and behind it."
-            }
-        ]
-    },
-    {
-        "asin": "B097B6J33F",
-        "title": "JEARLAKON Wireless Controller Compatible with PS4 Bluetooth Gamepad, Wireless Controller with 3.5mm Jack and Double Vibration",
-        "reference_file": "B097B6J33F/reference.jpg",
-        "categorical_name": "wireless game controller",
-        "variation_files": [
-            {
-                "file": "B097B6J33F/variation_1.jpg",
-                "prompt": "A modern flat-screen TV with a slim silver frame and angled metal stand displays a vibrant racing game scene featuring high-speed cars on a coastal road with palm trees and a Ferris wheel in the background. In the foreground, a pair of hands holds the wireless game controller in a natural gaming grip, with thumbs positioned on the analog sticks and fingers resting on the buttons. The controller is shown from a slightly elevated front angle, centered in the lower portion of the frame. The entire composition is set against a clean, plain white background with soft, even lighting that highlights the screen and the hands holding the controller. The TV screen is angled slightly toward the viewer, creating a dynamic perspective. All text and logos on the screen are ignored, leaving only the visual"
-            }
-        ]
-    },
-    {
-        "asin": "B086Z5RF3P",
-        "title": "Corsair Void Elite Surround Premium Gaming Headset with 7.1 Surround Sound, Cherry (Renewed)",
-        "reference_file": "B086Z5RF3P/reference.jpg",
-        "categorical_name": "gaming headset",
-        "variation_files": [
-            {
-                "file": "B086Z5RF3P/variation_1.jpg",
-                "prompt": "A close-up portrait of a man wearing the gaming headset, shown in profile facing left, with dramatic purple and blue lighting illuminating his face and the headset from the side. The background is completely black, creating a high-contrast, moody atmosphere. The headset is positioned naturally on his head, with the microphone arm extending toward his mouth. The lighting casts vibrant purple highlights on his hair and skin, emphasizing the contours of his face and the headset\u2019s form. The overall composition is cinematic and focused, with no text or graphic elements present."
-            },
-            {
-                "file": "B086Z5RF3P/variation_2.jpg",
-                "prompt": "A top-down flat lay composition featuring the gaming headset centered on a dark, textured surface, illuminated by dramatic purple and magenta ambient lighting that casts soft glows on the headset and surrounding objects. The headset is flanked by two gaming controllers \u2014 one on the left and one on the right \u2014 with a handheld gaming console positioned at the bottom center. The background is a solid dark surface with subtle gradients of deep purple and black, creating a moody, high-contrast atmosphere. The lighting emphasizes the edges and contours of the headset and accessories, enhancing their three-dimensional form. The overall scene conveys a modern, immersive gaming environment with a focus on multi-device compatibility."
-            }
-        ]
-    },
-    {
-        "asin": "B09BC13G2X",
-        "title": "Guild Wars 2: End of Dragons Standard [Online Game Code]",
-        "reference_file": "B09BC13G2X/reference.jpg",
-        "categorical_name": "video game",
-        "variation_files": [
-            {
-                "file": "B09BC13G2X/variation_1.jpg",
-                "prompt": "A character stands on the deck of a traditional wooden boat, holding a long pole, facing a calm, reflective blue waterway. The boat features a weathered wooden floor, coiled ropes, a wooden barrel, and a red-and-teal painted railing with ornate patterns. In the background, a serene, floating island town with pagoda-style buildings, white-sailed ships, and lush greenery rises from the water, reflected in the still surface. The scene is bathed in soft, bright daylight with a clear blue sky, creating a tranquil and vibrant atmosphere. The character is positioned on the right side of the frame, viewed from a slightly low angle, emphasizing the expansive environment."
-            }
-        ]
-    },
-    {
-        "asin": "B01MQFJKNB",
-        "title": "EMiO Extension Cable for NES Classic Edition",
-        "reference_file": "B01MQFJKNB/reference.jpg",
-        "categorical_name": "extension cable",
-        "variation_files": [
-            {
-                "file": "B01MQFJKNB/variation_1.jpg",
-                "prompt": "A clean, high-resolution product composition on a plain white background featuring the extension cable coiled neatly in the center, with one end plugged into a classic gray video game console positioned at the top right, and the other end connected to a retro-style game controller placed at the bottom left. The console and controller are shown in full view, with the cable extending between them, illustrating the connection. The lighting is even and studio-like, emphasizing the product\u2019s form and integration with the gaming hardware. The overall layout is balanced and minimal, with no text, logos, or additional graphics present."
-            }
-        ]
-    },
-    {
-        "asin": "B07VWRJTLR",
-        "title": "Storage Carry Case Bag for NES, Waterproof Travel Storage Mini Bag for NES Classic Console & Accessory",
-        "reference_file": "B07VWRJTLR/reference.jpg",
-        "categorical_name": "storage case",
-        "variation_files": [
-            {
-                "file": "B07VWRJTLR/variation_1.jpg",
-                "prompt": "A hand is holding the storage case by its black wrist strap, lifting it slightly against a plain white background. The case is positioned diagonally, showing its top and side surfaces, with the red zipper visible along the edge. The lighting is bright and even, creating soft shadows beneath the case and hand, emphasizing the clean, minimalist studio-style presentation. The composition is centered, with the hand entering from the top of the frame, gripping the strap securely. The background is completely plain and uncluttered, drawing full attention to the product and the action of holding it."
-            }
-        ]
-    },
-    {
-        "asin": "B09FT6YWJF",
-        "title": "eXtremeRate PlayVital Back Cover for Nintendo Switch Console, NS Joycon Handheld Controller Protector Hard Shell, Dockable Protective Case with Purple ABXY Direction Button Caps - Classics SNES Style",
-        "reference_file": "B09FT6YWJF/reference.jpg",
-        "categorical_name": "protective case",
-        "variation_files": [
-            {
-                "file": "B09FT6YWJF/variation_1.jpg",
-                "prompt": "A product shot on a plain white background featuring the protective case in a tabletop stand position, angled slightly to show its back panel with a gray body, two prominent purple-labeled buttons marked \"POWER\" and \"RESET\", and a central \"EJECT\" label. Below the case, two separate controller units are placed side by side, each matching the case\u2019s gray and purple color scheme, with visible analog sticks, directional pads, and action buttons. The overall composition is clean and product-focused, with even studio lighting and no text or branding elements."
+                "prompt": "A low-angle shot of the keyboard placed on a dark textured surface, illuminated by vibrant RGB lighting along its edges and under the keys, with a soft blue ambient glow emanating from behind the monitor. In the background, a computer monitor displays a software interface with multiple panels showing a keyboard and mouse layout, control settings, and layer options, all set against a dark, slightly blurred backdrop. The monitor’s frame is lit with a blue LED strip along the bottom edge. The overall lighting is dim and moody, emphasizing the glowing keyboard and screen, creating a high-tech, gaming-focused atmosphere. The scene is viewed from a slightly elevated angle, focusing on the keyboard in the foreground with the monitor positioned above and behind it."
             }
         ]
     },
@@ -510,64 +110,8 @@
         "categorical_name": "gaming mouse",
         "variation_files": [
             {
-                "file": "B01CJ8SYQ2/variation_1.jpg",
-                "prompt": "A close-up product shot of the gaming mouse positioned on a glossy black reflective surface, angled slightly to the right, with its cable extending diagonally toward the upper right corner. The mouse is illuminated by cool blue internal lighting that glows through its translucent sections, casting a soft reflection on the surface below. In the upper left corner, a portion of a black mechanical keyboard with warm orange backlighting is visible, partially framing the scene. The lighting is dramatic and focused, creating high contrast with deep shadows and sharp highlights on the mouse\u2019s metallic and plastic surfaces. The background is a solid dark black, enhancing the sleek, high-tech aesthetic."
-            },
-            {
                 "file": "B01CJ8SYQ2/variation_2.jpg",
-                "prompt": "A high-angle, close-up shot of the gaming mouse positioned diagonally on a glossy black surface, with its internal blue lighting illuminated and casting reflections. The mouse is partially overlapping a black mechanical keyboard with orange backlighting visible beneath the keys, including the \"CTRL\", \"SHIFT\", and \"CAPSLOCK\" keys. The keyboard is angled from the top-left to the center, creating a dynamic composition. The background is a solid dark surface, enhancing the contrast and focus on the mouse and keyboard. The lighting is dramatic, with highlights on the mouse\u2019s metallic and plastic components, emphasizing its mechanical structure and glowing internals. The overall scene has a sleek, high-tech aesthetic with a shallow depth of field, keeping the mouse and keyboard in sharp focus while"
-            }
-        ]
-    },
-    {
-        "asin": "B07XJY6KS7",
-        "title": "Durgod Taurus K320 TKL Mechanical Gaming Keyboard - 87 Keys - Double Shot PBT Cherry Silent Red / White",
-        "reference_file": "B07XJY6KS7/reference.jpg",
-        "categorical_name": "keyboard",
-        "variation_files": [
-            {
-                "file": "B07XJY6KS7/variation_1.jpg",
-                "prompt": "A top-down angled view of the keyboard placed on a smooth, dark black surface, with soft ambient lighting creating subtle highlights and shadows across its form. In the background, a portion of a sleek, modern monitor is visible, displaying faint, glowing interface elements in light blue and white tones, with a thin illuminated edge along the bottom of the screen. The overall scene has a dark, sophisticated, and minimalist aesthetic, with a focus on clean lines and contrast. The keyboard is positioned slightly off-center, leaving negative space around it, and the lighting emphasizes its shape and contours without revealing any specific branding or text details. The lower portion of the image features a solid black background panel, creating a clean, uncluttered base for the composition."
-            },
-            {
-                "file": "B07XJY6KS7/variation_2.jpg",
-                "prompt": "A top-down view of a workspace featuring the keyboard placed on a textured white woven tablecloth. The keyboard is positioned in front of a closed silver laptop, which rests on a slim laptop stand. To the right of the keyboard lies a magazine with a light-colored cover, and to the left, a black geometric vase holds dried yellow flowers. In the background, a soft pink cylindrical object and a white fabric item are partially visible, with natural light filtering through sheer curtains, creating a bright and airy atmosphere. The scene is shot from a slightly elevated angle, emphasizing the clean, minimalist aesthetic of the setup."
-            },
-            {
-                "file": "B07XJY6KS7/variation_3.jpg",
-                "prompt": "A close-up, angled view of the keyboard resting on a textured white woven fabric surface. The keyboard is positioned diagonally across the frame, with the top-left corner slightly elevated, revealing part of the keycaps and the white frame. The background consists entirely of the intricate, open-weave textile pattern, which extends uniformly across the image. The lighting is soft and diffused, casting gentle shadows beneath the keyboard and highlighting the subtle texture of the fabric and the smooth edges of the keys. The overall composition emphasizes a clean, minimalist aesthetic with a focus on material contrast and natural light."
-            }
-        ]
-    },
-    {
-        "asin": "B07DPKY4XQ",
-        "title": "Overcooked! 2 - Xbox One",
-        "reference_file": "B07DPKY4XQ/reference.jpg",
-        "categorical_name": "video game",
-        "variation_files": [
-            {
-                "file": "B07DPKY4XQ/variation_1.jpg",
-                "prompt": "A top-down view of a split-level, floating wooden kitchen platform suspended in a bright blue sky with fluffy white clouds. The platform is divided into two main cooking areas connected by ropes and bridges, with colorful triangular flags strung across the gaps. Each section features cooking stations with stoves, pots, and ingredients, along with small chef characters actively preparing food. The left side includes a grilling area with smoke rising, while the right side has a central fire pit and a blue square tile marked with the number 5. The platforms are constructed with wooden planks, rope railings, and pipes, giving a rustic, nautical aesthetic. In the bottom corners, there are solid-colored UI panels: a blue panel on the left with a golden"
-            },
-            {
-                "file": "B07DPKY4XQ/variation_2.jpg",
-                "prompt": "A top-down view of a chaotic kitchen environment with a circular wooden cooking station at the center, surrounded by broken tiles and debris. The scene is set in a dimly lit, rustic underground space with wooden beams, stone walls, and scattered lanterns casting warm, golden light. Multiple cooking stations with stoves, plates, and ingredients are arranged around the central area. Two small chef characters are actively cooking on the central platform, with one character near a frying pan and another near a grill, both wearing chef hats and surrounded by food items. Above the scene, a row of five identical order panels displays burger icons and ingredient symbols. In the bottom left corner, a blue rectangular panel shows a coin icon and a numerical score. In the bottom right"
-            },
-            {
-                "file": "B07DPKY4XQ/variation_3.jpg",
-                "prompt": "A top-down view of a Japanese-style restaurant kitchen with a tiled floor, surrounded by small ponds with lily pads and purple flowers. The kitchen features a long counter with cooking stations, including stoves, cutting boards, and ingredient prep areas. Several chef characters are positioned around the kitchen, each standing on a colored circular platform, actively preparing food. The environment includes a stone wall with windows and a tiled roof above, along with decorative elements like hanging lanterns and potted plants. The scene is brightly lit with soft, natural lighting, emphasizing the colorful, cartoonish art style. In the corners, there are solid-colored UI panels: a blue panel in the bottom left and a blue panel in the bottom right, both with plain, empty shapes"
-            }
-        ]
-    },
-    {
-        "asin": "B09HPGB4H7",
-        "title": "Cooler Master MM711 Blue Steel Limited Edition Gaming Mouse with Lightweight Honeycomb Shell, Ultraweave Cable, 16000 DPI Optical Sensor, and RGB Accents",
-        "reference_file": "B09HPGB4H7/reference.jpg",
-        "categorical_name": "gaming mouse",
-        "variation_files": [
-            {
-                "file": "B09HPGB4H7/variation_1.jpg",
-                "prompt": "A close-up shot of a hand gripping the gaming mouse from the right side, with fingers naturally wrapped around its body and thumb resting on the left side. The mouse is positioned diagonally, angled slightly upward from left to right, with its cord extending from the rear left. The hand is shown in soft, natural lighting with subtle shadows defining its contours, and the background is a clean, plain white. The composition focuses on the ergonomic fit, emphasizing the interaction between the hand and the product, with the mouse\u2019s shape conforming to the hand\u2019s curve. The image has a soft, slightly translucent overlay effect on the hand, giving it a semi-transparent, ghosted appearance that highlights the mouse\u2019s form beneath."
+                "prompt": "A high-angle, close-up shot of the gaming mouse positioned diagonally on a glossy black surface, with its internal blue lighting illuminated and casting reflections. The mouse is partially overlapping a black mechanical keyboard with orange backlighting visible beneath the keys, including the \"CTRL\", \"SHIFT\", and \"CAPSLOCK\" keys. The keyboard is angled from the top-left to the center, creating a dynamic composition. The background is a solid dark surface, enhancing the contrast and focus on the mouse and keyboard. The lighting is dramatic, with highlights on the mouse’s metallic and plastic components, emphasizing its mechanical structure and glowing internals. The overall scene has a sleek, high-tech aesthetic with a shallow depth of field, keeping the mouse and keyboard in sharp focus while"
             }
         ]
     },
@@ -584,54 +128,6 @@
         ]
     },
     {
-        "asin": "B09WK7S7R2",
-        "title": "Acer Predator Galea 350 Gaming Headset with 7.1 Surround Sound, Unidirectional Noise-Cancelling Mic, Compatible with PC, Xbox One, PS4",
-        "reference_file": "B09WK7S7R2/reference.jpg",
-        "categorical_name": "gaming headset",
-        "variation_files": [
-            {
-                "file": "B09WK7S7R2/variation_1.jpg",
-                "prompt": "A close-up shot of a person wearing the gaming headset, viewed from a slightly low angle, with the headset positioned over their head and the boom microphone extending toward their mouth. The person is wearing glasses and has a dynamic, intense expression with an open mouth, suggesting shouting or excited communication. The background is dark and moody, illuminated with dramatic blue and purple lighting, creating a high-contrast, cinematic atmosphere. Diagonal glowing teal lines accent the left and right edges of the frame, adding a futuristic, tech-inspired visual element. The overall lighting emphasizes the subject\u2019s face and the headset, with soft highlights on the earcups and microphone. The composition focuses tightly on the upper body and face, with the headset clearly visible as part of the"
-            }
-        ]
-    },
-    {
-        "asin": "B08H1ZHR88",
-        "title": "GeekShare Protective Case for Nintendo Switch, Soft TPU Slim Case Cover Compatible with Nintendo Switch Console and Joy-Con (Wear Manual)",
-        "reference_file": "B08H1ZHR88/reference.jpg",
-        "categorical_name": "protective case",
-        "variation_files": [
-            {
-                "file": "B08H1ZHR88/variation_1.jpg",
-                "prompt": "A top-down flat lay composition featuring the protective case in a closed position, angled diagonally across a soft pink surface scattered with tiny silver stars, small white beads, and delicate fabric textures. The case displays a whimsical, illustrated design on its back with lined notebook paper background, featuring a cartoon girl, clothing items, accessories, and playful doodles. To the right, one Joy-Con controller is placed separately, showing its side with polka dots and small decorative elements. Surrounding the case are light pink striped socks and sheer pink fabric, enhancing the soft, feminine aesthetic. The lighting is bright and even, creating a clean, dreamy, and pastel-themed product presentation."
-            },
-            {
-                "file": "B08H1ZHR88/variation_2.jpg",
-                "prompt": "A top-down lifestyle composition featuring the protective case in a detached setup, with the main console body lying flat and the two Joy-Con controllers placed separately beside it. The console is positioned diagonally, showcasing its back panel decorated with a whimsical illustrated design on a lined notebook paper background, including a cartoon girl, clothing items, a backpack, clouds, hearts, and doodles. The controllers are arranged nearby, each featuring a light pink base with white polka dots and small decorative motifs. The entire scene is set on a soft, textured pink surface scattered with tiny silver stars, white beads, and delicate fabric elements like sheer tulle and striped socks. A pink cap with star patterns and a pen with a star-shaped grip are partially visible in the"
-            },
-            {
-                "file": "B08H1ZHR88/variation_3.jpg",
-                "prompt": "A top-down flat lay composition featuring the protective case closed and centered on a soft, textured pink background scattered with tiny silver star glitter and small white pearl-like beads. The case is surrounded by delicate pink fabric elements, including a folded striped sock with white stripes and a fluffy pink fabric piece, arranged naturally around the edges. The lighting is soft and even, creating a gentle, dreamy aesthetic with subtle shadows. The overall color palette is cohesive, dominated by pastel pink tones with light accents."
-            }
-        ]
-    },
-    {
-        "asin": "B08P3D184H",
-        "title": "PS4 Gaming Headset for PC, Xbox One, PS5, PHOINIKAS G2000 Wired Over Ear Headphones with Detachable Noise Cancelling Mic, Bluetooth Wireless Earphones for Phone, Tablet, One-Click 7.1 Sound, Up to 12h",
-        "reference_file": "B08P3D184H/reference.jpg",
-        "categorical_name": "gaming headset",
-        "variation_files": [
-            {
-                "file": "B08P3D184H/variation_1.jpg",
-                "prompt": "A top-down view of a dark wooden desk surface featuring the gaming headset placed centrally, resting on a black mechanical keyboard with visible keycaps. To the left of the headset lies a smartphone displaying a colorful game interface, and to the right, a blue and black handheld gaming console is partially visible. In the bottom foreground, a black game controller is positioned diagonally. The headset\u2019s cable extends from the earcup toward the bottom left of the frame. The overall lighting is soft and diffused, casting subtle shadows and highlighting the textures of the desk and surrounding objects. The background consists of the dark wood grain surface, with no text, logos, or placeholder elements included."
-            },
-            {
-                "file": "B08P3D184H/variation_2.jpg",
-                "prompt": "A gaming headset is displayed on a sleek, angular black stand with a metallic finish, positioned on a dark blue surface. The headset is shown from a three-quarter rear view, highlighting its angular design and reflective surfaces. To the left, a portion of a black mechanical keyboard with red backlighting is visible, slightly out of focus. In the background, a blurred gaming setup includes a monitor displaying a colorful, vibrant game scene with a glowing green and yellow object, and a shelf with various gaming-related items, including spray cans and a box with orange and white labeling. The overall lighting is dramatic and moody, with cool blue tones dominating the scene and subtle highlights reflecting off the headset and stand. The background is softly blurred, drawing focus to the headset"
-            }
-        ]
-    },
-    {
         "asin": "B09JK8D5DL",
         "title": "Cubilux AM-C1 Game Audio & Chat Mixer for Mixing Gameplay Audio (Gaming Console/Controller) and Voice Chat (USB C Phone Laptop) to 1 Headset, Compatible with Switch Xbox One/360 PS4/PS5 Discord",
         "reference_file": "B09JK8D5DL/reference.jpg",
@@ -639,11 +135,7 @@
         "variation_files": [
             {
                 "file": "B09JK8D5DL/variation_1.jpg",
-                "prompt": "A top-down view of a clean, minimalist workspace with a silver laptop on the left, partially visible with a dark screen displaying a mountain landscape, and a black smartphone positioned diagonally above it. The smartphone screen shows an incoming call interface with circular icons and a red call button, connected via a black cable to the audio mixer, which is plugged into the phone\u2019s USB-C port. The audio mixer is oriented horizontally and connected to a black wired headset with a boom microphone, resting in the bottom right corner. The headset is plugged into the mixer\u2019s audio output port. The entire setup rests on a smooth, light-gray surface under soft, even lighting. The background is a plain, solid light beige with no text, logos, or placeholder elements."
-            },
-            {
-                "file": "B09JK8D5DL/variation_2.jpg",
-                "prompt": "A top-down product setup scene on a smooth, light gray surface with a soft gradient blue background. A handheld gaming console with orange and teal Joy-Con controllers is positioned diagonally across the upper portion of the frame, with its USB-C port connected via a black cable to the audio mixer. The audio mixer is plugged into the bottom of a smartphone, which displays an active call interface with a green circular icon and control buttons. A black wired headset with padded ear cups and a microphone boom is placed in the lower-left corner, connected to the audio mixer via another black cable. The overall lighting is soft and even, casting subtle shadows, creating a clean and modern tech product demonstration layout."
+                "prompt": "A top-down view of a clean, minimalist workspace with a silver laptop on the left, partially visible with a dark screen displaying a mountain landscape, and a black smartphone positioned diagonally above it. The smartphone screen shows an incoming call interface with circular icons and a red call button, connected via a black cable to the audio mixer, which is plugged into the phone’s USB-C port. The audio mixer is oriented horizontally and connected to a black wired headset with a boom microphone, resting in the bottom right corner. The headset is plugged into the mixer’s audio output port. The entire setup rests on a smooth, light-gray surface under soft, even lighting. The background is a plain, solid light beige with no text, logos, or placeholder elements."
             },
             {
                 "file": "B09JK8D5DL/variation_3.jpg",
@@ -663,87 +155,7 @@
             },
             {
                 "file": "B0BT263ZT9/variation_2.jpg",
-                "prompt": "A front-facing view of the game controller resting on a dark textured desk surface, positioned centrally in front of a white mechanical keyboard with subtle blue backlighting. Behind the keyboard, a modern computer monitor with a thick black bezel displays a vibrant abstract background featuring bold geometric shapes in bright cyan, orange, and red tones. The scene is illuminated with soft, even lighting that highlights the controller\u2019s form and creates gentle shadows on the desk. The overall composition is clean and focused, with the controller as the central subject against a layered, colorful tech environment."
-            }
-        ]
-    },
-    {
-        "asin": "B07Y8CHPJB",
-        "title": "ASHATA Bluetooth Gamepad,Portable Wireless Bluetooth Game Controller,Mini Gamepad,Joystick Handle Remote Shutter,Compatible with Android/iOS, Cellphone,Tablets, PC, etc(Black)",
-        "reference_file": "B07Y8CHPJB/reference.jpg",
-        "categorical_name": "gamepad",
-        "variation_files": [
-            {
-                "file": "B07Y8CHPJB/variation_1.jpg",
-                "prompt": "A split-screen composition featuring the gamepad positioned diagonally on the right side, resting on a solid yellow background panel that transitions into a solid blue background panel at the bottom. On the left side, a smartphone is displayed vertically on a white background, with a faint reflection visible beneath it. Behind the phone, stylized black musical notes and staff lines curve upward and to the left, creating a dynamic visual element. The gamepad is angled to show its top surface and right side, with soft, even lighting highlighting its contours. The overall scene is clean and modern, with a focus on the product and the phone, emphasizing their interaction within a vibrant, two-tone color scheme."
-            },
-            {
-                "file": "B07Y8CHPJB/variation_2.jpg",
-                "prompt": "A small black gamepad rests diagonally on top of a silver smartphone, which displays a fantasy battle scene featuring a warrior and a dragon. The phone lies flat on a light wooden surface with visible grain and plank lines. The gamepad is positioned with its left side near the bottom left of the phone and its right side extending toward the top right, partially covering the screen. The lighting is soft and natural, casting subtle shadows beneath the phone and gamepad. The background is entirely composed of the wooden surface, with no text, logos, or graphic overlays present."
-            }
-        ]
-    },
-    {
-        "asin": "B072BX7H6Q",
-        "title": "F1 2017 Special Edition - PlayStation 4",
-        "reference_file": "B072BX7H6Q/reference.jpg",
-        "categorical_name": "video game",
-        "variation_files": [
-            {
-                "file": "B072BX7H6Q/variation_1.jpg",
-                "prompt": "A Formula 1 race car viewed from a low front-three-quarter angle, speeding along a racetrack. The car is positioned in motion, with motion blur on the track surface and background. The environment features a grandstand with a modern architectural design on the left, green trackside barriers with yellow logos, and a cloudy sky above. The track is dark asphalt with white edge lines, and the surrounding area includes trees and distant structures. The lighting is natural daylight with soft shadows, creating a dynamic and immersive racing scene. The car is shown in full detail, with its aerodynamic body, large front and rear wings, exposed suspension, and wide tires clearly visible. The driver is seated in the cockpit, wearing a helmet, with the cockpit canopy"
-            }
-        ]
-    },
-    {
-        "asin": "B087LSSNG1",
-        "title": "Xenoblade Chronicles: Definitive Edition - Nintendo Switch",
-        "reference_file": "B087LSSNG1/reference.jpg",
-        "categorical_name": "video game",
-        "variation_files": [
-            {
-                "file": "B087LSSNG1/variation_1.jpg",
-                "prompt": "Three characters stand on a mossy cliff overlooking a vast, cascading waterfall landscape under a cloudy sky. The scene is viewed from behind, with the characters positioned in a slight arc, facing the expansive waterfalls that flow down layered cliffs into a misty valley below. The environment is lush and green, with scattered vegetation on the cliff edge and distant rock formations partially shrouded in fog. The lighting is soft and diffused, with a cool blue and gray tone dominating the sky and water. The overall atmosphere is serene and epic, emphasizing the scale of the natural environment. The characters are shown in full-body view, wearing detailed armor and carrying weapons, standing still as if observing the view. The background features multiple tiers of waterfalls and distant"
-            },
-            {
-                "file": "B087LSSNG1/variation_2.jpg",
-                "prompt": "A wide, cinematic in-game scene showing two characters running through a lush, open grassy field under a bright blue sky with scattered clouds. In the foreground, one character is seen from behind, carrying a large, futuristic sword on their back, moving forward along a dirt path. Another character follows further ahead. The landscape features towering, floating rock formations covered in green vegetation, with sheer cliffs and distant mountains creating a dramatic, expansive backdrop. The lighting is natural daylight, casting soft shadows and highlighting the vibrant greens of the grass and the rugged textures of the stone. The environment is detailed with tall grasses, wildflowers, and rocky outcrops, giving a sense of depth and scale. The overall composition is dynamic and immersive, capturing a moment"
-            },
-            {
-                "file": "B087LSSNG1/variation_3.jpg",
-                "prompt": "A close-up action shot of a character with blonde hair gripping a red and blue energy-infused weapon, viewed from a low angle with a glowing blue circular element in the foreground. In the background, another character with long dark hair stands slightly out of focus, holding a mechanical device, set against a rocky, mountainous landscape under a bright sky. The scene is framed by a plain white border at the top and bottom, with no text, logos, or additional graphic elements present."
-            }
-        ]
-    },
-    {
-        "asin": "B0BGBHSYNW",
-        "title": "PDP Wired Game Controller - Xbox Series X|S, Xbox One, PC/Laptop Windows 10, Steam Gaming Controller - USB - Advanced Audio Controls - Dual Vibration Videogame Gamepad - Crimson Red",
-        "reference_file": "B0BGBHSYNW/reference.jpg",
-        "categorical_name": "game controller",
-        "variation_files": [
-            {
-                "file": "B0BGBHSYNW/variation_1.jpg",
-                "prompt": "Close-up shot of two hands gripping the game controller, actively using the analog sticks and buttons, with fingers positioned for gameplay. The controller is connected by a cable that extends toward the background. In the blurred background, a keyboard is visible, suggesting a desktop gaming setup. The scene is illuminated with vibrant neon lighting, casting a dominant blue and magenta glow across the hands, controller, and surface. The overall atmosphere is dynamic and immersive, emphasizing an intense gaming moment. The background surface is dark and slightly reflective, enhancing the glow from the lighting."
-            }
-        ]
-    },
-    {
-        "asin": "B08QH3BSD5",
-        "title": "Persona 5 Strikers (PS4)",
-        "reference_file": "B08QH3BSD5/reference.jpg",
-        "categorical_name": "video game",
-        "variation_files": [
-            {
-                "file": "B08QH3BSD5/variation_1.jpg",
-                "prompt": "A dynamic in-game action scene from the video game, viewed from an isometric perspective, showing multiple characters engaged in combat on a dark cobblestone battlefield. The environment features a vibrant, fiery red and purple background with glowing vertical light streaks and a large, shadowy silhouette of a creature above. Bright energy effects and motion trails burst across the center as characters unleash attacks. One character in a dark, flowing coat is in a crouched stance in the foreground, while another in a purple outfit stands nearby. Several smaller character icons with health bars float near the bottom left, accompanied by a large, stylized portrait of a character with a blue and purple winged design. The bottom of the screen displays a row of action buttons labeled with"
-            },
-            {
-                "file": "B08QH3BSD5/variation_2.jpg",
-                "prompt": "A group of animated characters is gathered in a dense, shadowy jungle environment, surrounded by large green leaves and thick foliage. The central figure is a young man with black hair and glasses, wearing a dark jacket over a light collared shirt, looking directly forward with a serious expression. Behind and around him are several other characters: a girl with short red hair and glasses, a girl with long silver hair and sunglasses perched on her head, a boy with spiky blonde hair, a girl with short black hair, and a girl with curly gray hair. A black cat with blue eyes and a yellow collar is peeking out from behind the central figure. The lighting is dim and moody, with soft highlights on the characters' faces and"
-            },
-            {
-                "file": "B08QH3BSD5/variation_3.jpg",
-                "prompt": "A vibrant, in-game interior scene set inside a retro-style van with a checkered black-and-white floor, red upholstered seating, and a green kitchenette on the left. The space is populated with multiple animated characters in casual attire, positioned naturally around the van: one seated at the kitchen counter, another standing near the back, a few seated at tables, and one lounging on an upper bunk bed. A black cat rests on a table near the center. The lighting is bright and natural, simulating daylight coming through the windows, which show a blurred outdoor street scene with parked vehicles. On the left side, a cluster of stylized, road-sign-shaped menu options is displayed, each with bold white text on black backgrounds, arranged vertically"
+                "prompt": "A front-facing view of the game controller resting on a dark textured desk surface, positioned centrally in front of a white mechanical keyboard with subtle blue backlighting. Behind the keyboard, a modern computer monitor with a thick black bezel displays a vibrant abstract background featuring bold geometric shapes in bright cyan, orange, and red tones. The scene is illuminated with soft, even lighting that highlights the controller’s form and creates gentle shadows on the desk. The overall composition is clean and focused, with the controller as the central subject against a layered, colorful tech environment."
             }
         ]
     }
