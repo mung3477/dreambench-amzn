@@ -11,9 +11,12 @@ logger = logging.getLogger(__name__)
 GROUND_TRUTH_DIR = "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark/wordy"
 TARGET_DIRS = [
     "/root/Desktop/workspace/woosung/commercial-dreambench/assets/data/amzn",
+    "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/original",
     "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/diptych",
     "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/flux-kontext",
-    "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/qwen-image-edit"
+    "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/qwen-image-edit",
+    "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/noised-0.25x/masked-opencv",
+    "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/noised-0.5x/masked-ocr-1.0"
 ]
 
 def load_ground_truth_metadata():
@@ -110,13 +113,13 @@ def scan_and_clean(gt_categories, execute=False):
                             continue
 
                         var_match = re.match(r'^variation_(.+)\.(jpg|txt)$', filename)
-                        gt_match = re.match(r'^gt_variation_(.+)\.jpg$', filename)
+                        gt_match = re.match(r'^(gt|GT)_variation_(.+)\.jpg$', filename)
 
                         suffix = None
                         if var_match:
                             suffix = var_match.group(1)
                         elif gt_match:
-                            suffix = gt_match.group(1)
+                            suffix = gt_match.group(2)
 
                         if suffix is not None:
                             expected_var_jpg = f"variation_{suffix}.jpg"
