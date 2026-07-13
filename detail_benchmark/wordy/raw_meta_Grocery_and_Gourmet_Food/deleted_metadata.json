@@ -124,6 +124,16 @@
             "title": "Mutti Parma Sauce for Pizza with Parmigiano Reggiano Cheese, 14 oz. | Italy’s #1 Brand of Tomatoes | Pack of 6 | Tomato Sauce for Pizza | Vegan Friendly & Gluten Free | No Additives or Preservatives",
             "reference_file": "B08GWXLRW4/reference.jpg",
             "deleted_at": "2026-07-13T12:28:40.634738"
+        },
+        "B07J6P1X76": {
+            "title": "Orion Korean Snack TURTLE CHIPS 꼬북칩 80g (Pack of 7)",
+            "reference_file": "B07J6P1X76/reference.jpg",
+            "deleted_at": "2026-07-13T21:50:19.642871"
+        },
+        "B06XF4PZP7": {
+            "title": "Grow A Pear Handcrafted Prickly Pear Syrup 9 oz",
+            "reference_file": "B06XF4PZP7/reference.jpg",
+            "deleted_at": "2026-07-13T21:54:06.590148"
         }
     },
     "deleted_variations": {
@@ -489,6 +499,30 @@
                 "prompt": "A chef in a white chef’s coat and red apron is spreading the pizza sauce onto a raw pizza base with a metal spoon. The scene takes place in a professional kitchen with a stainless steel countertop. In the foreground, there is a metal bowl filled with red sauce, a pile of white flour, and a can of the product partially visible on the left. To the right, a stack of similar cans is visible. In the background, a brick oven and kitchen equipment are slightly out of focus. The lighting is warm and natural, highlighting the action of sauce application. The overall composition is dynamic, focused on the hands and the pizza-making process, with a shallow depth of field that blurs the background. The background behind the chef is",
                 "hash": "3196173f9b313d49a18392d99a2d59c7",
                 "deleted_at": "2026-07-13T12:28:40.635129"
+            }
+        ],
+        "B07J6P1X76": [
+            {
+                "file": "B07J6P1X76/variation_1.jpg",
+                "prompt": "A single bag of the potato chips rests diagonally on a light wooden tray, positioned on a white-washed wooden surface. The bag features a bright lime green and white design with bold black text and a cartoon turtle character in a bow tie, set against a blue comic-style background. To the right of the bag, a small gray bowl filled with the potato chips sits on the tray. The chips are light yellow, ridged, and curled in shape. The overall lighting is soft and natural, highlighting the textures of the bag and the chips. The composition is clean and minimal, with the focus on the product and its presentation.",
+                "hash": "0d2ab7364dd8bd9c54b904b67a12bda2",
+                "deleted_at": "2026-07-13T21:50:19.643575"
+            }
+        ],
+        "B06XF4PZP7": [
+            {
+                "file": "B06XF4PZP7/variation_1.jpg",
+                "prompt": "A tall champagne flute filled with a vibrant red bubbly drink sits on a speckled granite countertop, positioned to the left. In the center is a dark green bottle of champagne with a cream-colored label and foil neck, standing upright. To the right is a clear glass bottle of the syrup, partially filled with dark red liquid, placed at a slight angle. The background shows a white interior door and light-colored walls, softly blurred. The lighting is warm and natural, suggesting an indoor setting with ambient light. The composition is a close-up, slightly angled shot focusing on the three items arranged side by side on the countertop.",
+                "hash": "bf7c74110ba93e3488410b7f8cd4b9b0",
+                "deleted_at": "2026-07-13T21:54:06.592055"
+            }
+        ],
+        "B07P61CM2H": [
+            {
+                "file": "B07P61CM2H/variation_3.jpg",
+                "prompt": "A top-down view of a coffee-making setup on a plain white surface. A black drip coffee maker with a glass carafe is positioned on the left, with ground coffee visible in the filter basket. To the right of the coffee maker is a yellow ceramic mug with a decorative patterned rim, filled with dark brewed coffee. In the foreground, angled diagonally, is a white coffee bag with a colorful pixelated border at the top and bottom, a red wax seal design near the top, black mountain silhouettes in the center, and a rectangular information panel at the bottom. The bag is placed next to the coffee maker and mug, suggesting a fresh brew. The lighting is bright and even, creating soft shadows and highlighting the glossy surfaces of",
+                "hash": "a248da53e96430f3c80b201fc1692337",
+                "deleted_at": "2026-07-13T21:54:34.914766"
             }
         ]
     }

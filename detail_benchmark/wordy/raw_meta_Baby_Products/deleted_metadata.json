@@ -164,6 +164,16 @@
             "title": "Living Textiles Muslin Jacquard Grey Elephant Soft Baby Blanket Reversible Premium Cotton for Best Comfort | Double Layer,Swaddle,Receiving,Infant,Toddler,Newborn,Nursery,Boy,Girl,Gift | 40x30 Inch",
             "reference_file": "B07D49WK2N/reference.jpg",
             "deleted_at": "2026-07-13T12:22:58.232092"
+        },
+        "B004W3SZ7Q": {
+            "title": "Healthy Habits Kids Myplate",
+            "reference_file": "B004W3SZ7Q/reference.jpg",
+            "deleted_at": "2026-07-13T21:49:10.429482"
+        },
+        "B06WVJ7CZN": {
+            "title": "PMLAND Premium Quality Airport Gate Check Bag for Car Seats with Backpack Style Shoulder Strape and Drawstring Ballistic Nylon (Blue)",
+            "reference_file": "B06WVJ7CZN/reference.jpg",
+            "deleted_at": "2026-07-13T21:49:32.612091"
         }
     },
     "deleted_variations": {
@@ -653,6 +663,34 @@
                 "prompt": "A joyful baby wrapped in the baby blanket is being lifted high into the air by an adult, viewed from a low angle looking up. The baby is laughing with an open mouth, arms slightly bent, and legs bent at the knees. The adult, seen from the back and side, has long dark hair and is wearing a navy blue long-sleeve top. The blanket drapes loosely around the baby’s body, with its edges visible and flowing naturally. The setting is a bright, modern indoor space with white walls, large windows letting in natural light, and soft, even lighting throughout the scene. The background is clean and minimal, with no visible text, logos, or decorative elements.",
                 "hash": "58cb55a841c5fc4f8a3273c2c10c769b",
                 "deleted_at": "2026-07-13T12:22:58.235036"
+            }
+        ],
+        "B004W3SZ7Q": [
+            {
+                "file": "B004W3SZ7Q/variation_1.jpg",
+                "prompt": "A top-down view of the divided plate with a red rim and white interior, placed on a plain white surface. The plate is divided into three sections: the top left section contains cooked brown rice, the top right section holds glazed chicken pieces, and the bottom section is filled with green beans, green grapes, sliced strawberries, and blueberries. The food is arranged neatly within each compartment. The lighting is bright and even, creating soft reflections on the glossy surface of the plate. The background is a solid, plain white with no text, logos, or additional graphics.",
+                "hash": "175ec1cb3e7ec773eeb6054585edb6dd",
+                "deleted_at": "2026-07-13T21:49:10.430530"
+            },
+            {
+                "file": "B004W3SZ7Q/variation_2.jpg",
+                "prompt": "A divided plate with a red rim is shown from a slightly elevated angle, resting on a dark, textured surface. The plate is filled with food: one compartment contains a roasted chicken leg, another holds a piece of flatbread, and the third is filled with a salad of shredded cabbage, orange segments, and sliced almonds. The lighting is natural and warm, casting soft shadows and highlighting the textures of the food. The background is dark and plain, keeping the focus on the plate and its contents.",
+                "hash": "24c6a0b2edb3358269f3431416762052",
+                "deleted_at": "2026-07-13T21:49:10.431620"
+            }
+        ],
+        "B06WVJ7CZN": [
+            {
+                "file": "B06WVJ7CZN/variation_1.jpg",
+                "prompt": "A person viewed from the back, wearing a gray t-shirt and dark shorts with white diagonal stripes, carrying the carry bag on their shoulders. The bag is positioned diagonally across the back, with its top opening gathered and secured, and a black strap visible on the side. The background is plain white. The lighting is bright and even, highlighting the bag’s form and the person’s posture. The overall composition is clean and focused on the product in use.",
+                "hash": "8f34e0dcec236ce448fc56f356c3f224",
+                "deleted_at": "2026-07-13T21:49:32.612491"
+            },
+            {
+                "file": "B06WVJ7CZN/variation_2.jpg",
+                "prompt": "A person is shown from the waist down, wearing a gray t-shirt and dark patterned pants, holding the carry bag by its black top handle. The bag is positioned diagonally in the frame, slightly angled to the right, with its full volume visible. The background is plain white, creating a clean, studio-style presentation. The lighting is bright and even, highlighting the bag’s smooth, slightly reflective surface and natural folds. The person’s hand grips the handle firmly, suggesting the bag is being carried or lifted. All text, logos, and promotional elements are ignored, leaving only the visual composition of the person holding the bag against the white background.",
+                "hash": "39afcf55694ee819cc96522a3032a97e",
+                "deleted_at": "2026-07-13T21:49:32.612734"
             }
         ]
     }
