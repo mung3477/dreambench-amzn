@@ -154,6 +154,11 @@
             "title": "Bluebonnet Nutrition Beautiful Ally Collagen Powder, Hydrolyzed Collagen from Grass Fed Cows, Collagen Peptides Type 1 & 3, Non GMO, Gluten Free, Soy Free, Milk Free, 28 Servings, Unsweetened, 6.9 Oz",
             "reference_file": "B008DQGKV6/reference.jpg",
             "deleted_at": "2026-07-12T23:53:41.757540"
+        },
+        "B073ZVCMGG": {
+            "title": "John Lennon Glasses Hippy 60's Vintage Retro Round Sunglasses & Clear Lens",
+            "reference_file": "B073ZVCMGG/reference.jpg",
+            "deleted_at": "2026-07-15T12:21:55.504098"
         }
     },
     "deleted_variations": {
@@ -415,6 +420,12 @@
                 "prompt": "A close-up shot of a hand holding two small, light-colored capsules in the palm, with soft, natural lighting highlighting the texture of the skin and the smooth surface of the capsules. In the softly blurred background, a portion of a white product box with a large orange and yellow floral design is visible, along with a blister pack of similar capsules scattered on a light, neutral surface. The composition focuses on the hand and capsules in sharp detail, while the background elements remain out of focus, creating a shallow depth of field that emphasizes the product in use. The overall scene conveys a clean, natural, and health-conscious aesthetic.",
                 "hash": "dbbd42d3281a3e4c2241d537eead8d1d",
                 "deleted_at": "2026-07-12T23:52:39.953848"
+            },
+            {
+                "file": "B09K4VP9TC/variation_3.jpg",
+                "prompt": "A white ceramic bowl filled with creamy yogurt, topped with vibrant orange slices, peach wedges, and scattered red goji berries, sits on a light gray plate. A silver spoon holding more goji berries rests beside the bowl. A fresh white daisy with a yellow center lies next to the bowl, adding a natural touch. In the background, slightly out of focus, is a box of the probiotic supplement, positioned diagonally with its front facing the viewer. The box is placed on a wooden surface, partially visible, with a large green leafy plant softly blurred in the background, creating a fresh, natural ambiance. The lighting is soft and diffused, highlighting the textures and colors of the food and the product, giving the scene a",
+                "hash": "8d878285503360450eaa0c6ec0be2ff2",
+                "deleted_at": "2026-07-15T12:22:24.515018"
             }
         ],
         "B08ZLVLR89": [
@@ -565,6 +576,14 @@
                 "prompt": "A top-down view of a white tabletop with soft, natural lighting. In the center, a white ceramic mug filled with a light brown beverage, topped with frothed milk featuring a heart-shaped latte art design. To the left, a small white plate holds a dark, textured muffin or baked good. A silver spoon lies diagonally across the table, with a small amount of white powder resting on its bowl. In the bottom right corner, the collagen powder container is placed at a slight angle, partially visible. The background is a plain white surface with a folded white cloth or napkin adding subtle texture. The overall composition is clean and minimal, with a warm, inviting atmosphere.",
                 "hash": "3bd223fb8c0c2259b70954a063122628",
                 "deleted_at": "2026-07-12T23:53:41.758242"
+            }
+        ],
+        "B073ZVCMGG": [
+            {
+                "file": "B073ZVCMGG/variation_1.jpg",
+                "prompt": "The sunglasses are positioned diagonally across a dark brown textured case with a pebbled surface, resting on a plain white background. The case has a visible gray fabric lining along one edge and a small black tag attached to the corner, though the tag’s text is ignored. The sunglasses are angled slightly, with the left lens overlapping the case more than the right, and the temple tips are visible extending outward. The lighting is bright and even, creating soft reflections on the lenses and subtle shadows beneath the case and sunglasses. The overall composition is clean and minimal, emphasizing the product and its accompanying case.",
+                "hash": "9a6229c6c1f19cd61d8e9dce37cabb6f",
+                "deleted_at": "2026-07-15T12:21:55.505238"
             }
         ]
     }

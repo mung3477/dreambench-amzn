@@ -134,6 +134,11 @@
             "title": "CP 2-In-1 Hard Hybrid Silicone Case with Diamond Stud for Huawei Tribute/Y536A1 - Non-Retail Packaging - Red/Black",
             "reference_file": "B00SX5JWSK/reference.jpg",
             "deleted_at": "2026-07-12T11:23:19.143803"
+        },
+        "B019LF8NVM": {
+            "title": "Galaxy S7 Edge Armor Holster Case, OEAGO Samsung Galaxy S7 Edge [Drop Protection] [Heavy Duty] Defender Full Body Protective Hybrid Case Cover with Belt Clip for Samsung Galaxy S7 Edge - Black",
+            "reference_file": "B019LF8NVM/reference.jpg",
+            "deleted_at": "2026-07-15T12:04:09.672357"
         }
     },
     "deleted_variations": {
@@ -467,6 +472,14 @@
                 "prompt": "A front-facing view of a smartphone with a black screen displaying a grid of colorful app icons, including Account Balance, Alarm, AT&T DriveMode, Browser, Calculator, Calendar, Call log, Camera, Chrome, Contacts, Data Balance, Device Help, Downloads, Email, Facebook, Famo, and File Manager. The phone has a black bezel with red side accents and a black protective case with rounded corners. The top of the screen shows status indicators including AT&T network, Wi-Fi, battery, and time reading 9:59 PM. The bottom of the screen features three navigation buttons: back, home, and menu. The phone is centered against a plain white background with even, neutral lighting.",
                 "hash": "ef779820087bb1b6b87ba52b6b2ab018",
                 "deleted_at": "2026-07-12T11:23:19.144100"
+            }
+        ],
+        "B019LF8NVM": [
+            {
+                "file": "B019LF8NVM/variation_1.jpg",
+                "prompt": "A dynamic product display featuring the phone case in two distinct views against a clean, plain white background. The top portion shows the phone case fitted onto a smartphone, angled slightly upward to reveal the front screen with a colorful, abstract wallpaper and the phone’s bezel. The bottom portion presents a side perspective of the phone case, with its built-in kickstand fully extended and propped open, showcasing the case’s rugged, textured back design and structural details. The case is shown in a dark, uniform tone with visible ridges and reinforced edges. The overall composition is minimalist, with soft, even lighting that highlights the form and functionality of the product without any text, logos, or additional graphics.",
+                "hash": "ec4f1b6760d0424faec6e1de69533028",
+                "deleted_at": "2026-07-15T12:04:09.673015"
             }
         ]
     }

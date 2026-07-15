@@ -910,6 +910,14 @@
                 "hash": "6247974c5255b7e1c15dae966a0727a0",
                 "deleted_at": "2026-07-13T23:19:19.389761"
             }
+        ],
+        "B078YMYB9P": [
+            {
+                "file": "B078YMYB9P/variation_1.jpg",
+                "prompt": "A top-down flat lay composition featuring the laptop bag resting diagonally on a weathered gray wooden surface. The bag is positioned with its front side visible, angled slightly toward the bottom left of the frame, showcasing its full design and black trim. To the right of the bag, a silver laptop is partially visible with its keyboard and trackpad in view. Above the laptop, a white ceramic coffee cup with a handle sits, filled with a light brown beverage. Below the laptop, a pair of tortoiseshell-framed eyeglasses lies flat. In the bottom center, a black smartphone with a dark screen is placed horizontally. To the bottom right, a brown textured notebook or journal is partially visible. The scene is evenly lit with soft,",
+                "hash": "18a8f414b90b2a54566310d414939040",
+                "deleted_at": "2026-07-15T12:20:42.453848"
+            }
         ]
     }
 }

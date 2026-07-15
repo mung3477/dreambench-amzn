@@ -189,6 +189,11 @@
             "title": "Pill Box - 3 Compartment Small Pill Case for Purse, Retro Metal Pill Organizer for Vitamins, Fish Oil, Supplements, Pill Container for Pocket Travel Rosegold",
             "reference_file": "B09NW9SG2R/reference.jpg",
             "deleted_at": "2026-07-12T23:56:07.585547"
+        },
+        "B07YBKC92T": {
+            "title": "Skeem Design Fireplace Glass Match Cloche with Striker - Violet - 120 Small Match Sticks",
+            "reference_file": "B07YBKC92T/reference.jpg",
+            "deleted_at": "2026-07-15T12:23:06.479953"
         }
     },
     "deleted_variations": {
@@ -682,6 +687,20 @@
                 "prompt": "A top-down flat lay composition featuring the pill case open and centered on a clean white surface, revealing its interior divided into three compartments filled with various pills. The case is positioned slightly to the right, with its lid propped open at a natural angle. Scattered around the case are numerous red-and-yellow capsules, creating a dynamic, casual arrangement. To the upper left, a portion of a silver laptop, a black pen, and a cream-colored spiral notebook are visible, suggesting a workspace. In the upper right corner, a small potted green plant with long, slender leaves adds a natural touch. The lighting is bright and even, casting soft, subtle shadows, giving the scene a clean, modern, and organized aesthetic. The background remains a",
                 "hash": "9c8105c10639e1eceaff95d115621850",
                 "deleted_at": "2026-07-12T23:56:07.589320"
+            }
+        ],
+        "B07YBKC92T": [
+            {
+                "file": "B07YBKC92T/variation_1.jpg",
+                "prompt": "A translucent olive-green glass match holder with a rounded, domed top and a flared, conical base, filled with wooden matches standing upright. The holder is positioned at a slight angle on a plain white surface, casting a soft, elongated shadow to the right. In the foreground, a small cluster of three loose matches lies crossed, and a square piece of cork rests nearby, both also casting subtle shadows. The lighting is bright and directional, creating a clean, high-contrast look with smooth highlights on the glass and defined shadows.",
+                "hash": "5649be776aa4ce3ee2cce8b6d2495a16",
+                "deleted_at": "2026-07-15T12:23:06.480981"
+            },
+            {
+                "file": "B07YBKC92T/variation_2.jpg",
+                "prompt": "A still-life composition featuring three glass match holders of varying sizes arranged on a smooth, light-colored shelf against a neutral, textured beige wall. The largest holder on the left is tall and cylindrical with a flared base, the middle one is shorter and rounded with a similar base, and the smallest on the right is a clear glass jar with a cork lid. Each holder contains wooden matches standing upright, with their tips visible at the top. To the right, a small dark ceramic dish holds a single lit matchstick with a glowing ember and rising wisps of smoke. The lighting is soft and warm, casting gentle shadows and highlighting the translucent quality of the glass holders. The overall atmosphere is calm and minimalist, with a focus on texture and natural materials",
+                "hash": "6c5452d78dedd352b40b50eb695e4afa",
+                "deleted_at": "2026-07-15T12:23:06.481883"
             }
         ]
     }

@@ -184,6 +184,11 @@
             "title": "Ibanez IAB541 Powerpad Acoustic Guitar Gig Bag (IAB541BK)",
             "reference_file": "B06Y5GKJQK/reference.jpg",
             "deleted_at": "2026-07-13T21:57:53.921924"
+        },
+        "B01JTI4NLA": {
+            "title": "E.F. Durand Bb Brass Cornet with Case, Mouthpiece, and White Gloves",
+            "reference_file": "B01JTI4NLA/reference.jpg",
+            "deleted_at": "2026-07-15T12:24:06.010001"
         }
     },
     "deleted_variations": {
@@ -623,6 +628,14 @@
                 "prompt": "A woman stands in a bright, minimalist living room, holding the guitar gig bag upright with both hands, smiling toward the camera. She is wearing a light cream-colored dress and black shoes, standing on a patterned area rug over a wooden floor. To her left is a striped sofa with an orange and a blue cushion. The background consists of plain white walls and a window on the right, letting in soft natural light. The scene is clean and airy, with a casual, lifestyle feel. The guitar gig bag is positioned vertically, angled slightly toward the viewer, with its front side visible. The lighting is soft and even, highlighting the subject and the product naturally without harsh shadows.",
                 "hash": "40f7b809698163b63cffec3817c27030",
                 "deleted_at": "2026-07-13T21:57:53.925560"
+            }
+        ],
+        "B01JTI4NLA": [
+            {
+                "file": "B01JTI4NLA/variation_1.jpg",
+                "prompt": "A brass cornet is positioned inside an open black hard-shell case, resting securely in a plush black interior lining. The case is shown from a top-down perspective, with the lid propped open to reveal the instrument nestled within. The case features a sturdy black exterior with visible zippers, metal rivets, and a padded handle on the side. A small circular cutout is visible on the inside of the lid. The background is a plain white surface, providing clean contrast to the black case and the reflective surface of the brass cornet. The lighting is even and bright, highlighting the contours of the case and the instrument’s placement within it.",
+                "hash": "3f2e058ed5afda4fdc72f0a7d5f2a8f6",
+                "deleted_at": "2026-07-15T12:24:06.011653"
             }
         ]
     }

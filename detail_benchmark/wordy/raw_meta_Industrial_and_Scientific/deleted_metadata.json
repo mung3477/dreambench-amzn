@@ -194,6 +194,11 @@
             "title": "3M TALC Fire Barrier Sealant CP 25WB+ - for Commercial, Industrial and Residential Applications - 5 Gallon Drum (Pail) - Red",
             "reference_file": "B07SJ91LHN/reference.jpg",
             "deleted_at": "2026-07-13T23:21:11.496424"
+        },
+        "B07PQMM357": {
+            "title": "Guard-Tekk Silicone License Plate Frame - Rust Proof, Rattle Proof, Weather Proof",
+            "reference_file": "B07PQMM357/reference.jpg",
+            "deleted_at": "2026-07-15T12:23:40.641572"
         }
     },
     "deleted_variations": {
@@ -689,6 +694,20 @@
                 "prompt": "A close-up view of a freshly applied red sealant filling the corner joint between two white surfaces, showing a textured, slightly uneven application with visible ridges and a thick, dense consistency. The sealant is applied in a straight, continuous bead along the top and side edges of the joint, forming a tight, sealed corner. Below the image, a solid orange horizontal band stretches across the width of the frame, transitioning into a plain white background area beneath it. The scene is brightly lit with even, neutral lighting that highlights the texture of the sealant and the clean edges of the joint. The overall composition is clean and focused, emphasizing the application and coverage of the sealant in a real-world installation context.",
                 "hash": "28dd577dad58c8669b8ae3ae22e6254a",
                 "deleted_at": "2026-07-13T23:21:11.496959"
+            }
+        ],
+        "B07PQMM357": [
+            {
+                "file": "B07PQMM357/variation_1.jpg",
+                "prompt": "A split-screen composition featuring a custom license plate positioned above a black license plate frame. The license plate has a glossy finish with a gradient background transitioning from dark blue at the top to golden yellow at the bottom, and is displayed horizontally. Below it, the license plate frame is shown from a slightly elevated front angle, centered and aligned with the plate above. The frame has a matte black finish with rounded corners and four circular mounting holes, one in each corner. The central area of the frame features a pattern of hexagonal cutouts arranged in a grid, allowing light or background to show through. The entire setup is presented against a plain white background with soft, even lighting that highlights the frame’s shape and texture without casting harsh shadows.",
+                "hash": "b2beaaeeddab005e657cce6e447c8f2f",
+                "deleted_at": "2026-07-15T12:23:40.642352"
+            },
+            {
+                "file": "B07PQMM357/variation_2.jpg",
+                "prompt": "A red sports car is shown from the front, driving on a sunlit road with trees on both sides and a clear sky above. The car’s license plate area is visible, and a circular callout with a white background appears to the right of the car, connected by thin lines to the license plate. Inside the callout, the license plate frame is displayed in a small, centered, front-facing view. The background behind the car is a gradient from light blue at the top to warm yellow near the horizon, suggesting sunlight. The road surface is textured asphalt with a white dividing line. The overall lighting is bright and natural, with a soft lens flare effect on the right side.",
+                "hash": "bbd69e80c56453c8a96b7a1be82e69d6",
+                "deleted_at": "2026-07-15T12:23:40.643389"
             }
         ]
     }

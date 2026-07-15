@@ -139,6 +139,16 @@
             "title": "Relavel Professional Cosmetic Case Makeup Brush Organizer Makeup Artist Case with Belt Strap Holder Multi functional Cosmetic Bag Makeup Handbag for Travel Home Gift (Rose Gold)",
             "reference_file": "B07Q6X9LY9/reference.jpg",
             "deleted_at": "2026-07-12T23:49:03.013530"
+        },
+        "B0844SWRWY": {
+            "title": "PrettyClaw | Nickel Foot File Callus Remover for Feet Extra Coarse Pedicure Professional Foot File Filing Rasp Tool Removes Dead Skin Salon Quality F3",
+            "reference_file": "B0844SWRWY/reference.jpg",
+            "deleted_at": "2026-07-15T12:03:34.750525"
+        },
+        "B08HWCVPF1": {
+            "title": "Ayshone 48W Rechargeable UV LED Nail Lamp,Cordless Professional Gel Nail Lights Nail Art Manicure Tools for Home and Salon (Pink)",
+            "reference_file": "B08HWCVPF1/reference.jpg",
+            "deleted_at": "2026-07-15T12:03:42.656239"
         }
     },
     "deleted_variations": {
@@ -490,6 +500,22 @@
                 "prompt": "A kitchen scene featuring a stainless steel sink with a modern curved faucet, a granite countertop, and a metal colander filled with fresh green herbs being drained. A hand is shown reaching into the colander, fingers slightly wet, suggesting recent washing. In the background, a black wire caddy holds a bottle of the hand cream next to a green glass bottle, placed beside a wooden crate filled with leafy greens and purple vegetables. The lighting is bright and natural, suggesting daylight, with soft shadows and reflections on the sink and countertop. The overall composition is clean and realistic, emphasizing a fresh, natural kitchen environment. The hand cream is positioned in the background, slightly out of focus, within the caddy, maintaining its presence without drawing primary",
                 "hash": "9e361593874cec8cf08b041d1f806c21",
                 "deleted_at": "2026-07-12T23:49:06.340560"
+            }
+        ],
+        "B0844SWRWY": [
+            {
+                "file": "B0844SWRWY/variation_1.jpg",
+                "prompt": "A close-up shot of a hand holding the foot file and using it to exfoliate the heel of a bare foot. The foot file is positioned vertically, with its textured surface in contact with the skin. The scene is set against a solid black background, with soft, focused lighting highlighting the hand, foot, and the foot file. A small amount of white dead skin particles is scattered on the surface beneath the foot, indicating the action of filing. The composition emphasizes the use of the product, with the hand gripping the handle firmly and the foot slightly angled to show the application area. The overall image has a clean, high-contrast, studio-style aesthetic.",
+                "hash": "40755a194f5185179e4ac187a37c4b8b",
+                "deleted_at": "2026-07-15T12:03:34.753824"
+            }
+        ],
+        "B08HWCVPF1": [
+            {
+                "file": "B08HWCVPF1/variation_1.jpg",
+                "prompt": "A split-screen layout featuring two horizontal panels, each showing the uv led nail lamp on a white marble surface with subtle gray veining. In the top panel, a woman’s hand with manicured nails and a ring is placed inside the open lamp, which emits a soft purple glow from its interior; the lamp’s digital display is illuminated with blue numbers. To the left, a green palm leaf adds a natural accent, and to the right, a white card with a dotted pattern lies partially visible. In the bottom panel, the same lamp is shown with the hand removed and the lamp’s display turned off, indicating it is inactive; the interior light is off. The same palm leaf and card are present in the same positions. A solid dusty rose",
+                "hash": "72f452200add29af4ac4d5669670b0c8",
+                "deleted_at": "2026-07-15T12:03:42.657693"
             }
         ]
     }
