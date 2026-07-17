@@ -239,6 +239,21 @@
             "title": "Sea Bags Recycled Sail Cloth Octopus Wristlet Zip Top Wristlet Clutch Zippered Wallet with Strap",
             "reference_file": "B01E7UJB3K/reference.jpg",
             "deleted_at": "2026-07-12T23:45:58.839009"
+        },
+        "B01JYLD372": {
+            "title": "Chichitop Elegant Rhinestones Hard Clutch Pearl Evening Bag with Zip Compartments,Silver",
+            "reference_file": "B01JYLD372/reference.jpg",
+            "deleted_at": "2026-07-17T17:26:55.035574"
+        },
+        "B07Y4S6WXX": {
+            "title": "Fancyqube Women's Casual Pleated Shirt Dresses Long Sleeve Christmas Sloth Print Swing Dress with Pockets Black_Christmas Sloth L",
+            "reference_file": "B07Y4S6WXX/reference.jpg",
+            "deleted_at": "2026-07-17T17:27:51.445116"
+        },
+        "B07YZ3V6RS": {
+            "title": "Mama Bear Bracelet Cuff Bangle Personalized Jewelry for Mom Wife Grandma Sweet Familys Bracelet Mothers Day Gift(Mama Bear 2b CB)",
+            "reference_file": "B07YZ3V6RS/reference.jpg",
+            "deleted_at": "2026-07-17T17:27:56.543818"
         }
     },
     "deleted_variations": {
@@ -792,6 +807,50 @@
                 "prompt": "A top-down flat lay composition on a warm-toned wooden surface, featuring the wristlet clutch with its zipper partially open, revealing a smartphone, a tube of lipstick, and a set of keys inside. To the upper left of the clutch is a white disposable coffee cup with a lid, and to the right is a glazed donut resting on a piece of wax paper. The lighting is soft and natural, casting subtle shadows, and the overall scene conveys a casual, everyday moment.",
                 "hash": "6cf999b3778a44b3e631990da5db393c",
                 "deleted_at": "2026-07-12T23:45:58.840217"
+            }
+        ],
+        "B01JYLD372": [
+            {
+                "file": "B01JYLD372/variation_1.jpg",
+                "prompt": "A product shot of the evening bag displayed at a slight three-quarter angle on a plain white background, with the bag oriented diagonally from top-left to bottom-right. The bag features a silver-toned chain strap extending outward from both sides, lying flat and curving gently across the foreground. The chain is made of interlocking oval links and appears to be detachable or adjustable. The bag's body is rectangular with rounded edges, and its front is adorned with a large, cascading decorative element composed of pearls and rhinestones arranged in a teardrop or inverted triangular pattern, centered vertically. The top of the bag includes a metallic clasp or closure embellished with rhinestones, connected to the chain strap via small rings.",
+                "hash": "15e2421c115041f2ea45bfb250ffec07",
+                "deleted_at": "2026-07-17T17:26:55.036514"
+            }
+        ],
+        "B07Y4S6WXX": [
+            {
+                "file": "B07Y4S6WXX/variation_1.jpg",
+                "prompt": "A flat-lay composition featuring the dress hanging on a wooden hanger against a solid peach-pink background. The top edge of the image is adorned with a lush green Christmas garland decorated with red baubles, gold ornaments, and candy canes. To the left, a large monstera leaf extends into the frame, and below it, a red gift box with white polka dots, a silver bow, and a small red ornament is placed. To the right, a pair of red sunglasses and the edge of a dark shoe are visible. The lighting is soft and even, highlighting the dress and surrounding festive elements. The overall layout is balanced and festive, with the dress centered and surrounded by holiday-themed props.",
+                "hash": "37112123b45a449ef994ed72e0ea0ebe",
+                "deleted_at": "2026-07-17T17:27:51.446230"
+            }
+        ],
+        "B07YZ3V6RS": [
+            {
+                "file": "B07YZ3V6RS/variation_1.jpg",
+                "prompt": "A close-up product shot of the bracelet resting on a clear, faceted crystal stand with a star-like base, placed on a soft, textured periwinkle blue surface. The bracelet is positioned diagonally across the frame, with soft, natural lighting highlighting its metallic sheen and smooth curves. Surrounding the stand are flowing, cream-colored satin ribbons arranged in gentle loops, adding a delicate and elegant touch to the composition. The background is uniformly soft and evenly lit, with no text or graphic elements present.",
+                "hash": "3e20e3c3804e81a948b68d227694cf5b",
+                "deleted_at": "2026-07-17T17:27:56.545836"
+            },
+            {
+                "file": "B07YZ3V6RS/variation_2.jpg",
+                "prompt": "A close-up shot of a wrist wearing the bracelet, positioned horizontally across the wrist with the bracelet resting snugly against the skin. The background is a solid, textured purple surface. The lighting is soft and even, highlighting the metallic sheen of the bracelet and the natural texture of the skin. The composition focuses tightly on the wrist and bracelet, with no additional elements or text present.",
+                "hash": "0503c7a7af273d40759f5c7513b3020d",
+                "deleted_at": "2026-07-17T17:27:56.547167"
+            },
+            {
+                "file": "B07YZ3V6RS/variation_3.jpg",
+                "prompt": "A silver-toned open cuff bracelet rests diagonally across a textured, solid lavender-blue surface, partially draped over a clear, faceted glass cube. Scattered around the scene are small, dried pink flower petals. To the right, a portion of a dark blue, matte-finished rectangular box is visible. The lighting is soft and diffused, creating gentle highlights on the bracelet and glass, with subtle shadows beneath the objects. The composition is a close-up, slightly elevated angle shot, emphasizing the product’s placement within a delicate, styled still-life arrangement.",
+                "hash": "173251e1fb9ca4e89d99e918df18a8a5",
+                "deleted_at": "2026-07-17T17:27:56.548917"
+            }
+        ],
+        "B07CVTMGB8": [
+            {
+                "file": "B07CVTMGB8/variation_2.jpg",
+                "prompt": "A close-up product shot of the watch submerged in clear water inside a transparent, rounded rectangular container with a glossy black interior. The water is shown splashing dynamically around the watch, with visible bubbles and ripples distorting the view of the watch face. The container is set against a solid black background. The lighting is dramatic, with bright highlights on the water surface and reflections on the container’s edges, emphasizing the waterproof feature. The watch is positioned diagonally, with the crown and pushers on the right side, and the leather strap extending upward and downward from the case. The overall composition focuses on the interaction between the watch and the water, highlighting durability and resistance.",
+                "hash": "d59a177dc328fefcce3eee92ea1403b2",
+                "deleted_at": "2026-07-17T17:27:58.801645"
             }
         ]
     }

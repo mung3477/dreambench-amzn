@@ -94,6 +94,11 @@
             "title": "Popular Bath 936759 Michelle, Shower Curtain",
             "reference_file": "B083KJ9R4K/reference.jpg",
             "deleted_at": "2026-07-12T11:30:02.440455"
+        },
+        "B082THC2F8": {
+            "title": "William's Home Furnishing Louis Philippe III Night Stand, Gray",
+            "reference_file": "B082THC2F8/reference.jpg",
+            "deleted_at": "2026-07-17T17:41:34.515139"
         }
     },
     "deleted_variations": {
@@ -367,6 +372,20 @@
                 "prompt": "A full-length shower curtain hanging from a metallic rod with hooks, displayed in a bright, modern bathroom setting. The curtain is shown partially drawn, with soft folds and draping at the top, creating a gentle, flowing effect. To the right, a white vanity with gold-toned hardware is visible, featuring a marble countertop, a white sink, and a gold faucet. On the countertop, there are neatly arranged bathroom accessories including a soap dispenser, a small potted succulent, folded towels, and a brush. The background includes white subway tile on the wall and light-colored flooring. A white bath mat lies on the floor in front of the vanity. The lighting is bright and even, highlighting the clean, airy atmosphere of the space",
                 "hash": "23d474072965f67e4c3082f38d0a6503",
                 "deleted_at": "2026-07-12T11:30:02.443656"
+            }
+        ],
+        "B082THC2F8": [
+            {
+                "file": "B082THC2F8/variation_1.jpg",
+                "prompt": "A luxurious bedroom scene featuring a complete matching furniture set, including a bed with a curved headboard and footboard, a dresser with a large mirror, a tall chest of drawers, and the night stand placed beside the bed. The room has rich, dark-toned walls with a subtle marbled texture, tall windows with heavy drapes, and a decorative ceiling with ornate molding. A grand chandelier with crystal accents hangs from the ceiling, casting warm ambient light. The floor is hardwood, partially covered by a plush, dark brown area rug. The night stand is positioned next to the bed, holding a lit table lamp with a warm glow and a few small decorative items. The overall lighting is soft and inviting, creating a sophisticated and elegant atmosphere",
+                "hash": "8e892ab0766bdd74be31bf6a97d64091",
+                "deleted_at": "2026-07-17T17:41:34.517443"
+            },
+            {
+                "file": "B082THC2F8/variation_2.jpg",
+                "prompt": "A product shot of the night stand on a plain white background, viewed from a slightly elevated three-quarter angle. The top drawer is partially pulled open, revealing its light-colored wooden interior. Inside the drawer, several pieces of jewelry are arranged: a pearl necklace, a beaded necklace with colorful accents, and two silver watches with metal bands. The remaining drawer below is closed. The lighting is even and soft, highlighting the texture of the wood and the contents of the open drawer without casting harsh shadows. The overall composition is clean and focused, emphasizing the functionality and storage capacity of the night stand.",
+                "hash": "16b12bee513e8e485c7fc6ee0032f42d",
+                "deleted_at": "2026-07-17T17:41:34.519273"
             }
         ]
     }

@@ -662,6 +662,14 @@
                 "hash": "e46050f9026b2da5e4ba97c93ca07978",
                 "deleted_at": "2026-07-13T12:32:13.495238"
             }
+        ],
+        "B084DQJKQN": [
+            {
+                "file": "B084DQJKQN/variation_3.jpg",
+                "prompt": "A close-up shot of a person's wrist wearing the bracelet, with their hand partially inserted into the front pocket of blue denim jeans. The person is wearing a dark navy long-sleeve sweater, with the cuff slightly rolled back to reveal the bracelet. The background is a plain, light off-white wall. The lighting is soft and natural, highlighting the texture of the fabric and the metallic sheen of the bracelet. The composition focuses on the lower torso and arm, capturing a casual, everyday moment.",
+                "hash": "021d8c8a50b96ad1da77ecd4ec085390",
+                "deleted_at": "2026-07-17T17:36:31.411783"
+            }
         ]
     }
 }

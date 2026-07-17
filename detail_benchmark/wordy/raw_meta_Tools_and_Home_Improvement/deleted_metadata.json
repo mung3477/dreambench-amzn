@@ -129,6 +129,11 @@
             "title": "Dixie Belle Paint Company Chalk Finish Furniture Paint | Amethyst (16 Fl Oz) | Matte Deep Purple Chic Chalk Mineral Paint | DIY Furniture Paint | Made in the USA",
             "reference_file": "B014AV8FY2/reference.jpg",
             "deleted_at": "2026-07-12T11:33:22.711543"
+        },
+        "B07SKN4Q6Y": {
+            "title": "Simlug Music Box, Wooden Music Box Vintage Music Box, 12 Constellations Rotating Goddess Musical Box with Twinkling Light Gift for Birthday(Aries)",
+            "reference_file": "B07SKN4Q6Y/reference.jpg",
+            "deleted_at": "2026-07-17T17:44:53.864875"
         }
     },
     "deleted_variations": {
@@ -202,6 +207,18 @@
                 "prompt": "A close-up shot of the music box placed on a dark wooden surface, viewed from a slightly elevated angle. The lid is open, revealing an inner lid decorated with a starry night sky motif and a central angel figurine standing on a rotating spindle. The interior base of the box glows with a vibrant, shifting multicolor light—blues, greens, and hints of red—reflecting off the surface beneath the angel. The body of the music box features ornate, raised metalwork with decorative panels around its circumference, each panel illuminated from within with a different solid-colored light (blue, green, red, etc.), creating a glowing effect. The scene is softly lit, with subtle shadows enhancing the three-dimensional details of the box.",
                 "hash": "3f39d4f446a907f7008c68a66d3d08c8",
                 "deleted_at": "2026-07-12T11:32:47.190706"
+            },
+            {
+                "file": "B07SKN4Q6Y/variation_1.jpg",
+                "prompt": "A close-up shot of the music box placed on a dark wooden surface, with its lid open to reveal a starry night sky backdrop inside. A small angel figurine stands on a central rotating post, illuminated by a soft blue glow emanating from within the box. The interior base is bathed in the same blue light, reflecting the stars and enhancing the magical atmosphere. The sides of the music box feature ornate, raised panels with intricate designs, which are also illuminated from within, casting a glowing blue light through their detailed patterns. To the left, a dark, textured rock-like object is partially visible, and to the right, a sprig of green foliage adds a natural touch. The overall lighting is dim and atmospheric, emphasizing the lumin",
+                "hash": "bba9aa3536349e19fdf85fa12306bb00",
+                "deleted_at": "2026-07-17T17:44:53.865622"
+            },
+            {
+                "file": "B07SKN4Q6Y/variation_3.jpg",
+                "prompt": "A split-screen composition featuring the music box positioned centrally on a white rectangular pedestal. The background consists of soft, layered panels in solid peach-pink tones, with one panel slightly elevated behind the pedestal. Delicate, out-of-focus pink cherry blossoms are scattered around the edges and corners of the frame, adding a dreamy, floral ambiance. The lighting is soft and diffused, creating a gentle glow that highlights the music box while maintaining a clean, elegant aesthetic. The overall scene is minimal and stylized, with no text or branding elements visible.",
+                "hash": "8966c7cf237d3b41bb7348e98a642cd7",
+                "deleted_at": "2026-07-17T17:44:53.866181"
             }
         ],
         "B0BTY7FBDS": [

@@ -149,6 +149,11 @@
             "title": "Ayshone 48W Rechargeable UV LED Nail Lamp,Cordless Professional Gel Nail Lights Nail Art Manicure Tools for Home and Salon (Pink)",
             "reference_file": "B08HWCVPF1/reference.jpg",
             "deleted_at": "2026-07-15T12:03:42.656239"
+        },
+        "B08DLJT64F": {
+            "title": "Johnson's Strengthening Tear-Free Kids' Conditioner with Vitamin E Strengthens & Helps Prevent Breakage, Paraben-, Sulfate- & Dye-Free, Hypoallergenic & Gentle on Toddler Hair, 13.6 fl. oz",
+            "reference_file": "B08DLJT64F/reference.jpg",
+            "deleted_at": "2026-07-17T17:32:44.930723"
         }
     },
     "deleted_variations": {
@@ -500,6 +505,12 @@
                 "prompt": "A kitchen scene featuring a stainless steel sink with a modern curved faucet, a granite countertop, and a metal colander filled with fresh green herbs being drained. A hand is shown reaching into the colander, fingers slightly wet, suggesting recent washing. In the background, a black wire caddy holds a bottle of the hand cream next to a green glass bottle, placed beside a wooden crate filled with leafy greens and purple vegetables. The lighting is bright and natural, suggesting daylight, with soft shadows and reflections on the sink and countertop. The overall composition is clean and realistic, emphasizing a fresh, natural kitchen environment. The hand cream is positioned in the background, slightly out of focus, within the caddy, maintaining its presence without drawing primary",
                 "hash": "9e361593874cec8cf08b041d1f806c21",
                 "deleted_at": "2026-07-12T23:49:06.340560"
+            },
+            {
+                "file": "B083C5QC9D/variation_2.jpg",
+                "prompt": "A close-up shot of a person’s hands using the hand cream on a wooden tabletop. One hand presses the pump dispenser, dispensing a small amount of cream onto the back of the other hand. The hand cream bottle is placed centrally on the table, with a natural wood grain surface visible beneath it. In the background, there is a blurred white plate and a dark wooden chair, suggesting a kitchen or dining setting. The lighting is soft and warm, creating a cozy, everyday atmosphere. The person is wearing a maroon long-sleeved top, partially visible on the left side of the frame. The background is softly out of focus, emphasizing the hands and the product in use.",
+                "hash": "a4f8a28165491f37f443bb050b832c13",
+                "deleted_at": "2026-07-17T17:33:06.893986"
             }
         ],
         "B0844SWRWY": [
@@ -516,6 +527,20 @@
                 "prompt": "A split-screen layout featuring two horizontal panels, each showing the uv led nail lamp on a white marble surface with subtle gray veining. In the top panel, a woman’s hand with manicured nails and a ring is placed inside the open lamp, which emits a soft purple glow from its interior; the lamp’s digital display is illuminated with blue numbers. To the left, a green palm leaf adds a natural accent, and to the right, a white card with a dotted pattern lies partially visible. In the bottom panel, the same lamp is shown with the hand removed and the lamp’s display turned off, indicating it is inactive; the interior light is off. The same palm leaf and card are present in the same positions. A solid dusty rose",
                 "hash": "72f452200add29af4ac4d5669670b0c8",
                 "deleted_at": "2026-07-15T12:03:42.657693"
+            }
+        ],
+        "B08DLJT64F": [
+            {
+                "file": "B08DLJT64F/variation_1.jpg",
+                "prompt": "A close-up shot of a young child with wet, curly hair, smiling gently while holding the conditioner bottle in their hands. The child is partially submerged in a bathtub, with water visible on their skin and hair. The bottle is held upright, centered in the frame, and appears to be the main focus of the child’s attention. The background is a soft, out-of-focus white, suggesting a clean, bright bathroom environment. The lighting is warm and natural, highlighting the child’s face and the bottle. The lower portion of the image features a solid blue background panel, extending across the full width of the frame.",
+                "hash": "4044c212ac7a4e64cd0935446ea43d66",
+                "deleted_at": "2026-07-17T17:32:44.931867"
+            },
+            {
+                "file": "B08DLJT64F/variation_2.jpg",
+                "prompt": "A split-screen layout featuring a warm, natural indoor scene in the upper portion and a solid blue background panel in the lower portion. In the upper section, a woman with long dark hair, wearing a white long-sleeved top and dark pants, is leaning over a white bathtub, smiling and playfully washing a laughing child’s hair with soapy water. The child, seated in the tub filled with bubbles and colorful bath toys, is joyfully laughing with their mouth open. The bathroom has soft natural lighting, with a window, striped curtains, and a wicker chair visible in the background. In the foreground, near the edge of the tub, two bottles of the conditioner are placed on a wooden tray, positioned side by side with their caps",
+                "hash": "840593f53bbd6783fe611608d3925df5",
+                "deleted_at": "2026-07-17T17:32:44.933374"
             }
         ]
     }

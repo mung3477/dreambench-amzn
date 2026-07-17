@@ -199,6 +199,11 @@
             "title": "Guard-Tekk Silicone License Plate Frame - Rust Proof, Rattle Proof, Weather Proof",
             "reference_file": "B07PQMM357/reference.jpg",
             "deleted_at": "2026-07-15T12:23:40.641572"
+        },
+        "B07PPG4BJF": {
+            "title": "Telescopic Inspection Mirror with Light Large telescoping led 360 Inspection Rotating lamp Automotive Mechanic Repair reversing on a Stick extendable Hand Handle car Extra held Vehicle Extended",
+            "reference_file": "B07PPG4BJF/reference.jpg",
+            "deleted_at": "2026-07-17T17:41:53.148120"
         }
     },
     "deleted_variations": {
@@ -708,6 +713,14 @@
                 "prompt": "A red sports car is shown from the front, driving on a sunlit road with trees on both sides and a clear sky above. The car’s license plate area is visible, and a circular callout with a white background appears to the right of the car, connected by thin lines to the license plate. Inside the callout, the license plate frame is displayed in a small, centered, front-facing view. The background behind the car is a gradient from light blue at the top to warm yellow near the horizon, suggesting sunlight. The road surface is textured asphalt with a white dividing line. The overall lighting is bright and natural, with a soft lens flare effect on the right side.",
                 "hash": "bbd69e80c56453c8a96b7a1be82e69d6",
                 "deleted_at": "2026-07-15T12:23:40.643389"
+            }
+        ],
+        "B07PPG4BJF": [
+            {
+                "file": "B07PPG4BJF/variation_1.jpg",
+                "prompt": "A close-up view of a server rack in a dimly lit technical environment, with a telescopic inspection mirror extended diagonally from the left side, its articulated head angled downward to inspect the top of the rack. The mirror's reflective surface shows a magnified view of colorful network cables and connectors. The mirror's telescopic arm is partially extended, with its metallic shaft visible against the background. The server rack is densely populated with neatly organized bundles of blue, yellow, white, and orange network cables, secured with black cable ties. The background consists of a plain gray wall and ceiling tiles, with soft ambient lighting creating subtle shadows. The scene is focused on the inspection action, emphasizing the utility of the product in a real-world technical setting.",
+                "hash": "f3a4ba4ef92ff9442ba4ad1bbfa60697",
+                "deleted_at": "2026-07-17T17:41:53.149250"
             }
         ]
     }

@@ -254,6 +254,26 @@
             "title": "SNAN 150W Car Power Inverter DC 12V to AC 110V With Dual USB Ports for Laptop, Tablets and More",
             "reference_file": "B01DKJK4HQ/reference.jpg",
             "deleted_at": "2026-07-13T23:19:19.387691"
+        },
+        "B0BXKWKH5Z": {
+            "title": "Kinmac 360° Protective Waterproof Laptop Case Bag Sleeve with Handle for MacBook Pro 16, and 15 inch-15.6 inch Laptop (Banana Leaf)",
+            "reference_file": "B0BXKWKH5Z/reference.jpg",
+            "deleted_at": "2026-07-17T17:33:59.362959"
+        },
+        "B07GJV8JQ4": {
+            "title": "F3 Cycling Bike Stem Computer Mount Holder Stand - Anti-Shake, Adjustable, Fits GPS (Garmin, Wahoo, Sigma, Hammerhead), Cameras and Lights",
+            "reference_file": "B07GJV8JQ4/reference.jpg",
+            "deleted_at": "2026-07-17T17:34:07.042771"
+        },
+        "B08S7RR9JJ": {
+            "title": "EKWB EK-Classic GPU Water Block RTX 3080/3090, Digital RGB, Nickel/Plexi",
+            "reference_file": "B08S7RR9JJ/reference.jpg",
+            "deleted_at": "2026-07-17T17:34:14.144479"
+        },
+        "B071YJFTV4": {
+            "title": "Laptop Sleeve Elastic Neoprene Case Compatible with 13-14 inch MacBook Air/Pro M1 M2, XPS 13, Surface Laptop 13.5\", Water Repellent Notebooks Hand Bag with Handle and Small Case,Butterfly",
+            "reference_file": "B071YJFTV4/reference.jpg",
+            "deleted_at": "2026-07-17T17:34:46.732461"
         }
     },
     "deleted_variations": {
@@ -379,6 +399,12 @@
                 "prompt": "A full-body studio shot of a woman standing against a plain white background, holding the laptop sleeve in front of her with both hands. She is wearing a dark long-sleeve top and blue jeans, with her hair styled in a high ponytail. The laptop sleeve is positioned at waist level, centered in the frame, and held slightly angled toward the viewer. The lighting is bright, even, and diffused, creating soft shadows and a clean, minimalist aesthetic. The background is uniformly white and featureless, emphasizing the subject and the product. The woman is looking directly at the camera with a neutral expression, and her posture is relaxed and natural.",
                 "hash": "bfd446425a693b637de73efee8acc8fb",
                 "deleted_at": "2026-07-12T11:25:20.596589"
+            },
+            {
+                "file": "B0BXKWKH5Z/variation_1.jpg",
+                "prompt": "A product shot of the laptop sleeve partially unzipped and placed diagonally over a closed silver laptop, showcasing its interior compartments. The sleeve is open to reveal neatly arranged contents including a white computer mouse, a coiled white power adapter with cable, and two stylus pens. The scene is set against a plain white background with soft, even studio lighting that highlights the product’s form and contents without harsh shadows. The laptop sleeve is positioned at an angle, with the front flap lifted to display the organized interior, emphasizing functionality and portability. The overall composition is clean and minimal, focusing on the product’s utility and design in a realistic, lifestyle-oriented context.",
+                "hash": "22c8ce217fce93d44a87678fddf8cb81",
+                "deleted_at": "2026-07-17T17:33:59.363586"
             }
         ],
         "B08JPQVWGP": [
@@ -917,6 +943,36 @@
                 "prompt": "A top-down flat lay composition featuring the laptop bag resting diagonally on a weathered gray wooden surface. The bag is positioned with its front side visible, angled slightly toward the bottom left of the frame, showcasing its full design and black trim. To the right of the bag, a silver laptop is partially visible with its keyboard and trackpad in view. Above the laptop, a white ceramic coffee cup with a handle sits, filled with a light brown beverage. Below the laptop, a pair of tortoiseshell-framed eyeglasses lies flat. In the bottom center, a black smartphone with a dark screen is placed horizontally. To the bottom right, a brown textured notebook or journal is partially visible. The scene is evenly lit with soft,",
                 "hash": "18a8f414b90b2a54566310d414939040",
                 "deleted_at": "2026-07-15T12:20:42.453848"
+            }
+        ],
+        "B07GJV8JQ4": [
+            {
+                "file": "B07GJV8JQ4/variation_1.jpg",
+                "prompt": "A close-up product shot of the bike stem mount installed on a bicycle handlebar, viewed from a slightly elevated front angle. The mount is positioned centrally, holding a rectangular electronic device with a dark screen and rounded corners above the handlebar. The handlebar is metallic with a brushed finish, extending horizontally across the frame, and features subtle engraved markings along its length. The background is solid black, creating a high-contrast, studio-style lighting setup that highlights the product’s form and texture. The lighting is directional, casting soft highlights on the mount’s metallic screws and the handlebar’s surface, while keeping shadows minimal and focused. The overall composition is clean, minimal, and centered, emphasizing the mount’s integration and functionality.",
+                "hash": "ff7a9194b6ae4568158964ad63edbbbf",
+                "deleted_at": "2026-07-17T17:34:07.044171"
+            }
+        ],
+        "B08S7RR9JJ": [
+            {
+                "file": "B08S7RR9JJ/variation_1.jpg",
+                "prompt": "Two gpu water blocks are displayed on a dark, reflective surface against a solid black background. One block is positioned upright, angled slightly to the left, while the other lies flat, angled slightly to the right. Both blocks feature glowing internal channels with vibrant blue and green illumination, creating a luminous, futuristic appearance. The lighting is dramatic and focused, casting soft reflections on the surface below and emphasizing the contours and transparency of the blocks. The overall scene has a high-contrast, studio-style presentation with a dark, moody atmosphere.",
+                "hash": "8e7b9e7144587cb4fb74bf9fb87c4e30",
+                "deleted_at": "2026-07-17T17:34:14.144878"
+            }
+        ],
+        "B071YJFTV4": [
+            {
+                "file": "B071YJFTV4/variation_1.jpg",
+                "prompt": "A top-down flat lay composition on a plain white background. The laptop sleeve is positioned in the upper left quadrant, shown closed with its handles upright and a small zippered pouch attached to the front via a keyring. To the lower left of the sleeve, a silver laptop is placed horizontally. Below the laptop, a white computer mouse is centered. To the right of the mouse, a white wireless keyboard is aligned horizontally. Above the keyboard, a white tablet with a black screen is placed. To the right of the tablet, a black smartphone with a black screen is positioned vertically. Above the smartphone, two small white USB drives are stacked vertically. Below them, a white power adapter is placed. To the left of the power adapter, a co",
+                "hash": "26ac2b78b84104b4913ae4e0b30f6391",
+                "deleted_at": "2026-07-17T17:34:40.702481"
+            },
+            {
+                "file": "B071YJFTV4/variation_2.jpg",
+                "prompt": "A person in a white blouse and light-colored pants stands behind a wooden desk, holding the laptop sleeve by its top handles. The sleeve is positioned upright on the desk, angled slightly to the right, with its front and side visible. The background features a clean, bright indoor setting with soft, natural lighting. To the left, a white shelf holds a small glass vase with pink and white flowers and a book with a visible spine. A white chair is partially visible behind the person. On the desk, to the right of the sleeve, there is a white ceramic cup and saucer, and to the left, a white computer mouse. The overall scene is minimal and professional, with a focus on the product in a realistic, everyday workspace environment.",
+                "hash": "574e05c08c4776acbb66499fe74a4b22",
+                "deleted_at": "2026-07-17T17:34:46.733363"
             }
         ]
     }

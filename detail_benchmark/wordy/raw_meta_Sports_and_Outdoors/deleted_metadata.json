@@ -149,6 +149,16 @@
             "title": "Champion Sports Viper Soccer Ball",
             "reference_file": "B07DYNL3F9/reference.jpg",
             "deleted_at": "2026-07-13T12:38:33.545789"
+        },
+        "B07XDY47KN": {
+            "title": "BOBLOV Golf Rangefinder Case,Universal Rangefinder Case, EVA Hard Cover Compatible with Bushnell Tectectec Nikon Callway Rangefinders and More Other Brand(Rangefinder Case Only)",
+            "reference_file": "B07XDY47KN/reference.jpg",
+            "deleted_at": "2026-07-17T17:44:03.883155"
+        },
+        "B07CJYL433": {
+            "title": "REP FITNESS Adjustable Bench, AB-3100 V3 – 700 lb Rated for Home and Garage Gym Workouts, Weight Lifting, and Strength Training",
+            "reference_file": "B07CJYL433/reference.jpg",
+            "deleted_at": "2026-07-17T17:44:27.306458"
         }
     },
     "deleted_variations": {
@@ -264,6 +274,12 @@
                 "prompt": "A close-up, slightly angled view of a wooden surface with visible grain and natural imperfections, showing a glossy, wet finish on one side and a matte, untreated appearance on the other, creating a clear before-and-after contrast. The surface is part of a larger wooden object, possibly a gun stock or furniture piece, with a dark, rounded edge and a small black knot or inlay visible. In the background, partially tucked behind the wood, sits a small brown bottle with a white cap, placed on a light-colored wooden workbench. The lighting is warm and natural, highlighting the sheen of the finished wood and casting soft shadows. The overall environment suggests a workshop or crafting space with wooden textures and tools implied in the blurred background. The",
                 "hash": "ea3c25405c734c945af5662e30fea50f",
                 "deleted_at": "2026-07-13T12:36:27.882353"
+            },
+            {
+                "file": "B09C1C1SHD/variation_1.jpg",
+                "prompt": "A close-up shot of a dark amber plastic bottle with a white cap, positioned on a wooden workbench next to a polished wooden gun stock. The bottle is slightly angled, with its label facing forward, and is placed in front of the gun stock, which shows a smooth, glossy finish with visible wood grain. The background includes a softly blurred workshop environment with wooden surfaces, tools, and a yellow object in the distance. Natural, warm lighting highlights the reflective sheen on the gun stock and the bottle’s surface. The composition focuses on the bottle and the gun stock, emphasizing their proximity and suggesting a connection between the product and the finished wood. The scene is shot from a slightly low angle, creating a sense of depth and realism.",
+                "hash": "db48ca2cf128cb136dbe5d58e74fc7c7",
+                "deleted_at": "2026-07-17T17:43:51.643014"
             }
         ],
         "B07FNFJ8CH": [
@@ -574,6 +590,44 @@
                 "prompt": "Two soccer players in action on a grass field, competing for control of the soccer ball near a goal net. One player wears a black jersey with white side stripes and black shorts with the number 17, while the other wears a black and yellow long-sleeved jersey with the number 8 on the back and white shorts. Both players are wearing black socks with yellow and white stripes and yellow cleats. The soccer ball is positioned on the grass between their feet, near the goalpost. The background shows a soccer goal with a white net, a grassy field, and a distant fence with bare trees under an overcast sky. The scene is captured from a low angle, emphasizing the dynamic movement and intensity of the play.",
                 "hash": "7fd0f8c94f9ef3b5e83e7422c53c448d",
                 "deleted_at": "2026-07-13T12:38:33.550550"
+            }
+        ],
+        "B07XDY47KN": [
+            {
+                "file": "B07XDY47KN/variation_1.jpg",
+                "prompt": "A close-up shot of a person from the waist down, standing on a grassy outdoor field, wearing khaki pants and carrying a large black golf bag with red trim over their shoulder. The rangefinder case is attached to the side of the golf bag via its carabiner, hanging vertically and positioned near the person’s hip. The case is secured by a red cord looped through the carabiner and fastened with a small metal bead. The background is a natural outdoor setting with soft, diffused daylight. The image focuses on the practical use and portability of the product in a real-world context.",
+                "hash": "26c830ed87a4e11b78857da3d96c1c72",
+                "deleted_at": "2026-07-17T17:44:03.884448"
+            }
+        ],
+        "B09CFZ8RFP": [
+            {
+                "file": "B09CFZ8RFP/variation_2.jpg",
+                "prompt": "A woman in athletic wear is resting in a gym, leaning on a red dumbbell with a white towel draped over her shoulders. She is holding the sports water bottle in her hand, positioned prominently in the foreground. The gym environment features dark flooring, exercise equipment in the background, and bright overhead lighting creating lens flares. Another person is visible in the background using gym machinery, slightly out of focus. The scene is shot with a shallow depth of field, emphasizing the woman and the bottle in the foreground. The lighting is dynamic, with highlights on the woman’s face and the bottle, suggesting an active, high-energy fitness setting. The background includes large windows and industrial-style ceiling lights, contributing to a modern gym atmosphere.",
+                "hash": "633b614b54d3fb706017aeabd08c8cb5",
+                "deleted_at": "2026-07-17T17:44:19.988678"
+            }
+        ],
+        "B07CJYL433": [
+            {
+                "file": "B07CJYL433/variation_1.jpg",
+                "prompt": "A muscular man is performing an incline dumbbell press on the adjustable weight bench, which is positioned at an upward angle in a gym environment. The bench is shown in use, with the man seated and leaning back, holding dumbbells in each hand, mid-exercise. The gym setting includes a dark rubber floor, a rack of hex dumbbells to the left, and a large wall mural with bold blue, white, and black abstract designs in the background. The lighting is bright and focused, highlighting the man’s upper body and the bench, with natural shadows indicating overhead and side lighting. The bench is angled to support the incline position, with its adjustment pins and leg supports visible. The overall composition is dynamic, capturing motion and",
+                "hash": "6def3974527a4d64a9aa6ef119c1a597",
+                "deleted_at": "2026-07-17T17:44:27.307366"
+            },
+            {
+                "file": "B07CJYL433/variation_2.jpg",
+                "prompt": "A man is seated on the adjustable weight bench, performing a shoulder press exercise with dumbbells raised above his head. The bench is positioned in a home gym environment with a dark rubber flooring. In the background, there is a black weight rack with an American flag hanging on it, and various gym equipment including resistance bands, a cable machine, and weight plates are visible. The lighting is bright and even, highlighting the subject and the bench. The bench is shown in an upright, seated position, with its frame and adjustment mechanisms clearly visible. The surrounding gym space is clean and organized, with neutral-colored walls and functional equipment arranged around the central workout area.",
+                "hash": "38fbd389218de44df9c55b6b891c6ffb",
+                "deleted_at": "2026-07-17T17:44:27.310799"
+            }
+        ],
+        "B08L4K53HW": [
+            {
+                "file": "B08L4K53HW/variation_1.jpg",
+                "prompt": "A three-panel composite layout showcasing the rowing machine in different home environments. The top-left panel features the rowing machine placed on a light wooden floor in a bedroom setting, with a bed, white shelving unit, and window in the background. The bottom-left panel shows the rowing machine in a living room with a white sofa, coffee table, and white brick wall. The right panel displays the rowing machine in its folded, vertical storage position next to a window with sheer curtains, on a light wooden floor with a small rug and a white side table with a vase nearby. Each scene is brightly lit with natural daylight, emphasizing the product’s integration into modern, minimalist home interiors. The backgrounds are clean and uncluttered, with",
+                "hash": "82427817f9f2420f0291b53c14ad7ec2",
+                "deleted_at": "2026-07-17T17:44:41.212562"
             }
         ]
     }

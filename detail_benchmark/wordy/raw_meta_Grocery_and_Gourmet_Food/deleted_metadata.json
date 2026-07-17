@@ -134,6 +134,16 @@
             "title": "Grow A Pear Handcrafted Prickly Pear Syrup 9 oz",
             "reference_file": "B06XF4PZP7/reference.jpg",
             "deleted_at": "2026-07-13T21:54:06.590148"
+        },
+        "B00IPWOQ5A": {
+            "title": "Redwood Trails Beef Jerky - Chinese Five Spice (3 Bags)",
+            "reference_file": "B00IPWOQ5A/reference.jpg",
+            "deleted_at": "2026-07-17T17:35:29.085019"
+        },
+        "B09H483WTK": {
+            "title": "Mrs. Wages Medium Salsa Canning Mix, 11.2 Ounce Canister (Pack of 1)",
+            "reference_file": "B09H483WTK/reference.jpg",
+            "deleted_at": "2026-07-17T17:35:42.327918"
         }
     },
     "deleted_variations": {
@@ -523,6 +533,12 @@
                 "prompt": "A top-down view of a coffee-making setup on a plain white surface. A black drip coffee maker with a glass carafe is positioned on the left, with ground coffee visible in the filter basket. To the right of the coffee maker is a yellow ceramic mug with a decorative patterned rim, filled with dark brewed coffee. In the foreground, angled diagonally, is a white coffee bag with a colorful pixelated border at the top and bottom, a red wax seal design near the top, black mountain silhouettes in the center, and a rectangular information panel at the bottom. The bag is placed next to the coffee maker and mug, suggesting a fresh brew. The lighting is bright and even, creating soft shadows and highlighting the glossy surfaces of",
                 "hash": "a248da53e96430f3c80b201fc1692337",
                 "deleted_at": "2026-07-13T21:54:34.914766"
+            },
+            {
+                "file": "B07P61CM2H/variation_1.jpg",
+                "prompt": "A coffee bag lying horizontally on a smooth, light-colored surface, with a mound of dark brown ground coffee in the foreground. The bag features a white background with a colorful pixelated pattern along the top and bottom edges, a red wax seal design near the top, and a black mountain silhouette graphic on the right side. The bag is sealed with a gold-colored strip along the top edge. The lighting is soft and natural, creating subtle reflections on the glossy surface of the bag. The composition is shallow depth of field, with the ground coffee in sharp focus and the bag slightly blurred in the background.",
+                "hash": "d55406a010a6690fb75d9ff4e805f3da",
+                "deleted_at": "2026-07-17T17:35:34.684010"
             }
         ],
         "B0BJL6ZM98": [
@@ -531,6 +547,44 @@
                 "prompt": "A top-down flat lay composition featuring the ground coffee bag positioned diagonally in the upper left quadrant, resting on a soft white fabric surface. Beside it, slightly below and to the right, is a clear glass cup filled with a light brown coffee beverage, showing a smooth crema on top. To the right of the cup and extending toward the bottom right corner is a lush, natural arrangement of wildflowers and greenery, including purple and white blossoms with various leafy stems, creating a fresh, organic aesthetic. The lighting is soft and diffused, casting gentle shadows and highlighting the textures of the fabric, glass, and botanical elements. The overall scene conveys a calm, natural, and earthy atmosphere.",
                 "hash": "486f264043443853be403c7addfee131",
                 "deleted_at": "2026-07-15T12:21:06.660992"
+            }
+        ],
+        "B0C5LWW5GK": [
+            {
+                "file": "B0C5LWW5GK/variation_1.jpg",
+                "prompt": "A close-up shot of the sugar free gum placed inside a car’s cup holder, positioned on a dark textured dashboard surface. The background is softly blurred, showing out-of-focus elements of the car’s interior, including a dark seat and a hint of the windshield or window area. The lighting is natural and diffused, creating subtle reflections on the glossy red lid of the product. The composition focuses on the product from a slightly elevated side angle, emphasizing its cylindrical shape and placement within the vehicle environment. The surrounding area is dark and neutral, drawing attention to the product as the central subject.",
+                "hash": "1c2c134f747c2743f442b4c4acd1333b",
+                "deleted_at": "2026-07-17T17:35:13.711102"
+            },
+            {
+                "file": "B0C5LWW5GK/variation_3.jpg",
+                "prompt": "A top-down view of an open black leather handbag with gold-toned hardware, featuring a clear zippered pocket. Inside the pocket, a smartphone with a floral-patterned case, a small tube of hand cream, and the sugar free gum are neatly arranged. The handbag rests on a light-colored, softly textured surface. A set of keys with a red tag lies beside the bag, adding to the everyday, personal accessory composition. The lighting is soft and natural, highlighting the textures of the leather and the items within.",
+                "hash": "ae629570fa1c25b84a1ec1891c54167f",
+                "deleted_at": "2026-07-17T17:35:15.532569"
+            }
+        ],
+        "B00IPWOQ5A": [
+            {
+                "file": "B00IPWOQ5A/variation_1.jpg",
+                "prompt": "A still-life composition featuring a bottle of red wine with a gold foil cap, placed on a rich red patterned tablecloth. To the right of the bottle is a white ceramic bowl containing a dark amber liquid, accompanied by a pair of wooden chopsticks resting on a small white dish with a mound of brown spice. Nearby, a small white spoon holds a golden liquid, and a glass pitcher with a floral etched pattern contains a similar amber liquid. A packaged product labeled \"Redwood Trails Beef Jerky\" is positioned upright in the background, partially obscured by a small bonsai tree with thick, gnarled branches and lush green foliage. The background is dark, emphasizing the warm, ambient lighting that highlights the textures of the tablecloth,",
+                "hash": "a026a56815e0bfbf7c8ab001a92b0817",
+                "deleted_at": "2026-07-17T17:35:29.085722"
+            }
+        ],
+        "B09H483WTK": [
+            {
+                "file": "B09H483WTK/variation_1.jpg",
+                "prompt": "A close-up shot of a white cylindrical container with a yellow lid, placed on a light marble countertop. The container features a label with a central image of a bowl of salsa surrounded by fresh ingredients including a green bell pepper, jalapeño, tomato, onion, and garlic. The background is softly blurred, showing a kitchen setting with a whole tomato, a wooden cutting board, and a white bowl, creating a shallow depth of field that emphasizes the product in the foreground. The lighting is warm and natural, suggesting an indoor kitchen environment.",
+                "hash": "8fe5cb992ebe079bad8d0e7806336cc8",
+                "deleted_at": "2026-07-17T17:35:42.328466"
+            }
+        ],
+        "B0BCZDNTXD": [
+            {
+                "file": "B0BCZDNTXD/variation_2.jpg",
+                "prompt": "A diagonal split composition with a solid green upper panel and a plain white lower panel. In the upper green section, a circular USDA Organic seal is visible. In the lower white section, a pair of hands with neatly manicured nails cradles a textured ceramic mug filled with dark liquid, resting on a matching saucer. To the left of the hands, a small green box of the mushroom elixir mix is placed at an angle on the white surface. A small golden spoon lies to the right of the mug, and a crumpled white paper packet is partially visible in the bottom right corner. The lighting is bright and natural, casting soft shadows.",
+                "hash": "4561bfdfb528aa3ef2fff2ea4a374343",
+                "deleted_at": "2026-07-17T17:36:08.895033"
             }
         ]
     }

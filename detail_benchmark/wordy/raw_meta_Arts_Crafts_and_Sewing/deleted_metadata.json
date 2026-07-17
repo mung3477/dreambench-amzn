@@ -189,6 +189,21 @@
             "title": "YayaCat Moving Sand Art Picture Sandscapes Desktop Art Toys (9\"X7\", Golden,Black,White)",
             "reference_file": "B0BQ71DCJL/reference.jpg",
             "deleted_at": "2026-07-13T21:46:00.247556"
+        },
+        "B09HSG6SPJ": {
+            "title": "Ommi Ergonomic Handle Crochet Hooks | Handcrafted 7’’ Orange & Black Swirl Crochet Hook | Knitting Needle, Craft Yarn Weave | Best Gift! (Orange & Black, 4 mm)",
+            "reference_file": "B09HSG6SPJ/reference.jpg",
+            "deleted_at": "2026-07-17T17:29:03.109926"
+        },
+        "B07SQM3PGT": {
+            "title": "SPEEDWOX Memory Wire Cutters with Spring for Jewelry Making Bracelet Pliers 5-1/2 Inch Miniature Hard Steel Wire Cutting Shear Beading Hobby Work Tool for Arts and Crafts Electronics Jewelry Making",
+            "reference_file": "B07SQM3PGT/reference.jpg",
+            "deleted_at": "2026-07-17T17:29:15.284133"
+        },
+        "B0BG4KV4BK": {
+            "title": "TSVETNOY Paint by Numbers - Beginner Acrylic Oil Number Painting Kits for Adults on Framed Canvas Flowers, Framed Paint by Number - Painting by Numbers Kits for Adults on Canvas - Autumn Bouquet",
+            "reference_file": "B0BG4KV4BK/reference.jpg",
+            "deleted_at": "2026-07-17T17:29:37.235964"
         }
     },
     "deleted_variations": {
@@ -662,6 +677,36 @@
                 "prompt": "A framed sand art picture displayed on a clear acrylic stand, positioned on a dark wooden surface with visible grain and warm ambient lighting. The frame is transparent with a thin white mat border, showcasing the artwork inside. The background includes a rustic wooden log to the left, a dark ceramic vase with dried lavender behind the frame, and a softly blurred interior setting with books and decorative items in the distance. The lighting is warm and directional, casting soft highlights on the frame and the wooden surface, creating a cozy, natural ambiance. The composition is slightly angled, with a shallow depth of field that keeps the sand art picture in sharp focus while softly blurring the surrounding elements.",
                 "hash": "2d33594254494b78631dc0be25744efe",
                 "deleted_at": "2026-07-13T21:46:00.248727"
+            }
+        ],
+        "B09HSG6SPJ": [
+            {
+                "file": "B09HSG6SPJ/variation_1.jpg",
+                "prompt": "A flat-lay composition featuring the crochet hook resting diagonally on a soft, fluffy white textured surface resembling sheepskin or faux fur. The hook is positioned near the center-right, angled slightly upward toward the top right corner. To the upper left, a pair of cream-colored, chunky-knit fingerless gloves with ribbed cuffs are casually folded and placed. Near the bottom left, a small glass jar candle with a white wax surface and a visible wick is shown, adorned with a simple twine bow and a blank beige paper tag. Scattered around the hook and candle are dried flowers, including a prominent dark brown dried rose and a few smaller pale beige dried blooms on thin stems. The overall lighting is soft, natural, and diff",
+                "hash": "b71da191e0748d67c5b75fa4ef493748",
+                "deleted_at": "2026-07-17T17:29:03.110748"
+            },
+            {
+                "file": "B09HSG6SPJ/variation_3.jpg",
+                "prompt": "A top-down flat lay composition on a dark, richly grained wooden surface. A hand with a small tattoo on the wrist gently holds a white ceramic cup filled with amber-colored tea, resting on a matching white saucer. To the right, a vibrant bouquet of flowers is arranged, featuring bright magenta and vivid cyan daisies with green stems. The crochet hook lies diagonally across the table, positioned between the tea set and the flowers, its handle pointing toward the bottom left. In the bottom left corner, a portion of a white paper or card is visible, with no text or markings described. The lighting is soft and natural, casting gentle shadows and highlighting the textures of the wood, ceramic, and petals. The overall mood is",
+                "hash": "51f76f62e855903e536812da2ec85faa",
+                "deleted_at": "2026-07-17T17:29:03.112568"
+            }
+        ],
+        "B07SQM3PGT": [
+            {
+                "file": "B07SQM3PGT/variation_1.jpg",
+                "prompt": "A close-up, top-down view of a hand holding the wire cutters, actively cutting a thin gold wire. The tool is positioned diagonally across the frame, with the cutting jaws engaged on the wire. Surrounding the tool are several colorful, handcrafted jewelry components scattered on a plain white surface, including patterned teardrop-shaped pendants with embedded glass beads, a circular black-and-white checkered piece, and a triangular piece with multicolored stripes. The lighting is bright and even, creating soft shadows beneath the objects. The background is a clean, uncluttered white surface with no text, logos, or graphic elements.",
+                "hash": "29b802095fd3a77d806090ac6b6c98a0",
+                "deleted_at": "2026-07-17T17:29:15.284544"
+            }
+        ],
+        "B0BG4KV4BK": [
+            {
+                "file": "B0BG4KV4BK/variation_1.jpg",
+                "prompt": "A watercolor painting of a vibrant floral bouquet in a glass vase, displayed on a small wooden easel. The painting features a variety of flowers, leaves, and red berries arranged in a full, natural composition, with some leaves and berries scattered at the base of the vase. The artwork is presented on a white canvas with a textured surface, angled slightly to the right. In front of the easel, on a plain white surface, are several small paint pots arranged in a scattered pattern, along with a clear plastic cup holding three red-handled paintbrushes. The scene is brightly lit with soft, even lighting, creating a clean and inviting artistic setup.",
+                "hash": "d08715450a80e2c3e672763eafbf1d3e",
+                "deleted_at": "2026-07-17T17:29:37.236880"
             }
         ]
     }

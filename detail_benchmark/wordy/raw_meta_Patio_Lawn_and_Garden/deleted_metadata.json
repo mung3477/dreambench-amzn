@@ -99,6 +99,16 @@
             "title": "Woodstock Signature Collection Portrait Chime, 22-1/2-Inch, Jade",
             "reference_file": "B003XL9O5U/reference.jpg",
             "deleted_at": "2026-07-12T11:31:32.653953"
+        },
+        "B00602J27E": {
+            "title": "BLACK+DECKER 20V MAX Cordless Hedge Trimmer, 22 Inch Steel Blade, Reduced Vibration, Battery and Charger Included (LHT2220), Orange",
+            "reference_file": "B00602J27E/reference.jpg",
+            "deleted_at": "2026-07-17T17:42:43.893252"
+        },
+        "B07WCNSTJP": {
+            "title": "Roman - Angel with Butterfly and Bird Bath Statue, 20.25\" H, Garden Collection, Resin and Stone, Decorative, Gift, Home Outdoor and Indoor Decor, Durable, Long Lasting",
+            "reference_file": "B07WCNSTJP/reference.jpg",
+            "deleted_at": "2026-07-17T17:43:35.710348"
         }
     },
     "deleted_variations": {
@@ -200,6 +210,12 @@
                 "prompt": "The angel statue stands gracefully on a weathered stone ledge, positioned outdoors in a sunlit garden setting. It is captured from a slightly low angle, emphasizing its elegant posture as it holds a shallow dish aloft with both hands. The statue is placed on a smooth, light-gray concrete or stone surface that forms a raised border, with a patterned brick walkway visible in the foreground. Behind it, lush green shrubbery fills the background, creating a natural, textured backdrop with varying shades of green and hints of sunlight filtering through the foliage. Bright, natural daylight illuminates the scene, casting a soft shadow of the statue onto the ledge to its left, enhancing the three-dimensional form and adding depth to the composition. The overall atmosphere is serene",
                 "hash": "0a08a4b3bcd2e569eb4cab0a011f913f",
                 "deleted_at": "2026-07-12T11:31:04.838905"
+            },
+            {
+                "file": "B07WCNSTJP/variation_1.jpg",
+                "prompt": "The angel statue stands gracefully on a weathered stone ledge, positioned outdoors in a natural garden setting. Behind it, lush green shrubbery with dense, needle-like foliage fills the midground, creating a soft, textured backdrop. Further in the distance, blurred trees with light green leaves and bare branches suggest a sunlit, wooded environment. The lighting is bright and natural, with sunlight casting soft shadows across the stone surface and highlighting the contours of the statue. The stone ledge has a rough, uneven texture and appears aged, with subtle discoloration and small patches of moss. The overall composition is centered, with the statue as the focal point, framed by the natural greenery and bathed in warm, diffused daylight.",
+                "hash": "61b20b42964636de1ab6515b0ae3b605",
+                "deleted_at": "2026-07-17T17:43:35.712067"
             }
         ],
         "B08KYDGYZN": [
@@ -370,6 +386,22 @@
                 "prompt": "A wind chime hangs suspended from a branch of a coniferous tree, surrounded by soft, silvery-green pine needles. The background features a natural outdoor setting with blurred green foliage and a hint of grassy ground, creating a serene, forest-like atmosphere. The lighting is soft and natural, suggesting daylight filtered through the trees. The chime is centered in the frame, with the tree branches framing it gently on both sides. The overall composition emphasizes tranquility and integration with nature, with a shallow depth of field that keeps the focus on the chime while softly blurring the surrounding environment.",
                 "hash": "69aa2d5025c89b6b1da385801524382c",
                 "deleted_at": "2026-07-12T11:31:32.655170"
+            }
+        ],
+        "B00602J27E": [
+            {
+                "file": "B00602J27E/variation_1.jpg",
+                "prompt": "A person wearing white gloves and a blue long-sleeve shirt is actively using the cordless hedge trimmer to trim a dense, vibrant green hedge. The trimmer is angled downward, cutting through the foliage, with the blade section in contact with the top of the hedge. The background is a softly blurred natural garden setting with greenery and dappled sunlight, creating a shallow depth of field that emphasizes the action in the foreground. The lighting is bright and natural, suggesting an outdoor daytime scene. The focus is on the dynamic use of the tool, capturing motion and precision in gardening.",
+                "hash": "b72d20fe0ceb68ce184e141171bf265d",
+                "deleted_at": "2026-07-17T17:42:43.894612"
+            }
+        ],
+        "B097SJKVTK": [
+            {
+                "file": "B097SJKVTK/variation_2.jpg",
+                "prompt": "A round rug is placed on a light wooden floor in a bright, airy indoor space near a white French door with patterned sheer curtains. The rug is positioned centrally in the foreground, with a pair of white flip-flops resting just behind it. To the right, a wooden folding chair holds a straw hat and a teal-and-white striped towel draped over the back. A tall potted grass plant in a white ceramic pot stands beside the door. The scene is well-lit with natural daylight, creating soft shadows and a clean, inviting atmosphere. The background features a white shiplap wall, enhancing the fresh, coastal aesthetic. The composition is balanced, with the rug as the focal point, surrounded by minimal, lifestyle-style decor elements.",
+                "hash": "4437e6bc5669bcea2b8b34fa0ac34497",
+                "deleted_at": "2026-07-17T17:42:59.524801"
             }
         ]
     }

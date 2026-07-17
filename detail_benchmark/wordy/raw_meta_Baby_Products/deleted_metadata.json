@@ -174,6 +174,11 @@
             "title": "PMLAND Premium Quality Airport Gate Check Bag for Car Seats with Backpack Style Shoulder Strape and Drawstring Ballistic Nylon (Blue)",
             "reference_file": "B06WVJ7CZN/reference.jpg",
             "deleted_at": "2026-07-13T21:49:32.612091"
+        },
+        "B00B1M2QNU": {
+            "title": "HALO Sleepsack 100% Cotton Wearable Blanket, Print Girl, Large",
+            "reference_file": "B00B1M2QNU/reference.jpg",
+            "deleted_at": "2026-07-17T17:30:39.402707"
         }
     },
     "deleted_variations": {
@@ -691,6 +696,22 @@
                 "prompt": "A person is shown from the waist down, wearing a gray t-shirt and dark patterned pants, holding the carry bag by its black top handle. The bag is positioned diagonally in the frame, slightly angled to the right, with its full volume visible. The background is plain white, creating a clean, studio-style presentation. The lighting is bright and even, highlighting the bag’s smooth, slightly reflective surface and natural folds. The person’s hand grips the handle firmly, suggesting the bag is being carried or lifted. All text, logos, and promotional elements are ignored, leaving only the visual composition of the person holding the bag against the white background.",
                 "hash": "39afcf55694ee819cc96522a3032a97e",
                 "deleted_at": "2026-07-13T21:49:32.612734"
+            }
+        ],
+        "B00B1M2QNU": [
+            {
+                "file": "B00B1M2QNU/variation_1.jpg",
+                "prompt": "A smiling baby stands front-facing, wearing the wearable blanket over a white long-sleeve shirt. The baby has curly dark hair and is looking directly at the camera with a joyful expression. The wearable blanket is fully zipped up the front and extends to the baby’s feet, with a slightly flared, sack-like silhouette. The background is a plain, solid white, creating a clean, studio-style product shot. The lighting is bright, even, and soft, highlighting the baby’s features and the shape of the wearable blanket without casting harsh shadows. The composition is centered, with the baby positioned in the middle of the frame, filling most of the image vertically.",
+                "hash": "d1b6e93c9e8c8f0762175a04390f2559",
+                "deleted_at": "2026-07-17T17:30:39.403565"
+            }
+        ],
+        "B09SMF2HN2": [
+            {
+                "file": "B09SMF2HN2/variation_1.jpg",
+                "prompt": "A minimalist dining room scene with bright, natural lighting and a clean, airy atmosphere. The highchair is positioned on the right side of the frame, standing next to a modern wooden dining table with a white tabletop and light wood legs. Two dark gray upholstered chairs with wooden legs are placed at the table. The background features a white wall with white wainscoting, a framed abstract artwork with neutral tones hanging centered above the table, and a large window covered with sheer white curtains allowing soft light to fill the space. The floor is light-colored and partially covered by a black-and-white striped rug in the foreground. The overall composition is balanced, with the highchair integrated naturally into the domestic setting, emphasizing its sleek design and functionality within a contemporary",
+                "hash": "114b1cbd98d155f7d990332cd7825683",
+                "deleted_at": "2026-07-17T17:30:56.709592"
             }
         ]
     }

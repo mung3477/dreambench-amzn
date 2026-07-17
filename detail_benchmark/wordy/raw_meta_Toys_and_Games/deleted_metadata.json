@@ -209,6 +209,11 @@
             "title": "Zeiwohndc Unisex Light Up Husky Plush Animal Hat, LED Glowing Earflap Cap with Moving Long Ears Funny Puppy Dog,Gray+White",
             "reference_file": "B08Q3LXSZC/reference.jpg",
             "deleted_at": "2026-07-13T22:00:56.842879"
+        },
+        "B07CL2BSM8": {
+            "title": "OUR MOMENTS Kids: 100 Conversation Starter Cards for Families and Kids - Relationship Building - Car Travel, Road Trip & Card Game for Healthy Loving Family - Questions for Family Activities",
+            "reference_file": "B07CL2BSM8/reference.jpg",
+            "deleted_at": "2026-07-17T17:45:08.657788"
         }
     },
     "deleted_variations": {
@@ -834,6 +839,20 @@
                 "prompt": "A young person sits comfortably on a light-colored sofa in a bright, softly lit indoor setting, wearing the plush hat. The hat features long, floppy ears and a tail-like appendage that drapes down the front, which the person gently holds with one hand while playfully touching the nose area with the other. The background includes a wooden easel, a white shelving unit with books and decorative items, and a wall adorned with colorful framed pictures. Natural light streams in from a window with a patterned curtain, creating a warm and cozy atmosphere. The overall composition is casual and lifestyle-oriented, with a focus on the person interacting with the plush hat in a relaxed home environment.",
                 "hash": "067740893e9e06aa17fe3d44e4b55647",
                 "deleted_at": "2026-07-13T22:00:56.846693"
+            }
+        ],
+        "B07CL2BSM8": [
+            {
+                "file": "B07CL2BSM8/variation_1.jpg",
+                "prompt": "A warm, intimate indoor scene featuring a smiling adult and a young child sitting closely together on a couch, both looking down at a small card held in the adult’s hand. The child points at the card with curiosity and a gentle smile, while the adult has an arm around the child, conveying closeness and connection. The lighting is soft and natural, highlighting their faces and creating a cozy, heartfelt atmosphere. In the foreground, a circular inset displays the conversation starter cards — a black box and a stack of cards — arranged neatly on a plain white surface, with one card shown face-up. The background is softly blurred, suggesting a home environment with neutral tones and subtle decor. The overall composition emphasizes emotional bonding and shared moments, with the product subtly",
+                "hash": "e4cc1988b7fdd170e54db7c21e8e9e79",
+                "deleted_at": "2026-07-17T17:45:05.510425"
+            },
+            {
+                "file": "B07CL2BSM8/variation_2.jpg",
+                "prompt": "A warm, intimate indoor scene showing a father and a young child lying face-to-face on a soft, textured carpet, engaging in a quiet, meaningful conversation. The father is on the left, leaning forward with his elbows on the floor, hands clasped, smiling gently at the child. The child, on the right, mirrors the pose, resting on elbows with hands under chin, looking up at the father with an attentive and thoughtful expression. Between them, on the carpet, sits a small, upright box of the conversation starter cards, with a single card placed in front of it, face-up. The background features a cozy living room setting with a neutral-toned sofa and striped cushions, softly blurred to keep focus on the interaction. The lighting",
+                "hash": "673af6148114fff6bc67b7fc8fe5befc",
+                "deleted_at": "2026-07-17T17:45:08.658395"
             }
         ]
     }

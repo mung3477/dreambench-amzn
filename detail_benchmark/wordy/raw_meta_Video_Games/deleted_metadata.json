@@ -309,6 +309,11 @@
             "title": "Persona 5 Strikers (PS4)",
             "reference_file": "B08QH3BSD5/reference.jpg",
             "deleted_at": "2026-07-13T22:04:25.626363"
+        },
+        "B07TX9QKGG": {
+            "title": "DREVO BladeMaster TE Cherry MX Brown Mechanical Gaming Keyboard Radi RGB Backlit, USB Wired, Programmable Genius Knob, 87K TKL QWERTY US Layout",
+            "reference_file": "B07TX9QKGG/reference.jpg",
+            "deleted_at": "2026-07-17T17:45:42.827862"
         }
     },
     "deleted_variations": {
@@ -1124,6 +1129,14 @@
                 "prompt": "A vibrant, in-game interior scene set inside a retro-style van with a checkered black-and-white floor, red upholstered seating, and a green kitchenette on the left. The space is populated with multiple animated characters in casual attire, positioned naturally around the van: one seated at the kitchen counter, another standing near the back, a few seated at tables, and one lounging on an upper bunk bed. A black cat rests on a table near the center. The lighting is bright and natural, simulating daylight coming through the windows, which show a blurred outdoor street scene with parked vehicles. On the left side, a cluster of stylized, road-sign-shaped menu options is displayed, each with bold white text on black backgrounds, arranged vertically",
                 "hash": "1c2f06cfcd196d568bd93fbc12b54244",
                 "deleted_at": "2026-07-13T22:04:25.632749"
+            }
+        ],
+        "B07TX9QKGG": [
+            {
+                "file": "B07TX9QKGG/variation_1.jpg",
+                "prompt": "A low-angle shot of the keyboard placed on a dark textured surface, illuminated by vibrant RGB lighting along its edges and under the keys, with a soft blue ambient glow emanating from behind the monitor. In the background, a computer monitor displays a software interface with multiple panels showing a keyboard and mouse layout, control settings, and layer options, all set against a dark, slightly blurred backdrop. The monitor’s frame is lit with a blue LED strip along the bottom edge. The overall lighting is dim and moody, emphasizing the glowing keyboard and screen, creating a high-tech, gaming-focused atmosphere. The scene is viewed from a slightly elevated angle, focusing on the keyboard in the foreground with the monitor positioned above and behind it.",
+                "hash": "40b64887e5c53ffae5e969b2c68fc661",
+                "deleted_at": "2026-07-17T17:45:42.828996"
             }
         ]
     }

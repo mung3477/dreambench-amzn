@@ -194,6 +194,16 @@
             "title": "Skeem Design Fireplace Glass Match Cloche with Striker - Violet - 120 Small Match Sticks",
             "reference_file": "B07YBKC92T/reference.jpg",
             "deleted_at": "2026-07-15T12:23:06.479953"
+        },
+        "B08NPG1CHS": {
+            "title": "MRM Nutrition Sparkling Vitamin C 1000mg | with Vitamin D + zinc + prebiotics| Island Fusion Flavored | Immune Health | Antioxidants + Electrolytes | Zero Sugar | 30 Servings",
+            "reference_file": "B08NPG1CHS/reference.jpg",
+            "deleted_at": "2026-07-17T17:38:14.603956"
+        },
+        "B078N5KY11": {
+            "title": "I'm 22 bitches banner for 22nd birthday decorations Risehy",
+            "reference_file": "B078N5KY11/reference.jpg",
+            "deleted_at": "2026-07-17T17:38:19.373405"
         }
     },
     "deleted_variations": {
@@ -701,6 +711,28 @@
                 "prompt": "A still-life composition featuring three glass match holders of varying sizes arranged on a smooth, light-colored shelf against a neutral, textured beige wall. The largest holder on the left is tall and cylindrical with a flared base, the middle one is shorter and rounded with a similar base, and the smallest on the right is a clear glass jar with a cork lid. Each holder contains wooden matches standing upright, with their tips visible at the top. To the right, a small dark ceramic dish holds a single lit matchstick with a glowing ember and rising wisps of smoke. The lighting is soft and warm, casting gentle shadows and highlighting the translucent quality of the glass holders. The overall atmosphere is calm and minimalist, with a focus on texture and natural materials",
                 "hash": "6c5452d78dedd352b40b50eb695e4afa",
                 "deleted_at": "2026-07-15T12:23:06.481883"
+            }
+        ],
+        "B08NPG1CHS": [
+            {
+                "file": "B08NPG1CHS/variation_1.jpg",
+                "prompt": "A product shot of the vitamin supplement placed centrally on a rustic wooden cutting board, positioned next to a clear glass jar filled with a vibrant red, sparkling liquid. The scene is styled with fresh tropical fruits: a whole pineapple in the background, a halved mango with its flesh scored into cubes, and a single ripe strawberry placed near the product. The background is a clean, bright white, with soft natural lighting that highlights the freshness of the fruits and the glossy surface of the drink. The composition is arranged to evoke a refreshing, healthy, and tropical vibe, with the product as the focal point surrounded by its flavor-inspired ingredients.",
+                "hash": "1f4727f2130daeee4baf58e4aedb3c56",
+                "deleted_at": "2026-07-17T17:38:14.604752"
+            }
+        ],
+        "B078N5KY11": [
+            {
+                "file": "B078N5KY11/variation_1.jpg",
+                "prompt": "A golden glittery banner hangs horizontally across the upper portion of the image, suspended by a thin white string against a plain, neutral beige wall. Below the banner is a large, light wooden entertainment unit with multiple open shelves and louvered cabinet doors. The unit features a central recessed area housing a flat-screen television displaying a colorful, dark fantasy scene. The shelves are neatly arranged with books, framed photos, decorative vases, and small ornaments. To the left of the unit, a potted green plant sits on a small side table. The overall lighting is soft and even, creating a warm, cozy, and lived-in atmosphere. The composition is balanced, with the banner positioned above the furniture as a focal point.",
+                "hash": "dc84906aca7a9eaf2dd1a3861356e213",
+                "deleted_at": "2026-07-17T17:38:19.374037"
+            },
+            {
+                "file": "B078N5KY11/variation_2.jpg",
+                "prompt": "A golden glitter banner is strung horizontally across the upper portion of the image, suspended by a thin white string against a light gray brick wall. Below the banner, a vintage-style wooden hutch with cream-colored doors and dark wood trim is positioned. The hutch features arched glass panels in the upper section, displaying blue and white porcelain items, including vases and decorative plates. The lower section holds wine glasses and additional ceramic pieces. To the right of the hutch, a tall green potted plant with long, feathery fronds adds natural texture to the scene. The lighting is soft and even, highlighting the textures of the brick wall, the furniture, and the plant, creating a warm, inviting indoor setting.",
+                "hash": "e626a9312814ea43453cc4aaaf381119",
+                "deleted_at": "2026-07-17T17:38:19.375381"
             }
         ]
     }

@@ -189,6 +189,11 @@
             "title": "E.F. Durand Bb Brass Cornet with Case, Mouthpiece, and White Gloves",
             "reference_file": "B01JTI4NLA/reference.jpg",
             "deleted_at": "2026-07-15T12:24:06.010001"
+        },
+        "B09HTV1RV3": {
+            "title": "SAPHUE Crunch Distortion Guitar Effects Pedal Gain/Volume/Tone Knob High Low Frequency Effect Pedals with Steel Metal Shell Mini Single Type Dc 9V with True Bypass Switch for Multi Electric Guitar Kit",
+            "reference_file": "B09HTV1RV3/reference.jpg",
+            "deleted_at": "2026-07-17T17:42:20.673882"
         }
     },
     "deleted_variations": {
@@ -636,6 +641,14 @@
                 "prompt": "A brass cornet is positioned inside an open black hard-shell case, resting securely in a plush black interior lining. The case is shown from a top-down perspective, with the lid propped open to reveal the instrument nestled within. The case features a sturdy black exterior with visible zippers, metal rivets, and a padded handle on the side. A small circular cutout is visible on the inside of the lid. The background is a plain white surface, providing clean contrast to the black case and the reflective surface of the brass cornet. The lighting is even and bright, highlighting the contours of the case and the instrument’s placement within it.",
                 "hash": "3f2e058ed5afda4fdc72f0a7d5f2a8f6",
                 "deleted_at": "2026-07-15T12:24:06.011653"
+            }
+        ],
+        "B09HTV1RV3": [
+            {
+                "file": "B09HTV1RV3/variation_1.jpg",
+                "prompt": "A black fabric bag with a white zipper is partially unzipped, revealing its contents. Inside, the guitar effects pedal rests on a folded yellow microfiber cloth, placed atop a white surface with printed patterns. The bag’s interior is dark, and other small items like a metal tool and a blue denim-like fabric with a metal buckle are visible nearby. The scene is shot from a high angle, with soft, even lighting highlighting the textures of the fabric and the metallic components. The background is plain white, and the overall composition emphasizes portability and compact storage.",
+                "hash": "cacc3a27f05ac337b706dd9f3beee494",
+                "deleted_at": "2026-07-17T17:42:20.676437"
             }
         ]
     }

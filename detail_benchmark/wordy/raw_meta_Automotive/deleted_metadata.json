@@ -209,6 +209,16 @@
             "title": "Air Lift 74000-2nd Generation Company 74000 WirelessAir",
             "reference_file": "B09HLJ5WVM/reference.jpg",
             "deleted_at": "2026-07-13T21:48:56.007136"
+        },
+        "B0899G5KND": {
+            "title": "Carperipher Motorcycle Goggles Vintage Open Face Helmet Sunglasses",
+            "reference_file": "B0899G5KND/reference.jpg",
+            "deleted_at": "2026-07-17T17:29:54.743195"
+        },
+        "B07FQGVYFY": {
+            "title": "Aolyty Solar Strobe Warning Light 360 Degree Single Column Super Bright Waterproof IP48 for Construction Traffic Dock Marine Light Control Flashing (Red)",
+            "reference_file": "B07FQGVYFY/reference.jpg",
+            "deleted_at": "2026-07-17T17:30:00.608793"
         }
     },
     "deleted_variations": {
@@ -702,6 +712,44 @@
                 "prompt": "A human hand holding the wireless air compressor remote, palm facing upward, fingers gently gripping the sides of the device, with the thumb positioned near the control buttons. The remote is centered in the frame, shown from a slightly angled front view. The background is plain white, with soft, even lighting that highlights the contours of the hand and the device without harsh shadows. The hand appears natural and relaxed, emphasizing the compact, ergonomic size of the product.",
                 "hash": "ae5a6a2717573201a83ee6cb1daa7e6e",
                 "deleted_at": "2026-07-13T21:48:56.007907"
+            }
+        ],
+        "B0899G5KND": [
+            {
+                "file": "B0899G5KND/variation_1.jpg",
+                "prompt": "A dynamic action shot of a motocross rider leaning into a sharp turn on a dirt track, kicking up a cloud of dust behind the motorcycle. The rider is wearing full protective gear, including a helmet with a visor, a blue and white racing suit with chest and shoulder armor, gloves, and off-road boots. The motorcycle is an orange and white dirt bike with knobby tires, visible suspension, and a white front fender. The rider’s face is partially covered by the motorcycle goggles, which are securely attached to the helmet. The goggles are positioned to show their integration with the helmet and their protective coverage over the eyes and upper face. The scene is set outdoors in a natural, sunlit environment with blurred green foliage in the background",
+                "hash": "f6a9cf5d69c6c46439344f9365cdaba7",
+                "deleted_at": "2026-07-17T17:29:54.744185"
+            },
+            {
+                "file": "B0899G5KND/variation_3.jpg",
+                "prompt": "A dynamic action shot of a snowboarder mid-motion on a snowy mountain slope under a clear, vibrant blue sky. The snowboarder is wearing a bright pink helmet and a matching pink ski jacket with teal accents and white zipper lines. They are also wearing blue and gray gloves, with one hand gripping a white snowboard. The snowboarder is angled diagonally across the frame, extending one arm forward as if reaching out or balancing, with the other arm raised holding the board. The background features a vast, sunlit snow-covered landscape with distant mountain ridges. The lighting is bright and natural, emphasizing the crisp, high-contrast outdoor environment. The motorcycle goggles are worn over the helmet, positioned to cover the eyes and lower face,",
+                "hash": "e87ff65ad65061affdba03000a5ee00e",
+                "deleted_at": "2026-07-17T17:29:54.744905"
+            }
+        ],
+        "B07FQGVYFY": [
+            {
+                "file": "B07FQGVYFY/variation_1.jpg",
+                "prompt": "A close-up shot of the strobe warning light centered against a solid deep red background, illuminated from within to emit a warm, glowing red light that casts soft highlights and subtle lens flare effects. The light is positioned slightly off-center, casting a faint shadow beneath it on the same red surface, creating a moody and dramatic atmosphere. The surrounding environment is dark and hazy, enhancing the luminosity of the light and emphasizing its glowing effect. The overall composition is minimalistic, focusing entirely on the illuminated product with no additional text, graphics, or elements present.",
+                "hash": "6a56308eb7d4040fbeda97c904f0fd93",
+                "deleted_at": "2026-07-17T17:30:00.609497"
+            }
+        ],
+        "B0B1CZ8JLX": [
+            {
+                "file": "B0B1CZ8JLX/variation_1.jpg",
+                "prompt": "A vertical outdoor power station with a weathered metallic finish and a slanted protective hood, mounted on a concrete post, with the rv surge protector plugged into it and its cord extending downward. The background features a scenic mountain landscape with green slopes, rocky peaks, and a partly cloudy blue sky, with sunlight casting a warm glow. In the foreground, two white RVs are parked on a grassy field, positioned to the right of the power station. The scene is bright and natural, with soft sunlight and lens flare effects, suggesting a peaceful outdoor camping environment. The power station is centered on the left side of the frame, while the RVs occupy the right side, creating a balanced composition. The overall image has a realistic, high-resolution photographic",
+                "hash": "0a648512adad68a628f147d388ed34d4",
+                "deleted_at": "2026-07-17T17:30:03.862566"
+            }
+        ],
+        "B00E9YLEX0": [
+            {
+                "file": "B00E9YLEX0/variation_3.jpg",
+                "prompt": "A person is cleaning the side window of a white car, holding the glass cleaner in one hand and a blue microfiber cloth in the other. The glass cleaner is being sprayed onto the window, which is covered in fine droplets of liquid. The person is wiping the window with the cloth, creating a streak-free surface. The car’s exterior is visible, including part of the side mirror and window frame. The background shows blurred green foliage, suggesting an outdoor setting in natural daylight. The scene is shot from a close, slightly angled perspective, focusing on the action of cleaning the car window.",
+                "hash": "c6846316b81fd2c102da5dd6670a038e",
+                "deleted_at": "2026-07-17T17:30:17.479494"
             }
         ]
     }

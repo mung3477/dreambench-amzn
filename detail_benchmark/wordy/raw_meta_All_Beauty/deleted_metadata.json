@@ -199,6 +199,21 @@
             "title": "Microcurrent Facial Roller Massager V Shape Face Massager Body Slim Reduce Wrinkle Firm Body Tightening Improve Face",
             "reference_file": "B08S3DFHW6/reference.jpg",
             "deleted_at": "2026-07-12T23:36:52.793759"
+        },
+        "B017A0PAFW": {
+            "title": "COKOHAPPY Large Temporary Tattoo, Keep Calm Word",
+            "reference_file": "B017A0PAFW/reference.jpg",
+            "deleted_at": "2026-07-17T17:26:05.807419"
+        },
+        "B017J17QQ8": {
+            "title": "Caress Body Wash, Pure Embrace 12 oz",
+            "reference_file": "B017J17QQ8/reference.jpg",
+            "deleted_at": "2026-07-17T17:26:13.212222"
+        },
+        "B09KX5N1DR": {
+            "title": "100% PURE Coconut Body Scrub Exfoliating Deep Cleanse with Sea Salts & Nourishing Oils - Natural Deeply Moisturizing Skincare - Vibrant Radiant Skin Restore & Pore Cleanser - Vegan - 10oz",
+            "reference_file": "B09KX5N1DR/reference.jpg",
+            "deleted_at": "2026-07-17T17:26:35.498008"
         }
     },
     "deleted_variations": {
@@ -462,6 +477,12 @@
                 "prompt": "A close-up shot of a person’s forearm with a hand gently rubbing a granular, crystalline scrub onto the skin. The scrub appears as small, translucent, irregular crystals adhering to the skin’s surface, creating a textured, glistening effect. The skin is smooth and naturally toned, with soft, even lighting highlighting the texture of both the scrub and the skin. The background is a plain, light off-white, providing a clean and minimal backdrop. The composition focuses on the action of application, emphasizing the tactile quality of the scrub on the skin. The hand is positioned slightly above the forearm, fingers lightly pressing and moving the scrub in a circular motion. The overall aesthetic is clean, natural, and focused on the sensory experience of skincare.",
                 "hash": "8f8defcca7b8c3673b2af055417fb499",
                 "deleted_at": "2026-07-12T23:34:06.233711"
+            },
+            {
+                "file": "B09KX5N1DR/variation_2.jpg",
+                "prompt": "A vibrant still-life composition on a solid lavender background featuring four round jars of body scrub arranged in a dynamic, slightly diagonal layout. The central jar is open, revealing the textured, golden-yellow scrub inside, with its lid placed nearby. Surrounding it are three closed jars, each with a white lid and a visible label band, positioned at varying angles to create depth. Natural elements are scattered around: a dried blood orange slice, sprigs of lavender, whole almonds, and a piece of coconut husk on a small white plate. The lighting is bright and even, casting soft shadows that enhance the three-dimensional feel. The overall style is clean, fresh, and product-focused, with a natural and organic aesthetic.",
+                "hash": "153df204cf1456ca9880baed6b7ecd92",
+                "deleted_at": "2026-07-17T17:26:35.499157"
             }
         ],
         "B08ZY25DHT": [
@@ -676,6 +697,36 @@
                 "prompt": "A top-down flat lay composition on a clean white surface featuring an open white product box with a black interior, containing the facial roller resting on a soft black insert. Beside the box is a white user manual with a printed image of the facial roller and the text \"USER MANUAL\" at the top, placed next to a small black drawstring pouch. Scattered around are decorative and beauty-related items: a fluffy purple feather pom-pom with a white ribbon bow, two makeup brushes with black handles and brown bristles, a gold-colored bowl holding golden paper clips, a small gold paper clip, and a black card with gold polka dots. The lighting is bright and even, creating soft shadows, and the overall arrangement is styled in a clean",
                 "hash": "50963d557637e4fa6c8dbd8af1047364",
                 "deleted_at": "2026-07-12T23:36:52.795463"
+            }
+        ],
+        "B017A0PAFW": [
+            {
+                "file": "B017A0PAFW/variation_1.jpg",
+                "prompt": "A close-up shot of a person’s forearm, showing the temporary tattoo applied to the skin. The arm is extended horizontally across the frame, with the elbow slightly bent and the hand out of view. The tattoo is centered on the forearm, spanning from near the elbow to the wrist. The person is wearing a plain gray short-sleeved shirt, with the sleeve pushed up to reveal the tattoo. The background is a soft, out-of-focus white or light gray, creating a clean and neutral setting. The lighting is even and natural, highlighting the texture of the skin and the details of the tattoo. The composition focuses entirely on the tattooed arm, with no additional text, graphics, or branding elements visible.",
+                "hash": "72e587b4ca20bb14644feeb3ff97a702",
+                "deleted_at": "2026-07-17T17:26:05.808977"
+            },
+            {
+                "file": "B017A0PAFW/variation_2.jpg",
+                "prompt": "A close-up shot of a person's forearm, flexed and extended across the chest, showcasing the temporary tattoo applied along the length of the inner arm. The person is wearing a plain gray t-shirt and has short, dark hair. The background is a clean, neutral, solid white, creating a bright and minimalistic studio environment. The lighting is soft and even, highlighting the skin texture and the tattoo's details without harsh shadows. The composition focuses tightly on the arm and tattoo, with the person's face obscured by their arm, emphasizing the product's appearance on the skin.",
+                "hash": "1c105cc8e123419b61ef47d6e1292bb4",
+                "deleted_at": "2026-07-17T17:26:05.811449"
+            }
+        ],
+        "B017J17QQ8": [
+            {
+                "file": "B017J17QQ8/variation_1.jpg",
+                "prompt": "A close-up action shot of a hand holding the body wash bottle, tilted to pour its contents into the palm of another hand below. The bottle is shown from a dynamic, slightly angled perspective, emphasizing the flow of the product. The liquid is depicted as a smooth, thick, creamy white stream falling from the bottle’s opening into the open palm, forming a small, glossy pool. The hands are positioned against a clean, plain white background, with soft, even lighting that highlights the texture of the liquid and the natural skin tones of the hands. The bottle is held firmly by the upper hand, with fingers wrapped around its body, while the lower hand is cupped to receive the product. The overall composition focuses on the interaction between the bottle and",
+                "hash": "0a74d4baf7163ad12e47e57a4e5c7634",
+                "deleted_at": "2026-07-17T17:26:13.213072"
+            }
+        ],
+        "B01IGXNWLQ": [
+            {
+                "file": "B01IGXNWLQ/variation_1.jpg",
+                "prompt": "A flat-lay composition featuring five lip crayons arranged in a horizontal row on a solid bright yellow background. The crayons are positioned upright with their tips pointing upward, each displaying a different color: deep red, yellow, bright red, dark red, and red. To the left of the row, a small yellow Minion figurine holds a peeled banana, with another bunch of bananas placed nearby. To the right of the row, a single peeled banana lies on the surface. The lighting is bright and even, casting soft shadows beneath each object. The overall scene is clean, vibrant, and playful, with no text or branding elements visible on the background or within the layout.",
+                "hash": "8852856278c8756dccd8cbd7f333f536",
+                "deleted_at": "2026-07-17T17:26:21.985649"
             }
         ]
     }

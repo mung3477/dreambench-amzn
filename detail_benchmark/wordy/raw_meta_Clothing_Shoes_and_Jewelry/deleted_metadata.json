@@ -249,6 +249,11 @@
             "title": "The Sak Iris Hobo Shoulder Bag",
             "reference_file": "B00FQWJZJ4/reference.jpg",
             "deleted_at": "2026-07-12T23:51:33.417855"
+        },
+        "B076MDHHGC": {
+            "title": "Eberlestock F1 Mainframe - The Most Versatile Pack Ever - Fully Adjustable with Endless Configurations",
+            "reference_file": "B076MDHHGC/reference.jpg",
+            "deleted_at": "2026-07-17T17:33:37.458997"
         }
     },
     "deleted_variations": {
@@ -896,6 +901,14 @@
                 "prompt": "A woman in silhouette stands in profile, wearing a sleeveless black dress with her hair pulled back in a ponytail. She carries the hobo bag over her shoulder, with the strap resting across her back and the bag positioned on her hip. The bag is shown in full view, hanging naturally from the strap, with its front pocket and side details visible. The background is plain white, and the lighting creates a strong contrast between the dark silhouette of the woman and the light-colored bag, emphasizing the bag’s shape and placement.",
                 "hash": "56425dbd1ed2742e979e2d45002fa370",
                 "deleted_at": "2026-07-12T23:51:33.418189"
+            }
+        ],
+        "B076MDHHGC": [
+            {
+                "file": "B076MDHHGC/variation_1.jpg",
+                "prompt": "A full-length side view of the backpack frame, shown upright against a plain white background. The frame is partially covered by a cylindrical, taupe-colored fabric sleeve that extends from the top to the bottom, secured with three horizontal compression straps with plastic buckles. The sleeve has a gathered top and a slightly wrinkled texture, giving it a soft, packable appearance. The side mesh panel and the lower hip belt structure are visible, matching the frame’s construction. The bottom features a curved, dark-gray plastic base with a padded, olive-green fabric section above it. The overall lighting is bright and even, with soft shadows beneath the frame, emphasizing its three-dimensional form. The composition is clean and centered, focusing solely on the product’s structure and",
+                "hash": "7a0c9506595ec4f63b3269ed1eb526d8",
+                "deleted_at": "2026-07-17T17:33:37.459464"
             }
         ]
     }

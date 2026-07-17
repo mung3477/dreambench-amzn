@@ -159,6 +159,31 @@
             "title": "John Lennon Glasses Hippy 60's Vintage Retro Round Sunglasses & Clear Lens",
             "reference_file": "B073ZVCMGG/reference.jpg",
             "deleted_at": "2026-07-15T12:21:55.504098"
+        },
+        "B017S4R36O": {
+            "title": "Trailblazer Biodegradable No Rinse Bamboo XL Wipes Survive Outdoors Anytime and Anywhere 30 Count Value Pack",
+            "reference_file": "B017S4R36O/reference.jpg",
+            "deleted_at": "2026-07-17T17:37:05.158078"
+        },
+        "B0096XUM28": {
+            "title": "Kellogg's 29190 Special K Protein Meal Bar, Chocolate/Peanut Butter, 1.59Oz, 8/Box",
+            "reference_file": "B0096XUM28/reference.jpg",
+            "deleted_at": "2026-07-17T17:37:39.828784"
+        },
+        "B00M8Q0WGQ": {
+            "title": "Soehnle Pino Precision Digital Bathroom Scale, Pink",
+            "reference_file": "B00M8Q0WGQ/reference.jpg",
+            "deleted_at": "2026-07-17T17:37:44.041356"
+        },
+        "B09D43LXPC": {
+            "title": "Carlyle Pancreatin Digestive Enzymes | 1500mg | 250 Caplets | Non-GMO, Gluten Free | High Potency Formula",
+            "reference_file": "B09D43LXPC/reference.jpg",
+            "deleted_at": "2026-07-17T17:37:46.584088"
+        },
+        "B09K4VP9TC": {
+            "title": "Bio-Kult Gut Health Probiotic Supplement, 14 Strains, Probiotics for Women & Men, Immune Support, Digestive Health, Shelf-Stable, Non-GMO and Gluten-Free, Capsules, 30 Count (Pack of 1)",
+            "reference_file": "B09K4VP9TC/reference.jpg",
+            "deleted_at": "2026-07-17T17:37:55.992007"
         }
     },
     "deleted_variations": {
@@ -426,6 +451,12 @@
                 "prompt": "A white ceramic bowl filled with creamy yogurt, topped with vibrant orange slices, peach wedges, and scattered red goji berries, sits on a light gray plate. A silver spoon holding more goji berries rests beside the bowl. A fresh white daisy with a yellow center lies next to the bowl, adding a natural touch. In the background, slightly out of focus, is a box of the probiotic supplement, positioned diagonally with its front facing the viewer. The box is placed on a wooden surface, partially visible, with a large green leafy plant softly blurred in the background, creating a fresh, natural ambiance. The lighting is soft and diffused, highlighting the textures and colors of the food and the product, giving the scene a",
                 "hash": "8d878285503360450eaa0c6ec0be2ff2",
                 "deleted_at": "2026-07-15T12:22:24.515018"
+            },
+            {
+                "file": "B09K4VP9TC/variation_1.jpg",
+                "prompt": "A joyful family of four running and jumping in a sunlit golden field during sunset, with arms outstretched and smiling faces, set against a soft-hued sky and distant hills. In the lower right corner, the probiotic supplement is placed on a solid orange curved banner that spans the bottom of the image. The background behind the family is a natural outdoor landscape with warm, golden lighting and a soft lens flare from the sun. The orange banner is plain and solid, with no text or design elements. The overall mood is vibrant, healthy, and uplifting.",
+                "hash": "5be365f387042370b0b6db0ba632588e",
+                "deleted_at": "2026-07-17T17:37:55.993899"
             }
         ],
         "B08ZLVLR89": [
@@ -584,6 +615,38 @@
                 "prompt": "The sunglasses are positioned diagonally across a dark brown textured case with a pebbled surface, resting on a plain white background. The case has a visible gray fabric lining along one edge and a small black tag attached to the corner, though the tag’s text is ignored. The sunglasses are angled slightly, with the left lens overlapping the case more than the right, and the temple tips are visible extending outward. The lighting is bright and even, creating soft reflections on the lenses and subtle shadows beneath the case and sunglasses. The overall composition is clean and minimal, emphasizing the product and its accompanying case.",
                 "hash": "9a6229c6c1f19cd61d8e9dce37cabb6f",
                 "deleted_at": "2026-07-15T12:21:55.505238"
+            }
+        ],
+        "B017S4R36O": [
+            {
+                "file": "B017S4R36O/variation_1.jpg",
+                "prompt": "A family of four—two adults and two children—lying on a lush green lawn in a sunlit park, surrounded by tall, leafy trees. The family is positioned in a relaxed, playful pose, with their upper bodies propped up on their elbows, looking toward the camera with warm, natural expressions. In the foreground, centered between the family members, is the product placed upright on the grass. The background features a vibrant, natural outdoor setting with soft, diffused daylight enhancing the greenery. The overall scene conveys a sense of togetherness, health, and outdoor enjoyment.",
+                "hash": "396fd42688cb77ee7ae4a0a97d9d26d1",
+                "deleted_at": "2026-07-17T17:37:05.158833"
+            }
+        ],
+        "B0096XUM28": [
+            {
+                "file": "B0096XUM28/variation_1.jpg",
+                "prompt": "A close-up product shot of the meal bar resting diagonally on a clean, light-colored desk surface. The bar is positioned in the foreground, slightly angled, with its wrapper visible but without any specific branding or text details. Surrounding the bar are everyday office or workspace items: a tan leather-bound notebook to the left, a white wireless keyboard in the background, a small ceramic pot with a pink rose-shaped candle, a tall amber-colored tumbler, and a clipboard with a black pen and smartphone in the lower right corner. The lighting is soft and natural, creating a bright, clean, and professional atmosphere. The overall composition is styled to suggest a healthy snack in a modern work environment, with the meal bar as the central focus amidst minimal",
+                "hash": "9e8eb7b71605bb53f7e24148f1c5dfda",
+                "deleted_at": "2026-07-17T17:37:39.829850"
+            }
+        ],
+        "B00M8Q0WGQ": [
+            {
+                "file": "B00M8Q0WGQ/variation_1.jpg",
+                "prompt": "A digital bathroom scale placed at a slight angle on a white wooden plank surface, viewed from a high-angle perspective. The scale is positioned centrally with its front edge closer to the viewer, casting a soft shadow beneath it. To the upper left, a clear glass of water sits on the surface, partially in shadow. To the upper right, a small bouquet of vibrant purple flowers with green stems rests beside the scale. The lighting is bright and natural, creating soft highlights on the glass and the scale’s surface, with clean, defined shadows. The background is a plain white wooden floor with visible plank lines, providing a clean and minimal setting. The overall composition is clean, balanced, and lifestyle-oriented.",
+                "hash": "ff347ba10200dd890163fd02a1c2fce0",
+                "deleted_at": "2026-07-17T17:37:44.043324"
+            }
+        ],
+        "B09D43LXPC": [
+            {
+                "file": "B09D43LXPC/variation_1.jpg",
+                "prompt": "A split-screen advertisement layout featuring a happy couple lying together on a grassy field under bright, natural sunlight, with a soft, blurred green and yellow background suggesting a sunny outdoor setting. The upper portion of the image shows the couple smiling and relaxed, their heads close together, conveying a sense of well-being and connection. The lower portion of the image is divided into two horizontal panels: the left panel is a plain white background with no text or graphics, and the right panel features the product placed upright on a solid white surface. The product is positioned on the right side of the lower section, centered vertically within its panel. The overall lighting is warm and natural, with soft highlights and a gentle glow, enhancing the serene and healthy atmosphere.",
+                "hash": "300243c61aea9dc45a55ab19ab3d9892",
+                "deleted_at": "2026-07-17T17:37:46.585225"
             }
         ]
     }
