@@ -10,13 +10,15 @@ logger = logging.getLogger(__name__)
 
 GROUND_TRUTH_DIR = "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark/wordy"
 TARGET_DIRS = [
+    "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark/wordy",
     "/root/Desktop/workspace/woosung/commercial-dreambench/assets/data/amzn",
     "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/original",
     "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/diptych",
     "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/flux-kontext",
     "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/qwen-image-edit",
-    "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/noised-0.25x/masked-opencv",
-    "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/noised-0.5x/masked-ocr-1.0"
+    "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/noised-0.25x_masked-opencv",
+    "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/noised-0.5x_masked-ocr-1.0",
+    "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/noised-0.5x/masked-dino-adaptive"
 ]
 
 def load_ground_truth_metadata():

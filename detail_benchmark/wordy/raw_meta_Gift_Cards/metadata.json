@@ -7,7 +7,7 @@
         "variation_files": [
             {
                 "file": "B017T6CUS2/variation_1.jpg",
-                "prompt": "A close-up, slightly angled shot of a person’s hands gently holding open a hardcover book on a warm-toned wooden surface. The book is open to a page with dense text, and the bookmark is placed horizontally across the page, partially covering the text. The bookmark is long and rectangular, with a white string looped through a hole at its top, extending upward and slightly to the left. The background includes a softly lit, out-of-focus stack of books and another open book with black-and-white images, suggesting a cozy reading environment near a window. Natural light illuminates the scene from the upper right, casting soft shadows and highlighting the texture of the book pages and the wooden surface. The overall composition conveys a calm, intimate moment"
+                "prompt": "A close-up, slightly angled shot of a person\u2019s hands gently holding open a hardcover book on a warm-toned wooden surface. The book is open to a page with dense text, and the bookmark is placed horizontally across the page, partially covering the text. The bookmark is long and rectangular, with a white string looped through a hole at its top, extending upward and slightly to the left. The background includes a softly lit, out-of-focus stack of books and another open book with black-and-white images, suggesting a cozy reading environment near a window. Natural light illuminates the scene from the upper right, casting soft shadows and highlighting the texture of the book pages and the wooden surface. The overall composition conveys a calm, intimate moment"
             }
         ]
     },
@@ -31,7 +31,7 @@
         "variation_files": [
             {
                 "file": "B08LZLTDP8/variation_1.jpg",
-                "prompt": "A vertical gift card holder with a stylized, abstract Christmas tree design printed on its surface, composed of layered beige and off-white curved lines and dotted patterns that form a symmetrical, festive motif. The holder is open and flat, displaying the gift card centered within its middle section. The gift card is positioned horizontally, slightly elevated above the holder’s base, and is held in place by a small, folded tab at the top of the holder. The background of the holder is a textured, natural beige paper, and the overall lighting is soft and even, highlighting the clean, minimalist aesthetic of the packaging."
+                "prompt": "A vertical gift card holder with a stylized, abstract Christmas tree design printed on its surface, composed of layered beige and off-white curved lines and dotted patterns that form a symmetrical, festive motif. The holder is open and flat, displaying the gift card centered within its middle section. The gift card is positioned horizontally, slightly elevated above the holder\u2019s base, and is held in place by a small, folded tab at the top of the holder. The background of the holder is a textured, natural beige paper, and the overall lighting is soft and even, highlighting the clean, minimalist aesthetic of the packaging."
             }
         ]
     },
@@ -56,6 +56,70 @@
             {
                 "file": "B0153RIC6S/variation_1.jpg",
                 "prompt": "A hand holds the bookmark vertically in the foreground, positioned over an open book resting on a wooden surface. The bookmark is angled slightly, with its top edge near the top of the frame and its bottom edge near the bottom. In the background, several stacks of books are visible, including a tall stack to the left and another to the right, with one book open and displaying black-and-white photographs. A window with natural light is visible in the upper left, casting soft, diffused lighting across the scene. The overall setting suggests a cozy, lived-in reading space with a warm, natural ambiance. The background is softly blurred, keeping the focus on the bookmark and the open book beneath it."
+            }
+        ]
+    },
+    {
+        "asin": "B08B3QF2VC",
+        "title": "Apple Gift Card - App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessories and more",
+        "reference_file": "B08B3QF2VC/reference.jpg",
+        "categorical_name": "gift card",
+        "variation_files": [
+            {
+                "file": "B08B3QF2VC/variation_1.jpg",
+                "prompt": "A clean, white background with a central arrangement of Apple products: a tablet with a blue abstract wallpaper, a white smartphone with a dynamic wave wallpaper, a white smartphone with a triple-camera back, a white wireless earbud case, and a smartwatch with a dark face showing large white numbers. Positioned in front of the tablet is a vertically oriented white card featuring a colorful geometric logo and text above it. Above the tablet, a white stylus rests horizontally. Below the products, a row of colorful app icons is displayed in a horizontal line, each with a simple symbol, set against the plain white background. The entire composition is evenly lit with soft shadows, creating a clean, modern, and minimalist product showcase."
+            }
+        ]
+    },
+    {
+        "asin": "B00IYFIDB6",
+        "title": "Cantina Laredo Gift Card",
+        "reference_file": "B00IYFIDB6/reference.jpg",
+        "categorical_name": "gift card",
+        "variation_files": [
+            {
+                "file": "B00IYFIDB6/variation_1.jpg",
+                "prompt": "A close-up food photograph featuring a white plate with two dark, glossy enchiladas topped with sesame seeds, one slightly cut open to reveal a light-colored filling, accompanied by a serving of yellow rice and a side of mixed green vegetables. The plate rests on a soft, muted purple fabric background. In the upper left corner, a small circular sun logo with radiating lines and the text \"Cantina LAREDO\" appears, but the logo and text are ignored as per instructions. The lighting is soft and natural, highlighting the textures of the food with gentle shadows. The overall composition is centered, with the plate as the main focus, creating an appetizing and warm presentation."
+            }
+        ]
+    },
+    {
+        "asin": "B00UXLITFO",
+        "title": "Amazon.com Gift Cards - With Limited Edition Gund Teddy Bear - Free One-Day Shipping (Limited Quantities Available)",
+        "reference_file": "B00UXLITFO/reference.jpg",
+        "categorical_name": "gift card",
+        "variation_files": [
+            {
+                "file": "B00UXLITFO/variation_1.jpg",
+                "prompt": "A brown plush teddy bear wearing a red and white striped winter hat with ear flaps and tassels sits on a wooden surface. The bear is positioned in front of a softly blurred Christmas tree adorned with warm glowing lights and colorful ornaments. To the right of the bear, crumpled blue holiday wrapping paper with festive patterns and a red ribbon lie scattered. The background is softly lit and out of focus, creating a cozy, festive atmosphere. The bear is centered in the frame, facing forward, with a plain white background visible to the right of the tree. The lighting is warm and natural, highlighting the bear and the foreground elements while keeping the background gently bokeh."
+            }
+        ]
+    },
+    {
+        "asin": "B01806P27Q",
+        "title": "Hopdoddy Burger Bar Gift Card",
+        "reference_file": "B01806P27Q/reference.jpg",
+        "categorical_name": "gift card",
+        "variation_files": [
+            {
+                "file": "B01806P27Q/variation_1.jpg",
+                "prompt": "A split-screen layout featuring three distinct panels. On the left, a close-up shot of a hand holding a glass of beer being poured from a tap, with a blurred background showing multiple beer taps. In the center, a tall stack of three burgers with lettuce and cheese, accompanied by a generous serving of fries, presented on a dark surface. On the right, a solid cream-colored background with bold black text stacked vertically, and a circular logo above it, all positioned above a solid green horizontal band at the bottom. The overall lighting is warm and inviting, emphasizing the food and drink."
+            }
+        ]
+    },
+    {
+        "asin": "B08HLG3H74",
+        "title": "Chemical-Free Handheld Pressurized Steam Cleaner with 9-Piece Accessory Set, All Natural Multi-Purpose Steam Cleaning for Stain Removal, Curtains, Car Seats, Floor, Window Cleaning and More",
+        "reference_file": "B08HLG3H74/reference.jpg",
+        "categorical_name": "steam cleaner",
+        "variation_files": [
+            {
+                "file": "B08HLG3H74/variation_1.jpg",
+                "prompt": "A split-screen kitchen scene showing a before-and-after cleaning comparison. On the left, a heavily soiled kitchen backsplash with grease stains and a dirty stovetop under a stainless steel range hood. On the right, the same area is clean and spotless, with a plain beige tiled backsplash and a shiny stovetop. A hand holds the steam cleaner in the lower right corner, directing a visible plume of steam toward the stovetop burner. The lighting is bright and natural, emphasizing the contrast between the two sides. The background includes light wood cabinetry and a countertop with a small basket of fruit in the bottom left corner. The overall composition is realistic and photorealistic, with no text or labels visible"
+            },
+            {
+                "file": "B08HLG3H74/variation_2.jpg",
+                "prompt": "A woman in a purple long-sleeve top and white apron is leaning over a dark gray fabric sofa, using the steam cleaner to clean its surface. She holds the device firmly with her right hand, directing its nozzle with a flexible black attachment and a small white cleaning pad onto the sofa cushion. Steam is visibly emanating from the nozzle as it contacts the fabric. The background consists of a plain dark gray wall, and the lighting is soft and natural, highlighting the action and the texture of the sofa. The scene is captured from a slightly low angle, emphasizing the cleaning process in a realistic home environment."
             }
         ]
     }

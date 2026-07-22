@@ -190,6 +190,20 @@ def main():
             except Exception as e:
                 print(f"Warning: Failed to load deleted metadata: {e}")
 
+        # Load filtered metadata if exists
+        filtered_metadata_path = os.path.join(category_dir, "filtered_metadata.json")
+        filtered_asins = set()
+        if os.path.exists(filtered_metadata_path):
+            try:
+                with open(filtered_metadata_path, "r", encoding="utf-8") as f:
+                    filt_data = json.load(f)
+                    if isinstance(filt_data, list):
+                        filtered_asins = set(filt_data)
+                    elif isinstance(filt_data, dict):
+                        filtered_asins = set(filt_data.get("filtered_asins", []))
+            except Exception as e:
+                print(f"Warning: Failed to load filtered metadata: {e}")
+
         print("--- Phase A & B: VLM Filtering and Curation ---")
         dataset = load_dataset("McAuley-Lab/Amazon-Reviews-2023", category_name, trust_remote_code=True, split="full", streaming=True)
         count = 0
@@ -206,6 +220,9 @@ def main():
             if asin in deleted_asins:
                 print(f"  -> Skipping ASIN {asin}: Marked as deleted in deleted_metadata.json.")
                 continue
+            if asin in filtered_asins:
+                print(f"  -> Skipping ASIN {asin}: Already filtered in filtered_metadata.json.")
+                continue
 
             asin_dir = os.path.join(category_dir, asin)
             if os.path.exists(asin_dir):
@@ -218,6 +235,9 @@ def main():
 
             imgs = extract_images(row['images'], img_key='large')
             if not imgs or len(imgs) < 2:
+                filtered_asins.add(asin)
+                with open(filtered_metadata_path, "w") as f:
+                    json.dump(list(filtered_asins), f, indent=4)
                 continue
 
             try:
@@ -260,6 +280,9 @@ def main():
 
                 # Check if the reference image contains sufficient fine-grained details for subject identity preservation.
                 if content_reference.get("decision", "REJECT") != "ACCEPT":
+                    filtered_asins.add(asin)
+                    with open(filtered_metadata_path, "w") as f:
+                        json.dump(list(filtered_asins), f, indent=4)
                     continue
 
 
@@ -406,7 +429,13 @@ def main():
                         break
                 else:
                     shutil.rmtree(asin_dir, ignore_errors=True)
+                    filtered_asins.add(asin)
+                    with open(filtered_metadata_path, "w") as f:
+                        json.dump(list(filtered_asins), f, indent=4)
             except Exception as e:
+                filtered_asins.add(asin)
+                with open(filtered_metadata_path, "w") as f:
+                    json.dump(list(filtered_asins), f, indent=4)
                 if args.verbose and 'item_verbose_dir' in locals() and item_verbose_dir:
                     try:
                         with open(os.path.join(item_verbose_dir, "error_main.txt"), "w") as f:
@@ -427,6 +456,10 @@ def main():
         metadata_path = os.path.join(category_dir, "metadata.json")
         with open(metadata_path, "w") as f:
             json.dump(final_dataset, f, indent=4)
+
+        filtered_metadata_path = os.path.join(category_dir, "filtered_metadata.json")
+        with open(filtered_metadata_path, "w") as f:
+            json.dump(list(filtered_asins), f, indent=4)
 
         print(f"--- Pipeline Complete for {category_name} ---")
         print(f"  Final subjects: {len(final_dataset)}")

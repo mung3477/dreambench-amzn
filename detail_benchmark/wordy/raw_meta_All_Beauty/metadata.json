@@ -96,34 +96,6 @@
         ]
     },
     {
-        "asin": "B017A0PAFW",
-        "title": "COKOHAPPY Large Temporary Tattoo, Keep Calm Word",
-        "reference_file": "B017A0PAFW/reference.jpg",
-        "categorical_name": "temporary tattoo",
-        "variation_files": [
-            {
-                "file": "B017A0PAFW/variation_1.jpg",
-                "prompt": "A close-up shot of a person’s forearm, showing the temporary tattoo applied to the skin. The arm is extended horizontally across the frame, with the elbow slightly bent and the hand out of view. The tattoo is centered on the forearm, spanning from near the elbow to the wrist. The person is wearing a plain gray short-sleeved shirt, with the sleeve pushed up to reveal the tattoo. The background is a soft, out-of-focus white or light gray, creating a clean and neutral setting. The lighting is even and natural, highlighting the texture of the skin and the details of the tattoo. The composition focuses entirely on the tattooed arm, with no additional text, graphics, or branding elements visible."
-            },
-            {
-                "file": "B017A0PAFW/variation_2.jpg",
-                "prompt": "A close-up shot of a person's forearm, flexed and extended across the chest, showcasing the temporary tattoo applied along the length of the inner arm. The person is wearing a plain gray t-shirt and has short, dark hair. The background is a clean, neutral, solid white, creating a bright and minimalistic studio environment. The lighting is soft and even, highlighting the skin texture and the tattoo's details without harsh shadows. The composition focuses tightly on the arm and tattoo, with the person's face obscured by their arm, emphasizing the product's appearance on the skin."
-            }
-        ]
-    },
-    {
-        "asin": "B017J17QQ8",
-        "title": "Caress Body Wash, Pure Embrace 12 oz",
-        "reference_file": "B017J17QQ8/reference.jpg",
-        "categorical_name": "body wash",
-        "variation_files": [
-            {
-                "file": "B017J17QQ8/variation_1.jpg",
-                "prompt": "A close-up action shot of a hand holding the body wash bottle, tilted to pour its contents into the palm of another hand below. The bottle is shown from a dynamic, slightly angled perspective, emphasizing the flow of the product. The liquid is depicted as a smooth, thick, creamy white stream falling from the bottle’s opening into the open palm, forming a small, glossy pool. The hands are positioned against a clean, plain white background, with soft, even lighting that highlights the texture of the liquid and the natural skin tones of the hands. The bottle is held firmly by the upper hand, with fingers wrapped around its body, while the lower hand is cupped to receive the product. The overall composition focuses on the interaction between the bottle and"
-            }
-        ]
-    },
-    {
         "asin": "B00YE966A6",
         "title": "Tobacco Vanille 100ml by TRiBUTE8",
         "reference_file": "B00YE966A6/reference.jpg",
@@ -190,10 +162,6 @@
         "categorical_name": "lip crayon",
         "variation_files": [
             {
-                "file": "B01IGXNWLQ/variation_1.jpg",
-                "prompt": "A flat-lay composition featuring five lip crayons arranged in a horizontal row on a solid bright yellow background. The crayons are positioned upright with their tips pointing upward, each displaying a different color: deep red, yellow, bright red, dark red, and red. To the left of the row, a small yellow Minion figurine holds a peeled banana, with another bunch of bananas placed nearby. To the right of the row, a single peeled banana lies on the surface. The lighting is bright and even, casting soft shadows beneath each object. The overall scene is clean, vibrant, and playful, with no text or branding elements visible on the background or within the layout."
-            },
-            {
                 "file": "B01IGXNWLQ/variation_2.jpg",
                 "prompt": "A split-screen layout featuring two vertical panels. On the left, the lip crayon is shown vertically, centered against a plain white background, with its cap partially open to reveal the tip. On the right, a close-up portrait of a woman with her hair styled in two high buns, wearing a denim shirt, is shown against a plain off-white background. The lighting is soft and even, highlighting the subject’s face and the product. The woman’s lips are colored with the same shade as the lip crayon, matching the product’s color. All text and labels are ignored, leaving the composition clean and focused on the product and the model’s appearance."
             }
@@ -208,18 +176,6 @@
             {
                 "file": "B086LJJ53J/variation_1.jpg",
                 "prompt": "A hand gently holds the deodorant upright on a smooth, light-colored surface, with the thumb resting on top of the cap. To the right, a clear glass jar filled with water and fresh green stems with long leaves stands slightly out of focus. The background is a soft, textured off-white wall. The lighting is soft and natural, creating a clean, minimal, and fresh atmosphere. The deodorant is positioned centrally, with the hand entering from the left side of the frame. The surface reflects a subtle, gentle sheen."
-            }
-        ]
-    },
-    {
-        "asin": "B09KX5N1DR",
-        "title": "100% PURE Coconut Body Scrub Exfoliating Deep Cleanse with Sea Salts & Nourishing Oils - Natural Deeply Moisturizing Skincare - Vibrant Radiant Skin Restore & Pore Cleanser - Vegan - 10oz",
-        "reference_file": "B09KX5N1DR/reference.jpg",
-        "categorical_name": "body scrub",
-        "variation_files": [
-            {
-                "file": "B09KX5N1DR/variation_2.jpg",
-                "prompt": "A vibrant still-life composition on a solid lavender background featuring four round jars of body scrub arranged in a dynamic, slightly diagonal layout. The central jar is open, revealing the textured, golden-yellow scrub inside, with its lid placed nearby. Surrounding it are three closed jars, each with a white lid and a visible label band, positioned at varying angles to create depth. Natural elements are scattered around: a dried blood orange slice, sprigs of lavender, whole almonds, and a piece of coconut husk on a small white plate. The lighting is bright and even, casting soft shadows that enhance the three-dimensional feel. The overall style is clean, fresh, and product-focused, with a natural and organic aesthetic."
             }
         ]
     },
@@ -340,6 +296,18 @@
             {
                 "file": "B076VX3GJ2/variation_3.jpg",
                 "prompt": "A solid dark green textured background with a centered, slightly smaller product container positioned in the lower third. The container is placed on a plain surface with no shadow or reflection, appearing clean and isolated. Above the container, centered horizontally, is a faint light green text that reads \"LOVE FOR BEAUTY\" — this text is to be ignored and not included in the output. The overall composition is minimalist and balanced, with ample negative space around the product. The lighting is even and soft, with no dramatic highlights or shadows, creating a calm and natural presentation."
+            }
+        ]
+    },
+    {
+        "asin": "B07B6F7NJ5",
+        "title": "100% PURE Glossy Locks: Grow More Shampoo (13.5 Fl Oz), Sulfate Free, Hair Growth Shampoo, Made with Biotin, Vitamin B3, For Fuller, Voluminous Hair",
+        "reference_file": "B07B6F7NJ5/reference.jpg",
+        "categorical_name": "shampoo",
+        "variation_files": [
+            {
+                "file": "B07B6F7NJ5/variation_1.jpg",
+                "prompt": "A clear plastic shampoo bottle with a white pump dispenser is positioned upright on the palm of an open hand, which is shown from a slightly elevated angle. The hand is centered at the bottom of the frame, with fingers gently curved to support the bottle. The background is completely white and plain. The bottle casts a soft shadow to its right and slightly behind, indicating a light source from the upper left. The overall composition is clean and minimal, with a focus on scale and product presentation. The dimensions \"200 mm\" and \"63 mm\" are not described or included — they are ignored as per instructions. The product is shown in full view, centered vertically, with no text, labels, or branding details described."
             }
         ]
     }

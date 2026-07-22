@@ -220,22 +220,6 @@
         ]
     },
     {
-        "asin": "B08DLJT64F",
-        "title": "Johnson's Strengthening Tear-Free Kids' Conditioner with Vitamin E Strengthens & Helps Prevent Breakage, Paraben-, Sulfate- & Dye-Free, Hypoallergenic & Gentle on Toddler Hair, 13.6 fl. oz",
-        "reference_file": "B08DLJT64F/reference.jpg",
-        "categorical_name": "conditioner",
-        "variation_files": [
-            {
-                "file": "B08DLJT64F/variation_1.jpg",
-                "prompt": "A close-up shot of a young child with wet, curly hair, smiling gently while holding the conditioner bottle in their hands. The child is partially submerged in a bathtub, with water visible on their skin and hair. The bottle is held upright, centered in the frame, and appears to be the main focus of the child’s attention. The background is a soft, out-of-focus white, suggesting a clean, bright bathroom environment. The lighting is warm and natural, highlighting the child’s face and the bottle. The lower portion of the image features a solid blue background panel, extending across the full width of the frame."
-            },
-            {
-                "file": "B08DLJT64F/variation_2.jpg",
-                "prompt": "A split-screen layout featuring a warm, natural indoor scene in the upper portion and a solid blue background panel in the lower portion. In the upper section, a woman with long dark hair, wearing a white long-sleeved top and dark pants, is leaning over a white bathtub, smiling and playfully washing a laughing child’s hair with soapy water. The child, seated in the tub filled with bubbles and colorful bath toys, is joyfully laughing with their mouth open. The bathroom has soft natural lighting, with a window, striped curtains, and a wicker chair visible in the background. In the foreground, near the edge of the tub, two bottles of the conditioner are placed on a wooden tray, positioned side by side with their caps"
-            }
-        ]
-    },
-    {
         "asin": "B00ARJXI76",
         "title": "Pau Kiki - Soothes irritated skin on contact Boost firmness & Elasticity Turns sunburns into tan Great for insect bites Lightens and Brightens Soothes Sunburned and Wind Burned Damaged Skin",
         "reference_file": "B00ARJXI76/reference.jpg",
@@ -260,18 +244,6 @@
         ]
     },
     {
-        "asin": "B0844SWRWY",
-        "title": "PrettyClaw | Nickel Foot File Callus Remover for Feet Extra Coarse Pedicure Professional Foot File Filing Rasp Tool Removes Dead Skin Salon Quality F3",
-        "reference_file": "B0844SWRWY/reference.jpg",
-        "categorical_name": "foot file",
-        "variation_files": [
-            {
-                "file": "B0844SWRWY/variation_1.jpg",
-                "prompt": "A close-up shot of a hand holding the foot file and using it to exfoliate the heel of a bare foot. The foot file is positioned vertically, with its textured surface in contact with the skin. The scene is set against a solid black background, with soft, focused lighting highlighting the hand, foot, and the foot file. A small amount of white dead skin particles is scattered on the surface beneath the foot, indicating the action of filing. The composition emphasizes the use of the product, with the hand gripping the handle firmly and the foot slightly angled to show the application area. The overall image has a clean, high-contrast, studio-style aesthetic."
-            }
-        ]
-    },
-    {
         "asin": "B07HS43JZP",
         "title": "Aveeno Positively Mineral Sensitive Skin Daily Sunscreen Lotion with SPF 50 100 Zinc Oxide NonGreasy Sweat WaterResistant Sheer Sunscreen for Face Body TravelSize, Unscented, 3 Fl Oz",
         "reference_file": "B07HS43JZP/reference.jpg",
@@ -280,18 +252,6 @@
             {
                 "file": "B07HS43JZP/variation_1.jpg",
                 "prompt": "A top-down view of a pair of hands on a lush green grass surface, with one hand applying a white lotion in a heart-shaped patch onto the back of the other hand. To the right of the hands, the sunscreen lotion is placed upright on the grass. The scene is well-lit with natural daylight, emphasizing the texture of the grass and the smoothness of the skin. At the bottom of the image, there is a solid light teal horizontal panel."
-            }
-        ]
-    },
-    {
-        "asin": "B08HWCVPF1",
-        "title": "Ayshone 48W Rechargeable UV LED Nail Lamp,Cordless Professional Gel Nail Lights Nail Art Manicure Tools for Home and Salon (Pink)",
-        "reference_file": "B08HWCVPF1/reference.jpg",
-        "categorical_name": "uv led nail lamp",
-        "variation_files": [
-            {
-                "file": "B08HWCVPF1/variation_1.jpg",
-                "prompt": "A split-screen layout featuring two horizontal panels, each showing the uv led nail lamp on a white marble surface with subtle gray veining. In the top panel, a woman’s hand with manicured nails and a ring is placed inside the open lamp, which emits a soft purple glow from its interior; the lamp’s digital display is illuminated with blue numbers. To the left, a green palm leaf adds a natural accent, and to the right, a white card with a dotted pattern lies partially visible. In the bottom panel, the same lamp is shown with the hand removed and the lamp’s display turned off, indicating it is inactive; the interior light is off. The same palm leaf and card are present in the same positions. A solid dusty rose"
             }
         ]
     },
@@ -440,10 +400,6 @@
             {
                 "file": "B083C5QC9D/variation_1.jpg",
                 "prompt": "A close-up shot of the hand cream placed on a wooden cutting board, surrounded by fresh limes — one whole, one halved, and one partially zested. In the softly blurred background, a hand is actively zesting a lime using a metal grater, with lime zest scattered on the board. The scene is set in a bright, natural kitchen environment with soft, diffused lighting. The composition focuses on the product in the foreground with a shallow depth of field, emphasizing the fresh, culinary context. The background features a neutral, out-of-focus kitchen setting with hints of stainless steel and light-colored surfaces."
-            },
-            {
-                "file": "B083C5QC9D/variation_2.jpg",
-                "prompt": "A close-up shot of a person’s hands using the hand cream on a wooden tabletop. One hand presses the pump dispenser, dispensing a small amount of cream onto the back of the other hand. The hand cream bottle is placed centrally on the table, with a natural wood grain surface visible beneath it. In the background, there is a blurred white plate and a dark wooden chair, suggesting a kitchen or dining setting. The lighting is soft and warm, creating a cozy, everyday atmosphere. The person is wearing a maroon long-sleeved top, partially visible on the left side of the frame. The background is softly out of focus, emphasizing the hands and the product in use."
             }
         ]
     },
@@ -456,6 +412,198 @@
             {
                 "file": "B01KYGPR5W/variation_1.jpg",
                 "prompt": "A woman with clear, glowing skin is gently applying a creamy white facial mask to her face using her fingertips, her expression serene and satisfied. She is shown in a close-up, angled portrait with soft, natural lighting that highlights her smooth skin and the texture of the mask. To the left of the image, a jar of the facial mask is displayed in a clean, realistic product shot, positioned slightly below her face. The background is a soft, out-of-focus indoor setting with light, neutral tones, creating a calm and professional ambiance. The overall composition is a split-focus layout, balancing the human element on the right with the product on the left, emphasizing the application and benefits of the facial mask."
+            }
+        ]
+    },
+    {
+        "asin": "B0C1GW7SSR",
+        "title": "Symbol by Princesse Marina De Bourbon - Eau de Parfum for Women - Opens with Syringa and Honeysuckle - Blended with Jasmine and Tuberose - Reveals Naturalness of Beauty without Artifice - 3.4 oz",
+        "reference_file": "B0C1GW7SSR/reference.jpg",
+        "categorical_name": "eau de parfum",
+        "variation_files": [
+            {
+                "file": "B0C1GW7SSR/variation_1.jpg",
+                "prompt": "A split composition featuring two eau de parfum bottles placed on a weathered stone surface, with a large classical stone sculpture in the background. The bottle on the left stands upright, while the bottle on the right leans slightly against the stone. The background includes a clear blue sky and a distant tall column-like structure, softly blurred. The scene is illuminated by bright, natural daylight, casting soft shadows and highlighting the reflective surfaces of the bottles and the texture of the stone. The overall atmosphere is elegant and timeless, with a focus on the contrast between the refined product and the ancient architectural elements."
+            },
+            {
+                "file": "B0C1GW7SSR/variation_2.jpg",
+                "prompt": "A luxurious still-life composition featuring the eau de parfum placed on a circular, reflective gold base, positioned slightly to the right. The bottle is set against a clean, bright white surface with soft, diffused lighting that creates gentle highlights and subtle reflections. To the left of the bottle, two large, lush white flowers with ruffled petals are arranged naturally, adding organic texture and elegance. In the background, a large, curved, matte gold panel sweeps diagonally from the top left, adding depth and a sense of opulence without distracting from the product. The overall aesthetic is minimalist, refined, and high-end, with a focus on clean lines, soft shadows, and a harmonious color palette of white, gold, and pale yellow"
+            },
+            {
+                "file": "B0C1GW7SSR/variation_3.jpg",
+                "prompt": "A close-up, slightly angled view of the eau de parfum lying diagonally on a soft, light-colored fabric surface, surrounded by an abundance of fresh white flowers including roses and lilies, with delicate petals and green stems visible. The bottle is positioned centrally, partially nestled among the blooms, creating a natural and elegant composition. The lighting is soft and diffused, highlighting the golden liquid inside the bottle and the reflective quality of the cap, while casting gentle shadows. The background is a plain, light off-white surface, enhancing the purity and sophistication of the scene."
+            }
+        ]
+    },
+    {
+        "asin": "B01K5KA8LA",
+        "title": "Energizing Bath & Shower Gel - Mango Coriander",
+        "reference_file": "B01K5KA8LA/reference.jpg",
+        "categorical_name": "bath and shower gel",
+        "variation_files": [
+            {
+                "file": "B01K5KA8LA/variation_1.jpg",
+                "prompt": "A split composition featuring the bath and shower gel positioned on the right side, set against a dynamic, watery background with splashing water droplets and ripples. On the left, a large, vibrant mango is partially submerged in water, with visible water splashes and bubbles surrounding it. Scattered around the scene are fresh coriander leaves, small green coriander seeds, and delicate white coriander flowers, all lightly wet and integrated into the watery surface. The overall lighting is bright and natural, emphasizing freshness and clarity, with a soft, clean white background that enhances the crispness of the water and ingredients. The product is shown upright and centered on the right, with no text or labels described, allowing the natural elements and"
+            }
+        ]
+    },
+    {
+        "asin": "B082J79BB2",
+        "title": "Cremo Vanilla Orchid Moisturizing Shave Stick for Women, Solid Mess-Free Formula, 2.66 Oz",
+        "reference_file": "B082J79BB2/reference.jpg",
+        "categorical_name": "shave stick",
+        "variation_files": [
+            {
+                "file": "B082J79BB2/variation_1.jpg",
+                "prompt": "A top-down flat lay composition featuring the shave stick centered on a plain white surface. To the upper right of the product, a single white orchid flower with a yellow center is placed, slightly overlapping the top edge of the stick. To the lower left, two dark brown dried vanilla beans are arranged diagonally, crossing near the base of the stick. The lighting is soft and even, creating minimal shadows, and the overall aesthetic is clean, minimalist, and natural."
+            },
+            {
+                "file": "B082J79BB2/variation_2.jpg",
+                "prompt": "A clean bathroom countertop with a white hexagonal tile backsplash, featuring the shave stick placed upright on the right side of the frame. To the left of the shave stick lies a vintage-style safety razor with a cream-colored handle and chrome accents. The scene is evenly lit with soft, natural light, creating subtle shadows and a minimalist, modern aesthetic. The background is composed of plain white hexagonal tiles with light gray grout lines, and the countertop is a smooth, plain white surface. The composition is balanced and uncluttered, focusing on the product and razor in a realistic, lifestyle setting."
+            }
+        ]
+    },
+    {
+        "asin": "B00UZOVHTE",
+        "title": "The Body Shop Aloe Calming Foaming Wash – Gently Cleanses Sensitive Skin – Vegan – 5.0 oz",
+        "reference_file": "B00UZOVHTE/reference.jpg",
+        "categorical_name": "foaming wash",
+        "variation_files": [
+            {
+                "file": "B00UZOVHTE/variation_1.jpg",
+                "prompt": "A close-up, slightly angled overhead shot of the foaming wash lying diagonally on a smooth, pale green surface with a soft, wet sheen. The bottle is partially covered in fine white foam and water droplets, with foam pooling beneath it and clinging to the pump and sides. The background is a uniform, soft green with subtle texture and reflections, creating a clean, refreshing, and moist ambiance. The lighting is soft and diffused, highlighting the wetness and translucency of the bottle while casting gentle shadows. The overall mood is fresh, calming, and hygienic."
+            }
+        ]
+    },
+    {
+        "asin": "B08Z4H2KCS",
+        "title": "Eight Saints Island Time Body Spray Lotion, Natural and Organic Body Lotion for Dry Skin, Protects, Nourishes, and Hydrates, 8 Ounces",
+        "reference_file": "B08Z4H2KCS/reference.jpg",
+        "categorical_name": "body spray lotion",
+        "variation_files": [
+            {
+                "file": "B08Z4H2KCS/variation_1.jpg",
+                "prompt": "A tall, cylindrical body spray lotion bottle with a black spray nozzle is centrally positioned on a transparent acrylic base. The bottle stands upright on a clean, bright white surface under strong, natural sunlight that casts sharp, defined shadows. Surrounding the bottle are several fresh flowers: two large pink daisies with yellow centers to the left, a small white daisy near the base, and a vibrant magenta chrysanthemum to the right. Two clear acrylic cubes are placed behind the bottle, one on each side, adding geometric contrast to the composition. The background features a soft, out-of-focus dark gray surface, possibly a modern bench or tabletop, with subtle sunlight patterns across the scene. The overall lighting is bright and directional, creating a"
+            }
+        ]
+    },
+    {
+        "asin": "B088RCT4Y8",
+        "title": "Glass Nail File with Austria Crystals – G.Liane Professional Crystal Fingernail Files in Aluminum Case Perfect Manicure Set for Women Men Kids Nail Care Gift Set (Pink Crystals)",
+        "reference_file": "B088RCT4Y8/reference.jpg",
+        "categorical_name": "nail file",
+        "variation_files": [
+            {
+                "file": "B088RCT4Y8/variation_1.jpg",
+                "prompt": "A woman with light brown hair styled in a soft updo, wearing a peach-colored lace top with short sleeves, is holding the nail file diagonally in her right hand, positioning it near her face with the top end pointing toward her mouth. She is smiling gently and looking directly at the camera. The background is a plain, bright white, evenly lit with soft studio lighting that highlights her features and the product. The nail file is held upright, with its transparent casing and black interior visible, but its specific design details are not described. The composition is centered, with the woman’s upper body and the product as the main focus."
+            },
+            {
+                "file": "B088RCT4Y8/variation_3.jpg",
+                "prompt": "A top-down flat lay composition featuring the nail file in its transparent protective case, placed diagonally on a light marble-textured surface. The case is positioned next to a sleek black rectangular box, also lying diagonally. The scene is softly lit with natural, diffused lighting, creating gentle shadows and a clean, elegant aesthetic. Surrounding the product are decorative elements: a small pink rose on the left, a cluster of dried baby’s breath with a pink flower on the right, and a white ceramic teacup resting on a textured saucer in the upper right corner. The overall layout is balanced and minimalist, emphasizing the product’s premium presentation with a delicate, feminine touch. The background is a plain, light marble surface with subtle gray ve"
+            }
+        ]
+    },
+    {
+        "asin": "B0BS27VVJL",
+        "title": "Pre de Provence Argan and Shea Butter Exfoliating Soap, 1 Count(Pack of 1)",
+        "reference_file": "B0BS27VVJL/reference.jpg",
+        "categorical_name": "exfoliating soap",
+        "variation_files": [
+            {
+                "file": "B0BS27VVJL/variation_1.jpg",
+                "prompt": "A top-down, lifestyle composition featuring the exfoliating soap placed on a folded white textured towel, resting on a warm-toned wooden surface. The soap is positioned near a potted green leafy plant in a terracotta pot, with soil visible in the pot. To the right, a round body brush with natural bristles and a light wooden handle lies partially in frame. In the background, a clear glass jar containing a beige, textured substance is partially visible. The lighting is soft and natural, creating gentle shadows and highlighting the organic textures of the wood, towel, plant, and brush. The overall scene evokes a calm, spa-like atmosphere with a focus on natural wellness and self-care."
+            }
+        ]
+    },
+    {
+        "asin": "B01DWRS17G",
+        "title": "SKIN&CO Roma Rosemary & Verbena Hand Cream, 1.0 Fl Oz",
+        "reference_file": "B01DWRS17G/reference.jpg",
+        "categorical_name": "hand cream",
+        "variation_files": [
+            {
+                "file": "B01DWRS17G/variation_1.jpg",
+                "prompt": "Three hand cream tubes arranged in a row on a soft, textured beige fabric background, each with a different colored label and cap—yellow, brown, and green—surrounded by natural elements including olive branches, a slice of orange, and a piece of truffle. The scene is lit with warm, natural sunlight creating soft shadows and highlights, giving a fresh, organic, and luxurious feel. The composition is styled in a flat lay, with the tubes standing upright and slightly angled, creating a balanced and aesthetically pleasing arrangement. The background fabric has gentle folds and a natural, airy texture, enhancing the organic and premium atmosphere."
+            }
+        ]
+    },
+    {
+        "asin": "B087616V9N",
+        "title": "UNITE Hair U:DRY Clear - Invisible Dry Shampoo, 6.7 Oz",
+        "reference_file": "B087616V9N/reference.jpg",
+        "categorical_name": "dry shampoo",
+        "variation_files": [
+            {
+                "file": "B087616V9N/variation_1.jpg",
+                "prompt": "A single can of the dry shampoo stands upright on a smooth, light-colored surface, leaning slightly against a plain, off-white wall. The lighting is soft and directional, casting a long, soft shadow to the right of the can, creating a minimalist and clean aesthetic. The background is a uniform, neutral tone with subtle gradients from light to shadow, emphasizing the product’s form and silhouette. The overall composition is simple, modern, and focused, with no additional elements or distractions."
+            }
+        ]
+    },
+    {
+        "asin": "B00DH3BWU4",
+        "title": "Arsenal Black by Gilles Cantuel for Men Eau De Parfum Spray, 3.4 Ounce",
+        "reference_file": "B00DH3BWU4/reference.jpg",
+        "categorical_name": "perfume bottle",
+        "variation_files": [
+            {
+                "file": "B00DH3BWU4/variation_1.jpg",
+                "prompt": "A black wooden box is open, angled diagonally, with the perfume bottle nestled inside on a bed of light brown shredded paper. The box lid rests beside it, slightly overlapping the box, showing a dark textured surface with a prominent white horizontal line above and below the word \"ARSENAL\" in bold white letters. Below the text, a circular red seal is visible, and further down, faint red text is present, but all text and logos on the lid are ignored. The entire composition is set against a plain white background, with soft, even lighting highlighting the textures of the wood and paper."
+            }
+        ]
+    },
+    {
+        "asin": "B08V2HYPZ6",
+        "title": "AMOREPACIFIC Youth Revolution Radiance Facial Skincare - Creme, Serum, Sheet Masque",
+        "reference_file": "B08V2HYPZ6/reference.jpg",
+        "categorical_name": "serum",
+        "variation_files": [
+            {
+                "file": "B08V2HYPZ6/variation_1.jpg",
+                "prompt": "A close-up shot of the serum placed centrally among soft, lush peonies in shades of white and pale pink, with a single dark green leaf resting beside it. The background is filled entirely with the blooming flowers, creating a natural, floral bed that surrounds the product. The lighting is soft and diffused, highlighting the delicate textures of the petals and the smooth surface of the bottle. The composition is intimate and organic, with the serum positioned vertically and slightly angled, nestled naturally within the floral arrangement."
+            },
+            {
+                "file": "B08V2HYPZ6/variation_2.jpg",
+                "prompt": "A close-up shot of a person’s hands holding the serum bottle, with one hand gently pulling the dropper up from the bottle to extract a drop. The bottle is positioned at a slight angle, held securely in the lower hand, while the upper hand operates the dropper. The person is wearing soft, flowing light beige or taupe-toned fabric, suggesting a robe or loungewear, with natural folds and gentle draping. The background consists of a plush, textured off-white or light beige sofa with deep, soft cushions, creating a cozy and serene atmosphere. The lighting is soft, warm, and diffused, casting subtle shadows and highlighting the smoothness of the skin and fabric. The overall composition focuses on the gentle, intimate action of"
+            }
+        ]
+    },
+    {
+        "asin": "B09ZNR3XC6",
+        "title": "Givotin Cute Makeup Bag for Purse Canvas Waterproof Funny Cosmetic Bags for Women Zipper Travel Toiletry Pouch-Alpaca Makeup Bags-Navy",
+        "reference_file": "B09ZNR3XC6/reference.jpg",
+        "categorical_name": "makeup bag",
+        "variation_files": [
+            {
+                "file": "B09ZNR3XC6/variation_1.jpg",
+                "prompt": "A woman in a white textured robe holds the makeup bag in her hand over a white ceramic sink with a gold faucet. The scene is set in a bright, softly lit bathroom with a white vanity and a round mirror with a decorative frame visible in the background. The makeup bag is positioned at a slight angle, with the top edge near the sink’s edge and the bottom resting on the basin. The lighting is soft and natural, casting gentle reflections on the sink surface. The background is clean and minimal, with neutral white and cream tones, emphasizing the product in a lifestyle context."
+            },
+            {
+                "file": "B09ZNR3XC6/variation_2.jpg",
+                "prompt": "A flat-lay composition featuring the makeup bag positioned diagonally in the lower-left quadrant, partially unzipped with several makeup items spilling out and arranged around it on a plain white surface. The bag is angled with its zipper facing the upper-right corner, revealing a portion of its interior. Surrounding the bag are various cosmetic products including a pink lipstick with its cap off, a compact powder, a round eyeshadow palette, a small square eyeshadow pan, a tube of peach nail polish, a makeup brush with a black handle and fluffy bristles, a smaller angled brush, and a heart-shaped sponge. The lighting is bright and even, creating soft shadows beneath the objects, emphasizing a clean, minimalist aesthetic. The overall layout is"
+            }
+        ]
+    },
+    {
+        "asin": "B085FR4MJD",
+        "title": "Prada La Femme Intense Eau De Parfum Spray For Women, 3.4 Ounce",
+        "reference_file": "B085FR4MJD/reference.jpg",
+        "categorical_name": "perfume spray",
+        "variation_files": [
+            {
+                "file": "B085FR4MJD/variation_2.jpg",
+                "prompt": "A group of four perfume spray bottles arranged in a staggered formation on a reflective black surface, with the central bottle positioned slightly forward and more prominently lit. The bottles feature a tall, faceted glass design with a metallic gold cap and a textured, deep burgundy side panel. The background is solid black, creating a dramatic, high-contrast lighting effect that emphasizes the glossy surfaces and reflections. Each bottle casts a sharp, mirrored reflection on the glossy surface below. The overall composition is symmetrical and balanced, with a luxurious, studio-style lighting that highlights the contours and materials of the bottles."
+            }
+        ]
+    },
+    {
+        "asin": "B08PF74CTC",
+        "title": "VEGREEN Alcohol-Free Mucin Essence Toner - Soothing Daily Facial Toner for Dry and Sensitive Skin with Phytomucin and Essential Oil-Free Formula - Korean Vegan Skincare, 150ml",
+        "reference_file": "B08PF74CTC/reference.jpg",
+        "categorical_name": "toner",
+        "variation_files": [
+            {
+                "file": "B08PF74CTC/variation_1.jpg",
+                "prompt": "A split composition on a solid warm yellow background, featuring the toner positioned slightly off-center, standing upright with a clean, minimalist presentation. To the left and right of the toner are natural yam roots — one whole with a cut end revealing its white interior, and another sliced into thick rounds, displaying the same white flesh. A small, translucent, milky liquid puddle is visible near the base of the whole yam, suggesting a natural essence or extract. The lighting is soft and even, casting gentle shadows that enhance the organic textures of the yam and the smooth surface of the toner bottle. The overall scene emphasizes natural ingredients and purity, with a warm, earthy color palette and a clean, uncluttered layout"
             }
         ]
     }

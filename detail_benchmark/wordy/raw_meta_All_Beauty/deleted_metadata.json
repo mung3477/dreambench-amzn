@@ -214,6 +214,21 @@
             "title": "100% PURE Coconut Body Scrub Exfoliating Deep Cleanse with Sea Salts & Nourishing Oils - Natural Deeply Moisturizing Skincare - Vibrant Radiant Skin Restore & Pore Cleanser - Vegan - 10oz",
             "reference_file": "B09KX5N1DR/reference.jpg",
             "deleted_at": "2026-07-17T17:26:35.498008"
+        },
+        "B087CK2GB4": {
+            "title": "White Tube, Eau de Toilette Spray for Men, Wonderful Gift, Classic Fragrance, Daytime and Casual Use, for all Skin Types, a Classic Bottle, 1.15 Fluid Ounce (Pack of 2)",
+            "reference_file": "B087CK2GB4/reference.jpg",
+            "deleted_at": "2026-07-22T15:11:53.977706"
+        },
+        "B09XQB1S2F": {
+            "title": "Light Pink Wig with Bangs Cosplay Synthetic Hair Ombre Color Short Straight Pink Wig Dark Roots Wigs for Women",
+            "reference_file": "B09XQB1S2F/reference.jpg",
+            "deleted_at": "2026-07-22T15:11:55.614259"
+        },
+        "B01D8DTE4I": {
+            "title": "Luxury Shimmer Pearl Loose Eyeshadow Powder Eye Shadow Ball Pigment Make-up Glitter Red Brown Color #108",
+            "reference_file": "B01D8DTE4I/reference.jpg",
+            "deleted_at": "2026-07-22T15:11:58.693996"
         }
     },
     "deleted_variations": {
@@ -727,6 +742,30 @@
                 "prompt": "A flat-lay composition featuring five lip crayons arranged in a horizontal row on a solid bright yellow background. The crayons are positioned upright with their tips pointing upward, each displaying a different color: deep red, yellow, bright red, dark red, and red. To the left of the row, a small yellow Minion figurine holds a peeled banana, with another bunch of bananas placed nearby. To the right of the row, a single peeled banana lies on the surface. The lighting is bright and even, casting soft shadows beneath each object. The overall scene is clean, vibrant, and playful, with no text or branding elements visible on the background or within the layout.",
                 "hash": "8852856278c8756dccd8cbd7f333f536",
                 "deleted_at": "2026-07-17T17:26:21.985649"
+            }
+        ],
+        "B087CK2GB4": [
+            {
+                "file": "B087CK2GB4/variation_1.jpg",
+                "prompt": "A perfume bottle shaped like a stylized male torso is placed on a soft, wrinkled white fabric surface next to its rectangular packaging box. The bottle has a smooth, glossy finish with a metallic silver cap and a sculpted body that tapers toward the base. The box is predominantly white with horizontal light blue stripes and features a small image of the bottle on its front. The entire composition is shot from a slightly elevated angle under soft, diffused lighting that creates gentle shadows, giving the scene a clean, minimalist, and product-focused presentation.",
+                "hash": "cd0052953cfc68ca7dea65bac42e2e38",
+                "deleted_at": "2026-07-22T15:11:53.979321"
+            }
+        ],
+        "B09XQB1S2F": [
+            {
+                "file": "B09XQB1S2F/variation_1.jpg",
+                "prompt": "A close-up portrait of a woman wearing the wig, with her head slightly tilted and resting her chin on her hand. She is looking directly at the camera with a soft, confident smile. The background is plain white, providing a clean and bright studio lighting effect that highlights the wig’s smooth texture and natural fall. She is wearing a light gray, textured top with a V-neckline, adding a casual yet elegant touch to the composition. The lighting is soft and even, emphasizing the wig’s shape and movement without harsh shadows.",
+                "hash": "a0a3450fba9f3a1c1b7ea0e2ce0f3de0",
+                "deleted_at": "2026-07-22T15:11:55.615421"
+            }
+        ],
+        "B01D8DTE4I": [
+            {
+                "file": "B01D8DTE4I/variation_1.jpg",
+                "prompt": "A horizontal swatch of loose eyeshadow powder spread across a plain white background, forming a tapered, elongated shape with a dense, glittery texture that gradually thins toward the right edge. The powder appears finely milled with a sparkling, metallic finish, and the surface is evenly lit with soft, diffused lighting to highlight its shimmer without casting harsh shadows. The background is completely uniform and empty, with no text, graphics, or additional elements present.",
+                "hash": "09149e5b8217b872fbdbabec4d785890",
+                "deleted_at": "2026-07-22T15:11:58.695252"
             }
         ]
     }

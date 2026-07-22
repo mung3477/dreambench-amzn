@@ -6,10 +6,6 @@
         "categorical_name": "side by side refrigerator",
         "variation_files": [
             {
-                "file": "B00U7XR54E/variation_1.jpg",
-                "prompt": "A side-by-side refrigerator with its left door closed and its right door open, revealing the interior. The refrigerator is positioned against a plain white background. The open door displays multiple shelves and compartments filled with various food items and beverages, including bowls of salad and fruit, bottles, jars, a pitcher, and a whole fish in a crisper drawer. The interior lighting is bright and even, highlighting the contents clearly. The left door features an external water and ice dispenser with a digital display panel above it. The refrigerator’s exterior is smooth and minimalist, with two vertical handles aligned along the center seam. The base of the unit includes a vented grille. The overall composition is clean, well-lit, and product-focused, emphasizing the spacious and organized"
-            },
-            {
                 "file": "B00U7XR54E/variation_2.jpg",
                 "prompt": "A side-by-side refrigerator is shown centered in a modern kitchen setting, flanked by white cabinetry with raised-panel doors and brushed metal handles. The refrigerator is positioned between two countertop sections with dark, reflective surfaces. To the left, a knife block with black-handled knives sits beside a tray of green pears, with a white and gray patterned tile backsplash behind. To the right, a collection of stainless steel canisters and glass jars with dark lids are arranged on the countertop, also backed by the same patterned tile. The lighting is bright and even, highlighting the clean, minimalist aesthetic of the kitchen. The refrigerator’s front features a water and ice dispenser on the left door, with a small digital display above it."
             }
@@ -24,10 +20,6 @@
             {
                 "file": "B005H47EJ4/variation_1.jpg",
                 "prompt": "A stainless steel gas range is shown installed in a kitchen setting, centered between two bright red cabinet doors with metallic handles. The range features a cooktop with multiple burners and a control panel with knobs and a digital display, all visible but without any text or branding details. Below the cooktop is a large oven door with a black glass window, through which four round, golden-brown baked items are visible on a rack inside. Beneath the oven is a matching stainless steel drawer with a horizontal handle. The countertop above the range is white marble with subtle veining, holding a few kitchen items: a tall glass of red wine on the left, a stack of stainless steel pots and pans on the cooktop, and a bowl of red"
-            },
-            {
-                "file": "B005H47EJ4/variation_2.jpg",
-                "prompt": "A stainless steel gas range is positioned in a modern kitchen setting, angled slightly to the right, with the front panel facing the viewer. The cooktop features black grates over multiple burners, and the control knobs and digital display are visible along the front edge. The oven door has a large, dark-tinted glass window, and a horizontal handle runs across the top of the door. Below the oven, a matching drawer with a handle is present. The range is set against a light green, glossy subway tile backsplash with a subtle linear pattern. To the left, a red kitchen cabinet with a gold pull handle is visible, topped with a speckled beige countertop. On the right, a wooden tiered spice rack holds various"
             },
             {
                 "file": "B005H47EJ4/variation_3.jpg",
@@ -56,22 +48,6 @@
             {
                 "file": "B00K6M2BV8/variation_1.jpg",
                 "prompt": "A product shot on a plain white background, featuring the temperature and humidity sensor positioned on the right side, slightly angled to show its top and side profile. To the left, a bundle of three color-coded wires — blue, green, and yellow — extends diagonally across the frame, each terminating in a small black connector. The wires are neatly arranged, curving gently to create a dynamic flow from the bottom left toward the sensor. The overall composition is clean and minimal, with even, bright lighting that highlights the product and cables without casting harsh shadows. The background remains uniformly white and uncluttered, emphasizing the subject and its accessories."
-            },
-            {
-                "file": "B00K6M2BV8/variation_2.jpg",
-                "prompt": "A product shot of the temperature and humidity sensor mounted on a black circuit board with a blue plastic housing, positioned diagonally on a plain white background. Extending from the board are three colored wires—blue, green, and yellow—connected to two black plastic connectors. The wires form a gentle arc above the sensor, with one connector near the board and the other at the end of the cable. The lighting is even and bright, highlighting the clean, minimalist composition with no shadows or distractions. The overall layout is simple and focused, emphasizing the product and its cabling against the solid white backdrop."
-            }
-        ]
-    },
-    {
-        "asin": "B09MQDTM67",
-        "title": "WR57X10033 Refrigerator Water Inlet Valve 1/4\" Inlet Fitting Icemaker Water Inlet Valve with Guard Replaces WR57X90 WR57X0093 WR57X0110 WR57X0096",
-        "reference_file": "B09MQDTM67/reference.jpg",
-        "categorical_name": "water inlet valve",
-        "variation_files": [
-            {
-                "file": "B09MQDTM67/variation_1.jpg",
-                "prompt": "A split-screen composition featuring a clean, bright kitchen scene on the left and a close-up product display on the right. On the left, a woman with shoulder-length wavy hair, wearing a light-colored blouse, stands smiling while holding a fresh head of green leafy vegetables. In front of her, on a reflective countertop, is a rustic wooden crate filled with colorful produce including radishes, carrots, and leafy greens. Behind her, a window with horizontal blinds lets in soft, natural daylight, and a modern refrigerator is visible in the background. On the right side of the image, the water inlet valve is positioned prominently on the countertop, mounted on its metal bracket, with its blue body and red solenoid clearly visible."
             }
         ]
     },
@@ -144,6 +120,58 @@
             {
                 "file": "B0BCRGFXH7/variation_2.jpg",
                 "prompt": "A tall cylindrical water filter stands upright on a light-colored kitchen countertop, placed on a white cloth with a yellow polka-dot pattern. To the left of the filter is a clear glass filled with water and a slice of lemon, resting beside a small plate holding several fresh lemon halves. In the background, a stainless steel refrigerator with a built-in water and ice dispenser is slightly out of focus. The scene is brightly lit with natural, soft lighting, creating a clean and fresh atmosphere. The countertop has a smooth, reflective surface, and the overall composition suggests a domestic kitchen setting."
+            }
+        ]
+    },
+    {
+        "asin": "B0792VS59V",
+        "title": "XGMY C43 Electric Cooktop 4000W (1200W+800W+1200W+800W) Radiationless with 4 Cooking Elements,Built-in and Free Standing, Digital Touch Controls,Black Crystal Glass Plate for Any Cookware",
+        "reference_file": "B0792VS59V/reference.jpg",
+        "categorical_name": "electric cooktop",
+        "variation_files": [
+            {
+                "file": "B0792VS59V/variation_1.jpg",
+                "prompt": "A high-angle, slightly diagonal view of the electric cooktop installed on a smooth, light-colored kitchen countertop. The cooktop is positioned at an angle, with its top-left corner closer to the viewer, showcasing its black glass surface. Two of the four circular heating zones are illuminated with bright red spiral heating elements, while the other two remain off, appearing as dark circles with white outlines. The control panel with touch buttons is visible along the bottom edge of the cooktop. The surrounding countertop is plain and light beige, with a subtle texture. In the background, a portion of a white kitchen cabinet and a small green plant on a white plate are visible to the upper right, adding a touch of natural decor. The lighting is bright and"
+            }
+        ]
+    },
+    {
+        "asin": "B0BCRZBNT9",
+        "title": "Amazon Basics Replacement LG LT500P Refrigerator Water Filter Cartridge - Premium Filtration",
+        "reference_file": "B0BCRZBNT9/reference.jpg",
+        "categorical_name": "water filter",
+        "variation_files": [
+            {
+                "file": "B0BCRZBNT9/variation_1.jpg",
+                "prompt": "A top-down flat lay composition featuring the water filter positioned diagonally on a smooth, light-colored surface. To the left of the filter is a folded light blue textured cloth, and to the right are two bright yellow lemon slices and a small clear glass containing a slice of lemon and fresh green mint leaves. The lighting is soft and even, creating gentle shadows and a clean, fresh aesthetic. The background is a plain, light neutral surface with subtle marble-like texture."
+            },
+            {
+                "file": "B0BCRZBNT9/variation_2.jpg",
+                "prompt": "A kitchen countertop scene with the water filter placed on a white and yellow patterned cloth. To the left of the filter is a clear glass filled with water and a slice of lemon, next to a small plate with lemon halves. In the background, a stainless steel refrigerator with a water dispenser is slightly out of focus. The lighting is bright and natural, highlighting the clean, fresh aesthetic. The surface is a light-colored, smooth countertop. The overall composition is clean and lifestyle-oriented, emphasizing freshness and everyday use."
+            }
+        ]
+    },
+    {
+        "asin": "B083XX2W3P",
+        "title": "COSTWAY 2 in 1 Countertop Ice Maker with Built-in Water Dispenser, Produces 36 lbs Ice in 24 Hours, Ready in 6 Mins, with LCD Control Panel, Portable Ice Cube Machine for Home, Bar, Party (Red)",
+        "reference_file": "B083XX2W3P/reference.jpg",
+        "categorical_name": "ice maker",
+        "variation_files": [
+            {
+                "file": "B083XX2W3P/variation_2.jpg",
+                "prompt": "A red ice maker is placed on a light wooden countertop in a bright, softly lit kitchen setting. To the left of the ice maker, there is a silver ice bucket filled with clear ice cubes, holding a bottle with a gold foil top. In front of the ice maker, two glasses are positioned: one is a tall stemmed glass filled with a golden, bubbly beverage topped with foam, and the other is a shorter tumbler also filled with a foamy, golden drink. The background is softly blurred, showing hints of kitchen elements like a cutting board, green herbs, and wooden utensils, creating a warm and inviting atmosphere. The lighting is natural and diffused, highlighting the product and surrounding items with a clean, lifestyle aesthetic"
+            }
+        ]
+    },
+    {
+        "asin": "B0BN7YTP7D",
+        "title": "FireMaple Orca Milk Frothing Pitcher 12oz Black-Espresso Milk Frothing Pitcher,Steaming Pitcher Suitable For Coffee, Latte And Frothing Milk, Ideal for Camping, Travel，Office, Home",
+        "reference_file": "B0BN7YTP7D/reference.jpg",
+        "categorical_name": "milk frothing pitcher",
+        "variation_files": [
+            {
+                "file": "B0BN7YTP7D/variation_2.jpg",
+                "prompt": "A still-life coffee setup on a warm-toned wooden surface with visible grain, featuring a matte black gooseneck kettle with a wooden handle and lid, positioned to the left, and the milk frothing pitcher to the right. In the background, slightly out of focus, is a black pour-over coffee dripper with a white filter resting on a white ceramic mug. The entire scene is set against a solid, smooth blue background with soft, natural lighting casting gentle highlights and shadows, creating a clean, minimalist, and modern aesthetic."
             }
         ]
     }

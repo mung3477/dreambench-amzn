@@ -1,17 +1,5 @@
 [
     {
-        "asin": "B01JYLD372",
-        "title": "Chichitop Elegant Rhinestones Hard Clutch Pearl Evening Bag with Zip Compartments,Silver",
-        "reference_file": "B01JYLD372/reference.jpg",
-        "categorical_name": "evening bag",
-        "variation_files": [
-            {
-                "file": "B01JYLD372/variation_1.jpg",
-                "prompt": "A product shot of the evening bag displayed at a slight three-quarter angle on a plain white background, with the bag oriented diagonally from top-left to bottom-right. The bag features a silver-toned chain strap extending outward from both sides, lying flat and curving gently across the foreground. The chain is made of interlocking oval links and appears to be detachable or adjustable. The bag's body is rectangular with rounded edges, and its front is adorned with a large, cascading decorative element composed of pearls and rhinestones arranged in a teardrop or inverted triangular pattern, centered vertically. The top of the bag includes a metallic clasp or closure embellished with rhinestones, connected to the chain strap via small rings."
-            }
-        ]
-    },
-    {
         "asin": "B01N3JJUBT",
         "title": "Marc By Marc Jacobs Core Pretty Medium Tate Shoulder Bag (Amethyst)",
         "reference_file": "B01N3JJUBT/reference.jpg",
@@ -61,10 +49,6 @@
         "reference_file": "B08KZZFR9Z/reference.jpg",
         "categorical_name": "keychain",
         "variation_files": [
-            {
-                "file": "B08KZZFR9Z/variation_1.jpg",
-                "prompt": "A circular silver keychain with a split-ring attachment is prominently displayed in the foreground, centered in the frame. The keychain features a smooth, reflective surface and hangs from a small connecting ring. The background is a softly blurred, dynamic scene featuring a person with blonde hair and red lips, partially visible behind the keychain, wearing a patterned top. To the right, a dark blue object with golden text is faintly visible, resembling a book or box with a stylized title. On the left, vertical golden tinsel or streamers add texture and shimmer to the scene. The lighting is warm and ambient, highlighting the metallic sheen of the keychain while keeping the background elements out of focus to emphasize the product. The overall composition"
-            },
             {
                 "file": "B08KZZFR9Z/variation_2.jpg",
                 "prompt": "A close-up shot of the keychain resting on the palm of a smooth, light-skinned hand, with fingers slightly curled to cradle the object. The hand is positioned diagonally across the frame, with the keychain centered on the palm and the ring portion resting between the index and middle fingers. The background is a soft, neutral, light gray gradient, creating a clean and minimalistic studio aesthetic. The lighting is soft and diffused, highlighting the metallic sheen of the keychain and casting subtle shadows beneath the hand and the product. The composition emphasizes the size and portability of the keychain through the natural scale provided by the hand."
@@ -200,50 +184,6 @@
         ]
     },
     {
-        "asin": "B07Y4S6WXX",
-        "title": "Fancyqube Women's Casual Pleated Shirt Dresses Long Sleeve Christmas Sloth Print Swing Dress with Pockets Black_Christmas Sloth L",
-        "reference_file": "B07Y4S6WXX/reference.jpg",
-        "categorical_name": "dress",
-        "variation_files": [
-            {
-                "file": "B07Y4S6WXX/variation_1.jpg",
-                "prompt": "A flat-lay composition featuring the dress hanging on a wooden hanger against a solid peach-pink background. The top edge of the image is adorned with a lush green Christmas garland decorated with red baubles, gold ornaments, and candy canes. To the left, a large monstera leaf extends into the frame, and below it, a red gift box with white polka dots, a silver bow, and a small red ornament is placed. To the right, a pair of red sunglasses and the edge of a dark shoe are visible. The lighting is soft and even, highlighting the dress and surrounding festive elements. The overall layout is balanced and festive, with the dress centered and surrounded by holiday-themed props."
-            }
-        ]
-    },
-    {
-        "asin": "B07YZ3V6RS",
-        "title": "Mama Bear Bracelet Cuff Bangle Personalized Jewelry for Mom Wife Grandma Sweet Familys Bracelet Mothers Day Gift(Mama Bear 2b CB)",
-        "reference_file": "B07YZ3V6RS/reference.jpg",
-        "categorical_name": "bracelet",
-        "variation_files": [
-            {
-                "file": "B07YZ3V6RS/variation_1.jpg",
-                "prompt": "A close-up product shot of the bracelet resting on a clear, faceted crystal stand with a star-like base, placed on a soft, textured periwinkle blue surface. The bracelet is positioned diagonally across the frame, with soft, natural lighting highlighting its metallic sheen and smooth curves. Surrounding the stand are flowing, cream-colored satin ribbons arranged in gentle loops, adding a delicate and elegant touch to the composition. The background is uniformly soft and evenly lit, with no text or graphic elements present."
-            },
-            {
-                "file": "B07YZ3V6RS/variation_2.jpg",
-                "prompt": "A close-up shot of a wrist wearing the bracelet, positioned horizontally across the wrist with the bracelet resting snugly against the skin. The background is a solid, textured purple surface. The lighting is soft and even, highlighting the metallic sheen of the bracelet and the natural texture of the skin. The composition focuses tightly on the wrist and bracelet, with no additional elements or text present."
-            },
-            {
-                "file": "B07YZ3V6RS/variation_3.jpg",
-                "prompt": "A silver-toned open cuff bracelet rests diagonally across a textured, solid lavender-blue surface, partially draped over a clear, faceted glass cube. Scattered around the scene are small, dried pink flower petals. To the right, a portion of a dark blue, matte-finished rectangular box is visible. The lighting is soft and diffused, creating gentle highlights on the bracelet and glass, with subtle shadows beneath the objects. The composition is a close-up, slightly elevated angle shot, emphasizing the product’s placement within a delicate, styled still-life arrangement."
-            }
-        ]
-    },
-    {
-        "asin": "B07T8XT9ZL",
-        "title": "Analogue Digital Watch Military Sport Watch Mens Dual Dial Business Casual Multifunction Electronic Wrist Watches Resistant Wristwatch (Black)",
-        "reference_file": "B07T8XT9ZL/reference.jpg",
-        "categorical_name": "watch",
-        "variation_files": [
-            {
-                "file": "B07T8XT9ZL/variation_1.jpg",
-                "prompt": "A top-down product shot of the watch placed diagonally on a split background of solid bright blue and solid peach-pink, with the watch positioned over the boundary where the two colors meet. The watch is surrounded by decorative elements: a pink macaron-shaped object in the upper right, a white woven ball in the lower left, and a pink woven ball in the lower right. The entire composition is framed by a soft pink border with a wavy top edge. The lighting is bright and even, casting soft shadows beneath the watch and props. The background surface appears smooth and matte."
-            }
-        ]
-    },
-    {
         "asin": "B07CVTMGB8",
         "title": "Mens Watches Fashion Leather Analog Quartz Watch Men Sport Waterproof Chronograph Luxury Brand LIGE Casual Blue Date Watch",
         "reference_file": "B07CVTMGB8/reference.jpg",
@@ -252,10 +192,6 @@
             {
                 "file": "B07CVTMGB8/variation_1.jpg",
                 "prompt": "A close-up product shot of the watch resting diagonally on a stack of leather-bound books with visible stitching, placed on a dark wooden surface. The watch is angled to showcase its side profile and face, with soft, warm lighting highlighting the metallic case and leather strap. The background features a blurred wooden box with indistinct engraved text, creating a shallow depth of field that emphasizes the watch. The composition is clean and focused, with natural shadows and reflections enhancing the texture of the leather and metal. The overall scene conveys a premium, sophisticated aesthetic with a warm, earthy color palette."
-            },
-            {
-                "file": "B07CVTMGB8/variation_2.jpg",
-                "prompt": "A close-up product shot of the watch submerged in clear water inside a transparent, rounded rectangular container with a glossy black interior. The water is shown splashing dynamically around the watch, with visible bubbles and ripples distorting the view of the watch face. The container is set against a solid black background. The lighting is dramatic, with bright highlights on the water surface and reflections on the container’s edges, emphasizing the waterproof feature. The watch is positioned diagonally, with the crown and pushers on the right side, and the leather strap extending upward and downward from the case. The overall composition focuses on the interaction between the watch and the water, highlighting durability and resistance."
             },
             {
                 "file": "B07CVTMGB8/variation_3.jpg",
@@ -284,6 +220,50 @@
             {
                 "file": "B01I5HRLXS/variation_1.jpg",
                 "prompt": "A stylized illustration of a human hand and forearm in a clenched fist pose, viewed from the side, with the wrist positioned slightly forward. The hand is rendered in solid medium gray with clean black outlines and subtle shading to define form and depth. The watch is worn on the wrist, centered on the forearm, with the face clearly visible and oriented toward the viewer. The background is plain white, with no additional elements or text. The overall style is clean, graphic, and minimalistic, resembling a vector illustration or technical drawing."
+            }
+        ]
+    },
+    {
+        "asin": "B08QJJZMXT",
+        "title": "BENYAR Fashion Mens Automatic Self Winding Watches for Men Stainless Steel Band Waterproof Casual Sport Analog Wrist Watch",
+        "reference_file": "B08QJJZMXT/reference.jpg",
+        "categorical_name": "watch",
+        "variation_files": [
+            {
+                "file": "B08QJJZMXT/variation_1.jpg",
+                "prompt": "A close-up product shot of the watch resting diagonally on a dark, ribbed, metallic surface with fine vertical grooves that reflect light. The background is a deep, smooth black gradient fading into a soft blue glow along the upper edge. The lighting is dramatic and directional, creating strong highlights on the polished edges of the watch case and bracelet, with subtle reflections on the textured surface below. The composition emphasizes the sleek, metallic finish and form of the watch, with a shallow depth of field that keeps the focus sharp on the watch while softly blurring the background."
+            },
+            {
+                "file": "B08QJJZMXT/variation_2.jpg",
+                "prompt": "The watch is displayed at a slight angle on a matte black rectangular pedestal, positioned centrally in the frame. The background consists of dark, textured vertical panels on either side, with a softly blurred, horizontally streaked gray backdrop behind the watch, creating a sense of depth. The lighting is dramatic and directional, highlighting the metallic sheen of the watch’s case and bracelet while casting subtle shadows on the pedestal and surrounding surfaces. The overall composition is clean and minimalist, emphasizing the product’s form and reflective surfaces against a dark, sophisticated environment."
+            },
+            {
+                "file": "B08QJJZMXT/variation_3.jpg",
+                "prompt": "A top-down view of the watch centered on a dark, textured black leather surface, with soft folds and creases surrounding it. The watch is positioned between two slightly curved, plush black leather elements that frame it symmetrically, creating a luxurious and dramatic presentation. Above the watch, a portion of a black ribbed or grooved surface extends diagonally across the upper part of the frame, adding depth and contrast. The lighting is directional and soft, casting subtle highlights on the watch’s metallic case and bracelet, while the background remains dark and shadowed to emphasize the product. The overall composition is clean, elegant, and focused, with the watch as the sole subject against the rich, tactile black backdrop."
+            }
+        ]
+    },
+    {
+        "asin": "B08P3MDP7T",
+        "title": "Cirbic English Talking Watch with Large Numbers and Expandable Strap, self-Setting for Visually impaired, Blind or Elder People (American Accent)",
+        "reference_file": "B08P3MDP7T/reference.jpg",
+        "categorical_name": "talking watch",
+        "variation_files": [
+            {
+                "file": "B08P3MDP7T/variation_1.jpg",
+                "prompt": "A top-down flat lay composition featuring the talking watch placed on a warm-toned wooden surface with visible grain patterns. The watch is positioned slightly left of center, oriented vertically with its band extending upward and downward. To the right of the watch, a yellow pencil with a sharpened graphite tip and a pink eraser at the bottom lies parallel to the watch’s band, aligned vertically. The lighting is soft and even, casting subtle shadows beneath the watch and pencil, enhancing the natural texture of the wood. The overall scene is minimal and clean, emphasizing the objects’ forms and the contrast between the metallic watch and the wooden background."
+            }
+        ]
+    },
+    {
+        "asin": "B01120JCQE",
+        "title": "Canaloha Taylor Cole Women's Rhinestone Date Display Stainless Steel Band Simple Ladies Quartz Watch",
+        "reference_file": "B01120JCQE/reference.jpg",
+        "categorical_name": "watch",
+        "variation_files": [
+            {
+                "file": "B01120JCQE/variation_1.jpg",
+                "prompt": "A close-up shot of a person’s wrist wearing the watch, with the watch positioned slightly angled to show the face and part of the band. The person has long, dark hair partially framing the wrist, and is wearing a white ribbed sweater cuff under an olive green jacket sleeve. The lighting is soft and natural, highlighting the watch and the texture of the clothing. The background is dark and out of focus, drawing attention to the wrist and the watch. The composition is intimate and lifestyle-oriented, focusing on the watch as worn in a casual, everyday setting."
             }
         ]
     }
