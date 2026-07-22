@@ -1,0 +1,8 @@
+detail_benchmark_keyword_filtered
+__MACOSX__
+__pycache__
+.venv*
+*.zip
+detail_benchmark/greedy
+detail_benchmark/ver1
+*_results.json
