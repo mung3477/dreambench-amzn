@@ -289,6 +289,11 @@
             "title": "Casafield Acrylic Cosmetic Makeup Organizer & Jewelry Storage Display Case - 3 Piece Drawer Set - Clear",
             "reference_file": "B07KCM3QB4/reference.jpg",
             "deleted_at": "2026-07-22T15:43:06.085669"
+        },
+        "B00UZOVHTE": {
+            "title": "The Body Shop Aloe Calming Foaming Wash – Gently Cleanses Sensitive Skin – Vegan – 5.0 oz",
+            "reference_file": "B00UZOVHTE/reference.jpg",
+            "deleted_at": "2026-07-22T16:24:19.867486"
         }
     },
     "deleted_variations": {
@@ -1020,6 +1025,14 @@
                 "prompt": "Three translucent droplets of liquid arranged diagonally on a solid peach-pink background, with the largest droplet at the bottom right, medium-sized in the middle left, and smallest at the top center, each reflecting soft light and showing subtle surface tension and glossy highlights.",
                 "hash": "6d83777f06f9a7f46dae8dff998d9f19",
                 "deleted_at": "2026-07-22T15:43:11.151658"
+            }
+        ],
+        "B00UZOVHTE": [
+            {
+                "file": "B00UZOVHTE/variation_1.jpg",
+                "prompt": "A close-up, slightly angled overhead shot of the foaming wash lying diagonally on a smooth, pale green surface with a soft, wet sheen. The bottle is partially covered in fine white foam and water droplets, with foam pooling beneath it and clinging to the pump and sides. The background is a uniform, soft green with subtle texture and reflections, creating a clean, refreshing, and moist ambiance. The lighting is soft and diffused, highlighting the wetness and translucency of the bottle while casting gentle shadows. The overall mood is fresh, calming, and hygienic.",
+                "hash": "01de480a895ccd2a44170f8bba2421e8",
+                "deleted_at": "2026-07-22T16:24:19.868732"
             }
         ]
     }

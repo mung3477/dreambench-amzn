@@ -204,6 +204,46 @@
             "title": "Telescopic Inspection Mirror with Light Large telescoping led 360 Inspection Rotating lamp Automotive Mechanic Repair reversing on a Stick extendable Hand Handle car Extra held Vehicle Extended",
             "reference_file": "B07PPG4BJF/reference.jpg",
             "deleted_at": "2026-07-17T17:41:53.148120"
+        },
+        "B094HBKDJD": {
+            "title": "uxcell Standard Plastic Square Aluminum Extrusion End Cap Black 20x20mm 40pcs",
+            "reference_file": "B094HBKDJD/reference.jpg",
+            "deleted_at": "2026-07-22T20:21:27.960138"
+        },
+        "B07H3ZW6RM": {
+            "title": "Handicap Parking Sign – 18\" x 12\" Aluminum Safety Warning Sign For Parking Lots, Private Driveways, & Businesses by Bolthead Industrial",
+            "reference_file": "B07H3ZW6RM/reference.jpg",
+            "deleted_at": "2026-07-22T20:21:40.878181"
+        },
+        "B075ZK9PPF": {
+            "title": "dbest products Stair Climber Trolley Dolly MM 2, Black Handtruck Hardware Garden Utilty Cart",
+            "reference_file": "B075ZK9PPF/reference.jpg",
+            "deleted_at": "2026-07-22T20:21:42.620773"
+        },
+        "B08W75WDCW": {
+            "title": "Wirefy 3/4\" Heat Shrink Tubing - Large Diameter - 3:1 Ratio - Adhesive Lined - Industrial Heat-Shrink Tubing - Black - 50 Feet Roll",
+            "reference_file": "B08W75WDCW/reference.jpg",
+            "deleted_at": "2026-07-22T20:21:46.273177"
+        },
+        "B08161G4FN": {
+            "title": "Ph Tds Meter Waterproof Digital Tester Water Ph Detector with Lcd Water Quality Test Tool for Indoor Outdoor",
+            "reference_file": "B08161G4FN/reference.jpg",
+            "deleted_at": "2026-07-22T20:22:19.772414"
+        },
+        "B09QM74SQ7": {
+            "title": "ctc connexions KN95 Face Masks for Kids 30 Pcs 5-Ply Disposable Breathable Kids Mask Filtration Efficiency ≥95% Against PM2.5 with Adjustable Earloop&Nose Clip for Boys, Girls(Blue)",
+            "reference_file": "B09QM74SQ7/reference.jpg",
+            "deleted_at": "2026-07-22T20:22:28.190201"
+        },
+        "B08BWV5BWP": {
+            "title": "Sterile Syringe Filters PES 25 mm Diameter 0.45um Pore Size Individually Packaged 10/pk by Biomed Scientific",
+            "reference_file": "B08BWV5BWP/reference.jpg",
+            "deleted_at": "2026-07-22T20:22:40.963528"
+        },
+        "B0979R9M54": {
+            "title": "SmartSign \"Notice - All Activities Monitored By Video Camera\" Sign | 12\" x 18\" 3M Engineer Grade Reflective Aluminum",
+            "reference_file": "B0979R9M54/reference.jpg",
+            "deleted_at": "2026-07-22T20:22:45.045147"
         }
     },
     "deleted_variations": {
@@ -721,6 +761,104 @@
                 "prompt": "A close-up view of a server rack in a dimly lit technical environment, with a telescopic inspection mirror extended diagonally from the left side, its articulated head angled downward to inspect the top of the rack. The mirror's reflective surface shows a magnified view of colorful network cables and connectors. The mirror's telescopic arm is partially extended, with its metallic shaft visible against the background. The server rack is densely populated with neatly organized bundles of blue, yellow, white, and orange network cables, secured with black cable ties. The background consists of a plain gray wall and ceiling tiles, with soft ambient lighting creating subtle shadows. The scene is focused on the inspection action, emphasizing the utility of the product in a real-world technical setting.",
                 "hash": "f3a4ba4ef92ff9442ba4ad1bbfa60697",
                 "deleted_at": "2026-07-17T17:41:53.149250"
+            }
+        ],
+        "B094HBKDJD": [
+            {
+                "file": "B094HBKDJD/variation_1.jpg",
+                "prompt": "A close-up product shot of a long, silver metallic linear rail assembly with a black end cap attached to one end. The end cap is square-shaped with rounded corners and a textured surface, positioned at the right end of the rail. The rail features a sliding carriage with a hexagonal knob and mounting holes, shown at a slight angle against a plain white background. The lighting is even and bright, highlighting the metallic sheen of the rail and the matte finish of the end cap. The composition is clean and centered, focusing on the mechanical structure and the end cap’s placement.",
+                "hash": "e2b06cddedcec05aa22449622014c4e2",
+                "deleted_at": "2026-07-22T20:21:27.961521"
+            }
+        ],
+        "B01GIQNLGY": [
+            {
+                "file": "B01GIQNLGY/variation_2.jpg",
+                "prompt": "A close-up, shallow-focus shot of the nut and bolt gauge lying flat on a plain white surface, viewed from a slightly elevated angle. The gauge is positioned diagonally across the frame, with its left side in soft focus and the right side more sharply defined. A human hand enters from the top right, holding a metallic threaded bolt by its hexagonal head, with the threaded portion aligned and resting against the gauge’s measurement slots. The lighting is bright and even, creating soft highlights on the bolt and the blue plastic surface of the gauge, with minimal shadows. The background is uniformly white and empty, emphasizing the interaction between the hand, bolt, and gauge.",
+                "hash": "6f6f379349bf1bb82a1a4572081dae73",
+                "deleted_at": "2026-07-22T20:21:39.861402"
+            }
+        ],
+        "B07H3ZW6RM": [
+            {
+                "file": "B07H3ZW6RM/variation_1.jpg",
+                "prompt": "A close-up, slightly low-angle view of a person’s hands installing the parking sign onto a metal pole. The sign is rectangular with a white background and a thick green border. It features two mounting holes, one near the top and one near the bottom. The sign is being held firmly by both hands, with the left hand wearing a black smartwatch. The background shows a modern building with light gray paneling, a window, and a blue structural column. The lighting is bright and natural, suggesting outdoor daylight. The perspective is dynamic, focusing on the action of mounting the sign.",
+                "hash": "21a7642ea52da83cbd22f7e05b80cbef",
+                "deleted_at": "2026-07-22T20:21:40.879262"
+            },
+            {
+                "file": "B07H3ZW6RM/variation_2.jpg",
+                "prompt": "A rectangular parking sign mounted on a dark metal pole stands on a brick-paved sidewalk at night. The sign is illuminated by ambient street lighting, casting a warm glow on its surface and the surrounding pavement. The background is a dark urban street scene with blurred streaks of light from passing vehicles, creating motion trails in orange and red tones. Faintly visible in the distance are out-of-focus streetlights and glowing rectangular shapes from distant signage or building lights. The sky is completely black, emphasizing the nighttime setting. The sign is positioned slightly off-center in the frame, with the sidewalk extending diagonally toward the lower left and the road stretching into the background on the right. The overall lighting is low-key and atmospheric, with strong contrast between the illuminated",
+                "hash": "fdf0e4c5ec9b16e20afb730a239fd8ff",
+                "deleted_at": "2026-07-22T20:21:40.880403"
+            }
+        ],
+        "B075ZK9PPF": [
+            {
+                "file": "B075ZK9PPF/variation_1.jpg",
+                "prompt": "A side-angle view of the stair climber dolly in motion, being pulled by a hand gripping the top handle, with a large transparent water jug securely positioned on its platform. The dolly is shown on a plain white background with soft, even studio lighting that highlights its structure and the reflective surface of the jug. The perspective is slightly low and dynamic, emphasizing the functionality and ease of use as the dolly moves forward. The background is uniformly white and empty, with no text, logos, or additional elements.",
+                "hash": "c808a485dbb9dc187764d7b1fa0a661b",
+                "deleted_at": "2026-07-22T20:21:42.622620"
+            }
+        ],
+        "B08W75WDCW": [
+            {
+                "file": "B08W75WDCW/variation_1.jpg",
+                "prompt": "A close-up shot of a hand holding a wire with the heat shrink tubing applied over a metal ring terminal, positioned diagonally across the frame. In the background, a heat gun with a metallic nozzle is visible, slightly out of focus, suggesting the application process. The background consists of soft, blurred tones of black, orange, and beige, creating a workshop-like atmosphere. A solid orange horizontal banner runs along the bottom edge of the image, with a plain white circular icon containing a thermometer symbol on the right side. The lighting is bright and focused on the hand and the wire, emphasizing the product in use. The overall composition highlights the practical application of the heat shrink tubing in a real-world setting.",
+                "hash": "8e18d2fea1f4c2d8a0083b58f706b3c6",
+                "deleted_at": "2026-07-22T20:21:46.275791"
+            },
+            {
+                "file": "B08W75WDCW/variation_2.jpg",
+                "prompt": "A close-up product demonstration shot showing the heat shrink tubing applied to a red wire with a metal ring terminal, positioned horizontally across the center of the frame. The tubing is tightly shrunk around the wire and terminal, with a glossy, wet appearance from water being poured directly onto it from above, causing droplets to splash and drip down. The background is a plain, light gray gradient, clean and neutral. At the bottom, a solid orange-to-peach gradient banner spans the width of the image, featuring a white circular icon on the left with a black dropper symbol, and the banner itself is otherwise plain and empty. The overall lighting is bright and even, emphasizing the waterproof seal and the adhesive lining feature through the visual effect of water rep",
+                "hash": "8aad927c85864bed4ea2bd7c0ea3fec2",
+                "deleted_at": "2026-07-22T20:21:46.276844"
+            }
+        ],
+        "B08161G4FN": [
+            {
+                "file": "B08161G4FN/variation_1.jpg",
+                "prompt": "A close-up shot of a hand holding the water quality tester vertically against a plain white background. The device is centered in the frame, with the fingers wrapped around its lower half and the thumb resting along its side. The hand appears natural and relaxed, with visible skin texture and fingernails. The lighting is bright and even, creating soft shadows beneath the hand and device, emphasizing the product’s form and grip. The background is uniformly white and free of any distractions, textures, or elements.",
+                "hash": "c2157bb69e1bce48a095e14fdbc3b1e1",
+                "deleted_at": "2026-07-22T20:22:19.774128"
+            }
+        ],
+        "B09QM74SQ7": [
+            {
+                "file": "B09QM74SQ7/variation_1.jpg",
+                "prompt": "A young child with short light hair is shown in profile, wearing the face mask. The child is wearing a horizontally striped sweater with navy blue, white, and yellow bands. The background is a soft gradient sky blue with stylized white clouds near the top. A solid dark blue border frames the entire image. In the bottom left corner, there is a small illustrated tropical island with two palm trees, a red-and-white lifebuoy, and blue water. A transparent circular graphic with white airflow lines is visible near the front of the mask, suggesting breathability. The overall lighting is bright and even, with a clean, illustrative, and cheerful aesthetic.",
+                "hash": "28ee5fd6d7b76ff2a406eefb48b630dd",
+                "deleted_at": "2026-07-22T20:22:28.192085"
+            },
+            {
+                "file": "B09QM74SQ7/variation_2.jpg",
+                "prompt": "A young boy stands outdoors on a tennis court, holding a tennis racket over his shoulder with both hands. He is wearing a light blue t-shirt with a dark blue and yellow striped design across the chest. The background features a partly cloudy sky, green trees, and a tennis net visible at the bottom of the frame. The lighting is natural daylight, bright and even, highlighting the subject’s face and the racket. The face mask is worn properly, covering his nose and mouth, with its ear loops visible and fitting snugly against his face. The mask’s shape and structure are clearly visible, including the contoured design and pleats, but its specific surface details, text, or branding are not described. The overall composition is a medium close-up",
+                "hash": "287451526e67bec582298461819b302d",
+                "deleted_at": "2026-07-22T20:22:28.193285"
+            }
+        ],
+        "B08BWV5BWP": [
+            {
+                "file": "B08BWV5BWP/variation_1.jpg",
+                "prompt": "A close-up, high-angle view of the syringe filter being actively used, with a transparent syringe containing bright blue liquid inserted into its top port. The syringe has black measurement markings along its barrel. The filter’s clear, circular body is shown with a radial grid pattern on its top surface, and a single drop of liquid is emerging from the bottom outlet. The entire composition is set against a plain white background with soft, even lighting that highlights the transparency and clean lines of the components.",
+                "hash": "fe53c12ad30a12a08454d568747e345e",
+                "deleted_at": "2026-07-22T20:22:40.965586"
+            }
+        ],
+        "B0979R9M54": [
+            {
+                "file": "B0979R9M54/variation_1.jpg",
+                "prompt": "A rectangular security sign with rounded corners and a red border is mounted on a rusted chain-link fence. The sign features a white background with a black silhouette of a security camera centered above a solid red text block. The sign is affixed to the fence with two visible metal fasteners, one near the top and one near the bottom. The background shows an outdoor industrial setting with a brick wall, a concrete foundation, and a metal ladder leaning against the wall. The sky is visible through the fence, appearing light blue with faint clouds. The lighting is natural daylight, casting soft shadows on the sign and fence. The chain-link fence is in sharp focus in the foreground, with the background slightly blurred, creating a shallow depth of field. The overall",
+                "hash": "ea2738bfbf4bf7b68a196f4ee31a5568",
+                "deleted_at": "2026-07-22T20:22:45.049262"
+            }
+        ],
+        "B00CLC73F0": [
+            {
+                "file": "B00CLC73F0/variation_2.jpg",
+                "prompt": "A close-up, top-down view of a small mound of the iron filings resting on a smooth, white, curved surface. The filings are densely packed, forming a spiky, textured heap with fine, dark strands radiating outward. In the foreground, a metallic grid or mesh structure with a wavy, scalloped edge is positioned horizontally, supported by a short, cylindrical black base. The background is a plain, uniform white, creating a clean, minimalist studio setting with soft, even lighting that highlights the texture of the filings and the reflective surface of the grid. The composition is centered, with the mound of filings as the focal point, and the grid element adding a structural, scientific visual contrast.",
+                "hash": "309a909b45673a64a8b6188efacd0112",
+                "deleted_at": "2026-07-22T20:23:38.430676"
             }
         ]
     }

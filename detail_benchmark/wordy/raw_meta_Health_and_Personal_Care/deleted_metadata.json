@@ -204,6 +204,21 @@
             "title": "I'm 22 bitches banner for 22nd birthday decorations Risehy",
             "reference_file": "B078N5KY11/reference.jpg",
             "deleted_at": "2026-07-17T17:38:19.373405"
+        },
+        "B076N1P4JY": {
+            "title": "Cyxus Polarized Aviator Sunglasses with Clip On Mirrored Lens Sliver Flash",
+            "reference_file": "B076N1P4JY/reference.jpg",
+            "deleted_at": "2026-07-22T20:12:27.291259"
+        },
+        "B07XGJ99LT": {
+            "title": "75th Birthday Gifts for Men, 75th Birthday Hat and Sash, 75th Birthday Decorations Supplies for Men, 75th Birthday Gifts for Men, 75th Birthday Hat and Sash, 75th Birthday Baseball Cap",
+            "reference_file": "B07XGJ99LT/reference.jpg",
+            "deleted_at": "2026-07-22T20:12:30.778884"
+        },
+        "B00J4YXP5K": {
+            "title": "Cascade Platinum Actionpacs Dishwasher Detergent, Fresh Scent, 23 Count",
+            "reference_file": "B00J4YXP5K/reference.jpg",
+            "deleted_at": "2026-07-22T20:12:33.558831"
         }
     },
     "deleted_variations": {
@@ -733,6 +748,36 @@
                 "prompt": "A golden glitter banner is strung horizontally across the upper portion of the image, suspended by a thin white string against a light gray brick wall. Below the banner, a vintage-style wooden hutch with cream-colored doors and dark wood trim is positioned. The hutch features arched glass panels in the upper section, displaying blue and white porcelain items, including vases and decorative plates. The lower section holds wine glasses and additional ceramic pieces. To the right of the hutch, a tall green potted plant with long, feathery fronds adds natural texture to the scene. The lighting is soft and even, highlighting the textures of the brick wall, the furniture, and the plant, creating a warm, inviting indoor setting.",
                 "hash": "e626a9312814ea43453cc4aaaf381119",
                 "deleted_at": "2026-07-17T17:38:19.375381"
+            }
+        ],
+        "B076N1P4JY": [
+            {
+                "file": "B076N1P4JY/variation_1.jpg",
+                "prompt": "A close-up portrait of a man in profile, facing slightly to the right, wearing the clip on sunglasses over a pair of regular eyeglasses. The man has styled dark brown hair, a clean-shaven face, and is wearing a dark gray crew-neck t-shirt. The background is a plain white, evenly lit to highlight the subject’s facial features and the sunglasses. The lighting is soft and studio-like, creating subtle shadows that define the contours of the face and the reflective surface of the lenses. The clip on sunglasses are positioned securely over the frame of the underlying glasses, with the clip mechanism visible at the bridge. The overall composition is clean and focused, emphasizing the product’s fit and style on the face.",
+                "hash": "decbf99b10a9dcc7209cd5b9a7191e19",
+                "deleted_at": "2026-07-22T20:12:27.291665"
+            },
+            {
+                "file": "B076N1P4JY/variation_2.jpg",
+                "prompt": "A man with short, dark, wavy hair is shown in a close-up portrait from the chest up, wearing black-framed eyeglasses. He is in the process of attaching the clip on sunglasses to the top of his eyeglasses, with his right hand gently holding the clip on sunglasses in place. The clip on sunglasses are positioned above the main eyeglasses, with their lenses facing forward. The background is a plain white, evenly lit, and free of any distractions. The lighting is soft and studio-like, highlighting the man’s facial features and the action of attaching the product. The man is wearing a dark gray crew-neck t-shirt. The overall composition is clean and focused on the product’s usage, with no text, logos",
+                "hash": "0692e7756fc06cd42ac55185952d1d7d",
+                "deleted_at": "2026-07-22T20:12:27.292012"
+            }
+        ],
+        "B07XGJ99LT": [
+            {
+                "file": "B07XGJ99LT/variation_1.jpg",
+                "prompt": "A man in a gray suit, white dress shirt, and blue polka-dot tie stands against a plain white background, wearing the sash diagonally across his chest from his left shoulder to his right hip. He also wears a dark gray baseball cap with a circular emblem on the front. His right hand is raised slightly, holding a small object between his fingers, and he is smiling while looking upward and to the side. The sash is draped naturally over his torso, with soft folds visible along its length. The lighting is bright and even, highlighting the subject clearly with no shadows or background distractions.",
+                "hash": "ed853982e7b4d37605c2455c00c5d3af",
+                "deleted_at": "2026-07-22T20:12:30.779596"
+            }
+        ],
+        "B00J4YXP5K": [
+            {
+                "file": "B00J4YXP5K/variation_1.jpg",
+                "prompt": "A split-screen before-and-after image of a metal baking tray, with the left half showing baked-on food residue and the right half clean and shiny, positioned next to a container of the dishwasher detergent. The container has a silver body with a green lid and is placed on a reflective surface. The background is a solid dark green gradient. A bright white sparkle effect appears near the top right of the container. The entire composition is set against a plain, solid dark green backdrop.",
+                "hash": "1f81b11b0e1a509213f704254f9f53a7",
+                "deleted_at": "2026-07-22T20:12:33.560840"
             }
         ]
     }
