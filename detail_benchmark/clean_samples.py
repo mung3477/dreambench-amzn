@@ -9,6 +9,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 GROUND_TRUTH_DIR = "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark/wordy"
+RATING_BASE_DIR = "/root/Desktop/workspace/woosung/commercial-dreambench/rating/amzn"
 TARGET_DIRS = [
     "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark/wordy",
     "/root/Desktop/workspace/woosung/commercial-dreambench/assets/data/amzn",
@@ -67,7 +68,7 @@ def load_ground_truth_metadata():
     return gt_categories
 
 def scan_and_clean(gt_categories, execute=False):
-    """Scans target directories and prints or deletes files/directories not in gt_categories"""
+    """Scans target directories and rating directory, printing or deleting files/directories not in gt_categories"""
     total_dirs_deleted = 0
     total_files_deleted = 0
 
@@ -129,6 +130,38 @@ def scan_and_clean(gt_categories, execute=False):
                                 files_to_delete.append(file_path)
                         else:
                             # If it doesn't match any pattern, remove it
+                            files_to_delete.append(file_path)
+
+    # Scan rating directory
+    if os.path.exists(RATING_BASE_DIR):
+        logger.info(f"Scanning rating target: {RATING_BASE_DIR}")
+        for root, dirs, files in os.walk(RATING_BASE_DIR):
+            cat_name = os.path.basename(root)
+            if not cat_name.startswith('raw_meta_'):
+                continue
+
+            if cat_name not in gt_categories:
+                if root not in dirs_to_delete:
+                    dirs_to_delete.append(root)
+                continue
+
+            gt_info = gt_categories[cat_name]
+            valid_asins = gt_info['asins']
+            valid_variations = gt_info['variations']
+
+            for filename in files:
+                file_path = os.path.join(root, filename)
+                rating_match = re.match(r'^(.+)_variation_(.+)\.json$', filename)
+                if rating_match:
+                    asin = rating_match.group(1)
+                    suffix = rating_match.group(2)
+
+                    if asin not in valid_asins:
+                        files_to_delete.append(file_path)
+                    else:
+                        expected_var_jpg = f"variation_{suffix}.jpg"
+                        allowed_vars = valid_variations.get(asin, set())
+                        if expected_var_jpg not in allowed_vars:
                             files_to_delete.append(file_path)
 
     # Print dry-run summary
@@ -200,6 +233,16 @@ def scan_and_clean(gt_categories, execute=False):
                         logger.info(f"Cleaned up empty category directory: {cat_path}")
                     except Exception as e:
                         logger.warning(f"Could not remove empty category directory {cat_path}: {e}")
+
+        # Clean up empty rating directories recursively bottom-up
+        if os.path.exists(RATING_BASE_DIR):
+            for root, dirs, files in os.walk(RATING_BASE_DIR, topdown=False):
+                if os.path.exists(root) and not os.listdir(root):
+                    try:
+                        os.rmdir(root)
+                        logger.info(f"Cleaned up empty rating directory: {root}")
+                    except Exception as e:
+                        logger.warning(f"Could not remove empty rating directory {root}: {e}")
 
         print(f"Successfully deleted {total_dirs_deleted} directories and {total_files_deleted} files.")
 
