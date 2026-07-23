@@ -22,5 +22,65 @@
                 "prompt": "A close-up shot of a hand holding the phone ring grip, with fingers gently gripping the metallic ring and thumb resting on the side. The product is shown at a slight angle, emphasizing its three-dimensional form and the way it is being interacted with. The background is a clean, plain white, providing high contrast and focus on the hand and the product. The lighting is bright and even, highlighting the reflective surface of the ring and the smooth texture of the grip’s base. The composition is centered and tightly framed, drawing attention to the tactile interaction between the hand and the phone ring grip."
             }
         ]
+    },
+    {
+        "asin": "B09DSJVYGF",
+        "title": "Awsaccy Emily in Paris Phone Case for iPhone 13 6.1 inch Camera Case Vintage Cover Cute 3D Cool Unique Design Silicone Case with Removable Neck Strap Lanyard for Girls Women Black",
+        "reference_file": "B09DSJVYGF/reference.jpg",
+        "categorical_name": "phone case",
+        "variation_files": [
+            {
+                "file": "B09DSJVYGF/variation_1.jpg",
+                "prompt": "A hand with dark blue nail polish holding the phone case, which is designed to resemble a vintage camera with a silver and black color scheme, positioned diagonally in the frame. The hand is wearing a black knitted sleeve, and the background consists of soft, neutral-toned fabric textures, including a dark brown or black surface and a light beige or cream-colored surface, suggesting a cozy indoor setting. The lighting is soft and natural, highlighting the details of the case and the hand. The phone case is shown in a close-up, slightly angled perspective, emphasizing its 3D design and camera-like features."
+            }
+        ]
+    },
+    {
+        "asin": "B010R8LSK0",
+        "title": "Note 5 Case, BUDDIBOX [HSeries] Heavy Duty Swivel Belt Clip Holster with Kickstand Maximal Protection Case for Samsung Galaxy Note 5, (Blue)",
+        "reference_file": "B010R8LSK0/reference.jpg",
+        "categorical_name": "phone case",
+        "variation_files": [
+            {
+                "file": "B010R8LSK0/variation_1.jpg",
+                "prompt": "A close-up shot of the phone case attached to a brown leather belt, worn over dark blue denim jeans, with a hand reaching toward it from the bottom right, wearing a silver metal watch. The case is positioned vertically, showing its back side with the belt clip engaged. To the left, a circular inset graphic illustrates the belt clip’s 180-degree rotation feature, showing a side view of the case with the clip in motion. The background consists of the denim fabric and belt, with a dark, out-of-focus upper area. The lighting is bright and even, highlighting the case and the textures of the clothing. Ignore all text, arrows, and graphical overlays; describe only the layout, environment, and visual composition."
+            }
+        ]
+    },
+    {
+        "asin": "B002YNU5GU",
+        "title": "Solar Technology International STI Freeloader PICO Compact Solar Charger for Mobile Devices",
+        "reference_file": "B002YNU5GU/reference.jpg",
+        "categorical_name": "solar charger",
+        "variation_files": [
+            {
+                "file": "B002YNU5GU/variation_1.jpg",
+                "prompt": "A top-down studio shot of the solar charger connected via a black coiled cable to a handheld electronic device, both resting on a plain white surface. The solar charger is positioned on the right, angled slightly toward the device, with its solar panel facing upward. The electronic device is on the left, tilted to show its screen and control buttons. The lighting is bright and even, creating soft shadows beneath the objects. The background is a clean, uniform white with no text, logos, or additional elements."
+            }
+        ]
+    },
+    {
+        "asin": "B07S744K5Y",
+        "title": "Sinwere Cute Retro Classic Cellular Phone Shaped Case for iPhone 6/6S/7/8(4.7''), Soft Silicone 3D Cartoon Cover,Kids Girls Rubber Protector for iPhone 6/6S/7/8 (4.7\") (Pink)",
+        "reference_file": "B07S744K5Y/reference.jpg",
+        "categorical_name": "phone case",
+        "variation_files": [
+            {
+                "file": "B07S744K5Y/variation_1.jpg",
+                "prompt": "A top-down flat lay composition featuring the phone case resting diagonally on a vibrant pink ribbed fabric surface. The phone case is positioned slightly off-center, angled from the top left toward the bottom right. To the upper right, a small potted artificial plant with green leaves and light pink blossoms sits on the same surface, partially framing the scene. The lighting is soft and even, casting subtle shadows beneath the phone case and plant, enhancing the three-dimensional feel. The background is entirely composed of the textured pink fabric, with no text, logos, or placeholder elements visible. The overall mood is playful and feminine, with a focus on pastel tones and clean, minimal styling."
+            }
+        ]
+    },
+    {
+        "asin": "B0BP77MJTV",
+        "title": "USB C Charger, 33W GaN Ⅲ Wall Charger,PD QC 3.0 Adapter,Foldable PPS Fast Charger,Type C Charger Fast Charging Block Compatible with MacBook Pro, iPad, iPhone 14 Pro Max,Galaxy S23/S22, Balxo",
+        "reference_file": "B0BP77MJTV/reference.jpg",
+        "categorical_name": "wall charger",
+        "variation_files": [
+            {
+                "file": "B0BP77MJTV/variation_1.jpg",
+                "prompt": "A white wall charger is plugged into a white wall socket mounted on a light purple wall. A white charging cable extends from the charger, curving down to connect to a smartphone lying face-up on a wooden surface. The phone has a dark screen with a colorful abstract wallpaper. The scene is lit with soft, natural lighting, casting subtle shadows. The background wall is plain and solid-colored, and the wooden surface has a smooth, natural grain texture. The composition focuses on the charging setup, showing the charger in use with the cable and phone, emphasizing functionality and real-world usage."
+            }
+        ]
     }
 ]

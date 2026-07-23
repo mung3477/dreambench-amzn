@@ -7,11 +7,11 @@
         "variation_files": [
             {
                 "file": "B09ZQD7536/variation_1.jpg",
-                "prompt": "A top-down, angled view of the pencil case resting on a weathered wooden surface with visible grain and natural texture. The case is positioned diagonally, with its black fabric handle extending toward the bottom left corner. Surrounding the case are art supplies: a set of paintbrushes with wooden handles and metal ferrules lie in the bottom left, and a white paint palette with colorful paint wells—red, pink, purple, orange, and beige—is placed in the top left corner. The lighting is soft and natural, casting subtle shadows and highlighting the texture of the wood and the fabric of the case. The overall composition suggests a creative, artistic workspace."
+                "prompt": "A top-down, angled view of the pencil case resting on a weathered wooden surface with visible grain and natural texture. The case is positioned diagonally, with its black fabric handle extending toward the bottom left corner. Surrounding the case are art supplies: a set of paintbrushes with wooden handles and metal ferrules lie in the bottom left, and a white paint palette with colorful paint wells\u2014red, pink, purple, orange, and beige\u2014is placed in the top left corner. The lighting is soft and natural, casting subtle shadows and highlighting the texture of the wood and the fabric of the case. The overall composition suggests a creative, artistic workspace."
             },
             {
                 "file": "B09ZQD7536/variation_2.jpg",
-                "prompt": "A close-up, lifestyle shot of the pencil case resting on a light wooden desk surface, angled slightly to the right. The scene is softly lit with natural, diffused light, creating gentle shadows and a warm, inviting atmosphere. In the foreground, a person’s hand wearing a textured, neutral-toned knit sweater sleeve is visible, holding a pen and writing on a piece of paper, suggesting an active, focused work or study environment. The pencil case is positioned near the bottom right of the frame, with its black fabric strap hanging naturally to the left. In the blurred background, a white notebook or sketchpad lies open, and a ceramic mug with a brown base sits out of focus, adding to the cozy, creative workspace ambiance. The overall"
+                "prompt": "A close-up, lifestyle shot of the pencil case resting on a light wooden desk surface, angled slightly to the right. The scene is softly lit with natural, diffused light, creating gentle shadows and a warm, inviting atmosphere. In the foreground, a person\u2019s hand wearing a textured, neutral-toned knit sweater sleeve is visible, holding a pen and writing on a piece of paper, suggesting an active, focused work or study environment. The pencil case is positioned near the bottom right of the frame, with its black fabric strap hanging naturally to the left. In the blurred background, a white notebook or sketchpad lies open, and a ceramic mug with a brown base sits out of focus, adding to the cozy, creative workspace ambiance. The overall"
             }
         ]
     },
@@ -31,7 +31,7 @@
             },
             {
                 "file": "B08B6DK1B8/variation_3.jpg",
-                "prompt": "A framed artwork of the diamond painting kit is displayed on a plain light gray wall above a modern white sofa. The frame is light wood with a white mat border, and the artwork features a vibrant, colorful elephant with intricate patterns, set against a stylized background with a glowing sun and blue geometric patterns. Below the artwork, the sofa is adorned with decorative pillows in neutral tones — one with black and white stripes, one solid beige with a button detail, and one with a gray and white dotted pattern. A dark gray textured throw blanket is casually draped over the right side of the sofa. In front of the sofa, a round white coffee table holds a small potted green plant in a peach-colored pot, a white geometric vase, and a stack"
+                "prompt": "A framed artwork of the diamond painting kit is displayed on a plain light gray wall above a modern white sofa. The frame is light wood with a white mat border, and the artwork features a vibrant, colorful elephant with intricate patterns, set against a stylized background with a glowing sun and blue geometric patterns. Below the artwork, the sofa is adorned with decorative pillows in neutral tones \u2014 one with black and white stripes, one solid beige with a button detail, and one with a gray and white dotted pattern. A dark gray textured throw blanket is casually draped over the right side of the sofa. In front of the sofa, a round white coffee table holds a small potted green plant in a peach-colored pot, a white geometric vase, and a stack"
             }
         ]
     },
@@ -95,7 +95,7 @@
         "variation_files": [
             {
                 "file": "B09G9PKBHC/variation_3.jpg",
-                "prompt": "A woman stands in front of a white paneled door, holding the tote bag by its top handles. She is wearing a light blue ruffled lace dress and beige high-heeled shoes. The tote bag is positioned at mid-thigh level, angled slightly to show its front and side. The background consists of the white door and a light wooden floor. The lighting is bright and even, highlighting the subject and the bag without harsh shadows. The composition focuses on the lower half of the woman’s body and the tote bag, with no text or graphic overlays present."
+                "prompt": "A woman stands in front of a white paneled door, holding the tote bag by its top handles. She is wearing a light blue ruffled lace dress and beige high-heeled shoes. The tote bag is positioned at mid-thigh level, angled slightly to show its front and side. The background consists of the white door and a light wooden floor. The lighting is bright and even, highlighting the subject and the bag without harsh shadows. The composition focuses on the lower half of the woman\u2019s body and the tote bag, with no text or graphic overlays present."
             }
         ]
     },
@@ -120,6 +120,218 @@
             {
                 "file": "B08RWCJDJQ/variation_1.jpg",
                 "prompt": "Two identical the throw pillow covers with a textured, tufted surface are placed side by side on a soft, white, fluffy rug. Each cover features a festive winter scene with a central white bear wearing a red hat and scarf, surrounded by small birds and snowflakes on a blue background. The pillows are positioned in front of a decorated Christmas tree with red and gold ornaments and tinsel, and next to a red cushion with a large white snowflake design. The scene is set near a window with sheer white curtains, and part of a gray armchair is visible on the right. The lighting is soft and natural, creating a cozy, holiday atmosphere."
+            }
+        ]
+    },
+    {
+        "asin": "B0B87NNVRW",
+        "title": "ColorIt Home for The Holidays, Spiral Bound Adult Coloring Book, 50 Unique Designs with Perforated Pages, Hardback Cover, Ink Blotter | for Arts and Crafts, Holiday Coloring Books for Adults",
+        "reference_file": "B0B87NNVRW/reference.jpg",
+        "categorical_name": "adult coloring book",
+        "variation_files": [
+            {
+                "file": "B0B87NNVRW/variation_1.jpg",
+                "prompt": "A close-up view of a hand holding a colored pencil, actively coloring a page from the adult coloring book, which lies flat on a surface. The page features an illustrated scene with outlined figures and partial color application. The background is a soft, out-of-focus bokeh of warm holiday lights in red, green, blue, and gold tones, creating a festive and cozy atmosphere. The lighting is warm and directional, highlighting the hand and the coloring page in the foreground. The overall composition emphasizes the act of coloring, with the hand positioned in the lower right, drawing attention to the creative process. The background is a solid deep red with blurred light circles, giving a dreamy, celebratory feel."
+            }
+        ]
+    },
+    {
+        "asin": "B07YNMF1C9",
+        "title": "YEQIN Zig Zag, Straight Stitch Foot Snap On foot Presser Foot Will Fit Singer, Brother, Janome, Toyota, Etc Domestic Sewing Machines",
+        "reference_file": "B07YNMF1C9/reference.jpg",
+        "categorical_name": "sewing machine presser foot",
+        "variation_files": [
+            {
+                "file": "B07YNMF1C9/variation_1.jpg",
+                "prompt": "A close-up, high-angle view of the sewing machine presser foot mounted on a sewing machine, shown in active use with a needle threaded and positioned just above the presser foot\u2019s needle hole. The presser foot is centered in the frame, with its metallic body and mechanical components clearly visible, including the clamp mechanism and the curved front edge. The background consists of a blurred, neutral-toned sewing machine bed with visible textured metal grating beneath the presser foot. The lighting is soft and directional, highlighting the reflective surfaces of the presser foot and the surrounding metal parts, creating subtle shadows and depth. The overall composition emphasizes the functional integration of the presser foot within the sewing machine, with a shallow depth of field that keeps the focus"
+            },
+            {
+                "file": "B07YNMF1C9/variation_2.jpg",
+                "prompt": "A close-up shot of a sewing machine in action, focusing on the lower part of the needle assembly with the sewing machine presser foot positioned over a piece of textured orange fabric. The presser foot is actively guiding the fabric as the needle moves up and down, with a single thread visible extending from the needle. The background includes a wooden surface and a dark metal sewing machine bed plate with faint engraved markings. A yellow-headed pin lies on the fabric to the lower left. The lighting is warm and natural, highlighting the metallic sheen of the machine components and the texture of the fabric. The composition is tight and centered on the presser foot and needle area, emphasizing the sewing process."
+            },
+            {
+                "file": "B07YNMF1C9/variation_3.jpg",
+                "prompt": "A close-up, low-angle view of a sewing machine in operation, focusing on the needle and presser foot area. The sewing machine presser foot is positioned on a piece of light-colored, textured fabric, actively stitching a straight seam. A pair of hands gently guides the fabric under the presser foot \u2014 one hand on the left side near the needle, the other on the right, both with natural, well-maintained nails. The upper part of the sewing machine, including the white machine body and part of the needle bar, is visible in the foreground, slightly out of focus. The background is softly blurred, showing warm, neutral tones with a hint of a red sleeve on the right side, suggesting a person wearing a red shirt."
+            }
+        ]
+    },
+    {
+        "asin": "B01KJTND1E",
+        "title": "Proumhang Counted Cross Stitch Embroidery Kits DIY Needlework 45cm x 45cm: Tree of Life Spring",
+        "reference_file": "B01KJTND1E/reference.jpg",
+        "categorical_name": "cross stitch kit",
+        "variation_files": [
+            {
+                "file": "B01KJTND1E/variation_1.jpg",
+                "prompt": "A large square canvas featuring a stylized tree with a black trunk and branches, its foliage composed of intricate green floral and circular patterns in varying shades of green, accented with small black star-shaped flowers and green insects, displayed on a light beige textured wall above a wooden console table. The canvas has a white background and is framed by a thin white border. On the console table below, there is a black vase with dried white branches, a framed artwork with warm orange and brown tones, a yellow decorative bowl, a black book with visible text on the spine, and a modern silver desk lamp. The lighting is soft and natural, casting gentle shadows, creating a calm, contemporary living room ambiance."
+            },
+            {
+                "file": "B01KJTND1E/variation_2.jpg",
+                "prompt": "A framed artwork featuring a stylized tree with a black trunk and branches, its foliage composed of intricate green floral and circular patterns, displayed on a light beige wall above a sofa. The artwork is enclosed in a square, gold-colored frame with a white mat border. Below the frame, the top portion of a sofa is visible, adorned with patterned cushions in dark brown, gold, and black tones, including geometric and animal motifs. The scene is lit with soft, even indoor lighting, creating a calm and elegant living room ambiance."
+            },
+            {
+                "file": "B01KJTND1E/variation_3.jpg",
+                "prompt": "A square canvas artwork featuring a stylized tree with a black trunk and branches, its foliage composed of abstract green and yellow floral patterns, small black star-like shapes, and delicate green insects, displayed on a light lavender wall above a wooden dining table with matching chairs; the canvas has a white border and is centered on the wall, with soft, even lighting illuminating the scene."
+            }
+        ]
+    },
+    {
+        "asin": "B01MSWHQSO",
+        "title": "Hole Puncher, ALLOMN Heavy-Duty Leather Hole Punch Tool, 2.0-4.5 mm, Professional Puncher for Belt, Saddle, Watch Strap, Shoe, Fabric, Paper",
+        "reference_file": "B01MSWHQSO/reference.jpg",
+        "categorical_name": "hole puncher",
+        "variation_files": [
+            {
+                "file": "B01MSWHQSO/variation_1.jpg",
+                "prompt": "A close-up action shot of the hole puncher being used to punch a hole in a black leather belt, held firmly by a hand gripping the handles. The background is solid black, creating high contrast with the red tool and the dark leather. The leather belt is positioned vertically, with a few existing punched holes visible along its edge. To the left, a portion of another black leather belt with a silver buckle is partially visible, resting on the same dark surface. The lighting is focused on the tool and the belt, highlighting the metallic components of the puncher and the texture of the leather. The composition emphasizes the functionality and precision of the tool in use."
+            },
+            {
+                "file": "B01MSWHQSO/variation_2.jpg",
+                "prompt": "A close-up shot of the hole puncher being held by a hand, angled diagonally from bottom-left to top-right, with the hand gripping the handles near the pivot point. The product is shown in a slightly open position, highlighting the adjustable dial mechanism at the top. The background is plain white, and the lighting is bright and even, emphasizing the product\u2019s form and metallic components. The hand is positioned naturally, with fingers wrapped around the handles, suggesting use or demonstration. No text, labels, or placeholder elements are present in the image."
+            }
+        ]
+    },
+    {
+        "asin": "B01E58REEW",
+        "title": "All-Weather Paintstik Livestock Marker, 1\" Diameter x 4\" Length, Fluorescent Yellow (Pack of 12)",
+        "reference_file": "B01E58REEW/reference.jpg",
+        "categorical_name": "livestock marker",
+        "variation_files": [
+            {
+                "file": "B01E58REEW/variation_1.jpg",
+                "prompt": "A close-up shot of a hand wearing a blue disposable glove holding the livestock marker and applying it to the back of a cow, leaving a bright orange mark on the animal's fur. The scene is set under a wooden shelter with natural, soft lighting coming from the side, creating a warm, slightly overexposed background. The cow\u2019s coat is coarse and grayish-white, with visible texture and natural highlights. The hand is positioned diagonally, pressing the marker firmly into the fur, with paint visibly transferring. The background is softly blurred, showing wooden beams and open space, suggesting a barn or farm environment. The focus is sharp on the marker, the hand, and the point of contact with the cow, while the rest of the image has"
+            }
+        ]
+    },
+    {
+        "asin": "B09Y4V1V9K",
+        "title": "Stede Bonnet Gentleman Pirate Iron-On Patch - Made in The USA - Black, Gold, Pink - 3\" x 2\" BlackStede BlackBonnet Rectangle Patch",
+        "reference_file": "B09Y4V1V9K/reference.jpg",
+        "categorical_name": "iron-on patch",
+        "variation_files": [
+            {
+                "file": "B09Y4V1V9K/variation_1.jpg",
+                "prompt": "A close-up view of a blue denim jeans back pocket with a rectangular iron-on patch centered on it. The patch is placed flat against the textured denim fabric, which features visible stitching along the pocket edges in a contrasting golden-yellow thread. The pocket has a classic trapezoidal shape with a slightly worn, faded wash effect, giving it a natural, lived-in look. The lighting is even and soft, highlighting the texture of the denim and the edges of the patch without casting harsh shadows. The background is entirely composed of the denim material, with no additional elements or text."
+            }
+        ]
+    },
+    {
+        "asin": "B09KM7S5D2",
+        "title": "Senso Clear Primed Linen Stretched Canvas - 6x6\" - 3 Pack of 3/4 Deep Stretched Canvas for Painting Oils, Acrylics, Pastels and More",
+        "reference_file": "B09KM7S5D2/reference.jpg",
+        "categorical_name": "stretched canvas",
+        "variation_files": [
+            {
+                "file": "B09KM7S5D2/variation_1.jpg",
+                "prompt": "A close-up view of the stretched canvas, shown at a slight angle, with a detailed artwork of an owl's face being created on its surface. A hand enters from the right side, holding a tan-colored oil pastel stick and applying it to the canvas near the owl\u2019s forehead. The canvas has a textured, neutral beige surface, and the artwork features bold strokes of black, white, orange, and yellow, with a prominent yellow eye. The background is plain white, and the lighting is bright and even, highlighting the texture of the canvas and the details of the drawing process. The composition focuses on the interaction between the hand, the pastel, and the canvas, with the artwork occupying most of the canvas area and a small signature mark"
+            }
+        ]
+    },
+    {
+        "asin": "B01LXQ5EFD",
+        "title": "Knitter's Pride 810001 Aspire Interchangeable Needle Case",
+        "reference_file": "B01LXQ5EFD/reference.jpg",
+        "categorical_name": "needle case",
+        "variation_files": [
+            {
+                "file": "B01LXQ5EFD/variation_1.jpg",
+                "prompt": "A rectangular needle case with a floral pattern and red trim is shown against a plain white background. The case features a horizontal zipper across the top, partially unzipped to reveal several metallic knitting needles and colorful circular needle cables in orange, blue, green, and yellow emerging from the opening. The zipper has a silver metal pull tab on the right side. The case is positioned flat, viewed from the front, with even, bright lighting highlighting the texture of the fabric and the contents."
+            }
+        ]
+    },
+    {
+        "asin": "B087LQQ9HF",
+        "title": "MOMOKY Copy 1794 Flowing Hair US Half Dollar Antique Commemorative Coin-America Liberty&Eagle 50 Cents Collection Coin Morgan Silver Dollar Replica Discovery Collection",
+        "reference_file": "B087LQQ9HF/reference.jpg",
+        "categorical_name": "commemorative coin",
+        "variation_files": [
+            {
+                "file": "B087LQQ9HF/variation_1.jpg",
+                "prompt": "A digital caliper with a metallic silver finish is positioned horizontally, measuring the diameter of the commemorative coin. The coin rests on a textured white surface, centered between the caliper\u2019s jaws. The caliper\u2019s digital display shows a numerical reading, and the analog scale is visible along the beam. The background is a plain, textured white surface with a consistent, fine-grained pattern. The lighting is even and diffused, highlighting the metallic sheen of the caliper and the coin\u2019s surface without harsh shadows. The composition is a close-up, top-down view, focusing on the measurement setup."
+            },
+            {
+                "file": "B087LQQ9HF/variation_2.jpg",
+                "prompt": "A digital caliper with a metallic silver body and a black LCD screen is shown measuring the thickness of the commemorative coin. The coin is positioned vertically between the caliper's jaws, with its edge visible. The caliper\u2019s display and buttons are clearly visible, and the ruler scale extends to the right. The entire setup rests on a textured white surface, with even, neutral lighting highlighting the metallic surfaces and the coin\u2019s edge. The background is a plain, uniform white with a fine, granular texture."
+            }
+        ]
+    },
+    {
+        "asin": "B075BT2F26",
+        "title": "Begeer Desktop Magnifying Glass with Light and Stand 1.8X 6X Magnification Lens Hands-Free Lighted Jewelers Loupe Magnifier for Close Work, Reading, Hobby, Macular Degeneration, Seniors",
+        "reference_file": "B075BT2F26/reference.jpg",
+        "categorical_name": "magnifying glass",
+        "variation_files": [
+            {
+                "file": "B075BT2F26/variation_1.jpg",
+                "prompt": "A close-up product shot of the magnifying glass positioned at a slight angle against a plain white background. The product features a flexible gooseneck arm extending from a curved, stable base. A human hand enters from the top left, with the index finger pressing one of the two circular control buttons located on the side of the head assembly near the magnifying lens. The lighting is bright and even, highlighting the metallic finish of the base and neck, while casting soft shadows beneath the base. The composition focuses on the interaction between the hand and the control buttons, emphasizing usability."
+            },
+            {
+                "file": "B075BT2F26/variation_2.jpg",
+                "prompt": "A close-up studio shot of the magnifying glass placed on a smooth, light-gray surface with a soft, neutral beige background. The product is angled slightly to the right, with its flexible gooseneck extended upward and curved forward, positioning the magnifying lens at the top. The base has a sleek, metallic, U-shaped design with a brushed finish, resting firmly on the surface. The lighting is soft and directional, coming from the upper left, creating gentle highlights on the metal surfaces and a subtle shadow to the right of the base. The magnifying lens is transparent and slightly reflective, with a bright light source visible near the joint where the lens connects to the gooseneck. The overall atmosphere is clean, modern, and minimal"
+            }
+        ]
+    },
+    {
+        "asin": "B08THP1926",
+        "title": "YYCRAFT 10 Yards Ball Fringe 1\" Wide Pom Pom Trim Ribbon Sewing(Pom Size 15mm, Ivory)",
+        "reference_file": "B08THP1926/reference.jpg",
+        "categorical_name": "pom pom trim",
+        "variation_files": [
+            {
+                "file": "B08THP1926/variation_1.jpg",
+                "prompt": "A close-up, flat-lay composition featuring the pom pom trim arranged in loose, overlapping layers across a solid deep blue textured background. The trim is displayed in a natural, slightly curved and cascading layout, with some strands extending diagonally toward the upper right corner. To the right, a cluster of artificial green foliage with small, dense leaves is placed, partially overlapping the trim, adding a natural contrast. The lighting is soft and even, highlighting the fluffy texture of the pom poms and the ribbed structure of the trim\u2019s base ribbon. The overall scene is clean and minimal, with no text or graphic elements, focusing solely on the product\u2019s form and placement within the composition."
+            }
+        ]
+    },
+    {
+        "asin": "B09RGYB393",
+        "title": "Needle Threader Fish Type Sewing Machine Automatic, Sewing Needle Inserter, Quick Sewing Threader Needle DIY Tool for Small Eyes, Embroidery Floss, Sewing Plastic Wire Loop",
+        "reference_file": "B09RGYB393/reference.jpg",
+        "categorical_name": "needle threader",
+        "variation_files": [
+            {
+                "file": "B09RGYB393/variation_1.jpg",
+                "prompt": "A close-up product shot of the needle threader resting diagonally on a smooth black surface, leaning against a textured white background. The object is positioned with its handle at the bottom right and its tip pointing toward the top left, slightly angled to show its profile. The lighting is soft and directional, casting a subtle shadow beneath the product and highlighting its translucent, geometric patterned body. The background consists of a clean, plain white textured panel above and a solid black surface below, creating a high-contrast, minimalist composition."
+            },
+            {
+                "file": "B09RGYB393/variation_2.jpg",
+                "prompt": "A split-screen layout showing two close-up views of a hand using the needle threader to thread a sewing machine needle. In the top panel, the needle threader is positioned near the needle, with a thin white thread visible curving toward the needle eye. The sewing machine components, including a metallic needle bar and a yellow plastic guide, are visible in the background. In the bottom panel, the thread is being guided through the needle eye by the needle threader, with the hand holding the tool steady. The background in both panels is dark and slightly textured, consistent with the surface of a sewing machine. The lighting is bright and focused, highlighting the action and the tool\u2019s interaction with the needle and thread."
+            }
+        ]
+    },
+    {
+        "asin": "B0BYVD9MX4",
+        "title": "KAKURI Japanese Fabric Scissors for Sewing 8\", Made in JAPAN, Japanese Professional Sewing Shears, Razor Sharp Japanese Steel Balde, Black",
+        "reference_file": "B0BYVD9MX4/reference.jpg",
+        "categorical_name": "sewing scissors",
+        "variation_files": [
+            {
+                "file": "B0BYVD9MX4/variation_1.jpg",
+                "prompt": "A close-up shot of a hand gripping the sewing scissors, actively cutting a piece of light beige fabric. The scissors are positioned diagonally across the frame, with the blades partially open and engaged in the cutting action. The background is a plain white surface, providing a clean, minimal backdrop. The hand is shown from a slightly elevated angle, with natural lighting highlighting the texture of the skin and the fabric. The fabric is placed in the upper left portion of the image, extending diagonally toward the center, while the scissors and hand occupy the lower right. The overall composition emphasizes the functionality and use of the product in a realistic, hands-on context."
+            }
+        ]
+    },
+    {
+        "asin": "B08BG64P8K",
+        "title": "Yinkoe 15 Yards Daisy Sun Flower Decorating Lace Embroidered Trim Ribbon for Sewing and Craft Projects(1 Inch Wide)",
+        "reference_file": "B08BG64P8K/reference.jpg",
+        "categorical_name": "embroidered trim",
+        "variation_files": [
+            {
+                "file": "B08BG64P8K/variation_1.jpg",
+                "prompt": "A long strip of the embroidered trim is laid out diagonally across a textured beige fabric surface, with a portion wrapped around a smooth black cylindrical object. The trim features a repeating pattern of small white daisy-like flowers with yellow centers, arranged in a continuous line along the length of the strip. The fabric background has a natural, woven texture, and the black cylinder provides a contrasting solid surface. The lighting is even and soft, highlighting the raised texture of the embroidery. The composition is flat-lay, viewed from a slightly elevated angle, emphasizing the linear flow and pattern repetition of the trim."
+            }
+        ]
+    },
+    {
+        "asin": "B07RRY7R5F",
+        "title": "New 5D Diamond Painting Kits for Adults Kids, Awesocrafts Animal Penguin Partial Drill DIY Diamond Art Embroidery Paint by Numbers with Diamonds (Penguin)",
+        "reference_file": "B07RRY7R5F/reference.jpg",
+        "categorical_name": "diamond painting kit",
+        "variation_files": [
+            {
+                "file": "B07RRY7R5F/variation_1.jpg",
+                "prompt": "A framed artwork of the diamond painting kit hangs on a light gray textured wall above a wooden console table. The frame is thin and black, and the artwork is centered in the upper portion of the image. Below, the console table features a minimalist arrangement: a tripod-style lamp with a beige fabric shade on the left, a small stack of colorful books in the center, a black vase with white flowers to the right of the books, and a dark geometric wire sphere sculpture on the far right. The lighting is soft and even, creating a calm, cozy interior ambiance with natural tones and subtle shadows. The background wall is plain and unadorned, with no text or graphics."
             }
         ]
     }

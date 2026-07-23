@@ -146,5 +146,57 @@
                 "prompt": "A front-facing view of the game controller resting on a dark textured desk surface, positioned centrally in front of a white mechanical keyboard with subtle blue backlighting. Behind the keyboard, a modern computer monitor with a thick black bezel displays a vibrant abstract background featuring bold geometric shapes in bright cyan, orange, and red tones. The scene is illuminated with soft, even lighting that highlights the controller’s form and creates gentle shadows on the desk. The overall composition is clean and focused, with the controller as the central subject against a layered, colorful tech environment."
             }
         ]
+    },
+    {
+        "asin": "B07HC8PBDB",
+        "title": "eXtremeRate Red Faceplate Cover, Soft Touch Front Housing Shell Case, Comfortable Soft Grip Replacement Kit for Xbox One X S Controller - Controller NOT Included",
+        "reference_file": "B07HC8PBDB/reference.jpg",
+        "categorical_name": "controller faceplate",
+        "variation_files": [
+            {
+                "file": "B07HC8PBDB/variation_1.jpg",
+                "prompt": "A red controller faceplate resting at an angle on a dark, textured surface, illuminated by dramatic side lighting that creates deep shadows and highlights its contours. The background is predominantly black, with a faintly visible, dark sculpted object resembling a fantasy creature or dragon figure in the upper right, partially obscured by shadow. The scene has a moody, cinematic atmosphere with high contrast and focused lighting emphasizing the product’s form."
+            }
+        ]
+    },
+    {
+        "asin": "B09M3P7DCH",
+        "title": "ZADEZ Membrane Gaming Keyboard - G-850K - PC Gaming Keyboard, RGB LED Backlit Keyboard with Multimedia Keys for Windows, Laptop, PC Gamers, Black",
+        "reference_file": "B09M3P7DCH/reference.jpg",
+        "categorical_name": "keyboard",
+        "variation_files": [
+            {
+                "file": "B09M3P7DCH/variation_1.jpg",
+                "prompt": "A top-down angled view of the keyboard placed on a dark, textured surface with a slightly curved, matte black wrist rest positioned behind it. In the background, a large curved monitor displays a fiery, action-packed scene with glowing orange and red flames and sparks, creating a dramatic and intense atmosphere. The keyboard is illuminated with vibrant RGB lighting, casting colorful glows around the keys, while the surrounding environment is dimly lit to emphasize the glow. The overall lighting is moody and cinematic, with strong contrast between the bright keyboard lights and the dark, gritty surface."
+            }
+        ]
+    },
+    {
+        "asin": "B09ZL879X1",
+        "title": "Xbox Elite Controller Series 2 Limited Edition by DreamController. Custom Elite Series 2 Controller Compatible with Xbox One/Series X/S. Made with Advanced Hydro-Dip Paint Technology (Not Just a Skin)",
+        "reference_file": "B09ZL879X1/reference.jpg",
+        "categorical_name": "xbox controller",
+        "variation_files": [
+            {
+                "file": "B09ZL879X1/variation_1.jpg",
+                "prompt": "A close-up product shot of the xbox controller held in a human hand, positioned diagonally with the left grip resting in the palm and fingers wrapped around the left side, showcasing the front face of the controller. The controller is centered in the frame against a plain white background with soft, natural lighting that creates a subtle shadow beneath it. The hand is visible from the wrist up, with natural skin tone and slight hair on the forearm, gripping the controller firmly but relaxed. The overall composition is clean and minimal, emphasizing the controller’s design and ergonomic form."
+            }
+        ]
+    },
+    {
+        "asin": "B0B5LTV9B9",
+        "title": "SIMGAL Wireless Controller Compatible with Nintendo Switch/Switch Lite/Switch OLED, Cute Cat Bluetooth Pro Controller with Turbo, Motion, Vibration, Wake-up, Headphone Jack and Breathing LED Light (Pink)",
+        "reference_file": "B0B5LTV9B9/reference.jpg",
+        "categorical_name": "wireless controller",
+        "variation_files": [
+            {
+                "file": "B0B5LTV9B9/variation_1.jpg",
+                "prompt": "A pair of hands holding the wireless controller from a front-facing perspective, with fingers positioned on the analog sticks and thumbs resting near the buttons. The controller is centered in the frame, held securely and slightly angled toward the viewer. The background is a soft, out-of-focus gradient of light pink and pale peach tones, with a blurred rectangular shape suggesting a screen or monitor in the upper right. The lighting is bright and even, highlighting the controller and hands with a clean, studio-like quality. The hands have neatly manicured nails with a glossy, light-colored polish. The overall composition is clean and focused, emphasizing the controller in use with a gentle, playful aesthetic."
+            },
+            {
+                "file": "B0B5LTV9B9/variation_2.jpg",
+                "prompt": "A hand holding the wireless controller from a slightly low angle, with the thumb pressing one of the top buttons. The controller is positioned diagonally, angled upward toward the top right of the frame. The background is a solid light peach-pink color. Above the controller, in the upper left area, there is a small white oval-shaped graphic containing a stylized image of a handheld gaming console with blue and red side grips and a screen displaying a gradient from red to blue. Two small red lightning bolt shapes appear to the right of the console graphic, suggesting activation or power. The overall lighting is soft and even, with gentle highlights on the hand and controller, giving a clean and modern product demonstration feel."
+            }
+        ]
     }
 ]

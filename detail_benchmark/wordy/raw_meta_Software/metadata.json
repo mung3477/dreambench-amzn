@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "asin": "B01N57WSQ4",
+        "title": "MAGIX Movie Edit Pro 2017 Plus",
+        "reference_file": "B01N57WSQ4/reference.jpg",
+        "categorical_name": "video editing software",
+        "variation_files": [
+            {
+                "file": "B01N57WSQ4/variation_1.jpg",
+                "prompt": "A split-screen layout of a video editing software interface, featuring a large central preview window displaying an underwater scene with a diver in yellow fins swimming above a coral reef, surrounded by small fish. To the right, a media library panel shows a grid of thumbnail images, each depicting various underwater scenes with divers and marine life, arranged in two rows. Below the preview window, a multi-track timeline displays several colored video and audio clips arranged across six tracks, with a purple vertical playhead indicating the current position. The entire interface is set against a dark gray background with subtle UI elements, and the top menu bar includes standard editing options. The overall lighting is neutral and digital, typical of a software application window."
+            }
+        ]
+    }
+]
