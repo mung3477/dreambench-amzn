@@ -10,6 +10,7 @@ logger = logging.getLogger(__name__)
 
 GROUND_TRUTH_DIR = "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark/wordy"
 RATING_BASE_DIR = "/root/Desktop/workspace/woosung/commercial-dreambench/rating/amzn"
+SAMPLES_BASE_DIR = "/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn"
 TARGET_DIRS = [
     "/root/Desktop/workspace/woosung/AMZN-review-2023/detail_benchmark/wordy",
     "/root/Desktop/workspace/woosung/commercial-dreambench/assets/data/amzn",
@@ -67,8 +68,38 @@ def load_ground_truth_metadata():
 
     return gt_categories
 
+def is_valid_result_key(key, gt_categories):
+    """
+    Validates whether a sample evaluation result key (<category>_<ASIN>_variation_<N>)
+    matches ground truth metadata.
+    """
+    matched_cat = None
+    for cat_name in sorted(gt_categories.keys(), key=len, reverse=True):
+        if key.startswith(cat_name + "_"):
+            matched_cat = cat_name
+            break
+
+    if not matched_cat:
+        return False
+
+    rest = key[len(matched_cat) + 1:]
+    match = re.match(r'^(.+)_variation_(.+)$', rest)
+    if not match:
+        return False
+
+    asin = match.group(1)
+    suffix = match.group(2)
+
+    gt_info = gt_categories[matched_cat]
+    if asin not in gt_info['asins']:
+        return False
+
+    allowed_vars = gt_info['variations'].get(asin, set())
+    expected_var_jpg = f"variation_{suffix}.jpg"
+    return expected_var_jpg in allowed_vars
+
 def scan_and_clean(gt_categories, execute=False):
-    """Scans target directories and rating directory, printing or deleting files/directories not in gt_categories"""
+    """Scans target directories, rating directory, and evaluation result files, printing or executing cleanup"""
     total_dirs_deleted = 0
     total_files_deleted = 0
 
@@ -164,6 +195,79 @@ def scan_and_clean(gt_categories, execute=False):
                         if expected_var_jpg not in allowed_vars:
                             files_to_delete.append(file_path)
 
+    # Scan evaluation result JSON files (*_results.json) in samples directory
+    results_files_to_update = {}  # file_path -> list of deprecated keys
+    if os.path.exists(SAMPLES_BASE_DIR):
+        logger.info(f"Scanning evaluation results in: {SAMPLES_BASE_DIR}")
+        for root, dirs, files in os.walk(SAMPLES_BASE_DIR):
+            for filename in files:
+                if filename.endswith('_results.json'):
+                    file_path = os.path.join(root, filename)
+                    try:
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+
+                        deprecated_keys = []
+                        if isinstance(data, dict):
+                            for key in data.keys():
+                                if not is_valid_result_key(key, gt_categories):
+                                    deprecated_keys.append(key)
+
+                        if deprecated_keys:
+                            results_files_to_update[file_path] = deprecated_keys
+                    except Exception as e:
+                        logger.error(f"Error reading evaluation result file {file_path}: {e}")
+
+    # Scan rating summary.json files to update after deletions
+    summaries_to_update = {}  # summary_file -> dict of updated fields
+    if os.path.exists(RATING_BASE_DIR):
+        logger.info(f"Scanning rating summary files in: {RATING_BASE_DIR}")
+        files_to_delete_set = set(files_to_delete)
+        for root, dirs, files in os.walk(RATING_BASE_DIR):
+            if 'summary.json' in files:
+                summary_path = os.path.join(root, 'summary.json')
+                try:
+                    with open(summary_path, 'r', encoding='utf-8') as f:
+                        summary_data = json.load(f)
+
+                    # Collect remaining valid rating json scores under this directory
+                    scores = []
+                    valid_rating_files = []
+                    for r, d, fs in os.walk(root):
+                        for file in fs:
+                            if file != 'summary.json' and file.endswith('.json'):
+                                fpath = os.path.join(r, file)
+                                rating_match = re.match(r'^(.+)_variation_(.+)\.json$', file)
+                                if rating_match and fpath not in files_to_delete_set and os.path.exists(fpath):
+                                    valid_rating_files.append(fpath)
+
+                    valid_rating_files.sort()
+                    for fpath in valid_rating_files:
+                        try:
+                            with open(fpath, 'r', encoding='utf-8') as f:
+                                rf_data = json.load(f)
+                            if 'score' in rf_data:
+                                scores.append(rf_data['score'])
+                        except Exception as e:
+                            logger.error(f"Error reading rating file {fpath}: {e}")
+
+                    new_total = len(scores)
+                    new_mean = sum(scores) / new_total if new_total > 0 else 0.0
+
+                    old_total = summary_data.get('total_pairs_evaluated', 0)
+                    old_mean = summary_data.get('mean_score', 0.0)
+
+                    summaries_to_update[summary_path] = {
+                        'summary_data': summary_data,
+                        'new_scores': scores,
+                        'new_total': new_total,
+                        'new_mean': new_mean,
+                        'old_total': old_total,
+                        'old_mean': old_mean
+                    }
+                except Exception as e:
+                    logger.error(f"Error reading summary file {summary_path}: {e}")
+
     # Print dry-run summary
     print("\n" + "="*80)
     print(f"CLEANUP SUMMARY ({'EXECUTE MODE' if execute else 'DRY-RUN MODE'})")
@@ -183,11 +287,27 @@ def scan_and_clean(gt_categories, execute=False):
     else:
         print("\nNo files scheduled for deletion.")
 
+    if results_files_to_update:
+        total_dep_keys = sum(len(keys) for keys in results_files_to_update.values())
+        print(f"\nEvaluation result files to update ({len(results_files_to_update)} files, {total_dep_keys} deprecated items):")
+        for f, keys in sorted(results_files_to_update.items()):
+            print(f"  [RESULTS] {f} ({len(keys)} deprecated keys to remove)")
+    else:
+        print("\nNo evaluation result files have deprecated keys.")
+
+    if summaries_to_update:
+        print(f"\nRating summary files to sync ({len(summaries_to_update)} files):")
+        for s_path, s_info in sorted(summaries_to_update.items()):
+            print(f"  [SUMMARY] {s_path}: total_pairs ({s_info['old_total']} -> {s_info['new_total']}), mean_score ({s_info['old_mean']:.4f} -> {s_info['new_mean']:.4f})")
+    else:
+        print("\nNo rating summary files to sync.")
+
     print("-"*80)
-    print(f"Total: {len(dirs_to_delete)} directories, {len(files_to_delete)} files to delete.")
+    total_dep_keys = sum(len(keys) for keys in results_files_to_update.values())
+    print(f"Total: {len(dirs_to_delete)} dirs to delete, {len(files_to_delete)} files to delete, {total_dep_keys} evaluation result keys to remove, {len(summaries_to_update)} summaries to sync.")
     print("="*80 + "\n")
 
-    # Execute actual deletions
+    # Execute actual deletions and updates
     if execute:
         # Delete scheduled files
         for f in files_to_delete:
@@ -206,6 +326,39 @@ def scan_and_clean(gt_categories, execute=False):
                     total_dirs_deleted += 1
                 except Exception as e:
                     logger.error(f"Failed to remove directory {d}: {e}")
+
+        # Update evaluation result JSON files
+        total_eval_keys_removed = 0
+        for fpath, dep_keys in results_files_to_update.items():
+            if os.path.exists(fpath):
+                try:
+                    with open(fpath, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                    for k in dep_keys:
+                        data.pop(k, None)
+                    with open(fpath, 'w', encoding='utf-8') as f:
+                        json.dump(data, f, indent=4, ensure_ascii=False)
+                    total_eval_keys_removed += len(dep_keys)
+                    logger.info(f"Removed {len(dep_keys)} deprecated keys from {fpath}")
+                except Exception as e:
+                    logger.error(f"Failed to update evaluation result file {fpath}: {e}")
+
+        # Update rating summary files
+        total_summaries_updated = 0
+        for s_path, s_info in summaries_to_update.items():
+            if os.path.exists(s_path):
+                try:
+                    s_data = s_info['summary_data']
+                    s_data['total_pairs_evaluated'] = s_info['new_total']
+                    s_data['mean_score'] = s_info['new_mean']
+                    s_data['scores'] = s_info['new_scores']
+                    # Latencies and mean_latency_sec are preserved unchanged
+                    with open(s_path, 'w', encoding='utf-8') as f:
+                        json.dump(s_data, f, indent=4, ensure_ascii=False)
+                    total_summaries_updated += 1
+                    logger.info(f"Updated rating summary file {s_path}")
+                except Exception as e:
+                    logger.error(f"Failed to update summary file {s_path}: {e}")
 
         # Clean up empty ASIN/category directories that might be left after file deletions
         for target_base in TARGET_DIRS:
@@ -244,7 +397,7 @@ def scan_and_clean(gt_categories, execute=False):
                     except Exception as e:
                         logger.warning(f"Could not remove empty rating directory {root}: {e}")
 
-        print(f"Successfully deleted {total_dirs_deleted} directories and {total_files_deleted} files.")
+        print(f"Successfully deleted {total_dirs_deleted} directories, {total_files_deleted} files, removed {total_eval_keys_removed} evaluation result keys, and updated {total_summaries_updated} summary files.")
 
     return len(dirs_to_delete), len(files_to_delete)
 
@@ -255,3 +408,4 @@ if __name__ == "__main__":
 
     gt_categories = load_ground_truth_metadata()
     scan_and_clean(gt_categories, execute=args.execute)
+

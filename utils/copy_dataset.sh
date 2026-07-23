@@ -3,22 +3,28 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BASE_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
-BENCHMARK_BASE_DIR="${BASE_DIR}/detail_benchmark"
+
+DEFAULT_SOURCE="${BASE_DIR}/detail_benchmark/wordy"
+DEFAULT_DEST="/root/Desktop/workspace/woosung/commercial-dreambench/samples/amzn/original"
 
 usage() {
     cat <<EOF
-Usage: $(basename "$0") [OPTIONS] <variant> <destination>
+Usage: $(basename "$0") [OPTIONS] [SOURCE_DIR] [DEST_DIR]
 
-Copies a dataset variant from ${BENCHMARK_BASE_DIR}/<variant> to the specified destination.
-Overwrites existing contents if the destination directory already exists.
+Copies/syncs updated dataset from SOURCE_DIR to DEST_DIR, preserving all existing *_results.json eval files.
+
+Defaults:
+  SOURCE_DIR: ${DEFAULT_SOURCE}
+  DEST_DIR:   ${DEFAULT_DEST}
 
 Options:
-  -n, --dry-run    Perform a dry run without copying files.
+  -n, --dry-run    Perform a dry run without modifying any files.
   -h, --help       Show this help message and exit.
 
 Examples:
-  $(basename "$0") v1 /path/to/destination
-  $(basename "$0") --dry-run v1 /path/to/destination
+  $(basename "$0")
+  $(basename "$0") --dry-run
+  $(basename "$0") /path/to/custom_source /path/to/custom_dest
 EOF
     exit 1
 }
@@ -46,15 +52,8 @@ while [[ $# -gt 0 ]]; do
     esac
 done
 
-if [[ ${#POSITIONAL_ARGS[@]} -ne 2 ]]; then
-    echo "Error: Invalid number of arguments." >&2
-    usage
-fi
-
-VARIANT="${POSITIONAL_ARGS[0]}"
-DEST="${POSITIONAL_ARGS[1]}"
-
-SOURCE="${BENCHMARK_BASE_DIR}/${VARIANT}"
+SOURCE="${POSITIONAL_ARGS[0]:-${DEFAULT_SOURCE}}"
+DEST="${POSITIONAL_ARGS[1]:-${DEFAULT_DEST}}"
 
 if [[ ! -d "${SOURCE}" ]]; then
     echo "Error: Source dataset directory does not exist: ${SOURCE}" >&2
@@ -63,13 +62,14 @@ fi
 
 echo "Source:      ${SOURCE}"
 echo "Destination: ${DEST}"
+echo "Exclude:     *_results.json"
 if [[ "${DRY_RUN}" == true ]]; then
     echo "Mode:        DRY RUN (no changes will be made)"
 else
-    echo "Mode:        LIVE (destination contents will be overwritten)"
+    echo "Mode:        LIVE (destination contents will be updated, preserving *_results.json)"
 fi
 
-RSYNC_FLAGS=("-a" "--delete")
+RSYNC_FLAGS=("-a" "--delete" "--exclude=*_results.json")
 
 if [[ "${DRY_RUN}" == true ]]; then
     RSYNC_FLAGS+=("--dry-run" "-v")
